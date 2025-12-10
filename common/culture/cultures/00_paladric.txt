@@ -1,0 +1,83 @@
+﻿caladrojan = {
+	color = { 248 215 55 }
+	created = 1360
+	#parents = {  }
+	
+	ethos = ethos_ceremonious
+	heritage = heritage_paladric
+	language = language_paladric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_gardening
+	}
+	
+	name_list = name_list_castilian
+
+	coa_gfx = { castilian_coa_gfx iberian_group_coa_gfx western_coa_gfx } 
+	building_gfx = { iberian_building_gfx } 
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx  mena_clothing_gfx } 
+	unit_gfx = { iberian_christian_unit_gfx } 	
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+vadorican = {
+	color = { 178 215 55 }
+	created = 1360
+	#parents = {  }
+	
+	ethos = ethos_ceremonious
+	heritage = heritage_paladric
+	language = language_paladric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_gardening
+	}
+	
+	name_list = name_list_italian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		1 = arab
+		9 = mediterranean
+	}
+}
+
+zarai = {
+	color = { 148 215 25 }
+	created = 1360
+	#parents = {  }
+	
+	ethos = ethos_ceremonious
+	heritage = heritage_paladric
+	language = language_paladric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_gardening
+	}
+	
+	name_list = name_list_andalusian
+
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iberian_muslim_unit_gfx }	
+
+	ethnicities = {
+		3 = arab
+		3 = caucasian_blond
+		7 = mediterranean
+	}
+}

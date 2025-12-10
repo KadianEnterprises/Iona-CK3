@@ -1,0 +1,802 @@
+﻿### Chellan Dynasties #######################################
+	1 = { #Goldenbrow
+		name = "dynn_Goldenbrow"
+		culture = "chellan"
+		motto = "dynn_goldenbrow_motto"
+	}
+	dynn_paleheart = {
+		name = "dynn_Paleheart"
+		culture = "chellan"
+		motto = "dynn_paleheart_motto"
+	}
+	dynn_bronzewell = {
+		name = "dynn_Bronzewell"
+		culture = "chellan"
+		motto = "dynn_bronzewell_motto"
+	}
+	dynn_aragos = {
+		name = "dynn_Aragos"
+		culture = "chellan"
+		motto = "dynn_aragos_motto"
+	}
+	dynn_scaledance = {
+		name = "dynn_Scaledance"
+		culture = "chellan"
+		motto = "dynn_scaledance_motto"
+	}
+	dynn_clearstream = {
+		name = "dynn_Clearstream"
+		culture = "chellan"
+		motto = "dynn_clearstream_motto"
+	}
+	dynn_sagescribe = {
+		name = "dynn_Sagescribe"
+		culture = "chellan"
+		motto = "dynn_sagescribe_motto"
+	}
+	dynn_fairflower = {
+		name = "dynn_Fairflower"
+		culture = "chellan"
+		motto = "dynn_fairflower_motto"
+	}
+	dynn_penwater = {
+		name = "dynn_Penwater"
+		culture = "chellan"
+		motto = "dynn_penwater_motto"
+	}
+	dynn_meron = {
+		name = "dynn_Meron"
+		culture = "chellan"
+		motto = "dynn_meron_motto"
+	}
+	dynn_whitemarble = {
+		name = "dynn_Whitemarble"
+		culture = "chellan"
+		motto = "dynn_whitemarble_motto"
+	}
+	dynn_pyrestar = {
+		name = "dynn_Pyrestar"
+		culture = "chellan"
+		motto = "dynn_pyrestar_motto"
+	}
+	dynn_syniste = {
+		name = "dynn_Syniste"
+		culture = "chellan"
+		motto = "dynn_syniste_motto"
+	}
+	dynn_oroth = {
+		name = "dynn_Oroth"
+		culture = "chellan"
+		motto = "dynn_oroth_motto"
+	}
+	dynn_nabresh = {
+		name = "dynn_Nabresh"
+		culture = "chellan"
+		motto = "dynn_nabresh_motto"
+	}
+	dynn_talis = {
+		name = "dynn_Talis"
+		culture = "chellan"
+		motto = "dynn_talis_motto"
+	}
+	dynn_avarist = {
+		name = "dynn_Avarist"
+		culture = "chellan"
+		motto = "dynn_avarist_motto"
+	}
+	dynn_sunwater = {
+		name = "dynn_Sunwater"
+		culture = "chellan"
+		motto = "dynn_sunwater_motto"
+	}
+	dynn_swanwhite = {
+		name = "dynn_Swanwhite"
+		culture = "chellan"
+		motto = "dynn_swanwhite_motto"
+	}
+	dynn_ashwind = {
+		name = "dynn_Ashwind"
+		culture = "chellan"
+		motto = "dynn_Ashwind_motto"
+	}
+	dynn_haventhorn = {
+		name = "dynn_Haventhorn"
+		culture = "chellan"
+		motto = "dynn_haventhorn_motto"
+	}
+	dynn_skycliff = {
+		name = "dynn_Skycliff"
+		culture = "chellan"
+		motto = "dynn_skycliff_motto"
+	}
+	dynn_vardis = {
+		name = "dynn_Vardis"
+		culture = "chellan"
+		motto = "dynn_vardis_motto"
+	}
+	dynn_jedyran = {
+		name = "dynn_Jedyran"
+		culture = "chellan"
+		motto = "dynn_jedyran_motto"
+	}
+	dynn_cedrin = {
+		name = "dynn_Cedrin"
+		culture = "chellan"
+		motto = "dynn_cedrin_motto"
+	}
+	dynn_downrain = {
+		name = "dynn_Downrain"
+		culture = "chellan"
+		motto = "dynn_downrain_motto"
+	}
+	dynn_jasel = {
+		name = "dynn_Jasel"
+		culture = "chellan"
+		motto = "dynn_jasel_motto"
+	}
+	dynn_voren = {
+		name = "dynn_Voren"
+		culture = "chellan"
+		motto = "dynn_voren_motto"
+	}
+	dynn_gloryhall = {
+		name = "dynn_Gloryhall"
+		culture = "chellan"
+		motto = "dynn_gloryhall_motto"
+	}
+#
+### Ilfaniene Dynasties #####################################
+		5 = { #Lavosan
+			name = "dynn_Lavosan"
+			culture = "ilfaniene"
+			motto = "dynn_lavosan_motto"
+		}
+		dynn_corvus = {
+			name = "dynn_Corvus"
+			culture = "ilfaniene"
+			motto = "dynn_corvus_motto"
+		}
+		dynn_dusk = {
+			name = "dynn_Dusk"
+			culture = "ilfaniene"
+			motto = "dynn_dusk_motto"
+		}
+		dynn_fernbreak = {
+			name = "dynn_Fernbreak"
+			culture = "ilfaniene"
+			motto = "dynn_fernbreak_motto"
+		}
+		dynn_arctros = {
+			name = "dynn_Arctros"
+			culture = "ilfaniene"
+			motto = "dynn_arctros_motto"
+		}
+		dynn_lakaris = {
+			name = "dynn_Lakaris"
+			culture = "ilfaine"
+			motto = "dynn_lakaris_motto"
+		}
+	## Caspiril Dynasties ##
+		dynn_marais = {
+			name = "dynn_Marais"
+			culture = "ilfaniene"
+			motto = "dynn_marais_motto"
+		}
+		dynn_perilance = {
+			name = "dynn_Perilance"
+			culture = "ilfaniene"
+			motto = "dynn_perilance_motto"
+		}
+		dynn_telastra = {
+			name = "dynn_Telastra"
+			culture = "ilfaniene"
+			motto = "dynn_telastra_motto"
+		}
+		dynn_indres = {
+			name = "dynn_Indres"
+			culture = "ilfaniene"
+			motto = "dynn_indres_motto"
+		}
+		dynn_barranier = {
+			name = "dynn_Barranier"
+			culture = "ilfaniene"
+			motto = "dynn_barranier_motto"
+		}
+		dynn_utone = {
+			name = "dynn_Utone"
+			culture = "ilfaniene"
+			motto = "dynn_utone_motto"
+		}
+		dynn_aralor = {
+			name = "dynn_Aralor"
+			culture = "ilfaniene"
+			motto = "dynn_aralor_motto"
+		}
+		dynn_guerou = {
+			name = "dynn_Guerou"
+			culture = "ilfaniene"
+			motto = "dynn_guerou_motto"
+		}
+		dynn_rheyal = {
+			name = "dynn_Rheyal"
+			culture = "ilfaniene"
+			motto = "dynn_rheyal_motto"
+		}
+		dynn_seine = {
+			name = "dynn_Seine"
+			culture = "ilfaniene"
+			motto = "dynn_seine_motto"
+		}
+		dynn_illum = {
+			name = "dynn_Illum"
+			culture = "ilfaniene"
+			motto = "dynn_illum_motto"
+		}
+		dynn_corafae = {
+			name = "dynn_Corafae"
+			culture = "ilfaniene"
+			motto = "dynn_corafae_motto"
+		}
+		dynn_felitess = {
+			name = "dynn_Felitess"
+			culture = "ilfaniene"
+			motto = "dynn_felitess_motto"
+		}
+	## Tallendria Dynasties ##
+		dynn_cazelan = {
+			name = "dynn_Cazelan"
+			culture = "ilfaniene"
+			motto = "dynn_cazelan_motto"
+		}
+		dynn_merovan = {
+			name = "dynn_Merovan"
+			culture = "ilfaniene"
+			motto = "dynn_merovan_motto"
+		}
+		dynn_seleno = {
+			name = "dynn_Seleno"
+			culture = "ilfaniene"
+			motto = "dynn_seleno_motto"
+		}
+		dynn_delon = {
+			name = "dynn_Delon"
+			culture = "ilfaniene"
+			motto = "dynn_delon_motto"
+		}
+		dynn_roanne = {
+			name = "dynn_Roanne"
+			culture = "ilfaniene"
+			motto = "dynn_roanne_motto"
+		}
+	## Aquirvan Dynasties ##
+		Aquirvan_1 = { #Olorid
+			name = "dynn_Olorid"
+			culture = "ilfaniene"
+			motto = "dynn_olorid_motto"
+		}
+		dynn_velus = { #Velus
+			name = "dynn_Velus"
+			culture = "aquirvii"
+			motto = "dynn_Velus_motto"
+		}
+		dynn_tressour = { #Tressour
+			name = "dynn_Tressour"
+			culture = "aquirvii"
+			motto = "dynn_tressour_motto"
+		}
+		dynn_sunhawk = {
+			name = "dynn_Sunhawk"
+			culture = "aquirvii"
+			motto = "dynn_sunhawk_motto"
+		}
+		Aquirvan_4 = { #Brocard
+			name = "dynn_Brocard"
+			culture = "aquirvii"
+			motto = "dynn_brocard_motto"
+		}
+		dynn_kinsiran = {
+			name = "dynn_Kinsiran"
+			culture = "aquirvii"
+			motto = "dynn_kinsiran_motto"
+		}
+		dynn_courmont = {
+			name = "dynn_Courmont"
+			culture = "aquirvii"
+			motto = "dynn_Courmont_motto"
+		}
+		dynn_trinita = {
+			name = "dynn_Trinita"
+			culture = "aquirvii"
+			motto = "dynn_trinita_motto"
+		}
+		dynn_vulferge = {
+			name = "dynn_Vulferge"
+			culture = "aquirvii"
+			motto = "dynn_vulferge_motto"
+		}
+		dynn_ashleaf = {
+			name = "dynn_Ashleaf"
+			culture = "aquirvii"
+			motto = "dynn_Ashleaf_motto"
+		}
+		dynn_castalnier = {
+			name = "dynn_Castalnier"
+			culture = "aquirvii"
+			motto = "dynn_castalnier_motto"
+		}
+		dynn_grifon = {
+			name = "dynn_Grifon"
+			culture = "aquirvii"
+			motto = "dynn_griffon_motto"
+		}
+		dynn_carrelis = {
+			name = "dynn_Carrelis"
+			culture = "aquirvii"
+			motto = "dynn_carrelis_motto"
+		}
+		dynn_veranne = {
+			name = "dynn_Veranne"
+			culture = "aquirvii"
+			motto = "dynn_veranne_motto"
+		}
+		dynn_maredan = {
+			name = "dynn_Maredan"
+			culture = "aquirvii"
+			motto = "dynn_maredan_motto"
+		}
+		dynn_raulon = {
+			name = "dynn_Raulon"
+			culture = "aquirvii"
+			motto = "dynn_raulon_motto"
+		}
+		dynn_dero = {
+			name = "dynn_Dero"
+			culture = "aquirvii"
+			motto = "dynn_dero_motto"
+		}
+		dynn_bruent = {
+			name = "dynn_Bruent"
+			culture = "aquirvii"
+			motto = "dynn_bruent_motto"
+		}
+#
+### Minaein Dynasties #######################################
+	dynn_icarius = {
+		name = "dynn_Icarius"
+		culture = "kalidorian"
+		motto = "dynn_icarius_motto"
+	}
+	dynn_enochys = {
+		name = "dynn_Enochys"
+		culture = "kalidorian"
+		motto = "dynn_enochys_motto"
+	}
+	dynn_oculus = {
+		name = "dynn_Oculus"
+		culture = "kalidorian"
+		motto = "dynn_oculus_motto"
+	}
+	dynn_hyperkon = {
+		name = "dynn_Hyperkon"
+		culture = "kalidorian"
+		motto = "dynn_hyperkon_motto"
+	}
+	dynn_sondremo = {
+		name = "dynn_Sondremo"
+		culture = "kalidorian"
+		motto = "dynn_sondremo_motto"
+	}
+	dynn_vaesso = {
+		name = "dynn_Vaesso"
+		culture = "kalidorian"
+		motto = "dynn_vaesso_motto"
+	}
+	dynn_phyloderon = {
+		name = "dynn_Phyloderon"
+		culture = "kalidorian"
+		motto = "dynn_phyloderon_motto"
+	}
+	dynn_harimore = {
+		name = "dynn_Harimore"
+		culture = "kalidorian"
+		motto = "dynn_harimore_motto"
+	}
+	dynn_thalokis = {
+		name = "dynn_Thalokis"
+		culture = "kalidorian"
+		motto = "dynn_thalokis_motto"
+	}
+	dynn_nerakos = {
+		name = "dynn_Nerakos"
+		culture = "azurean"
+		motto = "dynn_nerakos_motto"
+	}
+	dynn_azural = {
+		name = "dynn_Azural"
+		culture = "azurean"
+		motto = "dynn_azural_motto"
+	}
+	dynn_vikos = {
+		name = "dynn_Vikos"
+		culture = "kalidorian"
+		motto = "dynn_vikos_motto"
+	}
+	dynn_malderus = {
+		name = "dynn_Malderus"
+		culture = "kalidorian"
+		motto = "dynn_malderus_motto"
+	}
+	dynn_jadiros = {
+		name = "dynn_Jadiros"
+		culture = "kalidorian"
+		motto = "dynn_jadiros_motto"
+	}
+	dynn_eribos = {
+		name = "dynn_Eribos"
+		culture = "azurean"
+		motto = "dynn_eribos_motto"
+	}
+	dynn_geminid = {
+		name = "dynn_Geminid"
+		culture = "kalidorian"
+		motto = "dynn_geminid_motto"
+	}
+	dynn_kyras = {
+		name = "dynn_Kyras"
+		culture = "kalidorian"
+		motto = "dynn_kyras_motto"
+	}
+	dynn_photys = {
+		name = "dynn_Photys"
+		culture = "kalidorian"
+		motto = "dynn_photys_motto"
+	}
+	dynn_laneus = {
+		name = "dynn_Laneus"
+		culture = "kalidorian"
+		motto = "dynn_laneus_motto"
+	}
+	dynn_istrano = {
+		name = "dynn_Istrano"
+		culture = "deledani"
+		motto = "dynn_istrano_motto"
+	}
+#
+### Shadari Dynasties #######################################
+	dynn_mejati = {
+		name = "dynn_Mejati"
+		culture = "shadarim"
+		motto = "dynn_mejati_motto"
+	}
+	dynn_zafrel = {
+		name = "dynn_Zafrel"
+		culture = "shadarim"
+		motto = "dynn_zafrel_motto"
+	}
+	dynn_takan = {
+		name = "dynn_Takan"
+		culture = "shadarim"
+		motto = "dynn_takan_motto"
+	}
+	dynn_adetzi = {
+		name = "dynn_Adetzi"
+		culture = "shadarim"
+		motto = "dynn_adetzi_motto"
+	}
+	dynn_umeryd = {
+		name = "dynn_Umeryd"
+		culture = "dhalanim"
+		motto = "dynn_umeryd_motto"
+	}
+	dynn_caraj = {
+		name = "dynn_Caraj"
+		culture = "hill_shadari"
+		motto = "dynn_caraj_motto"
+	}
+	dynn_runebone = {
+		name = "dynn_Runebone"
+		culture = "vandalin"
+		motto = "dynn_runebone_motto"
+	}
+	dynn_zotish = {
+		name = "dynn_Zotish"
+		culture = "batalnim"
+		motto = "dynn_zotish_motto"
+	}
+	3 = { #bloodstone
+		name = "dynn_Bloodstone"
+		culture = "vandalin"
+		motto = "dynn_bloodstone_motto"
+	}
+	4 = { #Saltblood
+		name = "dynn_Saltblood"
+		culture = "vandalin"
+		motto = "dynn_saltblood_motto"
+	}
+	dynn_sarenke = {
+		name = "dynn_Sarenke"
+		culture = "batalnim"
+		motto = "dynn_sarenke_motto"
+	}
+#
+### Paladric Dynasties ######################################
+	## Caladrojan
+		dynn_alorum = {
+			name = "dynn_Alorum"
+			culture = "caladrojan"
+			motto = "dynn_alorum_motto"
+		}
+		dynn_tremaria = {
+			name = "dynn_Tremaria"
+			culture = "caladrojan"
+			motto = "dynn_tremaria_motto"
+		}
+		dynn_caladran = {
+			name = "dynn_Caladri"
+			culture = "caladrojan"
+			motto = "dynn_caladri_motto"
+		}
+		dynn_trollsfen = {
+			name = "dynn_Trollsfen"
+			culture = "caladrojan"
+			motto = "dynn_trollsfen_motto"
+		}
+	# Zarai
+	dynn_cadial = {
+		name = "dynn_Cadial"
+		culture = "zarai"
+		motto = "dynn_cadial_motto"
+	}
+	# Vadorican
+	dynn_de_vadorica = {
+		name = "dynn_de_Vadorica"
+		culture = "vadorican"
+		motto = "dynn_vadorica_motto"
+	}
+	dynn_morana = {
+		name = "dynn_Morana"
+		culture = "vadorican"
+		motto = "dynn_morana_motto"
+	}
+	dynn_ezensar = {
+		name = "dynn_Ezensar"
+		culture = "vadorican"
+		motto = "dynn_ezensar_motto"
+	}
+#
+### Tessarwyn Dynasties #####################################
+		dynn_horsebane = {
+			name = "dynn_Horsebane"
+			culture = "tessarwyn"
+			motto = "dynn_horsebane_motto"
+		}
+		dynn_dreamshadow = {
+			name = "dynn_Dreamshadow"
+			culture = "tessarwyn"
+			motto = "dynn_dreamshadow_motto"
+		}
+		dynn_wulfstone = {
+			name = "dynn_Wulfstone"
+			culture = "tessarwyn"
+			motto = "dynn_wulfstone_motto"
+		}
+		dynn_stormrider = {
+			name = "dynn_Stormrider"
+			culture = "tessarwyn"
+			motto = "dynn_stormrider_motto"
+		}
+		dynn_hardspring = {
+			name = "dynn_Hardspring"
+			culture = "tessarwyn"
+			motto = "dynn_hardspring_motto"
+		}
+		dynn_falhyrst = {
+			name = "dynn_Falhyrst"
+			culture = "tessarwyn"
+			motto = "dynn_falhyrst_motto"
+		}
+		dynn_ingwyd = {
+			name = "dynn_Ingwyd"
+			culture = "tessarwyn"
+			motto = "dynn_ingwyd_motto"
+		}
+		dynn_wulfryn = {
+			name = "dynn_Wulfryn"
+			culture = "tessarwyn"
+			motto = "dynn_wulfryn_motto"
+		}
+		dynn_galeban = {
+			name = "dynn_Galeban"
+			culture = "tessarwyn"
+			motto = "dynn_galeban_motto"
+		}
+		dynn_fairhowe = {
+			name = "dynn_Fairhowe"
+			culture = "tessarwyn"
+			motto = "dynn_fairhowe_motto"
+		}
+		dynn_silversun = {
+			name = "dynn_Silversun"
+			culture = "tessarwyn"
+			motto = "dynn_silversun_motto"
+		}
+		dynn_Wyvernpike = {
+			name = "dynn_Wyvernpike"
+			culture = "tessarwyn"
+			motto = "dynn_Wyvernpike_motto"
+		}
+		dynn_boughhold = {
+			name = "dynn_Boughhold"
+			culture = "tessarwyn"
+			motto = "dynn_boughhold_motto"
+		}
+		dynn_dyresun = {
+			name = "dynn_Dyresun"
+			culture = "tessarwyn"
+			motto = "dynn_dyresun_motto"
+		}
+		dynn_synhall = {
+			name = "dynn_Synhall"
+			culture = "tessarwyn"
+			motto = "dynn_boughhold_motto"
+		}
+		dynn_cjeldam = {
+			name = "dynn_Cjeldam"
+			culture = "tessarwyn"
+			motto = "dynn_cjeldam_motto"
+		}
+		dynn_coldmane = {
+			name = "dynn_Coldmane"
+			culture = "tessarwyn"
+			motto = "dynn_coldmane_motto"
+		}
+		dynn_caedmon = {
+			name = "dynn_Caedmon"
+			culture = "tessarwyn"
+			motto = "dynn_caedmon_motto"
+		}
+#
+### Eralean Dynasties #######################################
+	#Eralean
+
+	#Felasin
+		dynn_tejaren = {
+			name = "dynn_Tejaren"
+			culture = "felasin"
+			motto = "dynn_tejaren_motto"
+		}
+		dynn_zirital = {
+			name = "dynn_Zirital"
+			culture = "felasin"
+			motto = "dynn_Zirital_motto"
+		}
+	#Eradreash
+		dynn_xerincet = {
+			name = "dynn_Xerincet"
+			culture = "eradreash"
+			motto = "dynn_xerincet_motto"
+		}
+		dynn_monosal = {
+			name = "dynn_Monosal"
+			culture = "eradreash"
+			motto = "dynn_monosal_motto"
+		}
+		dynn_diracal = {
+			name = "dynn_Diracal"
+			culture = "eradreash"
+			motto = "dynn_diracal_motto"
+		}
+	#Oncasan
+	#Cirrlean
+		dynn_cerindal = {
+			name = "dynn_Cerindal"
+			culture = "cirrlean"
+			motto = "dynn_cerindal_motto"
+		}
+		dynn_ys_garos = {
+			name = "dynn_Ys_Garos"
+			culture = "adwyr_gallan"
+			motto = "dynn_ys_garos_motto"
+		}
+		dynn_barrodias = {
+			name = "dynn_Barrodias"
+			culture = "cirrlean"
+			motto = "dynn_barrowdias_motto"
+		}
+#
+### Solaarin Dynasties ######################################
+	dynn_sol = {
+		name = "dynn_Sol"
+		culture = "solaarin"
+		motto = "dynn_sol_motto"
+	}
+	dynn_halios = {
+		name = "dynn_Halios"
+		culture = "solaarin"
+		motto = "dynn_halios_motto"
+	}
+	dynn_astra = {
+		name = "dynn_Astra"
+		culture = "solaarin"
+		motto = "dynn_astra_motto"
+	}
+#
+### Havinan Dynasties #######################################
+	dynn_joysong = {
+		name = "dynn_Joysong"
+		culture = "havinan"
+		motto = "dynn_joysong_motto"
+	}
+	dynn_coppercrown = {
+		name = "dynn_Coppercrown"
+		culture = "merathan"
+		motto = "dynn_coppercrown_motto"
+	}
+	dynn_telasaron = {
+		name = "dynn_Telasaron"
+		culture = "merathan"
+		motto = "dynn_telasaron_motto"
+	}
+	dynn_blacktree = {
+		name = "dynn_Blacktree"
+		culture = "merathan"
+		motto = "dynn_blacktree_motto"
+	}
+	dynn_fallthorn = {
+		name = "dynn_Fallthorn"
+		culture = "merathan"
+		motto = "dynn_fallthorn_motto"
+	}
+#
+### Kel Atil Dynasties ######################################
+	2 = { #Ravenridge
+		name = "dynn_Ravenridge"
+		culture = "kel_atil"
+		motto = "dynn_ravenridge_motto"
+	}
+#
+### Adwyr Dynasties #########################################
+	dynn_syntralyr = {
+		name = "dynn_Syntralyr"
+		culture = "adwyr_gallan"
+		motto = "dynn_Syntralyr_motto"
+	}
+	dynn_ostiral = {
+		name = "dynn_Ostiral"
+		culture = "adwyr_gallan"
+		motto = "dynn_osterial_motto"
+	}
+	dynn_versylan = {
+		name = "dynn_Versylan"
+		culture = "adwyr_gallan"
+		motto = "dynn_versylan_motto"
+	}
+#
+### Gallan Dynasties ########################################
+	dynn_ryel = {
+		name = "dynn_Ryel"
+		culture = "gallan"
+		motto = "dynn_ryel_motto"
+	}
+	dynn_feyn = {
+		name = "dynn_ie_Feyn"
+		culture = "gallan"
+		motto = "dynn_feyn_motto"
+	}
+	dynn_sare = {
+		name = "dynn_Sare"
+		culture = "gallan"
+		motto = "dynn_sare_motto"
+	}
+	dynn_rydwen = {
+		name = "dynn_Rydwen"
+		culture = "gallan"
+		motto = "dynn_rydwen_motto"
+	}
+#
+###
+# Keeping Prydain to dodge a stubborn error.
+1029001 = {
+	name = "dynn_Prydain"
+	culture = "welsh"
+}

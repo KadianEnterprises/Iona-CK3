@@ -1,0 +1,32 @@
+﻿name_list_chellan = {
+
+	cadet_dynasty_names = {
+		dynn_Wavebreath
+		dynn_Barestrick
+		dynn_Lonebond
+	}
+
+	dynasty_names = {
+		dynn_Silvercrest
+		dynn_Goldenhill
+		dynn_Myall
+		dynn_Aspenleaf
+		dynn_Heatherstone
+		dynn_Peacespear
+		dynn_Brightshore
+		dynn_Crownbond
+	}
+
+	male_names = {
+		Adrian Alexander Edmund  Regis Davion Raulyn Sarden Evardus Rhydan Azorius Asmar Amryn Amoryn Ameryn Jarin Tybalt Brenigan Rollan Tiberius Idaret Perseus Mytayr Ambrys
+	}
+
+	female_names = {
+		Alyss Ada Adalysia Marion Rhiannon Rheyna Mirielis Epyra Jada Jadana Tethira Mariana Mara Relana Falia Variana
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_mal"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+}

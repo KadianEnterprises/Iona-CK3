@@ -1,0 +1,183 @@
+﻿ilfaniene = {
+	color = { 26 194 143 }
+	#created = 
+	#parents = {}
+
+	ethos = ethos_communal
+	heritage = heritage_ilfaniene
+	language = language_ilfaniene
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_folk
+		tradition_runestones
+		tradition_loyal_soldiers
+	}
+
+	name_list = name_list_ilfaniene
+
+	coa_gfx = { western_coa_gfx frankish_group_coa_gfx }
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+ilfaine = {
+	color = { 26 164 149 }
+	created = 1670
+	parents = { ilfaniene }
+
+	ethos = ethos_communal
+	heritage = heritage_ilfaniene
+	language = language_ilfaniene
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_fp1_performative_honour
+		tradition_warriors_by_merit
+		tradition_equal_inheritance
+	}
+
+	name_list = name_list_ilfaniene
+
+	coa_gfx = { western_coa_gfx frankish_group_coa_gfx }
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+itergiene = {
+	color = { 106 134 23 }
+	created = 1690
+	parents = { ilfaniene }
+
+	ethos = ethos_communal
+	heritage = heritage_ilfaniene
+	language = language_ilfaniene
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_ilfaniene
+
+	coa_gfx = { western_coa_gfx frankish_group_coa_gfx }
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+vyargale = {
+	color = { 101 24 193 }
+	created = 1500.1.1
+	parents = { ilfaniene chellan }
+
+	ethos = ethos_communal
+	heritage = heritage_ilfaniene
+	language = language_ilfaniene
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fp1_coastal_warriors
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+	}
+
+	name_list = name_list_vyargale
+
+	coa_gfx = { western_coa_gfx frankish_group_coa_gfx }
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+aquirvii = {
+	color = { 41 154 43 }
+	created = 1600.1.1
+	parents = { ilfaniene }
+
+	ethos = ethos_communal
+	heritage = heritage_ilfaniene
+	language = language_ilfaniene
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_aquirvii
+
+	coa_gfx = { western_coa_gfx frankish_group_coa_gfx }
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+duskman = {
+	color = { 101 24 153 }
+	created = 1670.1.1
+	parents = { ilfaniene }
+
+	ethos = ethos_communal
+	heritage = heritage_ilfaniene
+	language = language_ilfaniene
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_isolationist
+	}
+
+	name_list = name_list_duskman
+
+	coa_gfx = { western_coa_gfx frankish_group_coa_gfx }
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}

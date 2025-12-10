@@ -1,0 +1,141 @@
+﻿### House Goldenbrow
+	house_Goldenbrow = {
+		name = "dynn_Goldenbrow"
+		dynasty = 1 #Goldenbrow
+	}
+
+	house_Goldenbrow_Tressour = {
+		name = "dynn_Goldenbrow_Tressour"
+		dynasty = 1
+	}
+
+	house_Atara = {
+		name = "dynn_Atara"
+		dynasty = 1
+	}
+	house_Starfall = {
+		name = "dynn_Starfall"
+		dynasty = 1
+	}
+#
+### House Brocard
+	house_Brocard = {
+		name = "dynn_Brocard"
+		dynasty = Aquirvan_4
+	}
+	house_Whiterose = {
+		name = "dynn_Whiterose"
+		dynasty = Aquirvan_4
+	}
+	house_Thornblood = {
+		name = "dynn_Thornblood"
+		dynasty = Aquirvan_4
+	}
+#
+### House Lakaris
+	house_Lakaris = {
+		name = "dynn_Lakaris"
+		dynasty = dynn_lakaris
+	}
+	house_Atranoux = {
+		name = "dynn_Atranoux"
+		dynasty = dynn_lakaris
+	}
+#
+### House Pyrestar
+	house_Pyrestar = {
+		name = "dynn_Pyrestar"
+		dynasty = dynn_pyrestar
+	}
+	house_Coldstar = {
+		name = "dynn_Coldstar"
+		dynasty = dynn_pyrestar
+	}
+#
+### House Marais
+	house_Marais = {
+		name = "dynn_Marais"
+		dynasty = dynn_marais
+	}
+	house_Telmarais = {
+		name = "dynn_Telmarais"
+		dynasty = dynn_marais
+	}
+#
+### House Trollsfen
+	house_Trollsfen = {
+		name = "dynn_Trollsfen"
+		dynasty = dynn_trollsfen
+	}
+	house_Redfeather = {
+		name = "dynn_Redfeather"
+		dynasty = dynn_trollsfen
+	}
+	house_d_blanc = {
+		name = "dynn_d_Blanc"
+		dynasty = dynn_trollsfen
+	}
+#
+### House Horsebane
+	house_Horsebane = {
+		name = "dynn_Horsebane"
+		dynasty = dynn_horsebane
+	}
+	house_Coldmourn = {
+		name = "dynn_Coldmourn"
+		dynasty = dynn_horsebane
+	}
+#
+### House Wulfstone
+	house_Wulfstone = {
+		name = "dynn_Wulfstone"
+		dynasty = dynn_wulfstone
+	}
+	house_Wulfspear = {
+		name = "dynn_Wulfspear"
+		dynasty = dynn_wulfstone
+	}
+#
+### House Falhyrst
+	house_Falhyrst = {
+		name = "dynn_Falhyrst"
+		dynasty = dynn_falhyrst
+	}
+	house_Redwind = {
+		name = "dynn_Redwind"
+		dynasty = dynn_falhyrst
+	}
+#
+### House Silversun
+	house_Silversun = {
+		name = "dynn_Silversun"
+		dynasty = dynn_silversun
+	}
+	house_Whitehawk = {
+		name = "dynn_Whitehawk"
+		dynasty = dynn_silversun
+	}
+#
+### House Cedrin
+	house_Cedrin = {
+		name = "dynn_Cedrin"
+		dynasty = dynn_cedrin
+	}
+	house_Ghostwill = {
+		name = "dynn_Ghostwill"
+		dynasty = dynn_cedrin
+	}
+#
+### House Ryel
+	house_Ryel = {
+		name = "dynn_Ryel"
+		dynasty = dynn_ryel
+	}
+	house_Flameseeker = {
+		name = "dynn_Flameseeker"
+		dynasty = dynn_ryel
+	}
+	house_Brimonnel = {
+		name = "dynn_Brimonnel"
+		dynasty = dynn_ryel
+	}

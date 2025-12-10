@@ -1,0 +1,233 @@
+﻿language_chellan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_chellan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_chellan }
+			multiply = 10
+		}
+	}
+	
+	color = { 6 64 193 }
+}
+
+language_minaein = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_minaein
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_minaein }
+			multiply = 10
+		}
+	}
+	
+	color = { 40 222 222 }
+}
+
+language_lytamyran = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lytamyran
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lytamyran }
+			multiply = 10
+		}
+	}
+	
+	color = { 40 22 122 }
+}
+
+language_azurean = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_azurean
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_azurean }
+			multiply = 10
+		}
+	}
+	
+	color = { 34 202 253 }
+}
+
+language_deledani = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_deledani
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_deledani }
+			multiply = 10
+		}
+	}
+	
+	color = { 4 253 193 }
+}
+
+language_kalidorian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_kalidorian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_kalidorian }
+			multiply = 10
+		}
+	}
+	
+	color = { 206 129 93 }
+}
+
+language_vandalin = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_vandalin
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_vandalin }
+			multiply = 10
+		}
+	}
+	
+	color = { 248 115 25 }
+}
+
+language_shadari = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shadari
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shadari }
+			multiply = 10
+		}
+	}
+	
+	color = { 248 115 25 }
+}
+
+language_paladric = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_paladric
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_paladric }
+			multiply = 10
+		}
+	}
+	
+	color = { 248 215 55 }
+}
+
+language_tessarwyn = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_tessarwyn
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_tessarwyn }
+			multiply = 10
+		}
+	}
+	
+	color = { 107 155 22 }
+}
+
+language_havinan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_havinan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_havinan }
+			multiply = 10
+		}
+	}
+	
+	color = { 107 155 22 }
+}
+
+language_eralean = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_eralean
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_eralean }
+			multiply = 10
+		}
+	}
+	
+	color = { 6 64 193 }
+}
+
+language_solaar = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_solaar
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_solaar }
+			multiply = 10
+		}
+	}
+	
+	color = { 6 64 193 }
+}

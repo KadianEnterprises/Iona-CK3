@@ -1,0 +1,80 @@
+lytamyran = {
+	color = { 206 129 93 }
+	created = 1400.1.1
+	#parents = { }
+
+	ethos = ethos_bureaucratic
+	heritage = heritage_lytamyran
+	language = language_lytamyran
+	martial_custom = martial_custom_female_only
+	traditions = {
+		tradition_legalistic
+		tradition_maritime_mercantilism
+		tradition_fishermen
+	}
+	
+	name_list = name_list_greek
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+kyrithan = {
+	color = { 206 129 93 }
+	created = 1600.1.1
+	parents = { selenic lytamyran }
+
+	ethos = ethos_bureaucratic
+	heritage = heritage_lytamyran
+	language = language_lytamyran
+	martial_custom = martial_custom_female_only
+	traditions = {
+		tradition_legalistic
+		tradition_maritime_mercantilism
+		tradition_fishermen
+	}
+	
+	name_list = name_list_greek
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+crystavryn = {
+	color = { 206 129 93 }
+	created = 2600.1.1
+	parents = { kyrithan }
+
+	ethos = ethos_bureaucratic
+	heritage = heritage_lytamyran
+	language = language_lytamyran
+	martial_custom = martial_custom_female_only
+	traditions = {
+		tradition_legalistic
+		tradition_maritime_mercantilism
+		tradition_fishermen
+	}
+	
+	name_list = name_list_greek
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}

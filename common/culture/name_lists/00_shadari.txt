@@ -1,0 +1,28 @@
+﻿name_list_vandalin = {
+
+	cadet_dynasty_names = {
+		dynn_Bloodsand
+	}
+
+	dynasty_names = {
+		dynn_Bloodsand
+		dynn_Thronemeat
+		dynn_Skull
+		dynn_Badblood
+		dynn_Halfsea
+	}
+
+	male_names = {
+		Gore Tochtan Osua Imal Tam Ralk Nashin Sichar Horum Nemal Egahari Kal Rurn Gonn Jabar Zeltric Thon Thetaror Tahirin
+	}
+
+	female_names = {
+		Catuta Enet Nethys Matyria Merxen Marzet Zerinine Vea Tahira Kana 
+	}
+	dynasty_of_location_prefix = "dynnp_mn"
+	bastard_dynasty_prefix = "dynnp_bar"
+	
+	patronym_prefix_male = "dynnpat_pre_ibn"
+	patronym_prefix_female = "dynnpat_pre_bint"
+	
+}

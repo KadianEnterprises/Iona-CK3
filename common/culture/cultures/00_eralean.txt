@@ -1,0 +1,174 @@
+eralean = {
+	color = { 118 145 65 }
+	created = 900.1.1
+	#parents = {}
+	
+	ethos = ethos_spiritual
+	heritage = heritage_eralean
+	language = language_eralean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_garden_architects
+	}
+	
+	name_list = name_list_assyrian
+
+	coa_gfx = { east_african_group_coa_gfx } 
+	building_gfx = { african_building_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+	ethnicities = {
+		4 = arab
+		1 = mediterranean
+		10 = african
+	}
+}
+
+verdana = {
+	color = { 118 145 65 }
+	created = 900.1.1
+	#parents = {}
+	
+	ethos = ethos_courtly
+	heritage = heritage_eralean
+	language = language_eralean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_city_keepers
+		tradition_garden_architects
+		tradition_jungle_warriors
+	}
+	
+	name_list = name_list_assyrian
+
+	coa_gfx = { east_african_group_coa_gfx } 
+	building_gfx = { african_building_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+	ethnicities = {
+		4 = arab
+		1 = mediterranean
+		10 = african
+	}
+}
+
+felasin = {
+	color = { 118 145 65 }
+	created = 1800.1.1
+	parents = { eralean }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_eralean
+	language = language_eralean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_garden_architects
+	}
+	
+	name_list = name_list_assyrian
+
+	coa_gfx = { east_african_group_coa_gfx } 
+	building_gfx = { african_building_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+	ethnicities = {
+		4 = arab
+		1 = mediterranean
+		10 = african
+	}
+}
+
+eradreash = {
+	color = { 118 145 65 }
+	created = 1200.1.1
+	parents = { eralean }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_eralean
+	language = language_eralean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_garden_architects
+		tradition_female_only_inheritance
+	}
+	
+	name_list = name_list_assyrian
+
+	coa_gfx = { east_african_group_coa_gfx } 
+	building_gfx = { african_building_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+	ethnicities = {
+		4 = arab
+		1 = mediterranean
+		10 = african
+	}
+}
+
+oncasan = {
+	color = { 118 145 65 }
+	created = 1700.1.1
+	parents = { eralean }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_eralean
+	language = language_eralean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_garden_architects
+	}
+	
+	name_list = name_list_assyrian
+
+	coa_gfx = { east_african_group_coa_gfx } 
+	building_gfx = { african_building_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+	ethnicities = {
+		4 = arab
+		1 = mediterranean
+		10 = african
+	}
+}
+
+cirrlean = {
+	color = { 118 145 65 }
+	created = 1400.1.1
+	parents = { eralean }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_eralean
+	language = language_eralean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ce1_ritual_washing
+		tradition_dryland_dwellers
+		tradition_garden_architects
+	}
+	
+	name_list = name_list_assyrian
+
+	coa_gfx = { east_african_group_coa_gfx } 
+	building_gfx = { african_building_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+	ethnicities = {
+		4 = arab
+		1 = mediterranean
+		10 = african
+	}
+}

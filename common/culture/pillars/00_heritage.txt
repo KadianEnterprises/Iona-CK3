@@ -1,0 +1,109 @@
+﻿heritage_chellan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_chellan
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_minaein = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_minaein
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_lytamyran = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_lytamyran
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_ancient_greek = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ancient_greek
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_paladric = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_paladric
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_shadari = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_shadari
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_ilfaniene = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ilfaniene
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_tessarwyn = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_tessarwyn
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_havinan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_havinan
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_eralean = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_eralean
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_solaar = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_solaar
+		}
+	}
+	audio_parameter = european
+}

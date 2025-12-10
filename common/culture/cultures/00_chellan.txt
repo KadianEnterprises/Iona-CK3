@@ -1,0 +1,83 @@
+﻿chellan = {
+	color = { 6 64 193 }
+	#created = 
+	#parents = {}
+
+	ethos = ethos_bellicose
+	heritage = heritage_chellan
+	language = language_chellan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_chellan
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+caprian = {
+	color = { 86 44 123 }
+	created = 1400.1.1
+	parents = { chellan }
+
+	ethos = ethos_bellicose
+	heritage = heritage_chellan
+	language = language_chellan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_welcoming
+		tradition_maritime_mercantilism
+	}
+
+	name_list = name_list_chellan
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+		7 =  mediterranean_byzantine
+	}
+}
+
+gateborn = {
+	color = { 86 44 123 }
+	created = 2031.1.1
+	parents = { chellan deledani }
+
+	ethos = ethos_bellicose
+	heritage = heritage_chellan
+	language = language_chellan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_welcoming
+		tradition_maritime_mercantilism
+	}
+
+	name_list = name_list_chellan
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+		7 =  mediterranean_byzantine
+	}
+}

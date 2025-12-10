@@ -1,0 +1,27 @@
+solaarin = {
+	color = { 6 64 193 }
+	#created = 
+	#parents = {}
+
+	ethos = ethos_bellicose
+	heritage = heritage_solaar
+	language = language_solaar
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_greek
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}

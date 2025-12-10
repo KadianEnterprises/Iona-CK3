@@ -1,0 +1,17 @@
+﻿# bm_group_867 = {
+# 	default_start_date = 867.1.1
+# }
+
+bm_group_0_ac = {
+	default_start_date = 1803.1.1
+}
+
+bm_group_340_ac = {
+	default_start_date = 2143.1.1
+}
+
+#bm_group_418_ac
+
+#bm_group_3481_ac
+
+#bm_group_3502_ac

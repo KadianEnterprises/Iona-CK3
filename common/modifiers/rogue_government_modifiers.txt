@@ -1,0 +1,35 @@
+rogue_government_modifier = {
+    icon = county_modifier_development_negative
+	levy_size = -0.75                     # 75% fewer levies
+    mercenary_hire_cost_mult = -0.1           # 10% cheaper mercenary hire cost
+    #men_at_arms_maintenance = -0.05       # Already in gov def, but here for stacking
+    #men_at_arms_recruitment_cost = -0.05
+    rogue_government_levy_mult = -0.2
+
+    title_creation_cost_mult = 2.5
+    army_maintenance_mult = 0.25
+    levy_size = -0.75
+
+    vassal_limit = -15
+    domain_limit = 2
+
+    #feudal_government_opinion = -70
+    #republic_government_opinion = -70
+    #clan_government_opinion = -70
+    theocracy_government_opinion = -70
+    tribal_government_opinion = -50
+    theocracy_government_vassal_opinion = -70
+    feudal_government_vassal_opinion = -70
+    clan_government_vassal_opinion = -70
+    republic_government_vassal_opinion = -70
+    tribal_government_vassal_opinion = -50
+    
+
+    tyranny_gain_mult = 2
+    dread_gain_mult = 2
+    
+    character_travel_safety = -10
+
+    ai_war_chance = 0.25
+    monthly_prestige = -0.2  
+}

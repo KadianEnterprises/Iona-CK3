@@ -1,0 +1,92 @@
+﻿name_list_ilfaniene = {
+
+	cadet_dynasty_names = {
+		dynn_Wavebreath
+		dynn_Barestrick
+		dynn_Lonebond
+	}
+
+	dynasty_names = {
+		dynn_Olorid
+		dynn_Velus
+		dynn_Tressour
+		dynn_Beros
+		dynn_Lavosan
+
+	}
+
+	male_names = {
+		Alexandre Andyr Sirius Agisan Wyllan Ethan Alecton Vero Ancellus Anno Aquilus Aramis Arthos Aulric Caelan Cassyon Clovis Cyricus Ebroin Edmund Ender Eude Evard Everal Gellus Halan Hanlan Itier Jaufre Leon Lucien Lyran Matheu Mattias Mordaunt Niberias Olorus Ouus Peregrine Perigon Peyer Ralwyn Ravenwyll Reginar Richar Sarden Sauvant Soren Theodore Theoderic
+	}
+
+	female_names = {
+		Geneviere Marinette Abera Alana Fiora Ada Adala Adalysia Aefa Andica Aresena Asha Ashva Athelesia Epyra Gisala Hadaken Isabelle Jada Jadana Maeve Mara Mariana Marion Mirielis Nicolyra Relana Rheyna Tethira Theodora Theodrada Variana Zyara
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_mal"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+}
+
+name_list_aquirvii = {
+
+	cadet_dynasty_names = {
+		dynn_Wavebreath
+		dynn_Barestrick
+		dynn_Lonebond
+	}
+
+	dynasty_names = {
+		dynn_Olorid
+		dynn_Velus
+		dynn_Tressour
+		dynn_Beros
+		dynn_Lavosan
+
+	}
+
+	male_names = {
+		Agisan Alecton Ancellus Anno Aquilus Aramis Arthos Aulric Caelan Cassyon Clovis Cyricus Ebroin Edmund Ender Eude Evard Everal Gellus Halan Hanlan Itier Jaufre Leon Lucien Lyran Matheu Mattias Mordaunt Niberias Olorus Ouus Peregrine Perigon Peyer Ralwyn Ravenwyll Reginar Richar Sarden Sauvant Soren Theodore Theoderic
+	}
+
+	female_names = {
+		Abera Ada Adala Adalysia Aefa Andica Aresena Asha Ashva Athelesia Epyra Gisala Hadaken Isabelle Jada Jadana Maeve Mara Mariana Marion Mirielis Nicolyra Relana Rheyna Tethira Theodora Theodrada Variana Zyara
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_mal"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+}
+
+name_list_vyargale = {
+
+	cadet_dynasty_names = {
+		dynn_Wavebreath
+		dynn_Barestrick
+		dynn_Lonebond
+	}
+
+	dynasty_names = {
+		dynn_Olorid
+		dynn_Velus
+		dynn_Tressour
+		dynn_Beros
+		dynn_Lavosan
+
+	}
+
+	male_names = {
+		Agisan Alecton Ancellus Anno Aquilus Aramis Arthos Aulric Caelan Cassyon Clovis Cyricus Ebroin Edmund Ender Eude Evard Everal Gellus Halan Hanlan Itier Jaufre Leon Lucien Lyran Matheu Mattias Mordaunt Niberias Olorus Ouus Peregrine Perigon Peyer Ralwyn Ravenwyll Reginar Richar Sarden Sauvant Soren Theodore Theoderic
+	}
+
+	female_names = {
+		Abera Ada Adala Adalysia Aefa Andica Aresena Asha Ashva Athelesia Epyra Gisala Hadaken Isabelle Jada Jadana Maeve Mara Mariana Marion Mirielis Nicolyra Relana Rheyna Tethira Theodora Theodrada Variana Zyara
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_mal"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+}

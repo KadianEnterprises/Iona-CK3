@@ -1,0 +1,25 @@
+﻿#regnal nicknames
+nick_the_golden = {}
+nick_the_restorer = {}
+nick_the_old_and_powerful = {}
+nick_the_queen_of_stars = {}
+nick_the_short = {}
+nick_the_generous = {}
+nick_the_bloodqueen = {}
+nick_the_vanquisher = {}
+nick_the_absent = {}
+nick_the_tragic = {}
+nick_the_bastard_king = {}
+nick_the_bastard = {}
+nick_the_young_king = {}
+nick_the_drowned = {}
+nick_the_sun_king = {}
+nick_the_simple = {}
+nick_sunrender = {}
+nick_reborn = {}
+nick_the_younger = {}
+nick_the_weak = {}
+nick_the_black = {}
+nick_blackblade = {}
+nick_wavebreaker = {}
+nick_seafellow = {}

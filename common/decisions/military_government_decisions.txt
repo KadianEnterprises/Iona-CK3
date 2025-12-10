@@ -1,0 +1,164 @@
+﻿create_military_vassal = {
+    picture = decision_realm
+    ai_check_interval = 600
+
+    desc = create_military_vassal_desc
+    name = create_military_vassal_name
+
+    is_shown = {
+        primary_title.tier >= tier_kingdom
+    }
+
+    is_valid = {
+        OR = {
+            has_trait = trait_brave
+            martial >= 10
+        }
+        exists = scope:player
+        any_demesne_title = {
+            tier = duchy
+            holder = scope:player
+            is_primary_title = no
+        }
+    }
+
+    effect = {
+        #custom_tooltip = create_military_vassal_tt
+        random_demesne_title = {
+            limit = {
+                tier = duchy
+                holder = root
+                is_primary_title = no
+            }
+
+            # Create a new character to receive the title
+            create_character = {
+                culture = root.culture
+                religion = root.religion
+                dynasty = root.dynasty
+                age = 30
+                traits = { brave skilled_tactician }
+                sex = male
+                attribute = {
+                    martial = 12
+                    diplomacy = 6
+                }
+                save_scope_as = new_military_vassal
+            }
+
+            # Grant the title to the new character
+            grant_title = scope:new_military_vassal
+
+            # Set military government
+            scope:new_military_vassal = {
+                set_government = military_government
+                add_trait = strong_warrior
+                add_opinion = {
+                    target = root
+                    modifier = opinion_granted_title
+                }
+            }
+        }
+    }
+
+    ai_potential = {
+        has_title = tier_kingdom
+        martial >= 15
+    }
+
+    ai_will_do = {
+        base = 10
+    }
+}
+
+
+grant_duchy_to_knight_military_government = {
+    picture = decision_realm
+    major = yes
+    ai_check_interval = 600
+
+    desc = grant_duchy_to_knight_military_government_desc
+    name = grant_duchy_to_knight_military_government_name
+
+    is_shown = {
+        has_title = tier_kingdom
+        any_demesne_title = {
+            tier = duchy
+            holder = scope:player
+            is_primary_title = no
+        }
+        any_courtier = {
+            is_knight = yes
+            is_adult = yes
+            is_female = no
+            is_ruler = no
+        }
+    }
+
+    is_valid = {
+        exists = scope:player
+        any_demesne_title = {
+            tier = duchy
+            holder = root
+            is_primary_title = no
+        }
+        any_courtier = {
+            is_knight = yes
+            is_adult = yes
+            is_female = no
+            is_ruler = no
+        }
+    }
+
+    effect = {
+        custom_tooltip = grant_duchy_to_knight_military_government_tt
+
+        # Pick a duchy title to give
+        random_demesne_title = {
+            limit = {
+                tier = duchy
+                holder = root
+                is_primary_title = no
+            }
+
+            save_scope_as = target_duchy
+
+            # Select a random eligible knight
+            root = {
+                random_courtier = {
+                    limit = {
+                        is_knight = yes
+                        is_adult = yes
+                        is_female = no
+                        is_ruler = no
+                    }
+
+                    save_scope_as = new_military_vassal
+                }
+            }
+
+            # Grant title to the knight
+            scope:target_duchy = {
+                grant_title = scope:new_military_vassal
+            }
+
+            # Set their government to military
+            scope:new_military_vassal = {
+                set_government = military_government
+                add_opinion = {
+                    target = root
+                    modifier = opinion_granted_title
+                }
+            }
+        }
+    }
+
+    ai_potential = {
+        has_title = tier_kingdom
+        martial >= 15
+    }
+
+    ai_will_do = {
+        base = 10
+    }
+}

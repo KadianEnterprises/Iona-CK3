@@ -1,0 +1,242 @@
+﻿
+vustronic_religion = {
+	family = rf_vustronic
+
+	doctrine = abrahamic_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+	
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_disallowed
+	doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+
+
+	#Allow pilgrimages
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Funeral tradition
+	doctrine = doctrine_funeral_stoic
+
+	traits = {
+		virtues = { brave just honest }
+		sins = { craven arbitrary deceitful }
+	}
+
+	reserved_male_names = {
+		Adrian Aurelis Kol Alexander Kyril Zarder
+	}
+	reserved_female_names = {
+		Aphisa Elsabeth Elsa Adrianna 
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_knights_of_the_speaker" }
+		{ name = "holy_order_order_of_the_holy_communion" }
+		{ name = "holy_order_guardians_of_the_path" }
+		{ name = "holy_order_knights_of_the_reliquary" }
+		{ name = "holy_order_warriors_of_the_living_saints" }
+		#fist_of_the_reliquary
+	}
+
+	#holy_order_maa = { heavy_infantry light_infantry }
+
+	localization = {
+		#HighGod
+		HighGodName = vustronic_high_god_name
+		HighGodName2 = vustronic_high_god_name_2
+		HighGodNamePossessive = vustronic_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = vustronic_high_god_name_alternate
+		HighGodNameAlternatePossessive = vustronic_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = vustronic_creator_god_name
+		CreatorNamePossessive = vustronic_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = vustronic_health_god_name
+		HealthGodNamePossessive = vustronic_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = vustronic_fertility_god_name
+		FertilityGodNamePossessive = vustronic_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = vustronic_wealth_god_name
+		WealthGodNamePossessive = vustronic_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = vustronic_household_god_name
+		HouseholdGodNamePossessive = vustronic_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = vustronic_fate_god_name
+		FateGodNamePossessive = vustronic_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = vustronic_knowledge_god_name
+		KnowledgeGodNamePossessive = vustronic_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = vustronic_war_god_name
+		WarGodNamePossessive = vustronic_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = vustronic_trickster_god_name
+		TricksterGodNamePossessive = vustronic_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = vustronic_night_god_name
+		NightGodNamePossessive = vustronic_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = vustronic_water_god_name
+		WaterGodNamePossessive = vustronic_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+		PantheonTerm = vustronic_high_god_name
+		PantheonTerm2 = vustronic_high_god_name_2
+		PantheonTerm3 = vustronic_high_god_name_3
+		PantheonTermHasHave = pantheon_term_has
+		GoodGodNames = { vustronic_high_god_name vustronic_high_god_name_alternate vustronic_good_god vustronic_good_god2 }
+		DevilName = vustronic_devil_name
+		DevilNamePossessive = vustronic_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = { vustronic_devil_name vustronic_evil_god_decay vustronic_evil_god1 vustronic_evil_god2 }
+		HouseOfWorship = vustronic_house_of_worship
+		HouseOfWorship2 = vustronic_house_of_worship_2
+		HouseOfWorship3 = vustronic_house_of_worship_3
+		HouseOfWorshipPlural = vustronic_house_of_worship_plural
+		ReligiousSymbol = vustronic_religious_symbol
+		ReligiousSymbol2 = vustronic_religious_symbol_2
+		ReligiousSymbol3 = vustronic_religious_symbol_3
+		ReligiousText = vustronic_religious_text
+		ReligiousText2 = vustronic_religious_text_2
+		ReligiousText3 = vustronic_religious_text_3
+		ReligiousHeadName = vustronic_religious_head_title
+		ReligiousHeadTitleName = vustronic_religious_head_title_name
+		DevoteeMale = vustronic_devotee_male
+		DevoteeMalePlural = vustronic_devotee_male_plural
+		DevoteeFemale = vustronic_devotee_female
+		DevoteeFemalePlural = vustronic_devotee_female_plural
+		DevoteeNeuter = vustronic_devotee_neuter
+		DevoteeNeuterPlural = vustronic_devotee_neuter_plural
+		PriestMale = vustronic_priest_male
+		PriestMalePlural = vustronic_priest_male_plural
+		PriestFemale = vustronic_priest_male
+		PriestFemalePlural = vustronic_priest_male_plural
+		PriestNeuter = vustronic_priest_male
+		PriestNeuterPlural = vustronic_priest_male_plural
+		AltPriestTermPlural = vustronic_priest_alternate_plural
+		BishopMale = vustronic_bishop
+		BishopMalePlural = vustronic_bishop_plural
+		BishopFemale = vustronic_bishop
+		BishopFemalePlural = vustronic_bishop_plural
+		BishopNeuter = vustronic_bishop
+		BishopNeuterPlural = vustronic_bishop_plural
+		DivineRealm = vustronic_positive_afterlife
+		DivineRealm2 = vustronic_positive_afterlife_2
+		DivineRealm3 = vustronic_positive_afterlife_3
+		PositiveAfterLife = vustronic_positive_afterlife
+		PositiveAfterLife2 = vustronic_positive_afterlife_2
+		PositiveAfterLife3 = vustronic_positive_afterlife_3
+		NegativeAfterLife = vustronic_negative_afterlife
+		NegativeAfterLife2 = vustronic_negative_afterlife_2
+		NegativeAfterLife3 = vustronic_negative_afterlife_3
+		DeathDeityName = vustronic_death_deity_name
+		DeathDeityNamePossessive = vustronic_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = vustronic_witchgodname_the_shattered_god
+		WitchGodNamePossessive = vustronic_witchgodname_the_shattered_god_possessive
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+
+		GHWName = ghw_great_crusade
+		GHWNamePlural = ghw_great_crusades
+
+	}
+
+	piety_icon_group = "christian"
+
+	faiths = {
+		prime_vustronic = {
+			color = { 0.9 0.8 0.6 }
+			religious_head = k_reliquary
+			#reformed_icon = pagan_reformed
+
+			#doctrine = unreformed_faith_doctrine
+
+			holy_site = godsbreak_sepulchre
+
+			#Generic vustronic tenets
+			doctrine = tenet_astrology
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_sanctity_of_nature
+		}
+	}
+}

@@ -1,0 +1,145 @@
+﻿military_government = {
+	create_cadet_branches = no
+	dynasty_named_realms = no
+	royal_court = yes
+	legitimacy = yes
+
+
+
+	primary_holding = castle_holding
+	valid_holdings = { castle_holding city_holding }
+	court_generate_commanders = 5
+	vassal_levy_contribution_mult = 20
+
+    vassal_contract = {
+		feudal_government_taxes
+		feudal_government_levies
+		special_contract
+		fortification_rights
+		council_rights
+		title_revocation_rights
+	}
+
+	ai = {
+        arrange_marriage = no
+		use_goals = no
+		use_scripted_guis = no
+		perform_religious_reformation = no
+		use_legends = yes
+	}
+
+	character_modifier = {
+		monthly_dread = 0.1
+		# Cost buffs/debuffs
+		men_at_arms_maintenance_per_dread_mult = 0.2
+		
+		# Ai modifications
+		ai_war_chance = 2
+		ai_war_cooldown = -0.5
+		ai_greed = 4
+		ai_vengefulness = 3
+		ai_amenity_spending = -3
+
+		# 
+   		dread_gain_mult = 2
+    	character_travel_safety_mult = 2
+		monthly_prestige_gain_mult = 0.3
+		vassal_limit = 5
+    	domain_limit = -2
+		monthly_county_control_growth_add = 2
+		development_growth_factor = -0.6
+		martial_scheme_resistance 
+		martial_scheme_power 
+		martial_per_prestige_level = 3
+		prowess_per_prestige_level = 2 
+		
+		# Your vassal stuff
+		intimidated_vassal_levy_contribution_mult = 2
+		cowed_vassal_levy_contribution_mult = 3
+
+		# Opinion stuff
+		opinion_of_liege = 5
+    	direct_vassal_opinion = -20
+		county_opinion_add = -30
+	}
+
+	flag = government_is_military
+	flag = government_is_settled
+    flag = government_can_raid_rule
+
+	color = { 70 70 70 }
+}
+
+rogue_government = {
+    regiments_prestige_as_gold = yes
+    rulers_should_have_dynasty = yes
+    court_generate_commanders = 5
+	vassal_levy_contribution_mult = -3
+	
+
+    primary_holding = {
+        castle_holding
+    }
+    valid_holdings = {
+        castle_holding
+        tribal_holding
+        city_holding
+        church_holding
+    }
+
+    prestige_opinion_override = { -100 0 3 10 20 50 }
+
+    vassal_contract = {
+        tribal_government_obligations
+    }
+
+	ai = {
+        arrange_marriage = yes
+		use_goals = yes
+		use_scripted_guis = yes
+		perform_religious_reformation = no
+		use_legends = yes
+		use_decisions = yes
+		imprison = yes
+	}
+
+    character_modifier = {
+		monthly_dread = 0.5
+		# Cost buffs/debuffs
+		holy_order_hire_cost_mult = 1000
+		mercenary_hire_cost_mult = -0.1
+		men_at_arms_maintenance_per_dread_mult = 0.2
+		
+		# Ai modifications
+		ai_war_chance = 2
+		ai_war_cooldown = -0.5
+		ai_greed = 4
+		ai_vengefulness = 3
+
+		# 
+		tyranny_gain_mult = 2
+   		dread_gain_mult = 2
+    	character_travel_safety = -10
+		monthly_prestige_gain_mult = -0.2
+		vassal_limit = -15
+    	domain_limit = 2
+		
+		# Your vassal stuff
+		intimidated_vassal_levy_contribution_mult = 2
+		cowed_vassal_levy_contribution_mult = 3
+		# Opinion stuff
+		opinion_of_liege = -70 #You're a rebel, screw that guy
+		independent_ruler_opinion = -50
+    	direct_vassal_opinion = -70
+    	general_opinion = -15
+		county_opinion_add = -30
+	}
+
+    flag = government_can_raid_rule
+    flag = government_is_rogue
+    flag = government_is_settled
+    flag = court_positions_are_more_expensive
+
+    color = { 136 19 49 }
+}
+

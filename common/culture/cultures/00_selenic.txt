@@ -1,0 +1,111 @@
+﻿selenic = {
+	color = { 213 253 207 }
+	created = 1.1.1
+	#parents = { ancient_elvish }
+
+	ethos = ethos_bellicose
+	heritage = heritage_selenic
+	language = language_selenic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_elvish
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+volokarian = {
+	color = { 40 218 15 }
+	created = 1244.1.1
+	parents = { selenic }
+
+	ethos = ethos_bellicose
+	heritage = heritage_selenic
+	language = language_volokarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_elvish
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+ys_adwin = {
+	color = { 14 70 81 }
+	created = 300.1.1
+	parents = { selenic }
+
+	ethos = ethos_bellicose
+	heritage = heritage_selenic
+	language = language_selenic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_elvish
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+adwyr_gallan = {
+	color = { 14 170 81 }
+	created = 1500.1.1
+	parents = { ys_adwin }
+
+	ethos = ethos_bellicose
+	heritage = heritage_selenic
+	language = language_selenic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_ruling_caste
+	}
+
+	name_list = name_list_chellan
+
+	coa_gfx = { western_coa_gfx latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}

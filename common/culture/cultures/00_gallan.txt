@@ -1,0 +1,91 @@
+﻿gallan = {
+	color = { 187 114 253 }
+	created = 900.1.1
+	#parents = {}
+
+	ethos = ethos_stoic
+	heritage = heritage_gallan
+	language = language_gallan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_storytellers
+		tradition_ancient_miners
+	}
+	
+	name_list = name_list_welsh
+	
+	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+high_gallan = {
+	color = { 145 86 197 }
+	created = 3100.1.1
+	parents = { gallan }
+
+	ethos = ethos_stoic
+	heritage = heritage_gallan
+	language = language_gallan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_poetry
+		tradition_concubines
+		tradition_highland_warriors
+		tradition_longbow_competitions
+	}
+	
+	name_list = name_list_welsh
+	
+	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+tholfic = {
+	color = { 186 134 223 }
+	created = 2700.1.1
+	parents = { gallan adwyr_gallan }
+
+	ethos = ethos_stoic
+	heritage = heritage_gallan
+	language = language_adwyr
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_poetry
+		tradition_concubines
+		tradition_highland_warriors
+		tradition_longbow_competitions
+	}
+	
+	name_list = name_list_welsh
+	
+	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}

@@ -1,0 +1,9 @@
+﻿l_english:
+
+# Restoring Chell to Glory
+chell.0001.t:0 "Chell returned to Glory"
+chell.0001.desc:0 "After nearly two centuries of struggle, first under the oppression of the Volokarian Elves, then the collapse during the God War, you have finally managed to reclaim what your forefathers lost. The sun shines as you ascend the steps to the Alabaster Palace, the once proud seat of Chell's power, now sundered and decrepit, your mind turning with what still remains to be done. But for now, the old imperium is restored."
+chell.0001.a:0 "Long may I Reign"
+chell.0002.desc:0 "After nearly two centuries of struggle, the Chellan Empire has risen from its ashes under the guidance of [reclaimer.GetName]. With order returned to the heartlands, who knows where their designs may focus next."
+chell.0002.a:0 "We'll be prepaired."
+chell.0002.b:0 "Long live the Empire!"

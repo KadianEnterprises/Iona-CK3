@@ -1,0 +1,4383 @@
+﻿l_english:
+ TITLE_NAME:1 "$NAME|U$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_DEFINITIVE_NAME:0 "the $TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "the $NAME$ $TIER|U$ #F ($BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+
+# Default title names
+k_reliquary:0 "The Reliquary"
+#Empire of Chell
+e_chell:0 "Chell"
+#Old Chell
+k_titular_old_kingdom_of_chell:0 "The Old Kingdom of Chell"
+#Cahillion
+b_alabaster_palace:0 "The Alabaster Palace"
+b_whitesong_sepulchre:0 "Whitesong Sepulchre"
+b_absolution_towers:0 "Absolution Towers"
+b_upper_silvercrest:0 "Upper Silvercrest"
+b_starwatch:0 "Starwatch"
+c_cahillion:0 "Cahillion"
+b_lower_silvercrest:0 "Lower Silvercrest"
+b_lower_cahillion:0 "Lower Cahillion"
+b_hall_broken_swords:0 "Hall of Broken Swords"
+b_outer_cahillion:0 "Outer Cahillion"
+c_lower_cahillion:0 "Lower Cahillion"
+b_cahills_crossing:0 "Cahill's Crossing"
+b_streamjoin:0 "Streamjoin"
+b_halfmason:0 "Halfmason"
+b_hoggback_hill:0 "Hoggback Hill"
+b_crossington:0 "Crossington"
+c_cahills_crossing:0 "Cahill's Crossing"
+b_dreadcliff_hold:0 "Dreadcliff Hold"
+c_dreadcliff_hold:0 "Dreadcliff Hold"
+b_widepass:0 "Widepass"
+b_blackslope:0 "Blackslope"
+b_westmount:0 "Westmount"
+b_calcmine:0 "Calcmine"
+b_lower_widepass:0 "Lower Widepass"
+c_widepass:0 "Widepass"
+d_cahillion:0 "Cahillion"
+#
+b_mortis_altum_cathedral:0 "Mortis Altum Cathedral"
+b_pilgrims_rest:0 "Pilgrim's Rest"
+c_mortis_altum:0 "Mortis Altum"
+b_valley_of_monuments:0 "Valley of Monuments"
+b_sepulchre_of_the_tombwatch:0 "Sepulchre of the Tombwatch"
+b_kingsgrave:0 "Kingsgrave"
+c_kingsvale:0 "Kingsvale"
+d_kingsrest:0 "Kingsrest"
+#
+b_silvercliff:0 "Silvercliff"
+b_silverharbour:0 "Silverharbour"
+b_morinfield:0 "Morinfield"
+b_chalsfel:0 "Chalsfel"
+b_palsitfel:0 "Palsitfel"
+c_silverharbour:0 "Silverharbour"
+b_dragonstream_pool:0 "Dragonstream Pools"
+b_longriver:0 "Longriver"
+b_silverswift:0 "Silverswift"
+b_rollingvale:0 "Rollingvale"
+c_longriver:0 "Longriver"
+b_quiet_crossing:0 "Quiet Crossing"
+b_foxfield:0 "Foxfield"
+c_quiet_crossing:0 "Quiet Crossing"
+b_dragonslope:0 "Dragonslope"
+b_deertarn:0 "Deertarn"
+b_dragonstream:0 "Dragonstream"
+c_dragonslope:0 "Dragonslope"
+b_dragongrave_castle:0 "Dragongrave Castle"
+b_eveningmoss:0 "Eveningmoss"
+b_grast:0 "Grast"
+c_dragongrave:0 "Dragongrave"
+d_silvercrest:0 "Silvercrest"
+#
+b_runrivernorth:0 "Runriver"
+b_rollingwell:0 "Rollingwell"
+b_mountainwill:0 "Mountainwill"
+b_mountaintime:0 "Mountaintime"
+c_inaurvon:0 "Inaurvon"
+b_fort_inarus:0 "Fort Inarus"
+b_inaurton:0 "Inaurton"
+b_cliffbering:0 "Cliffbering"
+c_fort_inaurus:0 "Fort Inaurus"
+b_haron_overlook:0 "Haron Overlook"
+b_streamlanding:0 "Streamlanding"
+c_haron_overlook:0 "Haron Overlook"
+b_terac_dal:0 "Terac Dal"
+c_terac_dal:0 "Terac Dal"
+d_chell_inaurin:0 "Chell Inaurin"
+# Arcan
+b_arcan:0 "Arcan"
+b_faircity:0 "Faircity"
+b_heirchapel:0 "Heirchapel"
+b_princepoint:0 "Princepoint"
+b_crownkeep:0 "Crownkeep"
+c_arcan:0 "Arcan"
+# Dragonwood
+c_dragonwood:0 "Dragonwood"
+#
+c_galros_fall:0 "Galros' Fall"
+#
+b_silvershore:0 "Silvershore"
+b_squidis:0 "Squidis"
+b_hanis:0 "Hanis"
+b_dragonwood:0 "Dragonwood"
+c_silvershore:0 "Silvershore"
+b_whitehall:0 "Whitehall"
+b_whiteshore:0 "Whiteshore"
+b_irragan_beach:0 "Irragan Beach"
+b_mirstone:0 "Mirstone"
+b_whitechapel:0 "Whitechapel"
+b_amberview:0 "Amberview"
+c_whitehall:0 "Whitehall"
+b_princewood:0 "Princewood"
+b_oldtree:0 "Oldtree"
+b_fallenlog:0 "Fallenlog"
+b_treeton:0 "Treeton"
+b_lonfirst:0 "Lonfirst"
+c_princewood:0 "Princewood"
+d_crown_coast:0 "Crown Coast"
+#
+b_rivermouth:0 "Rivermouth"
+b_widewend:0 "Widewend"
+b_rivercut:0 "Rivercut"
+c_rivermouth:0 "Rivermouth"
+b_sullon_caisis:0 "Sullon Caisis"
+c_sullon_caisis:0 "Sullon Caisis"
+b_parrterre:0 "Parrterre"
+b_corotas:0 "Corotas"
+b_velisa:0 "Velisa"
+b_longbarrow:0 "Longbarrow"
+b_sormire:0 "Sormire"
+c_parrterre:0 "Parrterre"
+b_gelrirv:0 "Gelrirv"
+b_esrirv:0 "Esrirv"
+b_sanrirv:0 "Sanrirv"
+b_tonrirv:0 "Tonrirv"
+c_gelrirv:0 "Gelrirv"
+b_waystall:0 "Waystall"
+b_eastface:0 "Eastface"
+b_widegrass:0 "Widegrass"
+b_longfield:0 "Longfield"
+b_grairwick:0 "Grairwick"
+b_treesedge:0 "Treesedge"
+c_southmount:0 "Southmount"
+b_mountainsfoot:0 "Mountainsfoot"
+b_mountaingrass:0 "Mountaingrass"
+b_bearmine:0 "Bearmine"
+b_lutied:0 "Lutied"
+b_frelran:0 "Frelan"
+c_mountainwash:0 "Mountainwash"
+d_verifer:0 "Verifer"
+#
+b_stonevale:0 "Stonevale"
+b_longview:0 "Longview"
+b_highmine:0 "Highmine"
+b_highrock_hall:0 "Highrock Hall"
+c_stonevale:0 "Stonevale"
+b_stonetrough:0 "Stonetrough"
+b_streamcut:0 "Streamcut"
+b_windwhisper:0 "Windwhisper"
+c_stonetrough:0 "Stontrough"
+d_stonetrough:0 "Stonetrough"
+#
+b_terrax_allon:0 "Terrax Allon"
+b_port_neryes:0 "Port Neryes"
+b_inner_neryes:0 "Inner Neryes"
+b_shorewatch_tower:0 "Shorewatch Tower"
+c_terrax_allon:0 "Terrax Allon"
+b_perinedge:0 "Perinedge"
+b_perinstream:0 "Perinstream"
+b_siltmarsh:0 "Siltmarsh"
+b_slipside_strand:0 "Slipside Strand"
+b_anderfield:0 "Anderfield"
+c_perin:0 "Perin"
+b_streambends:0 "Streambends"
+b_streamfield:0 "Streamfield"
+b_erinsfel:0 "Erinsfel"
+b_allonwood:0 "Allonwood"
+b_aquila:0 "Aquila"
+b_edginfield:0 "Edginfield"
+c_allonwood:0 "Allonwood"
+b_flamewyre_tower:0 "Flamewyre Tower"
+c_flamewyre_tower:0 "Flamewyre Tower"
+b_fort_oldash:0 "Fort Oldash"
+b_ashton:0 "Ashton"
+b_ironash:0 "Ironash"
+b_ironash_sepulchre:0 "Ironash Sepulchre"
+b_ashill:0 "Ashill"
+c_oldash:0 "Oldash"
+d_terrax_media:0 "Terrax Media"
+#
+b_chell_ruins:0 "Ruins of Chell"
+b_outer_chell_ruins:0 "Outer Ruins of Chell"
+b_north_chell_ruins:0 "Northern Ruins of Chell"
+b_shrine_of_kelis:0 "Shrine of Kelis"
+c_chell:0 "Chell"
+b_greenhaste:0 "Greenhaste"
+b_chellmist:0 "Chellmist"
+b_grerus:0 "Grerus"
+c_greenhaste:0 "Greenhaste"
+b_greyclutch_ramparts:0 "Greyclutch Ramparts"
+b_badwater_rush:0 "Badwater Rush"
+b_betweenstream_fields:0 "Betweenstream Fields"
+b_bastards_run:0 "Bastard's Run"
+b_arterius_drainway:0 "Arterius Drainway"
+c_greyclutch:0 "Greyclutch"
+b_old_kingsport:0 "Old Kingsport"
+b_pickwater:0 "Pickwater"
+b_mendigan_woods:0 "Mendigan Woods"
+b_lake_oldking:0 "Lake Oldking"
+b_oldtree_hollow:0 "Oldtree Hollow"
+b_fieldsplit:0 "Fieldsplit"
+c_oldking:0 "Oldking"
+d_chell:0 "Chell"
+#
+b_eldergrove:0 "Eldergrove"
+b_canis_rise:0 "Canis Rise"
+b_streamsplit:0 "Streamsplit"
+b_nerus_overlook:0 "Nerus Overlook"
+c_eldergrove:0 "Eldergrove"
+b_greenbrook_castle:0 "Greenbrook Castle"
+b_veriswoad:0 "Veriswoad"
+b_elfblood_rocks:0 "Elfblood Rocks"
+b_cliffwatch:0 "Cliffwatch"
+c_greenbrook_castle:0 "Greenbrook Castle"
+b_barrowbrook:0 "Barrowbrook"
+b_woodbank:0 "Woodbank"
+b_mountainwood:0 "Mountainwood"
+b_heathercross:0 "Heathercross"
+c_barrowbrook:0 "Barrowbrook"
+b_siltbend:0 "Siltbend"
+b_arrowbreach:0 "Arrowbreach"
+c_siltbend:0 "Siltbend"
+b_dalisfel:0 "Dalisfel"
+b_volengrass_gap:0 "Volengrass Gap"
+b_hellmud_track:0 "Hellmud Track"
+b_volenscree:0 "Volenscree"
+c_volensflood:0 "Volensflood"
+d_palorum_meridis:0 "Palorum Meridis"
+#
+b_godsbreak_sepulchre:0 "Godsbreak Sepulchre"
+b_blessed_city_of_arratium:0 "Blessed City of Arratium"
+b_point_no_point:0 "Point-no-point"
+b_rest_of_the_risen:0 "Rest of the Risen"
+b_rested_fields:0 "Rested Fields"
+c_godsbreak:0 "Godsbreak"
+b_approach_of_elysium:0 "Approach of Elysium"
+b_holy_river_of_aurelis:0 "Holy River of Aurelis"
+b_river_of_the_son:0 "River of the Son"
+c_approach_of_elysium:0 "Approach of Elysium"
+b_necropolis_of_the_praetori:0 "Necropolis of the Praetori"
+b_drominarium_maxima:0 "Drominarium Maxima"
+c_necropolis_of_the_praetori:0 "Necropolis of the Praetori"
+d_godseye:0 "Godseye"
+#
+k_heartlands:0 "Heartlands"
+### Kingdom of Kaligaia ###################  ######
+#
+k_kaligaia:0 "Kaligaia"
+#
+## Archonate of Kaligaia 
+d_kaligaia:0 "Kaligaia"
+# Kaliopolis
+c_kaliopolis:0 "Kaliopolis"
+b_palace_of_the_aegead:0 "Palace of the Aegead"
+b_lower_kaliopolis:0 "Lower Kaliopolis"
+b_upper_kaliopolis:0 "Upper Kaliopolis"
+b_fields_of_the_spartoi:0 "Fields of the Spartoi"
+b_lygeras:0 "Lygeras"
+# Metena
+c_metena:0 "Metena"
+b_kalians_prow:0 "Kalian's Prow"
+b_metena:0 "Metena"
+b_pamina:0 "Pamina"
+# Fields of Kaelos
+c_fields_of_kaelos:0 "Fields of Kaelos"
+b_fields_of_kaelos:0 "Fields of Kaelos"
+b_berins_passage:0 "Berin's Passage"
+b_bakaros:0 "bakaros"
+b_eginas_folly:0 "Egina's Folly"
+# Photonis
+c_photonis:0 "Photonis"
+b_photonis:0 "Photonis"
+b_eberos_cliffs:0 "Eberos Cliffs"
+b_serins_line:0 "Serin's Line"
+b_kalicons_wash:0 "Kalikon's Wash"
+# Argedian Forest
+c_argedian_forest:0 "Argedian Forest"
+b_zephyrs_cliff:0 "Zephyr's Cliff"
+b_argedian_forest:0 "Argedian Forest"
+b_shrine_of_medea:0 "Shrine of Medea"
+#
+## Archonate of
+#
+### Kingdom of Aquirvan #################### #######
+#
+k_aquirvan:0 "Aquirvan"
+#
+## Duchy of Viramur ########################
+d_viramur:0 "Viramur"
+# Great Viramur
+c_great_viramur:0 "Great Viramur"
+b_viramur:0 "Viramur"
+b_hardwater_shil:0 "Hardwater Shil"
+b_riverwell:0 "Riverwell"
+b_blackshore_keep:0 "Blackshore Keep"
+b_temple_of_silence:0 "Temple of Silence"
+# Aubresen
+c_aubresen:0 "Aubresen"
+b_grifonsour:0 "Grifonsour"
+b_aubresen:0 "Aubresen"
+b_terosa:0 "Terosa"
+# Belcaire Bay
+c_belcaire_bay:0 "Belcaire Bay"
+b_belcair_bay:0 "Belcaire Bay"
+b_rutravila:0 "Rutravila"
+b_temple_of_maresta:0 "Temple of Maresta"
+# Casea's Run
+c_caseas_run:0 "Casea's Run"
+b_point_casea:0 "Point Casea"
+b_tradebeach:0 "Tradebeach"
+# Inodacion
+c_inodacion:0 "Inodacion"
+b_virada_castle:0 "Virada Castle"
+b_dacion:0 "Dacion"
+b_belcaire_overlook:0 "Belcaire Overlook"
+b_rivrui:0 "Rivrui"
+# Fernferis
+c_ferferis:0 "Fernferis"
+b_fernferis:0 "Fernferis"
+b_beucosc:0 "Beucosc"
+b_polieser:0 "Polieser"
+#
+## Duchy of Sevrielle ########################
+d_sevrielle:0 "Sevrielle"
+# Castle Fallshore
+c_castle_fallshore:0 "Castle Fallshore"
+b_castle_fallshore:0 "Castle Fallshore"
+b_eceton:0 "Eceton"
+b_vilriel:0 "Vilriel"
+b_quasonne:0 "Quasonne"
+# Tavus
+c_tavus:0 "Tavus"
+b_tavus:0 "Tavus"
+b_ralruin:0 "Ralruin"
+# Forekyr
+c_forekyr:0 "Forekyr"
+b_forekyr:0 "Forekyr"
+b_umberwood:0 "Umberwood"
+b_stabtree:0 "Stabtree"
+# Nerefor Split
+c_nerefor_split:0 "Nerefor Split"
+b_streamjoin_inn:0 "Streamjoin Inn"
+b_nerebois:0 "Nerebois"
+b_dorpann:0 "Dorpann"
+b_velfore:0 "Velfore"
+# Pailloin
+c_paillon:0 "Paillon"
+b_savo_overlook:0 "Savo Overlook"
+b_paillon:0 "Paillon"
+b_savos_run:0 "Savo's Run"
+b_chalmoux:0 "Chalmoux"
+# Bixruionn
+c_bixruionn:0 "Bixruionn"
+b_bixtour:0 "Bixtour"
+b_ruionn:0 "Ruionn"
+#
+## Borchaud ################################
+d_borchaud:0 "Borchaud"
+# the Orrac Coast
+c_orrac_coast:0 "the Orrac Coast"
+b_avrils_point:0 "Avril's Point"
+b_orrac:0 "Orrac"
+b_forathony:0 "Forathony"
+# Vanelt Crossing
+c_vanelt_crossing:0 "Vanelt Crossing"
+b_castle_vanelt:0 "Castle Vanelt"
+b_tazonel:0 "Tazonel"
+# Ferau
+c_ferau:0 "Ferau"
+b_ferau_tower:0 "Ferau Tower"
+b_ixels_crossing:0 "Ixel's Crossing"
+b_cauda:0 "Cauda"
+# Scella's Spring
+c_scellas_spring:0 "Scella's Spring"
+b_scellas_spring:0 "Scella's Spring"
+b_firstshade_inn:0 "Firstshade Inn"
+b_palosa:0 "Palosa"
+#
+## Soliana ###################################
+d_soliana:0 "Soliana"
+# Beaucalion
+c_beaucalion:0 "Beaucalion"
+b_castle_calion:0 "Castle Calion"
+b_chamvier:0 "Chamvier"
+b_verfield:0 "Verfield"
+b_pont_calos:0 "Pont Calos"
+b_calsedge:0 "Calsedge"
+# Riversong
+c_riversong:0 "Riversong"
+b_riversong:0 "Riversong"
+b_kinseran:0 "Kinseran"
+b_alouette:0 "Alouette"
+b_flitspring:0 "Flitspring"
+# Isafal
+c_isafal:0 "Isafal"
+b_isafel:0 "Isafal"
+b_nalettes:0 "Nalettes"
+# Caluire
+c_caluire:0 "Caluire"
+b_caluire:0 "Caluire"
+b_grelcuon:0 "Grelcuon"
+b_caluire_woods:0 "Caluire Woods"
+# Montmonfore
+c_montmonfore:0 "Montmonfore"
+b_montmonfore_hold:0 "Montmonfore Hold"
+b_gantes:0 "Gantes"
+b_montmonfore:0 "Montmonfore"
+#
+## Rosethorn Forest
+d_rosethorn_forest:0 "Wardenship of the Rosethorn Forest"
+# Thornblood
+c_thornblood:0 "Thornblood"
+b_thornblood_stronghold:0 "Thornblood Stronghold"
+b_absolution:0 "Absolution"
+b_west_thornbridge:0 "West Thornbridge"
+b_thorndeep:0 "Thorndeep"
+# Briarval
+c_briarval:0 "Briarval"
+b_shroudpetal_hold:0 "Shroudpetal Hold"
+b_briarclimb:0 "Briarclimb"
+b_briarval:0 "Briarval"
+b_briars_edge:0 "Briar's Edge"
+# Rosewall
+c_rosewall:0 "Rosewall"
+b_rosewall:0 "Rosewall"
+b_inn_at_rosewall:0 "Inn at the Rosewall"
+# Thornpoint
+c_thornpoint:0 "Thornpoint"
+b_thornpoint:0 "Thornpoint"
+b_thornswater:0 "Thornswater"
+# Runningrose
+c_runningrose:0 "Runningrose"
+b_runningrose_castle:0 "Runningrose Castle"
+b_thorncane:0 "Thorncane"
+b_glyphspring:0 "Glyphspring"
+#
+## Iteransval
+d_iteransval:0 "Iteransval"
+# Pass of Iteran
+c_pass_of_iteran:0 "Pass of Iteran"
+b_castle_aigales:0 "Castle Aigales"
+b_talensgate:0 "Talensgate"
+b_iteransval:0 "Iteransval"
+b_varinitte:0 "Varinitte"
+# Boscva
+c_boscva:0 "Boscva"
+b_boscva:0 "Boscva"
+b_boscluara:0 "Boscluara"
+b_turcpine:0 "Turcpine"
+# Mont Seche
+c_mont_seche:0 "Mont Seche"
+b_nerehall:0 "Nerehall"
+b_amperas_view:0 "Ampera's View"
+b_vigali:0 "Vigali"
+# Vinac
+c_vinac:0 "Vinac"
+b_vinac:0 "Vinac"
+b_pinsalo:0 "Pinsalo"
+b_boscal:0 "Boscal"
+b_bevalis:0 "Bevalis"
+# Davdala
+c_davdala:0 "Davdala"
+b_davdala:0 "Davdala"
+b_discis:0 "Discis"
+b_fustendi:0 "Fustendi"
+#
+## Natala Istri
+d_natala_istri:0 "Natala Istri"
+# Beros
+c_beros:0 "Beros"
+b_tour_d_beros:0 "Tour d'Beros"
+b_vicevrea:0 "Vicevrea"
+b_beroswood:0 "Beroswood"
+b_abraval_overlook:0 "Abraval Overlook"
+b_hillmine:0 "Hillmine"
+# Istran's Dive
+c_istrans_dive:0 "Istran's Dive"
+b_iistrans_dive:0 "Istran's Dive"
+b_jadisvan:0 "Jadisvan"
+b_penjavan:0 "Penjavan"
+# Pedreval
+c_pedreval:0 "Pedreval"
+b_pedreval:0 "Pedreval"
+b_brecaval:0 "Brecaval"
+b_legebere:0 "Legebere"
+b_gostila:0 "Gostila"
+# Bosquetuc
+c_bosquetuc:0 "Bosquetuc"
+b_sausetre_house:0 "Sausetre"
+b_vixenvalle:0 "Vixenvalle"
+b_bosquetuc_tower:0 "Tour d'Bosquetuc"
+#
+c_seche_rui:0 "Seche Rui"
+b_font_seche:0 "Font Seche"
+b_rocavale:0 "Rocavale"
+b_vinhacle:0 "Vinhacle"
+# Isala
+c_isala:0 "Isala"
+b_tower_of_isal:0 "Tower of Isal"
+b_isals_pass:0 "Isal's Pass"
+b_silksonne:0 "Silksonne"
+b_isals_slope:0 "Isal's Slope"
+#
+c_singslope:0 "Singslope"
+b_pools_of_the_singer:0 "Pools of the Singer"
+b_cret_de_lausi:0 "Cret de Lausi"
+b_milk_hill:0 "Milk Hill"
+b_falseburrow:0 "Falseburrow"
+#
+### Kingdom of Aurentis #################### #######
+k_aurentis:0 "Aurentis"
+#
+## Aurentium
+d_aurentium:0 "Aurentium"
+c_aurentium:0 "Aurentium"
+b_aurentian_palace:0 "Aurentian Palace"
+b_aurentium:0 "Aurentium"
+b_blackgate:0 "Blackgate"
+b_aurents_field:0 "Aurent's Field"
+#
+c_calocnae:0 "Caloconae"
+b_caloconae:0 "Caloconae"
+b_tornacim:0 "Tornacim"
+b_mediolaeum:0 "Mediolaeum"
+#
+c_luscarum_tower:0 "Luscarum Tower"
+b_luscarum_tower:0 "Luscarum Tower"
+#
+c_whipjack_peninsula:0 "Whipjack Peninsula"
+b_castle_venos:0 "Castle Venos"
+b_porforus:0 "Porforus"
+#
+c_alyum_asta:0 "Alyum Asta"
+b_alyum_asta:0 "Alyum Asta"
+b_brigani:0 "Brigani"
+b_tetoranga:0 "Tetoranga"
+b_giralla:0 "Giralla"
+#
+c_tyrastirum:0 "Tyrastirum"
+b_princes_tower:0 "Prince's Tower"
+b_tyrastirum:0 "Tyrastirum"
+b_ilerda:0 "Ilerda"
+b_temple_of_exiles:0 "Temple of Exiles"
+#
+## Moritanum
+d_moritanum:0 "Moritanum"
+c_moritanum:0 "Moritanum"
+b_moritanum:0 "Moritanum"
+b_calcus:0 "Calcus"
+b_baysir:0 "Baysir"
+b_cerinero "Cerinero"
+#
+c_ostera:0 "Ostera"
+b_ostera:0 "Ostera"
+b_malegara:0 "Malegara"
+b_stasa:0 "Stasa"
+#
+c_port_averix:0 "Port Averix"
+b_port_averix:0 "Port Averix"
+b_avendum:0 "Avendum"
+#
+c_jorans_slump:0 "Joran's Slump"
+b_jorans_tower:0 "Joran's Tower"
+b_yasida:0 "Yasida"
+#
+c_afri:0 "Afri"
+b_afri_ban:0 "Afri Ban"
+b_afri_oren:0 "Afri Oren"
+#
+c_hastrun:0 "Hastrun"
+b_hastrun:0 "Hastrun"
+b_khelan:0 "Khelan"
+b_nesat:0 "Nesat"
+#
+## Aberian
+d_aberian:0 "Aberian"
+c_aberian:0 "Aberian"
+b_aberian:0 "Aberian"
+b_kachida:0 "Kachida"
+b_oujeur:0 "Oujeur"
+b_narji:0 "Narji"
+#
+c_bralid:0 "Bralid"
+b_bralid:0 "Bralid"
+b_mosmis:0 "Mosmis"
+b_ain_sefet:0 "Ain Sefet"
+#
+c_ain_theya:0 "Ain Theya"
+b_ain_theya:0 "Ain Theya"
+b_abissa:0 "Abissa"
+b_tanav:0 "Tanav"
+#
+## Celathium
+d_celathium:0 "Celathium"
+c_celathium:0 "Celathium"
+b_celathium:0 "Celathium"
+b_moudaia:0 "Moudaia"
+b_qamari:0 "Qamari"
+#
+c_vero:0 "Vero"
+b_vero_island:0 "Vero Island"
+#
+c_cenyara:0 "Senyara"
+b_Cenyara:0 "Senyara"
+b_ferifasa:0 "Ferifasa"
+#
+c_abane:0 "Abane"
+b_abane:0 "Abane"
+b_zberan:0 "Zberan"
+b_qarvali:0 "Qarvali"
+#
+c_bounian:0 "Bounian"
+b_bounian:0 "Bounian"
+b_regji:0 "Regji"
+b_genezin:0 "Genezin"
+#
+### Grand Duchy of Raulyn's Gate #################### #######
+k_raulyns_gate:0 " Raulyn's Gate"
+#
+## Raulyn's Gate
+d_raulyns_gate:0 "Raulyn's Gate"
+c_raulyns_gate:0 "Raulyn's Gate"
+b_citadel_of_kyr:0 "Citadel of Kyr"
+b_east_raulyns_gate:0 "East Raulyn's Gate"
+b_west_raulyns_gate:0 "West Raulyn's Gate"
+b_watchtower_of_amryn:0 "Watchtower of Amryn"
+b_temple_of_bloomsun:0 "Temple of Bloomsun"
+b_north_raulyns_gate:0 "North Raulyn's Gate"
+#
+c_point_orphiros:0 "Point Orphiros"
+b_point_orphinos:0 "Point Orphiros"
+b_diosodes:0 "Diosodes"
+b_hygeldon:0 "Hygeldon"
+#
+c_stag_bay:0 "Stag Bay"
+b_stag_bay:0 "Stag Bay"
+b_mochyon:0 "Mochyon"
+b_fields_of_aarylus:0 "Fields of Aarylus"
+b_hysilon:0 "Hysilon"
+#
+c_nekremos:0 "Nekremos"
+b_nekremos:0 "Nekremos"
+b_azure_drop:0 "Azure Drop"
+b_lanternbough:0 "Lanternbough"
+b_forests_of_nicosa:0 "Forests of Nicosa"
+#
+c_nicosan_woods:0 "Nicosan Woods"
+b_woodsedge_of_nicosa:0 "Woodsedge of Nicosa"
+b_streamwood_of_nicosa:0 "Streamwood of Nicosa"
+b_deepwoods_of_nicosa:0 "Deepwoods of Nicodsa"
+#
+## Hyraxis
+d_hyraxis:0 "Hyraxis"
+c_heros_landing:0 "Hero's Landing"
+b_heros_point:0 Hero's Point
+b_heros_landing:0 "Hero's Landing"
+b_anologia:0 "Anologia"
+b_temple_of_diosodes:0 "Temple of Diosodes"
+#
+c_brittleport:0 "Brittleport"
+b_brittlewatch:0 "Brittlewatch"
+b_brittleport:0 "Brittleport"
+b_letxylo:0 "Letxylo"
+#
+c_ralakin:0 "Ralakin"
+b_tower_of_ralakin:0 "Tower of Ralakin"
+b_kendos:0 "Kendos"
+b_ralakins_wend:0 "Ralakin's Wend"
+b_kyrisfeld:0 "Kyrisfeld"
+#
+c_enonaxi:0 "Enonaxi"
+b_enonaxi:0 "Enonaxi"
+b_lononaxi:0 "Lononaxi"
+b_sirnonaxi:0 "Sirnonaxi"
+#
+## Alonbris
+d_alonbris:0 "Alonbris"
+c_hadaros:0 "Hadaros"
+b_hadaros_bridge:0 "Hadaros Bridge"
+b_farside:0 "Farside"
+b_rafanbar:0 "Rafanbar"
+b_adaras_run:0 "Adara's Run"
+#
+c_gedinos:0 "Gedinos"
+b_gedinos_stronghold:0 "Gedinos Stronghold"
+b_port_gedinos:0 "Port Gedenos"
+b_afaikin:0 "Afaikin"
+b_erinos:0 "Erinos"
+#
+c_point_qedoni:0 "Point Qedoni"
+b_qedoni_spire:0 "Qedoni Spire"
+b_point_qedoni:0 "Point Qedoni"
+b_house_of_rest:0 "House of Rest"
+#
+## Calonassa
+d_calonassa:0 "Calonassa"
+c_calonassa:0 "Calonassa"
+b_fort_calonassa:0 "Fort Calonassa"
+b_calonassa:0 "Calonassa"
+b_dioscan_woods:0 "Dioscan Woods"
+b_north_dioscan_woods:0 "North Dioscan Woods"
+#
+c_isle_aigiras:0 "Isle Aigiras"
+b_isle_aigiras:0 "Isle Aigiras"
+#
+c_thesika:0 "Thesika"
+b_thesika:0 "Thesika"
+b_neradis:0 "Neradis"
+b_amphiros:0 "Amphiros"
+#
+c_megios:0 "Megios"
+b_megios:0 "Megios"
+b_megiolofo:0 "Megiolofo"
+b_voriplaga:0 "Voriplaga"
+b_potoplaga:0 "Potoplaga"
+#
+### Tousone ##########################################################
+k_tousone:0 "Tousone"
+#
+## Tousone
+d_tousone:0 "Tousone"
+c_tourmon:0 "Tourmon"
+b_fort_tourmon:0 "Fort Tourmon"
+b_tourmon:0 "Tourmon"
+b_little_luire:0 "Little Luire"
+b_upper_luire:0 "Upper Luire"
+#
+c_ruisseur:0 "Ruisseur"
+b_ruisseur_tower:0 "Ruisseur Tower"
+b_greris:0 "Greris"
+b_calimar_shore:0 "Calimar Shore"
+#
+c_arge_d_belmyr:0 "Arge d'Belmyr"
+b_arge_d_belmyr:0 "Arge d'Belmyr"
+b_crianan:0 "Crianan"
+#
+c_forins:0 "Forins"
+b_forins:0 "Forins"
+b_forins_overlook:0 "Forin's Overlook"
+b_rachild_riv:0 "Rachild Riv"
+b_point_rachild:0 "Point Rachild"
+#
+c_lerac:0 "Lerac"
+b_isle_lerac:0 "Isle Lerac"
+#
+c_lisi:0 "Lisi"
+b_lisi:0 "Lisi"
+b_leton:0 "Leton"
+b_lisbourd:0 "Lisbourd"
+b_valleau:0 "Valleau"
+b_frene:0 "Frene"
+#
+c_auremont:0 "Auremont"
+b_auremstream:0 "Auremstream"
+b_silverpit:0 "Silverpit"
+b_pentcolline:0 "Pentcolline"
+b_mount_aurem:0 "Mount Aurem"
+b_boisgardant:0 "Boisgardant"
+#
+## Arge Rivage
+d_arge_rivage:0 "Arge Rivage"
+c_aranirsport:0 "Aranirsport"
+b_fort_aranir:0 "Fort Aranir"
+b_aranirsport:0 "Aranirsport"
+b_point_silver:0 "Point Silver"
+b_brens_sepulchre:0 "Bren's Sepulchre"
+#
+c_abrisus:0 "Abrisus"
+b_fort_abrisus:0 "Fort Abrisus"
+b_rivereddy:0 "Rivereddy"
+b_elfcairn:0 "Elfcairn"
+b_forestedge:0 "Forestedge"
+#
+c_point_osart:0 "Point Osard"
+b_point_osart:0 "Point Osard"
+b_calcon:0 "Calcon"
+b_tower_of_hegon:0 "Tower of Hegon"
+b_bourevil:0 "Bourevil"
+#
+c_lac_jormear:0 "Lac Jormear"
+b_tour_d_borou:0 "Tour d'Borou"
+b_tagny:0 "Tagny"
+b_saun_deu:0 "Saun Deu"
+#
+c_massicourt:0 "Massicourt"
+b_massicourt:0 "Massicourt"
+b_grasik:0 "Grasik"
+b_lostoak:0 "Lostoak"
+b_woodenwen:0 "Woodenwen"
+#
+## Casrel
+d_casrel:0 "Casrel"
+c_casrelon:0 "Casrelon"
+b_castle_casrelon:0 "Castle Casrelon"
+b_vierforet:0 "Vierforet"
+b_ruane:0 "Ruane"
+b_eperon:0 "Eperon"
+#
+c_fevremon:0 "Fevremon"
+b_fevremon:0 "Fevremon"
+b_balamber:0 "Balamber"
+b_arbonne:0 "Arbonne"
+b_basarbre:0 "Basarbe"
+#
+c_mirfoselle:0 "Mirfoselle"
+b_mirfoselle_keep:0 "Mirfoselle"
+b_mirfoselle:0 "Mirfoselle"
+b_forseir_hollow:0 "Forseir"
+b_ruiscour:0 "Ruiscour"
+#
+c_erenis:0 "Erenis"
+b_erenis:0 "Erenis"
+b_granchamp:0 "Granchamp"
+b_colforet:0 "Colforet"
+#
+## Trelin
+d_trelin:0 "Trelin"
+c_lacbrume:0 "Lacbrume"
+b_lacbrume_castle:0 "Lacbrume"
+b_etive:0 "Etive"
+b_lacbrume:0 "Lacbrume"
+#
+c_sylvent:0 "Sylvent"
+b_castle_sylvent:0 "Castle Sylvent"
+b_sylvent:0 "Sylvent"
+b_eteracha:0 "Eteracha"
+#
+c_murmira:0 "Murmira"
+b_murmira:0 "Murmira"
+b_boisiron:0 "Boisiron"
+b_stremir:0 "Stremir"
+#
+c_firin:0 "Firin"
+b_esar_firin:0 "Esar Firin"
+b_nuirsyrin:0 "Nuisyrin"
+b_friene:0 "Friene"
+b_melarin:0 "Melarin"
+#
+## Arbest
+d_arbest:0 "Arbest"
+c_isparin:0 "Isparin"
+b_citadel_de_riannon:0 "Citadel de Riannon"
+b_saphircross:0 "Saphircross"
+b_auberyvan:0 "Auberyvan"
+b_chouetta:0 "Chouetta"
+#
+c_the_enigma:0 "The Enigma"
+b_the_enigma:0 "The Enigma"
+b_aumforres:0 "Aumforres"
+b_valseron:0 "Valseron"
+#
+c_arui:0 "Arui"
+b_tour_etoile:0 "Tour Etoile"
+b_arui:0 "Arui"
+b_opirtau:0 "Opirtau"
+#
+c_tonarive:0 "Tonarive"
+b_tonarive:0 "Tonarive"
+b_fonsre:0 "Fonsre"
+b_ocalsolle:0 "Ocalsolle"
+#
+c_tour_de_caernis:0 "Tour de Caernis"
+b_tour_de_caernis:0 "Tour de Caernis"
+#
+## Tamilon
+d_princedom_of_tamilon:0 "Princedom of Tamilon"
+#
+### Iregryn
+k_iron_realm_of_iregryn:0 "Iron Realm of Iregryn"
+#
+#### Grand Ilfan
+e_grand_ilfan:0 "Grand Ilfan"
+#
+### Ilfan
+  k_ilfan:0 "Ilfan"
+  #
+  ## Ilfane
+  d_ilfane:0 "Ilfane"
+  c_ilfanyra:0 "Ilfanyra"
+  b_palace_of_vispyrin:0 "Palace of Vispyrin"
+  b_ilfanyra:0 "Ilfanyra"
+  b_marotal:0 "Marotal"
+  b_korte:0 "Korte"
+  b_forceau:0 "Forceau"
+  #
+  c_naseronne:0 "Naseronne"
+  b_naseronne_castle:0 "Naseronne Castle"
+  b_naseronneport:0 "Naseronneport"
+  b_hawkfield:0 "Hawkfield"
+  b_liercross:0 "Liercross"
+  b_scarseil:0 "Scarseil"
+  #
+  c_anarions_tower:0 "Anarions Tower"
+  b_anarions_tower:0 "Anarions Tower"
+  #
+  c_isle_d_ysam:0 "Isle d'Ysam"
+  b_isle_d_ysam:0 "Isle d'Ysam"
+  #
+  c_terion:0 "Terion"
+  b_terionkeep:0 "Terionkeep"
+  b_candlehallow:0 "Candlehallow"
+  b_terion:0 "Terion"
+  b_velbeuron:0 "Velbeuron"
+  #
+  c_veauxe:0 "Veauxe"
+  b_veauxe:0 "Veauxe"
+  b_lilonne:0 "Lilonne"
+  b_zolishen:0 "Zolishen"
+  #
+  ## Dalynmel
+  d_dalynmel:0 "Dalynmel"
+  c_forencet:0 "Forencet"
+  b_forencet_citadel:0 "Forencet Citadel"
+  b_forencet:0 "Forencet"
+  b_alcacen:0 "Alcacen"
+  #
+  c_galasthem:0 "Galasthem"
+  b_galasthem:0 "Galasthem"
+  b_coulcone:0 "Coulcone"
+  #
+  c_herrinthen:0 "Herrinthen"
+  b_herrinthen:0 "Herrinthen"
+  b_tission:0 "Tission"
+  b_sarbagne:0 "Sarbagne"
+  #
+  c_daynist:0 "Daynist"
+  b_daynist:0 "Daynist"
+  b_salou:0 "Salou"
+  b_tatane:0 "Tatane"
+  #
+  ## Kyrnne
+  d_kyrnne:0 "Kyrnne"
+  c_kyrnnien:0 "Kyrnnien"
+  b_kyrnnien:0 "Kyrnnien"
+  b_balan:0 "Balan"
+  b_clairime:0 "Clairime"
+  b_monet:0 "Monet"
+  #
+  c_besalun:0 "Besalun"
+  b_besalun:0 "Besalun"
+  b_belair:0 "Belair"
+  b_courram:0 "Courram"
+  #
+  c_aviss:0 "Aviss"
+  b_avissanne:0 "Avissanne"
+  b_avissvionne:0 "Avissvionne"
+  b_lilene:0 "Lilene"
+  b_tanonne:0 "Tanonne"
+  #
+  c_virgalen:0 "Virgalen"
+  b_virgalen:0 "Virgalen"
+  b_noinne:0 "Noinne"
+  b_mistier:0 "Mistier"
+  #
+  c_leme:0 "Leme"
+  b_leme_keep:0 "Leme Keep"
+  b_leme:0 "Leme"
+  #
+  ## Aldaris
+  d_aldaris:0 "Aldaris"
+  c_vel:0 "Vel"
+  b_vel:0 "Vel"
+  b_zeren:0 "Zeren"
+  b_sarath:0 "Sarath"
+  b_brys:0 "Brys"
+  #
+  c_nemenne:0 "Nemenne"
+  b_nemenne:0 "Nemenne"
+  b_ayana:0 "Ayana"
+  b_sersanne:0 "Sersanne"
+  b_kovana:0 "Kovana"
+  #
+  c_taramyn:0 "Taramyn"
+  b_taramyn:0 "Taramyn"
+  b_nonaia:0 "Nonaia"
+  b_elcoen:0 "Elcoen"
+  #
+  c_arvena:0 "Arvena"
+  b_arvena:0 "Arvena"
+  b_kela:0 "Kela"
+  b_eledeau:0 "Eledeau"
+  #
+  c_baraceau:0 "Baraceau"
+  b_baraceau:0 "Baraceau"
+  b_fion:0 "Fion"
+  b_oldara:0 "Oldara"
+  #
+  c_gauste:0 "Gauste"
+  b_tor_d_gauste:0 "Tor d'Gauste"
+  #
+  c_senneau:0 "Senneau"
+  b_senneau:0 "Senneau"
+  b_urne:0 "Urne"
+  b_errud:0 "Errud"
+  #
+  ## Ralrois
+  d_ralrois:0 "Ralrois"
+  c_ancienna:0 "Ancienna"
+  b_ancienvel:0 "Ancienval"
+  b_ancienna:0 "Ancienna"
+  b_panade:0 "Panade"
+  b_calime:0 "Calime"
+  b_margenne:0 "Margenne"
+  b_lisse:0 "Lisse"
+  #
+  c_gap_d_ilfan:0 "Gap d'Ilfan"
+  b_ilfanpass:0 "Ilfanpass"
+  b_spillslope:0 "Spillslope"
+  b_parte:0 "Parte"
+  #
+  c_valenaia:0 "Valenaia"
+  b_valenaia:0 "Valenaia"
+  b_colgon:0 "Colgon"
+  b_silnon:0 "Silnon"
+  b_falendal:0 "Falendal"
+  #
+  c_dralonne:0 "Dralonne"
+  b_dralonne:0 "Dralonne"
+  b_covre:0 "Covre"
+  #
+  c_issalen:0 "Issalen"
+  b_issalen:0 "Issalen"
+  b_beaulen:0 "Beaulen"
+  b_aesel_tor:0 "Aesel Tor"
+  b_idenil:0 "Idenil"
+  #
+  c_laureneau:0 "Laureneau"
+  b_laureneau:0 "Laureneau"
+  b_agranne:0 "Agranne"
+  b_vornnoux:0 "Vornnoux"
+  #
+  c_juela:0 "Juela"
+  b_juela:0 "Juela"
+  b_teiren:0 "Teiren"
+  b_malven:0 "Malven"
+  b_velumben:0 "Velumben"
+  #
+  ## Vendoleth
+  d_vendoleth:0 "Vendoleth"
+  c_cyrenyr:0 "Cyrenyr"
+  b_cyrenhall:0 "Cyrenhall"
+  b_cyrenyr:0 "Cyrenyr"
+  b_kinalryr:0 "Kinalryr"
+  b_dandona:0 "Dandona"
+  b_rustbark:0 "Rustbark"
+  #
+  c_ravinyra:0 "Ravinyra"
+  b_ravinyra_hold:0 "Ravinyra Hold"
+  b_talentree:0 "Talentree"
+  b_mon_arben:0 "Mon Arben"
+  #
+  c_morelyr:0 "Morelyr"
+  b_morelyr:0 "Morelyr"
+  b_osternyr:0 "Osternyr"
+  b_widyr:0 "Widyr"
+  b_lakan:0 "Lakan"
+  #
+  c_carengal:0 "Carengal"
+  b_carengal:0 "Carengal"
+  b_perigyn:0 "Perigyn"
+  #
+  c_eldyren:0 "Eldyren"
+  b_eldyren:0 "Eldyren"
+  b_nalsier:0 "Nalsier"
+  b_berinces:0 "Berinces"
+  b_roussion:0 "Roussion"
+  #
+  c_vistel:0 "Vistel"
+  b_vistel:0 "Vistel"
+  b_aviec:0 "Aviec"
+  b_ryone:0 "Ryone"
+  #
+  c_argennou:0 "Argennou"
+  b_argennou:0 "Argennou"
+  b_haronne:0 "Haronne"
+  b_fejion:0 "Fejion"
+  b_mainse:0 "Mainse"
+  #
+  ## Surleon
+  d_surleon:0 "Surleon"
+  c_leonpride:0 "Leonpride"
+  b_leonpride_tower:0 "Leonpride Tower"
+  b_leonpride:0 "Leonpride"
+  b_aubone:0 "Aubone"
+  b_einsforth:0 "Einsforth"
+  #
+  c_ironclaw_sepulchre:0 "Ironclaw Sepulchre"
+  b_ironclaw_sepulchre:0 "Ironclaw Sepulchre"
+#
+### Kingdom of Caspiril
+  k_caspiril:0 "Caspiril"
+  #
+  ## Casirian
+    d_casirian:0 "Casirian"
+    c_astavoux:0 "Astavoux"
+    b_palace_astachrom:0 "Palace Astachrom"
+    b_nir_astavoux:0 "Nir Astavoux"
+    b_val_astavoux:0 "Val Astavoux"
+    b_port_restenn:0 "Port Resten"
+    b_temple_of_princes:0 "Temple of Princes"
+    b_tour_d_astrum:0 "Tour d'Astrum"
+    #
+    c_tower_of_silverbreath:0 "Tower of Silverbreath"
+    b_tour_d_silverbreath:0 "Tour d'Silverbreath"
+    #
+    c_rhyals_harrow:0 "Rhyal's Harrow"
+    b_castle_ejon:0 "Castle Ejon"
+    b_terzis:0 "Terzis"
+    b_cardan:0 "Cardan"
+    b_vilsen:0 "Vilsen"
+    b_field_of_yran:0 "Fields of Yran"
+    #
+    c_jalcrest:0 "Jalcrest"
+    b_jalcrest:0 "Jalcrest"
+    b_athlow:0 "Athlow"
+    b_rosdon:0 "Rosdon"
+    #
+    c_tacelin:0 "Tacelin"
+    b_court_of_tacelin:0 "Court of Tacelin"
+    b_tacelin:0 "Tacelin"
+    b_tharan:0 "Thanran"
+    #
+    c_quelcrist:0 "Quelcrist"
+    b_quelcrist_castle:0 "Quelcrist Castle"
+    b_natein:0 "Natein"
+    b_templecross:0 "Templecross"
+    b_ameliseir:0 "Ameliseir"
+    #
+    c_cotiris:0 "Cotiris"
+    b_castle_sibrica:0 "Castle Sibrica"
+    b_cotiris:0 "Cotiris"
+    b_perina:0 "Perina"
+    b_katinris:0 "Katinris"
+    #
+    c_isle_sanguine:0 "Isle Sanguine"
+    b_isle_sanguine:0 "Isle Sanguine"
+  #
+  ## Solime
+    d_solime:0 "Solime"
+    c_cenrian:0 "Cenrian"
+    b_cenrian_citadel:0 "Cenrian Citadel"
+    b_cenrian:0 "Cenrian"
+    b_solime_cathedral:0 "Solime Cathedral"
+    #
+    c_isel:0 "Isel"
+    b_tour_d_isel:0 "Tour d'Isel"
+    #
+    c_silverdew:0 "Silverdew"
+    b_ardent_castle:0 "Ardent Castle"
+    b_silverdew:0 "Silverdew"
+    b_argentfel:0 "Argentfel"
+    #
+    c_spur_of_solime:0 "Spur of Solime"
+    b_tassilan:0 "Tassilan"
+    b_liudal:0 "Liudal"
+    b_arogast:0 "Arogast"
+    #
+    c_inovan:0 "Inovan"
+    b_inovan_house:0 "Inovan House"
+    b_inovan:0 "Inovan"
+    b_inovel:0 "Inovel"
+    #
+    c_avonte:0 "Avonte"
+    b_avontkeep:0 "Avontkeep"
+    b_amagir:0 "Amagir"
+    b_fulminat:0 "Fulminate"
+    #
+    c_broadtide:0 "Broadtide"
+    b_broadtide_tower:0 "Broadtide Tower"
+    b_shallowshore:0 "Shallowshore"
+    b_delinsand:0 "Delinsand"
+    b_tidetown:0 "Tide Town"
+  #
+  ## Lotheris
+    d_lotheris:0 "Lotheris"
+    c_cair_tenris:0 "Cair Tenris"
+    b_cair_tenris:0 "Cair Tenris"
+    b_lotheris:0 "Lotheris"
+    b_widowside:0 "Widowside"
+    b_ayers_sanctum:0 "Ayer's Sanctum"
+    #
+    c_cinder:0 "Cinder"
+    b_cinderkeep:0 "Cinderkeep"
+    b_liars_wall:0 "Liar's Wall"
+    #
+    c_inkheart:0 "Inkheart"
+    b_castle_silvertongue:0 "Castle Silvertongue"
+    b_focalen:0 "Focalen"
+    b_caprican:0 "Caprican"
+    b_resa:0 "Resa"
+    #
+    c_scribewalk:0 "Scribewalk"
+    b_verne:0 "Verne"
+    b_thoreau:0 "Thoreau"
+    #
+    c_silentweep:0 "Silentweep"
+    b_silentweep_citadel:0 "Silentweep Citadel"
+    b_ryal_silera:0 "Ryal Silera"
+    b_lucerian:0 "Lucerian"
+    #
+    c_heros_yearning:0 "Hero's Yearning"
+    b_brighstone_keep:0 "Brightstone Keep"
+    b_ashwyndel:0 "Ashwyndel"
+    b_halentree:0 "Halentree"
+    b_house_of_the_holy:0 "House of the Holy"
+  #
+  ## Morin
+    d_morin:0 "Morin"
+    c_perilance:0 "Perilance"
+    b_corinskeep:0 "Corinskeep"
+    b_perilance:0 "Perilance"
+    b_sortanin:0 "Sortanin"
+    b_glasstemple:0 "Glasstemple"
+    b_aubtanin:0 "Aubtanin"
+    #
+    c_proudlight:0 "Proudlight"
+    b_proudlight_castle:0 "Proudlight Castle"
+    b_songshore:0 "Songshore"
+    b_arsoix:0 "Arsoix"
+    b_rorhaun:0 "Rorhaun"
+    b_telmarais_house:0 "Telmarais House"
+    #
+    c_tower_of_the_seer:0 "Tower of the Seer"
+    b_tower_of_the_seer:0 "Tower of the Seer"
+    b_teresvin:0 "Teresvin"
+    #
+    c_bandal:0 "Bandal"
+    b_port_balister:0 ""
+    b_bandal:0 "Bandal"
+    b_stonetree:0 "Stonetree"
+    b_auborin:0 "Auborin"
+    #
+    c_erskendale:0 "Erskendale"
+    b_erskendale:0 "Erskendale"
+    b_coqulum:0 "Coqulum"
+    b_wending_hollow:0 "Wending Hollow"
+    #
+    c_giants_walk:0 "Giant's Walk"
+    b_giants_walk:0 "Giant's Walk"
+    b_siltstone:0 "Siltstone"
+    b_boupe:0 "Boupe"
+    b_mengen:0 "Mengen"
+    #
+    c_morinfall:0 "Morinfall"
+    b_morinfall_redoubt:0 "Morinfall Redoubt"
+    b_port_streamfall:0 "Port Streamfall"
+    b_belincour:0 "Belincour"
+    b_auscone:0 "Auscone"
+#
+### High Consulate of Torsiel
+  k_torsiel:0 "Torsiel"
+  #
+  ##
+    d_torsiel:0 "Torsiel"
+    c_val_d_estos:0 "Val d'Estos"
+    b_castle_arctros:0 "Castle Arctros"
+    b_elemins_point:0 "Elmin's Point"
+    b_diaris:0 "Diaris"
+    b_maursenis:0 "Maursenis"
+    b_colleme:0 "Colleme"
+    #
+    c_soncole:0 "Soncole"
+    b_donjeren_keep:0 "Donjeren Keep"
+    b_soncole:0 "Soncole"
+    b_rochern:0 "Rochern"
+    #
+    c_mont_torsiel:0 "Mont Torsiel"
+    b_mont_torsiel:0 "Mont Torsiel"
+    b_grenne:0 "Grenne"
+    #
+    c_vasan:0 "Vasan"
+    b_tour_d_vasan:0 "Tour d'Vasan"
+    b_adredas_rest:0 "Adreda's Rest"
+    b_vasan:0 "Vasan"
+    #
+    c_courvin:0 "Courvin"
+    b_horizons_watch:0 "Horizon Watch"
+    b_courvin:0 "Courvin"
+    b_belstream:0 "Belstream"
+    b_ezeu:0 "Ezeu"
+    #
+    c_poileten:0 "Poileten"
+    b_dorins_redout:0 "Dorin's Redoubt"
+    b_walk_of_hope:0 "Walk of Hope"
+    b_poileten:0 "Poileten"
+  #
+  ## Sontier
+    d_sontier:0 "Sontier"
+    c_veiryonne:0 "Veiryonne"
+    b_skesons_bend:0 "Skeson's Bend"
+    b_veiryonne:0 "Veiryonne"
+    b_sceron:0 "Sceron"
+    b_borsons_slide:0 "Borson's Slide"
+    #
+    c_borzeau:0 "Borzeau"
+    b_castle_of_the_curator:0 "Castle of the Curator"
+    b_relwenas_break:0 "Relwena's Break"
+    #
+    c_naress:0 "Naress"
+    b_naress:0 "Naress"
+    b_jenols:0 "Jenols"
+    b_avolium:0 "Avolium"
+    b_garamoium:0 "Garamoium"
+#
+### Trellian
+  k_trellian:0 "Trellian"
+  #
+  ## Duskcliff
+    d_duskcliff:0 "Duskcliff"
+    c_duskstone:0 "Duskstone"
+    b_duskstone_keep:0 "Duskstone Keep"
+    b_duskwatch:0 "Duskwatch"
+    b_duskstone:0 "Duskstone"
+    b_cassyrons_stand:0 "Cassyron's Stand"
+    b_umbral_shrine:0 "Umbral Shrine"
+    #
+    c_dustglyph_run:0 "Duskglyph Run"
+    b_dustglyph:0 "Dustglyph"
+    b_scribes_hollow:0 "Scribe's Hollow"
+    b_nights_vigil:0 "Night's Vigil"
+    b_kereyes:0 "Kereyes"
+    #
+    c_lyresta:0 "Lyresta"
+    b_lyresta_watchtower:0 "Lyresta Watchtower"
+    b_lyresta:0 "Lyresta"
+    b_rourelle:0 "Rourelle"
+    #
+    c_taulet:0 "Taulet"
+    b_taulet_tower:0 "Taulet Tower"
+    b_guidenal:0 "Guidenal"
+    b_frenan:0 "Frenan"
+    #
+    c_erasmun:0 "Erasmun"
+    b_erasmun_keep:0 "Erasmun Keep"
+    b_erasmun:0 "Erasmun"
+    b_trelshore:0 "Trelshore"
+    b_oakshade:0 "Oakshade"
+    #
+    c_twilights_wending:0 "Twilight's Wending"
+    b_twilights_fall:0 "Twilight's Fall"
+    b_wendwalk:0 "Wendwalk"
+    b_tresemane:0 "Tresemane"
+    b_polonne:0 "Polonne"
+  #
+  ## Idon Etris
+    d_idon_etris:0 "Idon Etris"
+    c_etris:0 "Etris"
+    b_castle_etris:0 "Castle Etris"
+    b_firan:0 "Firan"
+    b_zorten:0 "Zorten"
+    b_mormel:0 "Mormel"
+    #
+    c_dustglyph_hollow:0 "Dustglyph Hollow"
+    b_dustglyph_tower:0 "Dustglyph Tower"
+    b_reneans_wild:0 "Renean's Wild"
+    b_beldoran:0 "Beldoran"
+    #
+    c_ilfans_citadel:0 "Ilfan's Citadel"
+    b_ilfans_citadel:0 "Ilfan's Citadel"
+    #
+    c_woods_of_idon:0 "Woods of Idon"
+    b_woods_of_idon:0 "Woods of Idon"
+    b_corinhowe:0 "Corinhowe"
+    b_idons_tree:0 "Idon's tree"
+    #
+    c_deeps_descent:0 "Deep's Descent"
+    b_lastcastle:0 "Lastcastle"
+    b_queens_retreat:0 "Queen's Retreat"
+    b_kirions_call:0 "Kirion's Call"
+    #
+    c_ilfanswood:0 "Ilfanswood"
+    b_tribunes_keep:0 "Tribune's Keep"
+    b_holy_oak:0 "Holy Oak"
+    b_camur:0 "Camur"
+    b_eteniens:0 "Eteniens"
+    b_sarles:0 "Sarles"
+  #
+  ## Touresmoor
+    d_touresmoor:0 "Touresmoor"
+    c_touronne:0 "Touronne"
+    b_touren_castle:0 "Touren Castle"
+    b_steps_of_the_rider:0 "Steps of the Rider"
+    b_tavernier:0 "Tavernier"
+    b_waleren:0 "Waleren"
+    #
+    c_estesmoor:0 "Estesmoor"
+    b_estesmoor:0 "Estesmoor"
+    b_lone_tree:0 "Lone Tree"
+    b_riders_demise:0 "Rider's Demise"
+    b_serinals_stand:0 "Serinal's Stand"
+    #
+    c_woods_weeping:0 "Wood's Weeping"
+    b_woods_weeping:0 "Wood's Weeping"
+    b_rootrot_inn:0 "Rootrot Inn"
+    #
+    c_artessas_lament:0 "Artessa's Lament"
+    b_artessas_lament:0 "Artessa's Lament"
+    #
+    c_widemander:0 "Widemander"
+    b_widemander:0 "Widemander"
+    b_slen:0 "Slen"
+    b_van_isto:0 "Van Isto"
+  #
+  ## Rilean
+    d_rilean:0 "Rilean"
+    c_rilean:0 "Rilean"
+    b_rilean_keep:0 "Rilean Keep"
+    b_kiersarbor:0 "Kiersarbour"
+    b_argesha:0 "Argesha"
+    b_gilvan:0 "Gilvan"
+    #
+    c_isanmoor:0 "Isanmoor"
+    b_isanmoor_keep:0 "Isanmoor Keep"
+    b_isanmoor:0 "Isanmoor"
+#
+### Tallendria
+  k_tallendria:0 "Tallendria"
+  #
+  ## Mortisan
+  d_mortisan:0 "Mortisan"
+  c_felseris:0 "Felseris"
+  b_palace_ostium:0 "Palace Ostium"
+  b_felseris:0 "Felseris"
+  b_the_ostelum:0 "the Ostelum"
+  b_forlen:0 "Forlen"
+  #
+  c_calais:0 "Calais"
+  b_hardwind:0 "Hardwind"
+  b_calaisport:0 "Calaisport"
+  b_ardalesa:0 "Ardalesa"
+  b_ternisse:0 "Ternisse"
+  #
+  c_velesarne:0 "Velesarne"
+  b_velesarne:0 "Velesarne"
+  b_nerim:0 "Nerim"
+  #
+  c_galith_hen:0 "Galith Hen"
+  b_galith_hen:0 "Galith Hen"
+  b_viten:0 "Viten"
+  b_lucon:0 "Lucon"
+  #
+  c_windanne:0 "Windanne"
+  b_windanne_keep:0 "Windanne Keep"
+  b_windanne:0 "Windanne"
+  #
+  c_drauge:0 "Drauge"
+  b_drauge:0 "Drauge"
+  b_enkam:0 "Enkam"
+  b_acer:0 "Acer"
+  #
+  c_graveshore:0 "Graveshore"
+  b_graveshore_castle:0 "Graveshore Castle"
+  b_graveshore:0 "Graveshore"
+  b_briggan:0 "Briggan"
+  #
+  c_sorrows_harbor:0 "Sorrow's Harbor"
+  b_sorrows_harbor:0 "Sorrow's Harbor"
+  b_widows_teeth:0 "Widow's Teeth"
+  b_agronne:0 "Agronne"
+  #
+  ## Cote Abresset
+  d_cote_abresset:0 "Cote Abresset"
+  c_cadeaun:0 "Cadeaun"
+  b_cadeaunkeep:0 "Cadeaunkeep"
+  b_cadeaun:0 "Cadeaun"
+  b_flamne:0 "Flamne"
+  b_midstal:0 "Midstal"
+  b_maimur:0 "Maimur"
+  #
+  c_beausonne:0 "Beausonne"
+  b_beausonne:0 "Beausonne"
+  b_gennemans:0 "Gennemans"
+  b_mountraule:0 "Mountraule"
+  b_rougan:0 "Rougan"
+  #
+  c_blanchart:0 "Blanchart"
+  b_blanchart:0 "Blanchart"
+  b_deerwhite:0 "Deerwhite"
+  b_plascain:0 "Plascain"
+  #
+  c_clearingfall:0 "Clearingfall"
+  b_clearingfall:0 "Clearingfall"
+  b_luciens_tree:0 "Lucien's Tree"
+  #
+  c_fevres:0 "Fevres"
+  b_fevres:0 "Fevres"
+  b_inn_at_straitshore:0 "Inn at Straitshore"
+  #
+  c_tosencaire:0 "Tosencaire"
+  b_tosencaire:0 "Tosencaire"
+  b_dilorun:0 "Dilorun"
+  b_garest:0 "Garest"
+  b_berettin:0 "Berettin"
+  #
+  c_goulemn:0 "Goulemn"
+  b_goulemn:0 "Goulemn"
+  b_atrivo:0 "Atrivo"
+  #
+  ## Sonmeris
+  d_sonmeris:0 "Sonmeris"
+  c_merisgate:0 "Merisgate"
+  b_merisgate:0 "Merisgate"
+  b_gravewatch:0 "Gravewatch"
+  b_saseronne:0 "Saseronne"
+  b_ironne:0 "Ironne"
+  #
+  c_oleron:0 "Oleron"
+  b_oleron:0 "Oleron"
+  b_vierglos:0 "Vierglos"
+  b_chorc:0 "Chorc"
+  #
+  c_edera:0 "Edera"
+  b_edera:0 "Edera"
+  b_grenesh:0 "Grenesh"
+  b_purin:0 "Purin"
+  #
+  c_byrenn:0 "Byrenn"
+  b_byrennkeep:0 "Byrennkeep"
+  b_byrenn:0 "Byrenn"
+  b_marilet:0 "Marilet"
+  b_coentz:0 "Coentz"
+  #
+  c_jelvyn:0 "Jelvyn"
+  b_jelvyn:0 "Jelvyn"
+  b_liranoux:0 "Liranoux"
+  #
+  ## Isel Corbeau
+  d_isel_corbeau:0 "Isel Corbeau"
+  c_ravenhold:0 "Ravenhold"
+  b_ravenhold:0 "Ravenhold"
+  b_ravenswatch:0 "Ravenswatch"
+  b_ravens_harbor:0 "Raven's Harbor"
+  #
+  c_ghostlight:0 "Ghostlight"
+  b_ghostlight_tower:0 "Ghostlight Tower"
+  b_ghostbeacon:0 "Ghostbeacon"
+  b_harrowfall:0 "Harrowfall"
+  #
+  ## Orinea
+  d_orinea:0 "Orinea"
+  c_orinea:0 "Orinea"
+  b_orinea:0 "Orinea"
+  b_delethal:0 "Delethal"
+  b_blummon:0 "Blummon"
+  b_torpor:0 "Torpor"
+  #
+  c_galnon:0 "Galnon"
+  b_galnon:0 "Galnon"
+  b_birona:0 "Birona"
+  #
+  c_tavirtera:0 "Tavirtera"
+  b_tavirtera:0 "Tavirtera"
+  b_ovare:0 "Ovare"
+  b_tavelas:0 "Tavelas"
+  b_lleilon:0 "Lleilon"
+  #
+  c_portirin:0 "Portirin"
+  b_portirin:0 "Portirin"
+  b_malkona:0 "Malkona"
+  b_rimsetta:0 "Rimsetta"
+  #
+  c_tronda:0 "Tronda"
+  b_tronda:0 "Tronda"
+  b_koryfan:0 "Koryfan"
+  b_alhara:0 "Alhara"
+  #
+  c_lejos:0 "Lejos"
+  b_lejos:0 "Lejos"
+  b_porcia:0 "Porcia"
+  b_oulejs:0 "Oulejs"
+  #
+  ## Baera
+  d_baera:0 "Baera"
+  c_kortende:0 "Kortende"
+  b_citadel_of_kortende:0 "Citadel of Kortende"
+  b_kortende:0 "Kortende"
+  b_tower_of_light:0 "Tower of Light"
+  b_kitz:0 "Kitz"
+  b_personne:0 "Personne"
+  #
+  c_anacem:0 "Anacem"
+  b_anacem:0 "Anacem"
+  b_cataros:0 "Cataros"
+  b_barcera:0 "Barcera"
+  b_valjon:0 "Valjon"
+  #
+  c_faena:0 "Faena"
+  b_faena:0 "Faena"
+  b_muricena:0 "Muricena"
+  b_tavilan:0 "Tavilan"
+  b_calonia:0 "Calonia"
+  #
+  c_vircia:0 "Vircia"
+  b_vircia:0 "Vircia"
+  b_llevia:0 "Llevia"
+  b_inresa:0 "Inresa"
+  #
+  c_naresa:0 "Naresa"
+  b_naresa:0 "Naresa"
+  b_vallanse:0 "Vallanse"
+  b_alencia:0 "Alencia"
+  #
+  c_zalvega:0 "Zalvega"
+  b_zalvega:0 "Zalvega"
+  b_balaz:0 "Balaz"
+  #
+  ## Arborenes
+  d_arborenes:0 "Arborenes"
+  c_arborenes:0 "Arborenes"
+  b_arborenes:0 "Arborenes"
+  b_carcanin:0 "Carcanin"
+  b_diessena:0 "Diessena"
+  b_verloam:0 "Verloam"
+  #
+  c_silvano:0 "Silvano"
+  b_fulmenas_keep:0 "Fulmena's Keep"
+  b_silvano:0 "Silvano"
+  b_gintera:0 "Gintera"
+  b_andeler:0 "Andeler"
+  #
+  c_orenida:0 "Orenida"
+  b_orenida:0 "Orenida"
+  b_viatal:0 "Viatal"
+  b_intera:0 "Intera"
+  #
+  c_vareria:0 "Vareria"
+  b_vareria:0 "Vareria"
+  b_catviren:0 "Catviren"
+  b_ilondoma:0 "Ilondoma"
+  #
+  c_kalithea:0 "Kalithea"
+  b_kalithea:0 "Kalithea"
+  b_espira:0 "Espira"
+  b_torreres:0 "Torreres"
+  #
+  c_navanes:0 "Navanes"
+  b_navanes:0 "Navanes"
+  b_sapenza:0 "Sapenza"
+  b_azano:0 "Azano"
+  #
+  ## Iteran
+  d_iteran:0 "Iteran"
+  c_iterans_ash:0 "Iteran's Ash"
+  b_ashbank:0 "Ashbank"
+  b_deerwallow:0 "Deerwallow"
+  b_genrode:0 "Genrode"
+  b_mistel:0 "Mistel"
+  #
+  c_tour_d_iteran:0 "Tour d'Iteran"
+  b_tour_d_iteran:0 "Tour d'Iteran"
+  #
+  c_iterans_confluence:0 "Iteran's Confluence"
+  b_iterans_confluence:0 "Iteran's Confluence"
+  b_kilbridge:0 "Kilbridge"
+  b_enkemur:0 "Enkemur"
+  b_rosenborn:0 "Rosenborn"
+  #
+  c_kinace:0 "Kinace"
+  b_spines_outlook:0 "Spine's Outlook"
+  b_kinace:0 "Kinace"
+  #
+  c_dalcone:0 "Dalcone"
+  b_rynas_tower:0 "Ryna's Tower"
+  b_dalcone:0 "Dalcone"
+  b_kron:0 "Kron"
+  #
+  ## Calas' Wake
+  d_calas_wake:0 "Calas' Wake"
+  c_calaswatch:0 "Calaswatch"
+  b_calaswatch:0 "Calaswatch"
+  b_snowlily:0 "Snowlily"
+  b_vierse:0 "Vierse"
+  #
+  c_tower_of_murals:0 "Tower of Murals"
+  b_tower_of_murals:0 "Tower of Murals"
+  #
+  c_hollowash_howe:0 "Hollowash Howe"
+  b_hollowash:0 "Hollowash"
+  b_howelight_inn:0 "Howelight Inn"
+  b_aulionne:0 "Aulionne"
+  #
+  c_kortene:0 "Kortene"
+  b_kortene:0 "Kortene"
+  b_ballier:0 "Ballier"
+  b_genneluire:0 "Genneluire"
+  #
+  c_ritan:0 "Ritan"
+  b_ritan:0 "Ritan"
+  b_saugnoit:0 "Saugnoit"
+#
+### Umbrenal
+  k_umbrenal:0 "Umbrenal"
+#
+#### Caladrojan Reach
+e_caladrojan_reach:0 "Caladrojan Reach"
+#
+### Caladroja
+  k_caladroja:0 "Caladroja"
+  #
+  ## Caladroja
+  d_caladroja:0 "Caladroja"
+  c_caladran:0 "Caladran"
+  b_citadel_of_sessalia:0 "Citadel of Sessalia"
+  b_caladran:0 "Caladran"
+  b_aviros:0 "Aviros"
+  b_birin:0 "Birin"
+  b_ovioren:0 "Ovioren"
+  #
+  c_gerona:0 "Gerona"
+  b_gerona:0 "Gerona"
+  b_guardaros:0 "Guardaros"
+  b_albarrol:0 "Albarrol"
+  #
+  c_monte_fiore:0 "Monte Fiore"
+  b_halfangs_redoubt:0 "Halfang's Redoubt"
+  b_taceres:0 "Taceres"
+  b_aberol:0 "Aberol"
+  b_femora:0 "Femora"
+  #
+  c_kiravia:0 "Kiravia"
+  b_kiravia_citadel:0 "Kiravia Citadel"
+  b_kiravia:0 "Kiravia"
+  b_segana:0 "Segana"
+  b_balacia:0 "Balacia"
+  #
+  c_censeni:0 "Censeni"
+  b_censeni:0 "Censeni"
+  b_galil:0 "Galil"
+  b_vallarif:0 "Vallarif"
+  #
+  c_aldrada:0 "Aldrada"
+  b_aldrada:0 "Aldrada"
+  b_malacasa:0 "Malacasa"
+  #
+  c_therina:0 "Therina"
+  b_therina:0 "Therina"
+  b_gorgora:0 "Gorgora"
+  b_balbo:0 "Balbo"
+  #
+  ## Bravada
+  d_bravada:0 "Bravada"
+  c_bravadan:0 "Bravadan"
+  b_marista_palace:0 "Marista Palace"
+  b_bravadan:0 "Bravadan"
+  b_alva:0 "Alva"
+  b_arativa:0 "Arativa"
+  b_leoncan:0 "Leoncan"
+  #
+  c_tacante:0 "Tacante"
+  b_tacante:0 "Tacante"
+  b_korez:0 "Korez"
+  b_casia:0 "Casia"
+  #
+  c_tremona:0 "Tremona"
+  b_tidewhisper_keep:0 "Tidewater Keep"
+  b_tremona:0 "Tremona"
+  b_seronne:0 "Seronne"
+  b_altirza:0 "Altirza"
+  #
+  c_cadrim:0 "Cadrim"
+  b_cadrim:0 "Cadrim"
+  b_riovaran:0 "Riovaran"
+  b_leoruel:0 "Leoruel"
+  b_orleana:0 "Orleana"
+  #
+  c_dorencia:0 "Dorencia"
+  b_dorencia:0 "Dorencia"
+  b_niranke:0 "Niranke"
+  b_balense:0 "Balense"
+  #
+  c_teridan:0 "Teridan"
+  b_teridan:0 "Teridan"
+  b_tevilia:0 "Tevilia"
+  b_origo:0 "Origo"
+  b_castacil:0 "Castacil"
+  #
+  ## Tereggia
+  d_tereggia:0 "Tereggia"
+  c_tereggia:0 "Tereggia"
+  b_trenkeep:0 "Trenkeep"
+  b_tereggia:0 Tereggia
+  b_abrencia:0 "Abrencia"
+  b_garen:0 "Garen"
+  b_kilkeep:0 "Kilkeep"
+  #
+  c_zalonia:0 "Zalonia"
+  b_tantava:0 "Tantava"
+  b_bevere:0 "Bevere"
+  b_albana:0 "Albana"
+  b_zamoda:0 "Zamoda"
+  #
+  c_andartos:0 "Andartos"
+  b_andartos:0 "Andartos"
+  b_eidero:0 "Eidero"
+  b_oderon:0 "Oderon"
+  #
+  c_ralanea:0 "Ralanea"
+  b_ralanea:0 "Ralanea"
+  b_sarja:0 "Sarja"
+  b_alimania:0 "Alimania"
+  b_ventalan:0 "Ventalan"
+  #
+  c_alamaria:0 "Alamaria"
+  b_alamaria:0 "Alamaria"
+  b_olenbao:0 "Olenbao"
+  #
+  c_leoncia:0 "Leoncia"
+  b_leoncia:0 "Leoncia"
+  b_cantala:0 "Cantala"
+  b_tartos:0 "Tartos"
+  #
+  c_corensi:0 "Corensi"
+  b_corensi:0 "Corensi"
+  b_mavedra:0 "Mavedra"
+  b_obria:0 "Obria"
+  #
+  ## Gilrotan
+  d_gilrotan:0 "Gilrotan"
+  c_isla_gilrotan:0 "Isla Gilrotan"
+  b_gilrotan:0 "Gilrotan"
+  b_alzio:0 "Alzio"
+  #
+  c_isla_sania:0 "Isla Sania"
+  b_sania:0 "Sania"
+  #
+  ## Mederan
+  d_medaran:0 "Mederan"
+  c_mederana:0 "Mederana"
+  b_medarana:0 "Medarana"
+  b_chiona:0 "Chiona"
+  b_ovonne:0 "Ovonne"
+  b_calanna:0 "Calanna"
+  #
+  c_telesta:0 "Telesta"
+  b_tower_of_telesta:0 "Tower of Telesta"
+  #
+  c_salonia:0 "Salonia"
+  b_salonia:0 "Salonia"
+  b_olinja:0 "Olinja"
+  b_ercorma:0 "Ercorma"
+  b_riojan:0 "Riojan"
+  b_garez:0 "Garez"
+  #
+  c_balastre:0 "Balastre"
+  b_balastre:0 "Balastre"
+  b_lopagli:0 "Lopagli"
+  b_gallato:0 "Gallato"
+  b_burese:0 "Burese"
+  #
+  c_murin:0 "Murin"
+  b_murin:0 "Murin"
+  b_saburel:0 "Saburel"
+  b_retalo:0 "Retalo"
+  b_colille:0 "Colille"
+  #
+  c_tofe:0 "Tofe"
+  b_tofe:0 "Tofe"
+  b_verili:0 "Verili"
+  b_chaln:0 "Chaln"
+#
+### Vadorica
+  k_vadorica:0 "Vadorica"
+  #
+  d_princedom_of_terenresa:0 "Princedom of Terenresa"
+  #
+  ## Vadorica
+  d_vadora:0 "Vadora"
+  c_vadoran:0 "Vadoran"
+  b_vadorans_citadel:0 "Vadoran's Citadel"
+  b_vadoran:0 "Vadoran"
+  b_trosbel:0 "Trosbel"
+  #
+  c_bellwind:0 "Bellwind"
+  b_bellwind_castle:0 "Bellwind Castle"
+  b_bellwind:0 "Bellwind"
+  #
+  c_satoria:0 "Satoria"
+  b_castle_satoria:0 "Castle Satoria"
+  b_satoria:0 "Satoria"
+  b_grandera:0 "Grandera"
+  #
+  c_alitos:0 "Alitos"
+  b_alitos:0 "Alitos"
+  b_salos_hole:0 "Salo's Hole"
+  b_macimao:0 "Macimao"
+  #
+  c_banergost:0 "Banergost"
+  b_castle_banergost:0 "Castle Banergost"
+  b_banergost:0 "Banergost"
+  b_terizano:0 "Terizano"
+  #
+  c_novamo:0 "Novamo"
+  b_novamo:0 "Novamo"
+  b_santari:0 "Santari"
+  #
+  ## Ferocena
+  d_ferocena:0 "Ferocena"
+  c_aronessa:0 "Aronessa"
+  b_aronessa_castle:0 "Aronessa Castle"
+  b_aronessa:0 "Aronessa"
+  b_mallon:0 "Mallon"
+  b_relina:0 "Relina"
+  b_xalkis:0 "Xalkis"
+  #
+  c_ovienna:0 "Ovienna"
+  b_cannekeep:0 "Cannekeep"
+  b_ovienna:0 "Ovienna"
+  b_santiavici:0 "Santiavici"
+  #
+  c_artemo:0 "Artemo"
+  b_castle_of_the_hunt:0 "Castle of the Hunt"
+  b_artemo:0 "Artemo"
+  b_selsana:0 "Selsana"
+  #
+  c_thessana:0 "Thessana"
+  b_thessana:0 "Thessana"
+  b_regelam:0 "Regelam"
+  b_tineres:0 "Tineres"
+  #
+  c_salamandura:0 "Salamandura"
+  b_the_great_forge:0 "The Great Forge"
+  b_salamandura:0 "Salamandura"
+  b_boars_end:0 "Boar's End"
+  #
+  c_terenresa:0 "Terenresa"
+  b_terenresa:0 "Terenresa"
+  b_syrai:0 "Syrai"
+  b_folinero:0 "Folinero"
+  #
+  c_lunerin:0 "Lunerin"
+  b_lunerin:0 "Lunerin"
+  b_quarta:0 "Quarta"
+  b_etregas:0 "Etregas"
+  #
+  c_agonis:0 "Agonis"
+  b_agonis:0 "Agonis"
+  b_beressi:0 "Beressi"
+#
+### Zarun
+  k_zarun:0 "Zarun"
+  #
+  ## Zarun
+  d_zarun:0 "Zarun"
+  c_zaranai:0 "Zaranai"
+  b_zaranai_citadel:0 "Zaranai Citadel"
+  b_zaranai:0 "Zaranai"
+  b_rarefire:0 "Rarefire"
+  b_mezia:0 "Mezia"
+  b_parez:0 "Parez"
+  #
+  c_fanilon:0 "Fanilon"
+  b_tower_of_fanilon:0 "Tower of Fanilon"
+  #
+  c_kalamathea:0 "Kalamathea"
+  b_stronghold_of_kalamathea:0 "Stronghold of Kalamathea"
+  b_kalamanth:0 "Kalamanth"
+  b_cores:0 "Cores"
+  b_voelon:0 "Voelon"
+  #
+  c_lagan:0 "Lagan"
+  b_lagan:0 "Lagan"
+  b_trapensir:0 "Trapensir"
+  b_vianco:0 "Vianco"
+  b_palliri:0 "Palliri"
+  #
+  c_nidran:0 "Nidran"
+  b_nidran:0 "Nidran"
+  b_vanoa:0 "Vanoa"
+  b_oril:0 "Oril"
+  b_brenica:0 "Brenica"
+  #
+  c_evora:0 "Evora"
+  b_evorakeep:0 "Evorakeep"
+  b_evora:0 "Evora"
+  b_velevia:0 "Velevia"
+  b_ialgyeri:0 "Ialgyeri"
+  #
+  ## Daniya
+  d_daniya:0 "Daniya"
+  c_daniyala:0 "Daniyala"
+  b_starlam_castle:0 "Starlam Castle"
+  b_daniyala:0 "Daniyala"
+  b_mordas:0 "Mordas"
+  b_luiras:0 "Luiras"
+  b_gandauri:0 "Gandauri"
+  #
+  c_gladfada:0 "Gladfada"
+  b_glanfada:0 "Glanfada"
+  b_pradine:0 "Pradine"
+  b_cancem:0 "Cancem"
+  b_tirsala:0 "Tirsala"
+  b_brefa:0 "Brefa"
+  #
+  c_natera:0 "Natera"
+  b_natera:0 "Natera"
+  b_sodrid:0 "Sodrid"
+  b_orilla:0 "Orilla"
+  b_nagena:0 "Nagena"
+  #
+  c_andorica:0 "Andorica"
+  b_castle_of_redstar:0 "Castle of Redstar"
+  b_andorica:0 "Andorica"
+  b_valolegre:0 "Valolegre"
+  b_satras:0 "Satras"
+  b_liokan:0 "Liokan"
+  #
+  c_balastron:0 "Balastron"
+  b_castle_balastron:0 "Castle Balastron"
+  b_balastron:0 "Balastron"
+  b_macenta:0 "Macenta"
+  b_lourona:0 "Lourona"
+  #
+  c_friendra:0 "Friendra"
+  b_friendra:0 "Friendra"
+  b_pigolan:0 "Pigolan"
+  #
+  c_girobella:0 "Girobella"
+  b_girobella:0 "Girobella"
+  b_socitan:0 "Socitan"
+  #
+  c_risena:0 "Risena"
+  b_tower_of_risena:0 "Tower of Risena"
+#
+#### Godwrath #####################################
+e_shadarana:0 "Shadarana"
+#
+### Enlightened Shadarana #########################
+k_enlightened_shadarana:0 "Enlightened Shadarana"
+#
+## Kinshala
+d_kinshala:0 "Kinshala"
+c_kinshala:0 "Kinshala"
+b_point_ashcall:0 "Point Ashcall"
+b_kinshala:0 "Kinshala"
+b_takesta_shore:0 "Takesta Shore"
+b_brava:0 "Brava"
+b_uncasti:0 "Uncasti"
+#
+c_nyama:0 "Nyama"
+b_nyama_tower:0 "Nyama Tower"
+#
+c_hanayera:0 "Hanayera"
+b_hanayera:0 "Hanayera"
+b_ogasti:0 "Ogasti"
+#
+c_zalarun:0 "Zalarun"
+b_zalarun:0 "Zalarun"
+b_ulthandi:0 "Ulthandi"
+b_ain_sijin:0 "Ain Sijin"
+b_ritha:0 "Ritha"
+b_njeda:0 "Njeda"
+#
+## Kamerian
+d_kamerian:0 "Kamerian"
+c_ain_ruan:0 "Ain Ruan"
+b_ain_ruan:0 "Ain Ruan"
+b_tajefan:0 "Tajefan"
+b_zafi:0 "Zafi"
+b_hasran:0 "Hasran"
+#
+c_zana:0 "Zana"
+b_zana_tower:0 "Zana Tower"
+#
+c_brana:0 "Brana"
+b_brana:0 "Brana"
+b_kedos_walk:0 "Kedo's Walk"
+b_fihar:0 "Fihar"
+#
+c_kelad:0 "Kelad"
+b_kelad:0 "Kelad"
+b_regala:0 "Regala"
+b_odana:0 "Odana"
+#
+c_herza:0 "Herza"
+b_herza_castle:0 "Herza Castle"
+b_herza:0 "Herza"
+b_abona:0 "Abona"
+b_mysca:0 "Mysca"
+#
+d_enlightened_zalarun:0 "Enlightened City of Zalarun"
+#
+### Batl Han #####################################
+k_batl_han:0 "Batl Han"
+#
+## Batun
+d_batun:0 "Batun"
+c_batun:0 "Batun"
+b_house_of_crowns:0 "House of Crowns"
+b_fana_district:0 "Fana District"
+b_ashor_district:0 "Ashor District"
+b_port_ankali:0 "Port Ankali"
+b_temple_of_thinkers:0 "Temple of Thinkers"
+#
+c_kafel:0 "Kafel"
+b_tower_of_kafel:0 "Tower of Kafel"
+#
+c_altir_nev:0 "Altir Nev"
+b_orda:0 "Orda"
+b_altir_nev:0 "Altir Nev"
+b_kaful:0 "Kaful"
+b_van_geso:0 "Van Geso"
+#
+c_keyam_al:0 "Keyam Al"
+b_keyam_al:0 "Keyam Al"
+b_seja_ax:0 "Seja Ax"
+#
+c_van_naija:0 "Van Naija"
+b_van_naija:0 "Van Naija"
+b_hameri:0 "Hameri"
+b_tizche:0 "Tizche"
+#
+## Tayza Col
+d_tayza_col:0 "Tayza Col"
+c_tor_kalad:0 "Tor Kalad"
+c_tor_kalad:0 "Tor Kalad"
+#
+c_tavilash:0 "Tavilash"
+b_naidera_stronghold:0 "Naidera Stronghold"
+b_tavilash:0 "Tavilash"
+b_port_karim:0 "Port Karim"
+b_badis_ax:0 "Badis Ax"
+#
+c_du_shadir:0 "Du Shadir"
+b_n_shalo:0 "N'shalo"
+b_daemir:0 "Daemir"
+b_sahilas:0 "Sahilas"
+#
+c_barazad:0 "Barazad"
+b_tor_barazad:0 "Tor Barazad"
+b_zadaki:0 "Zadaki"
+#
+c_difatan:0 "Difatan"
+b_difatan:0 "Difatan"
+b_sanav:0 "Sanav"
+b_gal_fasi:0 "Gal Fasi"
+#
+c_mel_shani:0 "Mel Shani"
+b_mel_shani:0 "Mel Shani"
+b_ban_uxkul:0 "Ban Uxkul"
+b_ansi_kaz:0 "Ansi Kaz"
+#
+ozc_mafiza:0 "Mafiza"
+b_mafiza:0 "Mafiza"
+b_ilan_mag:0 "Ilan Mag"
+#
+c_ixzi:0 "Ixzi"
+b_tor_ixzi:0 "Tor Ixzi"
+#
+## Mela Revan
+d_mela_revan:0 "Mela Revan"
+c_kharanin:0 "Kharanin"
+b_kharanin:0 "Kharanin"
+b_odenzi:0 "Odenzi"
+b_qovan:0 "Qovan"
+b_zalor:0 "Zalor"
+#
+c_ariq_revan:0 "Ariq Revan"
+b_ariqan:0 "Ariqan"
+b_iskava:0 "Iskava"
+b_al_koan:0 "Al Koan"
+b_darish:0 "Darish"
+#
+c_sarisah:0 "Sarisah"
+b_saridah:0 "Sarisah"
+b_hatar:0 "Hatar"
+#
+c_tower_of_rakis:0 "Tower of Rakis"
+b_tower_of_rakis:0 "Tower of Rakis"
+#
+c_mizarim:0 "Mizarim"
+b_mizarim:0 "Mizarim"
+b_qahan:0 "Qahan"
+b_darju:0 "Darju"
+#
+c_deyalshir:0 "Deyalshir"
+b_deyalshir:0 "Deyalshir"
+b_faram:0 "Faram"
+b_al_mahar:0 "Al Mahar"
+b_hanlan:0 "Hanlan"
+#
+c_jala_nara:0 "Jala Nara"
+b_jala_rajab:0 "Jala Rajab"
+b_kefa:0 "Kefa"
+#
+c_koraj:0 "Koraj"
+b_koraj:0 "Koraj"
+b_annagal:0 "Annagal"
+#
+c_kebiza:0 "Kebiza"
+b_kebiza:0 "Kebiza"
+b_taroul:0 "Taroul"
+b_ubari:0 "Ubari"
+#
+## Tabris
+d_tabris:0 "Tabris"
+c_tabris:0 "Tabris"
+b_strongsand:0 "Strongsand"
+b_tabris:0 "Tabris"
+b_nerus:0 "Nerus"
+#
+c_djel:0 "Djel"
+b_djel:0 "Djel"
+b_hadra:0 "Hadra"
+b_natara:0 "Natara"
+b_karabadis:0 "Karabadis"
+#
+c_riayawah:0 "Riayawah"
+b_riayawah:0 "Riayawah"
+b_morinza:0 "Morinza"
+b_lahiban:0 "Lahiban"
+#
+c_madiq:0 "Madiq"
+b_madiq:0 "Madiq"
+b_fiozo:0 "Fiozo"
+#
+c_tabli:0 "Tabli"
+b_ad_tabli:0 "Ad Tabli"
+b_lahara:0 "Lahara"
+#
+c_halfan:0 "Halfan"
+b_halfan:0 "Halfan"
+#
+## Ukuwela
+d_ukuwela:0 "Ukuwela"
+c_al_virai:0 "Al Virai"
+b_al_virai_redoubt:0 "Al Virai Redoubt"
+b_loz_urdesh:0 "Loz Urdesh"
+b_malims_spire:0 "Malim's Spire"
+#
+c_urktash:0 "Urktash"
+b_urktash:0 "Urktash"
+b_rajis_path:0 "Raji's Path"
+b_irsans_hill:0 "Irsan's Hill"
+#
+## Lozandi
+d_lozandi:0 "Lozandi"
+#
+c_loza_ukar:0 "Loza Ukar"
+b_ukar_tower:0 "Ukar Tower"
+b_lozandi:0 "Lozandi"
+b_zalif:0 "Zalif"
+b_kolaz:0 "Kolaz"
+#
+c_zbir_ingla:0 "Zbir Ingla"
+b_zbir_ingla_tower:0 "Zbir Ingla Tower"
+b_zbir_ingla:0 "Zbir Ingla"
+b_ingazin:0 "Ingazin"
+#
+## Cal Baraket
+d_cal_baraket:0 "Cal Baraket"
+c_sotu_amyr:0 "Sotu Amyr"
+b_sotu:0 "Sotu"
+b_fazye:0 "Fazye"
+b_coeloz:0 "Coeloz"
+#
+c_gazti:0 "Gazti"
+b_gazti:0 "Gazti"
+b_amthe:0 "Amthe"
+b_phozi:0 "Phozi"
+#
+c_havo:0 "Havo"
+b_havo:0 "Havo"
+b_noth:0 "Noth"
+#
+c_lwega:0 "Lwega"
+b_lwega_tor:0 "Lwega"
+b_asko:0 "Asko"
+b_nosko:0 "Nosko"
+#
+c_deto:0 "Deto"
+b_xoran_tor:0 "Zoran Tor"
+b_deto:0 "Deto"
+b_fedyn:0 "Fedyn"
+#
+c_anso:0 "Anso"
+b_tower_of_anso:0 "Tower of Anso"
+#
+## Mela Zujaj
+d_mela_zujaj:0 "Mela Zujaj"
+c_qalezj_torana:0 "Qalezj Torana"
+b_qalezj_torana:0 "Qualezj Torana"
+b_jifani:0 "Jifani"
+b_shrine_of_hafa:0 "Shrine of Hafa"
+b_merfali:0 "Merfali"
+#
+c_reza:0 "Reza"
+b_reza_tor:0 "Reza Tor"
+b_hafan:0 "Hafan"
+b_loz:0 "Loz"
+#
+c_tzani:0 "Tzani"
+b_tzani:0 "Tzani"
+b_giomaz:0 "Giomaz"
+#
+## Kago
+d_kago:0 "Kago"
+c_kago:0 "Kago"
+b_kagola:0 "Kagola"
+b_desef:0 "Desef"
+b_point_aux:0 "Point Aux"
+#
+c_iscai_islands:0 "Iscai Islands"
+b_iscai:0 "Iscai"
+#
+### Dhalan ##################################
+k_dhalan:0 "Dhalan"
+#
+## Dhalan
+d_dhalan:0 "Dhalan"
+c_dhalan:0 "Dhalan"
+b_dhalan:0 "Dhalan"
+b_cafra:0 "Cafra"
+b_maraq:0 "Maraq"
+b_urn_fara:0 "Urn Fara"
+#
+c_takezi:0 "Takezi"
+b_takezi:0 "Takezi"
+b_echratian:0 "Echratian"
+#
+c_harlos:0 "Harlos"
+b_harlos:0 "Harlos"
+b_ghara:0 "Ghara"
+b_qural:0 "Quaral"
+#
+c_meran:0 "Meran"
+b_meran:0 "Meran"
+b_tor_sinra:0 "Tor Sinra"
+#
+c_malual:0 "Malual"
+b_tor_malual:0 "Tor Malual"
+b_bal_echan:0 "Bal Echan"
+b_nef_niana:0 "Nef Niana"
+#
+c_hozana:0 "Hozana"
+b_hozana:0 "Hozana"
+b_dontou:0 "Dontou"
+#
+c_wadasan:0 "Wadasan"
+b_wadasan:0 "Wadasan"
+b_ber_garlin:0 "Ber Garlin"
+b_tzesk:0 "Tzesk"
+#
+c_senfalin:0 "Senfalin"
+b_senfalin:0 "Senfalin"
+b_fisifit:0 "Fisifit"
+#
+## Vanda Halx
+d_vanda_halx:0 "Vanda Halx"
+c_talan:0 "Talan"
+b_talan_hai:0 "Talan Hai"
+b_bengier:0 "Bengier"
+b_aimal:0 "Aimal"
+b_khenar:0 "Khenar"
+#
+c_iso_vysal:0 "Iso Vysal"
+b_iso_vysal:0 "Iso Vysal"
+#
+c_quob:0 "Quob"
+b_quob:0 "Quob"
+b_mevanza:0 "Mevanza"
+#
+c_za_ortal:0 "Za Ortal"
+b_za_ortal:0 "Za Ortal"
+b_kaguin:0 "Za Ortal"
+#
+c_tazan:0 "Tazan"
+b_tazan:0 "Tazan"
+b_keda:0 "Keda"
+b_daganal:0 "Daganal"
+#
+## Ichorsand
+d_ichorsand:0 "Ichorsand"
+c_ara_errasa:0 "Ara Errasa"
+b_ara_errasa:0 "Ara Errasa"
+b_roujel:0 "Roujel"
+b_farbela:0 "Farbela"
+b_telet:0 "Telet"
+#
+c_bukalon:0 "Bukalon"
+b_bukalon:0 "Bukalon"
+b_ad_adami:0 "Ad Adami"
+b_romali:0 "Romali"
+b_kosofa:0 "Kosofa"
+#
+c_gisluat:0 "Gisluat"
+b_gisluat:0 "Gisluat"
+b_mdiza:0 "Mdiza"
+b_gadatwa:0 "Gadatwa"
+#
+c_vandalana:0 "Vandalana"
+b_vandalana:0 "Vandalana"
+b_bloodstone:0 "Bloodstone"
+b_rahulkan:0 "Rahulkan"
+#
+c_gorana:0 "Gorana"
+b_gorana:0 "Gorana"
+b_barref:0 "Barref"
+#
+## Sandwraith
+d_sandwraith:0 "Sandwraith"
+c_tegara:0 "Tegara"
+b_tegara:0 "Tegara"
+b_mohna:0 "Mohna"
+b_ghleia:0 "Ghleia"
+b_ara_sera:0 "Ara Sera"
+#
+c_halkesa:0 "Halkesa"
+b_halkesa:0 "Halkesa"
+b_halbira:0 "Halbira"
+b_zafra:0 "Zafra"
+#
+c_talad:0 "Talad"
+b_talad:0 "Talad"
+b_eta_dias:0 "Eta Dias"
+b_gobezei:0 "Gobezei"
+#
+c_medkran:0 "Medkran"
+b_medkran:0 "Medkran"
+b_talman_hai:0 "Talman Hai"
+b_regheila:0 "Regheila"
+b_shedarif:0 "Shedarif21"
+#
+#### Tessarion ####################################
+e_tessarion:0 "Tessarion"
+#
+### Tessaria #################################
+k_tessaria:0 "Tessaria"
+#
+## Kingsmound
+d_kingsmound:0 "Kingsmound"
+c_stelisgal:0 "Stelisgal"
+b_citadel_of_stelisgal:0 "Citadel of Stelisgal"
+b_stelisgal:0 "Stelisgal"
+b_manebraid:0 "Manebraid"
+b_prinzecall:0 "Prinzcall"
+b_dawngate:0 "Dawngate"
+#
+c_cloudridge:0 "Cloudridge"
+b_cloudridge:0 "Cloudridge"
+b_halfroot:0 "Halfroot"
+b_braverest:0 "Braverest"
+b_rainheart:0 "Rainheart"
+b_starbank:0 "Starbank"
+#
+c_brasslock:0 "Brasslock"
+b_brasslock:0 "Brasslock"
+b_dirtweb:0 "Dirtweb"
+b_flametale:0 "Flametale"
+b_silkroot:0 "Silkroot"
+#
+c_denrest:0 "Denrest"
+b_denrest_tower:0 "Denrest Tower"
+b_denrest:0 "Denrest"
+b_earthhorn:0 "Earthhorn"
+#
+c_goldtemper:0 "Goldtemper"
+b_goldhall:0 "Goldhall"
+b_goldtemper:0 "Goldtemper"
+b_deeploam:0 "Deeploam"
+b_copperwood:0 "Copperwood"
+#
+c_inkcoil:0 "Inkcoil"
+b_inkcoil:0 "Inkcoil"
+b_nibscribe:0 "Nibscribe"
+b_mossnight:0 "Mossnight"
+#
+c_knightswatch:0 "Knightswatch"
+b_knightwatch_tower:0 "Knightwatch Tower"
+#
+c_runerest:0 "Runerest"
+b_runerest:0 "Runerest"
+b_longhollow:0 "Longhollow"
+b_roilbolt:0 "Roilbolt"
+b_groveweb:0 "Groveweb"
+#
+c_greyhart:0 "Greyhart"
+b_greyhart:0 "Greyhart"
+b_haeferal:0 "Haeferal"
+b_herebrand:0 "Herebrand"
+#
+## Cenrys
+d_cenrys:0 "Cenrys"
+c_halfhearth:0 "Halfhearth"
+b_halfhearth_hall:0 "Halfhearth Hall"
+b_halfhearth:0 "Halfhearth"
+b_sheepwatch:0 "Sheepwatch"
+b_wraygir:0 "Wraygir"
+#
+c_canimore:0 "Canimore"
+b_canimore:0 "Canimore"
+b_aldwin:0 "Aldwin"
+b_bromstol:0 "Bromstol"
+b_dunwarren:0 "Dunwarren"
+#
+c_fenneran:0 "Fenneran"
+b_fenneran:0 "Fenneran"
+b_heatherwin:0 "Heatherwin"
+b_stonum:0 "Stonum"
+#
+c_porafon:0 "Porafon"
+b_porafon:0 "Porafon"
+b_enderen:0 "Porafon"
+b_hatheral:0 "Hatheral"
+#
+c_culgot:0 "Culgot"
+b_culgot:0 "Culgot"
+b_hurst:0 "Hurst"
+b_aesham:0 "Aesham"
+b_beornwald:0 "Beornwald"
+#
+## Suncairne
+d_suncairne:0 "Suncairne"
+c_suncairne:0 "Suncairne"
+b_suncairne:0 "Suncairne"
+b_wulfstone:0 "Wulfstone"
+b_haerforn:0 "Haerforn"
+b_ceolvan:0 "Ceolvan"
+#
+c_grenshil:0 "Grenshil"
+b_grenshil:0 "Grenshil"
+b_halfenwir:0 "Halfenwir"
+b_aeshan:0 "Aeshan"
+#
+c_authic:0 "Authic"
+b_authic:0 "Authic"
+b_stalmor:0 "Stalmor"
+b_wyrmigal:0 "Wyrmigal"
+b_galhorn:0 "Galhorn"
+#
+c_seaxin:0 "Seaxin"
+b_seaxin:0 "Seaxin"
+b_ceoilvan:0 "Ceoilvan"
+#
+## Murien
+d_murien:0 "Murien"
+c_thrymansk:0 "Thrymansk"
+b_thrymansk:0 "Thrymansk"
+b_surtheral:0 "Surtheral"
+b_hartstow:0 "Hartstow"
+b_hlanfen:0 "Hlanfen"
+#
+c_wyrcal:0 "Wyrcal"
+b_wyrcal:0 "Wyrcal"
+b_lyrun:0 "Lyrun"
+b_aescal:0 "Aescal"
+#
+c_norwin:0 "Norwin"
+b_norwin:0 "Norwin"
+b_stalbrough:0 "Stalbrough"
+b_taniscal:0 "Taniscal"
+#
+c_grendel:0 "Grendal"
+b_grendal:0 "Grendal"
+b_beralc:0 "Beralc"
+b_cynestan:0 "Cynestan"
+#
+### Haserian #################################
+k_haserian:0 "Haserian"
+#
+## Haseric
+d_haseric:0 "Haseric"
+c_eorendal:0 "Eorendal"
+b_eoranhold:0 "Eoranhold"
+b_eorandal:0 "Eorandal"
+b_guldenlaw:0 "Guldenlaw"
+b_mistren:0 "Mistren"
+#
+c_heyafad:0 "Heyafad"
+b_heyafad:0 "Heyafad"
+b_brimgil:0 "Brimgil"
+b_therem:0 "Therem"
+b_eorcan:0 "Eorcan"
+#
+c_meralfin:0 "Meralfin"
+b_meralfin:0 "Meralfin"
+b_gyrmgal:0 "Gyrmgal"
+b_suthyr:0 "Suthyr"
+b_colskal:0 "Colskal"
+#
+c_cynasan:0 "Cynasan"
+b_cynasan:0 "Cynasan"
+b_dunmere:0 "Dunmere"
+b_muddlenfal:0 "Muddlenfal"
+#
+c_aesbar:0 "Aesbar"
+b_aesbar:0 "Aesbar"
+b_haegen:0 "Haegen"
+b_bromsclyd:0 "Bromsclyd"
+#
+c_aesic:0 "Aesic"
+b_aesic:0 "Aesic"
+b_dryhtel:0 "Dryhtel"
+b_haringbor:0 "Haringbor"
+#
+## Caedyr
+d_caedyr:0 "Caedyr"
+c_caedyral:0 "Caedyral"
+b_caedyral:0 "Caedyral"
+b_fenwindal:0 "Fenwindal"
+b_alfstun:0 "Alfstun"
+b_dorferth:0 "Dorferth"
+#
+c_wyrmhowe:0 "Wyrmhowe"
+b_wyrmhowe:0 "Wyrmhowe"
+b_goldglare:0 "Goldglare"
+b_aldrics_stand:0 "Aldric's Stand"
+b_tenesdal:0 "Tenesdal"
+#
+c_hailfada:0 "Hailfada"
+b_hailfada:0 "Hailfada"
+b_scolsdal:0 "Scolsdal"
+b_ealdam:0 "Ealdam"
+#
+c_goldglut:0 "Goldglut"
+b_goldglut:0 "Goldglut"
+b_norendal:0 "Norendal"
+#
+## Eldyth
+d_eldyth:0 "Eldyth"
+c_eldythgate:0 "Eldythgate"
+b_eldythgate:0 "Eldythgate"
+b_grigsdun:0 "Grigsdun"
+b_haefenstil:0 "Haefenstil"
+#
+c_brynholt:0 "Brynholt"
+b_brynholt:0 "Brynholt"
+b_scieldan:0 "Scieldan"
+b_escbril:0 "Escbril"
+#
+c_borenwit:0 "Borenwit"
+b_borenwit:0 "Borenwit"
+b_mearcwil:0 "Mearcwil"
+#
+c_teadresh:0 "Teadresh"
+b_teadresh:0 "Teadresh"
+b_elmhald:0 "Elmhald"
+#
+c_halandal:0 "Halandal"
+b_halendal:0 "Halandal"
+b_altenthorn:0 "Altenthorn"
+b_fallowstone:0 "Fallowstone"
+#
+## Terac
+d_terac:0 "Terac"
+c_wolfhearth:0 "Wolfhearth"
+b_wolfhearth_hall:0 "Wolfhearth Hall"
+b_wolfhearth:0 "Wolfhearth"
+b_berics_hollow:0 "Beric's Hollow"
+b_cynigdal:0 "Cynigdal"
+#
+c_teracvel:0 "Teracvel"
+b_teracvel:0 "Teracvel"
+b_draecloth:0 "Draecloth"
+b_blodfen:0 "Blodfen"
+b_faedal:0 "Faedal"
+#
+c_wardslope:0 "Wardslope"
+b_wardhil_hall:0 "Wardhil Hall"
+b_cordstone:0 "Cordstone"
+b_windfolly:0 "Windfolly"
+b_aerscan:0 "Aerscan"
+b_fenstow:0 "Fenstow"
+#
+c_dunweld:0 "Dunweld"
+b_dunweld:0 "Dunweld"
+b_oxendal:0 "Oxendal"
+b_ortral:0 "Ortral"
+#
+c_eorman:0 "Eorman"
+b_eorman:0 "Eorman"
+b_denstrin:0 "Denstrin"
+b_strilgal:0 "Strilgal"
+#
+c_aetheldal:0 "Aetheldal"
+b_aetheldal:0 "Aetheldal"
+b_halidun:0 "Halidun"
+b_cinden:0 "Cinden"
+b_brightbarrow:0 "Brightbarrow"
+#
+### Mordynhal
+k_mordynhal:0 "Mordynhal"
+#
+## Mordyn
+d_mordyn:0 "Mordyn"
+c_caetyr:0 "Caetyr"
+b_caetyr:0 "Caetyr"
+b_fulcrum:0 "Fulcrum"
+b_islon_sora:0 "Islon Sora"
+b_dwyr:0 "Dwyr"
+b_perindal:0 "Perindal"
+#
+c_einhalia:0 "Einhalia"
+b_einhalia:0 "Einhalia"
+b_balortel:0 "Balortel"
+#
+c_crystalmor:0 "Crystalmor"
+b_crystalmor:0 "Crystalmor"
+b_blankwish:0 "Blankwish"
+b_dustlock:0 "Dustlock"
+b_fogreach:0 "Fogreach"
+#
+c_fahyrst:0 "Falhyrst"
+b_falhyrst_tower:0 "Falhyrst Tower"
+#
+c_ton_atrel:0 "Ton Atrel"
+b_ton_atrel:0 "Ton Atrel"
+b_trelwin:0 "Trelwin"
+b_windbank:0 "Windbank"
+b_loneveil:0 "Loneveil"
+#
+## Teringal
+d_teringal:0 "Teringal"
+c_terinsveil:0 "Terinsveil"
+b_terinsveil:0 "Terinsveil"
+b_geteran:0 "Geteran"
+b_ostedal:0 "Ostedal"
+b_stonefurrow:0 "Stonefurrow"
+#
+c_ironraven:0 "Ironraven"
+b_the_rookery:0 "The Rookery"
+b_ironraven:0 "Ironraven"
+b_bloodbeak:0 "Bloodbeak"
+b_madrona:0 "Madrona"
+#
+c_gyremud:0 "Gyremud"
+b_gyremud:0 "Gyremud"
+b_tallheart:0 "Tallheart"
+b_heathergrace:0 "Heathergrace"
+#
+c_paledance:0 "Paledance"
+b_paledance:0 "Paledance"
+b_evenrest:0 "Evenrest"
+b_preladin:0 "Preladin"
+b_thrownshoe:0 "Thrownshoe"
+#
+c_elkanwyr:0 "Elkanwyr"
+b_elkanwyr:0 "Elkanwyr"
+b_ashfan:0 "Ashfan"
+b_blackgrass:0 "Blackgrass"
+#
+c_vreio:0 "Vreio"
+b_vreio:0 "Vreio"
+b_selerin:0 "Selerin"
+b_eost:0 "Eost"
+#
+## Dynalist
+d_dynalist:0 "Dynalist"
+c_bilekiss:0 "Bilekiss"
+b_bilekiss:0 "Bilekiss"
+b_acidpit:0 "Acidpit"
+b_wothfen:0 "Wothfen"
+b_dunbren:0 "Dunbren"
+b_hadrel:0 "Hadrel"
+#
+c_wyrstone:0 "Wyrstone"
+b_wyrstone_tower:0 "Wyrstone Tower"
+b_wyrstone:0 "Wyrstone"
+b_seers_redoubt:0 "Seer's Redoubt"
+b_seidal:0 "Seidal"
+b_croaking_mound:0 "Croaking Mound"
+b_cynlaw:0 "Cynlaw"
+#
+c_tor_beren:0 "Tor Beren"
+b_tor_beren:0 "Tor Beren"
+b_ano_beren:0 "Ano Beren"
+b_heldal:0 "Heldal"
+b_soreldin:0 "Soreldin"
+#
+c_vojrin:0 "Vojrin"
+b_vojrin:0 "Vojrin"
+b_elesdal:0 "Elesdal"
+#
+c_ocier:0 "Ocier"
+b_ocier:0 "Ocier"
+b_firemist:0 "Firemist"
+b_virderdal:0 "Virderal"
+#
+c_wrathsong:0 "Wrathsong"
+b_wrathsong:0 "Wrathsong"
+b_fallen_hill:0 "Fallen Hill"
+b_caer_dostir:0 "Caer Dostir"
+b_destriers_charge:0 "Destrier's Charge"
+b_longtie:0 "Longtie"
+#
+### Draecfen
+k_draecfen:0 "Draecfen"
+#
+## Lancewind
+d_lancewind:0 "Lancewind"
+c_lancewind:0 "Lancewind"
+b_lancewind_citadel:0 "Lancewind Citadel"
+b_lancewind:0 "Lancewind"
+b_alisan:0 "Alisan"
+b_yeomanhall:0 "Yeomanhall"
+b_standaral:0 "Standaral"
+#
+c_dalaren:0 "Dalaren"
+b_dalaren:0 "Dalaren"
+b_saerafel:0 "Saerafel"
+b_dunborne:0 "Dunborne"
+b_silverden:0 "Silverden"
+#
+c_seaxmander:0 "Seaxmander"
+b_seaxmander:0 "Seaxmander"
+b_aeshdon:0 "Aeshdon"
+b_strandbon:0 "Strandbon"
+b_clythcall:0 "Clythcall"
+#
+c_heralds_call:0 "Herald's Call"
+b_heralds_tower:0 "Herald's Call"
+#
+c_bryganbor:0 "Bryganbor"
+b_bryganbor:0 "Bryganbor"
+b_halaferal:0 "Halaferal"
+b_thorunlore:0 "Thorunlore"
+b_stillcall:0 "Stillcall"
+#
+c_misterun:0 "Misterun"
+b_mistrun:0 "Misterun"
+b_stelgan:0 "Stelgan"
+b_ceinhil:0 "Ceinhil"
+b_vaxmint:0 "Vaxmint"
+#
+c_brimstrum:0 "Brimstrum"
+b_brimstrum:0 "Brimstrum"
+b_caerva_mirh:0 "Caerva Mirh"
+b_searnac:0 "Searnac"
+b_veleih:0 "Veleih"
+#
+c_blackfen:0 "Blackfen"
+b_blackfen:0 "Blackfen"
+b_lirtym:0 "Lirtym"
+b_yxweir:0 "Zxweir"
+b_fal_djerin:0 "Fal Djerin"
+#
+c_corganfeld:0 "Corganfeld"
+b_corganfeld:0 "Corganfeld"
+b_laberan:0 "Laberan"
+b_bael_talcui:0 "Bael Talcui"
+b_cjel_daro:0 "Cjel Daro"
+b_talwerd:0 "Talwerd"
+#
+## Athalan
+d_athalan:0 "Athalan"
+c_athalanwyr:0 "Athalanwyr"
+b_athalanwyr:0 "Athalanwyr"
+b_caedercal:0 "Caedercal"
+b_diral:0 "Diral"
+b_brynfaen:0 "Brynfaen"
+b_penlyrin:0 "Penlyrin"
+#
+c_jaceren:0 "Jaceren"
+b_jaceren:0 "Jaceren"
+b_caliol:0 "Caliol"
+b_britel:0 "Britel"
+#
+c_owlgaze:0 "Owlgaze"
+b_owlgaze:0 "Owlgaze"
+b_ponfen:0 "Ponfen"
+b_insern:0 "Insern"
+b_elberc:0 "Elberc"
+#
+c_aonisc:0 "Aonisc"
+b_aonisc:0 "Aonisc"
+b_vanilira:0 "Vanilira"
+#
+c_yanara:0 "Yanara"
+b_yanara:0 "Yanara"
+b_veshon:0 "Veshon"
+b_trostbor:0 "Trostbor"
+b_reloin:0 "Reloin"
+#
+c_arcalia:0 "Arcalia"
+b_arcalia_stronghold:0 "Arcalia"
+b_arcalia:0 "Arcalia"
+b_ioce:0 "Ioce"
+b_ocavilren:0 "Ocavilren"
+#
+c_din_adaran:0 "Din Adaran"
+b_din_adaran:0 "Din Adaran"
+b_cjenhowe:0 "Cjenhowe"
+b_dalc:0 "Dalc"
+#
+## Briarwaite
+d_briarwaite:0 "Briarwaite"
+c_briarcall:0 "Briarcall"
+b_briarcall:0 "Briarcall"
+b_eilahyr:0 "Eilahyr"
+b_nebiran:0 "Nebiran"
+b_byrigal:0 "Byrigal"
+b_ortial:0 "Ortial"
+#
+c_aldrelin:0 "Aldrelin"
+b_aldrelin:0 "Aldrelin"
+b_halertor:0 "Halertor"
+b_thyrena:0 "Thyrena"
+#
+c_lidahal:0 "Lidahal"
+b_lidahal:0 "Lidahal"
+b_hestersham:0 "Hestersham"
+b_cynastir:0 "Cynastir"
+b_boarwic:0 "Boarwic"
+#
+c_shaelan:0 "Shaelan"
+b_shaelan:0 "Shaelan"
+b_goerbur:0 "Goerbur"
+b_withworth:0 "Withworth"
+#
+c_vreya:0 "Vreya"
+b_vreya:0 "Vreya"
+b_dorsterwin:0 "Dorsterwin"
+#
+## Inaurin
+d_inaurin:0 "Inaurin"
+c_iredal:0 "Iredal"
+b_fort_iredal:0 "Fort Iredal"
+b_iredal:0 "Iredal"
+b_swyren:0 "Swyren"
+#
+c_filendyr:0 "Filendyr"
+b_filendyr:0 "Filendyr"
+b_aelhole:0 "Aelhole"
+b_wymbrine:0 "Wymbrine"
+b_swanfeather:0 "Swanfeather"
+#
+c_spearstand:0 "Spearstand"
+b_spearstand:0 "Spearstand"
+b_tal_vadan:0 "Tal Vadan"
+b_swandal:0 "Swandal"
+#
+c_clarenweld:0 "Clarenweld"
+b_clarenweld:0 "Clarenweld"
+b_dryten:0 "Dryten"
+b_aldrics_barrow:0 "Aldric's Barrow"
+#
+c_wyrdalest:0 "Wyrdalest"
+b_wyrdalest_tower:0 "Wyrdalest"
+#
+## Palorum Teneris
+d_palorum_teneris:0 "Palorum Teneris"
+c_kaedwyn:0 "Kaedwyn"
+b_caer_kaedwyn:0 "Caer Kaedwyn"
+b_pederest:0 "Pederest"
+b_brynairic:0 "Brynairic"
+b_valanah:0 "Valanah"
+b_acergelh:0 "Acergelh"
+#
+c_cronewind:0 "Cronewind"
+b_cronewind:0 "Cronewind"
+b_lethiral:0 "Lethiral"
+b_nerantval:0 "nerantval"
+#
+c_glasgen:0 "Glasgen"
+b_glasgen:0 "Glasgen"
+b_ilenhowe:0 "Ilenhowe"
+#
+c_taranbryt:0 "Taranbryt"
+b_taranbryt:0 "Taranbryt"
+b_caletyr:0 "Caletyr"
+b_oringel:0 "Oringel"
+b_idenhal:0 "Idenhal"
+#
+c_pendryr:0 "Pendryr"
+b_pendryr:0 "Pendryr"
+b_galesten:0 "Galesten"
+#
+c_lythwin:0 "Lythwin"
+b_lythwin:0 "Lythwin"
+b_caneweb:0 "Caneweb"
+b_idlevana:0 "Idlevana"
+b_pirencall:0 "Pirencall"
+#
+c_morgenel:0 "Morgenel"
+b_morgenel:0 "Morgenel"
+b_belcen:0 "Belcen"
+#
+c_cerymos:0 "Cerymos"
+b_cerymos:0 "Cerymos"
+b_lydoneg:0 "Lydoneg"
+b_cerekal:0 "Cerekal"
+#
+## Goldmander
+d_goldmander:0 "Goldmander"
+c_goldcrest:0 "Goldcrest"
+b_goldcrest:0 "Goldcrest"
+b_gildhollow:0 "Goldhollow"
+b_halac:0 "Halac"
+b_aewyns_tree:0 "Aewyn's Tree"
+#
+c_val_craich:0 "Val Craich"
+b_val_craich:0 "Val Craich"
+b_hearn:0 "Hearn"
+b_trevyn:0 "Trevyn"
+b_cerglas:0 "Cerglas"
+#
+c_hirancall:0 "Hirancall"
+b_hirancall:0 "Hirancall"
+b_derwym:0 "Derwym"
+b_tindal:0 "Tindal"
+#
+c_retvalion:0 "Retvalion"
+b_retvalion:0 "Retvalion"
+b_aldwhel:0 "Aldwhel"
+b_cjendal:0 "Cjendal"
+#
+c_aethderow:0 "Aethderow"
+b_aethderow:0 "Aethderow"
+b_poncraich:0 "Poncraich"
+b_faeldal:0 "Faeldal"
+#
+c_aersedh:0 "Aersedh"
+b_aersedh:0 "Aersedh"
+b_durwin:0 "Durwin"
+b_wendril:0 "Wendril"
+#
+c_inos_vulun:0 "Inos Vulun"
+b_inos_vulun:0 "Inos Vulun"
+b_vaporel:0 "Vaporel"
+#
+### Tavolin
+k_tavolin:0 "Tavolin"
+#
+## Tavolin
+d_tavolin:0 "Tavolin"
+c_tavolin:0 "Tavolin"
+b_tolands_retreat:0 "Toland's Retreat"
+b_tavolin:0 "Tavolin"
+b_saelhorn:0 "Saelhorn"
+b_firemud:0 "Firemud"
+#
+c_kalissin:0 "Kalissin"
+b_kalissin:0 "Kalissin"
+b_isterdal:0 "Isterdal"
+b_lyrtan:0 "Lyrtan"
+b_venidal:0 "Venidal"
+#
+c_brandholt:0 "Brandholt"
+b_brandholt:0 "Brandholt"
+b_wreyn:0 "Wreyn"
+b_thornbow:0 "Thornbow"
+b_yirin:0 "Yirin"
+b_darindal:0 "Darindal"
+#
+c_fenisweld:0 "Fenisweld"
+b_fenisweld:0 "Fenisweld"
+b_brakenfern:0 "Brakenfern"
+#
+c_astorinmyre:0 "Astorinmyre"
+b_astorinmyre:0 "Astorinmyre"
+b_blackwater:0 "Blackwater"
+b_sutherdal:0 "Sutherdal"
+#
+c_silveroak:0 "Silveroak"
+b_silveroak:0 "Silveroak"
+b_hopes_drowning:0 "Hopes Drowning"
+#
+c_homewallow:0 "Homewallow"
+b_homewallow:0 "Homewallow"
+b_old_goat_inn:0 "Old Goat Inn"
+b_moporen:0 "Moporen"
+b_aswilor:0 "Aswilor"
+#
+## Aelinmyr
+d_aelinmyr:0 "Aelimyr"
+c_aelinmyr:0 "Aelinmyr"
+b_aelinmyr:0 "Aelinmyr"
+b_angels_hollow:0 "Angel's Hollow"
+b_afteroak:0 "Afteroak"
+b_stalbore:0 "Stalbore"
+#
+c_belseral:0 "Belseral"
+b_belseral:0 "Belseral"
+b_aldricshome:0 "Aldricshome"
+b_nerusdal:0 "Nerusdal"
+b_lodeveran:0 "Lodeveran"
+#
+c_orten:0 "Orten"
+b_orten:0 "Orten"
+b_sunderan:0 "Sunderan"
+b_hegarin:0 "Hegarin"
+b_caemeral:0 "Caemeral"
+#
+c_nostindal:0 "Nostindal"
+b_nostindal:0 "Nostindal"
+b_eorfan:0 "Eorfan"
+b_teralpin:0 "Teralpin"
+#
+c_aesenwin:0 "Aesenwin"
+b_aesenwin:0 "Aesenwin"
+b_salden:0 "Salden"
+b_relendal:0 "Relendal"
+b_varean:0 "Varean"
+#
+c_bleakwater:0 "Bleakwater"
+b_bleakwater_watch:0 "Bleakwater Watch"
+b_bleakwater:0 "Bleakwater"
+#
+## Iseral
+d_iseral:0 "Iseral"
+c_raedwyns_hill:0 "Raedwyn's Hill"
+b_raedwyns_keep:0 "Raedwyn's Keep"
+b_raedwyns_hill:0 "Raedwyn's Hill"
+b_haeferdal:0 "Haeferdal"
+b_worenquell:0 "Worenquell"
+b_hwaith:0 "Hwaith"
+#
+c_rotban:0 "Rotban"
+b_rotban:0 "Rotban"
+b_wyncuhe:0 "Wyncuhe"
+b_oinecjer:0 "Oinecjer"
+b_fiodwin:0 "Fiodwin"
+#
+c_wyrfall:0 "Wyrfall"
+b_wyrfall:0 "Wyrfall"
+b_olineth:0 "Olineth"
+b_winterbrun:0 "Winterbrun"
+b_cynrens_grave:0 "Cynren's Grave"
+#
+c_helgate:0 "Helgate"
+b_the_pit:0 "the Pit"
+b_helgate:0 "Helgate"
+b_crones_redress:0 "Crone's Redress"
+#
+c_evron:0 "Evron"
+b_evron:0 "Evron"
+b_castercal:0 "Castercal"
+#
+c_iseral:0 "Iseral"
+b_iseral_tower:0 "Iseral Tower"
+#
+c_ciarwyn:0 "Ciarwyn"
+b_ciarwyn:0 "Ciarwyn"
+b_brygharfal:0 "Brygharfal"
+b_hodwin:0 "Hodwin"
+#
+#### Ibrina
+e_ibrina:0 "Ibrina"
+#
+### Azurea
+k_azurea:0 "Azurea"
+#
+## Kidakali
+d_kidakali:0 "Kidakali"
+c_kidakalikon:0 "Kidakalikon"
+b_seastone_palace:0 "Seastone Palace"
+b_kidakalikon:0 "Kidakalikon"
+b_dalionport:0 "Dalionport"
+b_itaros:0 "Itaros"
+b_phyrenia:0 "Phyrenia"
+#
+c_ordakestion:0 "Ordakestion"
+b_citadel_of_ordakestion:0 "Citadel of Ordakestion"
+b_tower_of_amantara:0 "Tower of Amantara"
+b_the_orphian_keep:0 "the Orphian Keep"
+#
+c_nacria:0 "Nacria"
+b_nacria:0 "Nacria"
+b_leontelen:0 "Leontelen"
+b_thespiea:0 "Thespiea"
+#
+c_carania:0 "Carania"
+b_carania:0 "Carania"
+b_rea:0 "Rea"
+b_tilinea:0 "Tilinea"
+#
+c_avodythos:0 "Avodythos"
+b_thespacian_citadel:0 "Thespacian Citadel"
+b_avodythos:0 "Avodythos"
+b_stilinai:0 "Stilinai"
+b_kallerna:0 "Kallerna"
+#
+c_siderika:0 "Siderika"
+b_siderika:0 "Siderika"
+b_tesphos:0 "Tesphos"
+#
+c_pyrodanos:0 "Pyrodanos"
+b_pyrodanos:0 "Pyrodanos"
+b_marenyra:0 "Marenyra"
+b_askelos:0 "Askelos"
+b_apoch:0 "Apoch"
+#
+c_kameriorus:0 "Kameriorus"
+b_kameriorus:0 "Kameriorus"
+b_kato:0 "Kato"
+b_theodespiae:0 "Theodespiae"
+b_koridyna:0 "Koridyna"
+#
+## Aenollonia
+d_aenollonia:0 "Aenollonia"
+c_eterith:0 "Eterith"
+b_stronghold_of_apherus:0 "Stronghold of Apherus"
+b_eterith:0 "Eterith"
+b_itarikos:0 "Itarikos"
+b_the_sunstones:0 "the Sunstones"
+#
+c_jutikos:0 "Jutikos"
+b_jutikos:0 "Jutikos"
+b_laciros:0 "Laciros"
+b_pherin:0 "Pherin"
+#
+c_orchidos:0 "Orchidos"
+b_orchidos:0 "Orchidos"
+b_anphori:0 "Anphori"
+b_sera:0 "Sera"
+#
+c_ambyras:0 "Ambyras"
+b_ambyras:0 "Ambyras"
+b_nymphikon:0 "Nymphikon"
+b_corminos:0 "Corminos"
+#
+c_nysaphon:0 "Nysaphon"
+b_nysaphon:0 "Nysaphon"
+b_rhodanium:0 "Rhodanium"
+b_leosphel:0 "Leosphel"
+#
+## Hypodaemia
+d_hypodaemia:0 "Hypodaemia"
+c_keberae:0 "Keberae"
+b_satarus_castle:0 "Satarus Castle"
+b_keberae:0 "Keberae"
+b_arius_stand:0 "Arius Stand"
+b_alaviv:0 "Alaviv"
+b_gelimeros:0 "Gelimeros"
+#
+c_helmerai:0 "Helmerai"
+b_castle_aurius:0 "Castle Aurius"
+b_helmerai:0 "Helmerai"
+b_athaniki:0 "Athaniki"
+b_olicos:0 "Olicos"
+b_halus:0 "Halus"
+#
+c_sonyras:0 "Sonyras"
+b_sonyras:0 "Sonyras"
+b_ortos:0 "Ortos"
+b_posurii:0 "Posurii"
+#
+c_kationa:0 "Kationa"
+b_tower_of_kation:0 "Tower of Kation"
+#
+c_zaronkai:0 "Zaronkai"
+b_zaronkai:0 "Zaronkai"
+b_agripas:0 "Agripas"
+b_assera:0 "Assera"
+b_hellum:0 "Hellum"
+#
+## Erados
+d_erados:0 "Erados"
+c_eradosikon:0 "Eradosikon"
+b_eradosikon:0 "Eradosikon"
+b_kosolis:0 "Kosolis"
+b_pellinth:0 "Pellinth"
+b_rike:0 "Rike"
+#
+c_annonika:0 "Annonika"
+b_annonika:0 "Annonika"
+b_heirekon:0 "Heirekon"
+b_byzios:0 "Byzios"
+#
+c_ilumn:0 "Ilumn"
+b_ilumn:0 "Ilumn"
+b_tephyra:0 "Tephyra"
+b_messiae:0 "Messiae"
+b_vatheus:0 "Vatheus"
+#
+c_garum:0 "Garum"
+b_garum:0 "Garum"
+b_starkois:0 "Starkois"
+b_hae:0 "Hae"
+b_heion:0 "Heion"
+#
+c_sysiphon:0 "Sysiphon"
+b_tower_of_sysiphon:0 "Tower of Sysiphon"
+#
+## Kalathosos
+d_kalathosos:0 "Kalathosos"
+c_kalathikon:0 "Kalathikon"
+b_kalathikon:0 "Kalathikon"
+b_erethis:0 "Erethis"
+b_tominos:0 "Tominos"
+b_arsias:0 "Arsias"
+b_rhynos:0 "Rhynos"
+#
+c_vespescia:0 "Vespescia"
+b_vespescia:0 "Vespescia"
+b_anaberis:0 "Anaberis"
+#
+c_lasodrydus:0 "Lasodrydus"
+b_lasodrydus:0 "Lasodrydus"
+b_deceira:0 "Deceira"
+b_thassathon:0 "Thassathon"
+#
+c_tylonos:0 "Tylonos"
+b_tylonos:0 "Tylonos"
+b_heracli:0 "Heracli"
+#
+c_pharos:0 "Pharos"
+b_pharos:0 "Pharos"
+b_theodanos:0 "Theodanos"
+b_olisyka:0 "Olisyka"
+#
+c_patramos:0 "Patramos"
+b_patramos:0 "Patramos"
+b_halosia:0 "Halosia"
+b_olysonos:0 "Olysonos"
+#
+c_solius:0 "Solius"
+b_solius:0 "Solius"
+b_cyinthi:0 "Cyinthi"
+b_aigita:0 "Aigita"
+#
+c_syrythae:0 "Syrythae"
+b_syrythae_island:0 "Syrythae"
+#
+## Pontilates
+d_pontilates:0 "Pontilates"
+c_mallantina:0 "Mallantina"
+b_mallantina:0 "Mallantina"
+b_cytheos_bend:0 "Cytheos Bend"
+b_dioscian:0 "Dioscian"
+b_lauros:0 "Lauros"
+b_irebiran:0 "Irebiran"
+#
+c_amphoas:0 "Amphoas"
+b_amphoas:0 "Amphoas"
+b_korikastra:0 "Korikastra"
+b_nimara:0 "Nimara"
+#
+c_chronesta:0 "Chronesta"
+b_chronesta:0 "Chronesta"
+b_thorosaniki:0 "Thorosaniki"
+b_eresenna:0 "Eresenna"
+#
+c_phykeros:0 "Phykeros"
+b_nataxia:0 "Nataxia"
+b_ayateus:0 "Ayateus"
+#
+## Ibriana
+d_ibriana:0 "Ibriana"
+c_ayatara:0 "Ayatara"
+b_ilrinid_stronghold:0 "Ilrinid Stronghold"
+b_ayatara:0 "Ayatara"
+b_etramos:0 "Etramos"
+b_myria:0 "Myria"
+#
+c_thesios:0 "Thesios"
+b_tower_of_thesios:0 "Tower of Thesios"
+#
+c_iocalos:0 "Iocalos"
+b_iocalos:0 "Iocalos"
+b_calacara:0 "Calacara"
+b_jerikan:0 "Jerikan"
+b_pirenna:0 "Pirenna"
+#
+c_tylos:0 "Tylos"
+b_tylos:0 "Tylos"
+b_megiran:0 "Megiran"
+b_kydonia:0 "Kydonia"
+b_ursos:0 "Ursos"
+#
+c_cyrkona:0 "Cyrkona"
+b_cyrkona:0 "Cyrkona"
+b_agronion:0 "Agronion"
+b_helinos:0 "Helinos"
+b_lytos:0 "Lytos"
+#
+c_antiope:0 "Antiope"
+b_antiope:0 "Antiope"
+b_kesephere:0 "Kesephere"
+b_thoride:0 "Thoride"
+b_assameus:0 "Assameus"
+#
+c_knidetra:0 "Knidetra"
+b_knidetra:0 "Knidetra"
+b_bredanis:0 "Bredanis"
+b_keparia:0 "Keparia"
+#
+c_selessia:0 "Selessia"
+b_selessia:0 "Selessia"
+b_thuride:0 "Thuride"
+b_aegorus:0 "Aegorus"
+#
+## Palorum Nostros
+d_palorum_nostros:0 "Palorum Nostros"
+c_phostros:0 "Phostros"
+b_phostros:0 "Phostros"
+b_erinikos:0 "Erinikos"
+b_phocodes:0 "Phocodes"
+b_donakos:0 "Donakos"
+#
+c_terikon:0 "Terikon"
+b_terikon:0 "Terikon"
+b_itegos:0 "Itegos"
+b_histriox:0 "Histriox"
+b_theremalis:0 "Theremalis"
+#
+c_lamias_wrath:0 "Lamia's Wrath"
+b_lamias_wrath:0 "Lamia's Wrath"
+b_kamaral:0 "Kamaral"
+b_toseleum:0 "Toseleum"
+#
+c_naxamea:0 "Naxamea"
+b_naxamea:0 "Naxamea"
+b_bratosina:0 "Bratosina"
+b_aragosem:0 "Aragosem"
+b_trakoi:0 "Trakoi"
+#
+c_metembria:0 "Metembria"
+b_metembria:0 "Metembria"
+b_pyrigatos:0 "Pyrigatos"
+b_milena:0 "Milena"
+b_lareidonia:0 "Lareidonia"
+#
+### Merathia
+k_merathia:0 "Merathia"
+#
+## Moromith
+d_moromith:0 "Moromith"
+c_moromith:0 "Moromith"
+b_bastion_of_the_matron:0 "Bastion of the Matron"
+b_moromith:0 "Moromith"
+b_princehall:0 "Princehall"
+b_harrows_wall:0 "Harrow's Wall"
+b_oceanfall:0 "Oceanfall"
+b_quartzcliff:0 "Quartzcliff"
+#
+c_queenshore:0 "Queenshore"
+b_queenshore:0 "Queenshore"
+b_ripsand:0 "Ripsand"
+b_smoothshade:0 "Smoothshade"
+b_bellkeep:0 "Bellkeep"
+#
+c_duskrock:0 "Duskrock"
+b_duskrock_island:0 "Duskrock Island"
+#
+c_shimmerfield:0 "Shimmerfield"
+b_shimmerhall:0 "Shimmerhall"
+b_shimmerfield:0 "Shimmerfield"
+b_merowchapel:0 "Merowchapel"
+#
+c_redwell:0 "Redwell"
+b_redwell:0 "Redwell"
+b_riverwind:0 "Riverwind"
+b_ferowmine:0 "Ferowmine"
+#
+c_ambershade:0 "Ambershade"
+b_ambershade_castle:0 "Ambershade Castle"
+b_ambershade:0 "Ambershade"
+b_aceron:0 "Aceron"
+#
+c_shoudhill:0 "Shroudhill"
+b_shroudhill:0 "Shroudhill"
+b_saltbend:0 "Saltbend"
+b_oxmerin:0 "Oxmerin"
+b_hazelfel:0 "Hazelfel"
+#
+c_steamhold:0 "Steamhold"
+b_steamhall:0 "Steamhall"
+b_iagoran:0 "Iagoran"
+b_basinbar:0 "Basinbar"
+b_highrock_peninsula:0 "Highrock Peninsula"
+#
+## Istradin
+d_istradin:0 "Istradin"
+c_istrada:0 "Istrada"
+b_istradakeep:0 "Istradakeep"
+b_istrada:0 "Istrada"
+b_eyra:0 "Eyra"
+b_spirestone:0 "Spirestone"
+#
+c_istradin:0 "Istradin"
+b_istradin_tower:0 "Istradin Tower"
+#
+c_rainbrace:0 "Rainbrace"
+b_rainbrace:0 "Rainbrace"
+b_shadehill:0 "Shadehill"
+b_feymond:0 "Feymond"
+b_heartstall:0 "Heartstall"
+#
+c_basinrun:0 "Basinrun"
+b_basinrun_barrow:0 "Basinrun Barrow"
+b_basinrun:0 "Basinrun"
+b_steepgate:0 "Steepgate"
+b_grimwater:0 "Grimwater"
+#
+c_longtrial:0 "Longtrial"
+b_longtrial_keep:0 "Longtrial Keep"
+b_hayfield:0 "Hayfield"
+b_earthrise:0 "Earthrise"
+b_tradeway:0 "Tradeway"
+b_pondfaire:0 "Pondfaire"
+#
+c_mouregrain:0 "Mouregrain"
+b_mourekeep:0 "Mourekeep"
+b_stillvale:0 "Stillvale"
+b_quickmeadow:0 "Quickmeadow"
+b_fairhall:0 "Fairhall"
+#
+c_cleridan:0 "Cleridan"
+b_clericskeep:0 "Clericskeep"
+b_cleridan:0 "Cleridan"
+b_bariss:0 "Bariss"
+#
+## Arengaith
+d_arengaith:0 "Arengaith"
+c_arengaith:0 "Arengaith"
+b_arengaith_castle:0 "Arengaith Castle"
+b_arengaith:0 "Arengaith"
+b_elfbend:0 "Elfbend"
+b_brittlebough:0 "Brittlebough"
+#
+c_havenshore:0 "Havenshore"
+b_havenshore:0 "Havenshore"
+b_kalkare:0 "Kalkare"
+b_grekare:0 "Grekare"
+#
+c_saltmander:0 "Saltmander"
+b_saltmander:0 "Saltmander"
+b_deadsurf:0 "Deadsurf"
+b_grove_of_the_oracle:0 "Grove of the Oracle"
+#
+c_greencairn:0 "Greencairn"
+b_greencairn:0 "Greencairn"
+b_tallowhome:0 "Tallowhome"
+b_crowspire:0 "Crowspire"
+b_darkrune:0 "Darkrune"
+#
+c_littlebell:0 "Littlebell"
+b_bellmaker_castle:0 "Bellmaker Castle"
+b_littlebell:0 "Littlebell"
+b_blackbrass:0 "Blackbrass"
+b_slatesong:0 "Slatesong"
+#
+c_gostmern:0 "Gostmern"
+b_gostmern:0 "Gostmern"
+b_dyebreeze:0 "Dyebreeze"
+b_waterwatch:0 "Waterwatch"
+#
+c_dimwatch:0 "Dimwatch"
+b_dimwatch:0 "Dimwatch"
+b_glimmerhand:0 "Glimmerhand"
+b_oakengrove:0 "Oakengrove"
+b_redpost:0 "Redpost"
+#
+## Longhel
+d_longhel:0 "Longhel"
+c_amoryns_stand:0 "Amoryn's Stand"
+b_amoryns_stand:0 "Amoryn's Stand"
+b_sunmire:0 "Sunmire"
+b_bluefield:0 "Bluefield"
+b_boargrave:0 "Boargrave"
+b_ghost_hollow:0 "Ghost Hollow"
+#
+c_seatalon:0 "Seatalon"
+b_seatalon_tower:0 "Seatalon Tower"
+#
+c_heartfell:0 "Heartfell"
+b_tradespire_tower:0 "Tradespire Tower"
+b_heartfell:0 "Heartfell"
+#
+c_rustshore:0 "Rustshore"
+b_ruststone_castle:0 "Ruststone Castle"
+b_rustshore:0 "Rustshore"
+b_blackwick:0 "Blackwick"
+b_autumnfort:0 "Autumnfort"
+b_lostvault:0 "Lostvault"
+#
+c_ironhill:0 "Ironhill"
+b_ironhill:0 "Ironhill"
+b_slagmound:0 "Slagmound"
+b_loamhollow:0 "Loamhollow"
+b_clayhorn:0 "Clayhorn"
+b_glasstown:0 "Glasstown"
+#
+c_wildepost:0 "Wildpost"
+b_tower_of_the_boar:0 "Tower of the Boar"
+b_wildepost:0 "Wildepost"
+b_rogueborne:0 "Rogueborne"
+#
+c_indoval:0 "Indoval"
+b_indovan:0 "Indovan"
+b_amberbrook:0 "Amberbrook"
+b_rosepond:0 "Rosepond"
+b_indoval_crossing:0 "Indoval Crossing"
+#
+c_wirhel:0 "Wirhel"
+b_wirhel:0 "Wirhel"
+b_virtree:0 "Virtree"
+b_tefinal:0 "Tefinal"
+#
+c_knightcall:0 "Knightcall"
+b_knightcall:0 "Knightcall"
+b_squires_rest:0 "Squire's Rest"
+b_faltus:0 "Faltus"
+#
+## Mosswood
+d_mosswood:0 "Mosswood"
+c_mosshall:0 "Mosshall"
+b_mosshall:0 "Mosshall"
+b_loamgrove:0 "Loamgrove"
+b_swordpeace:0 "Swordpeace"
+b_catskeep:0 "Catskeep"
+b_greeneye_woods:0 "Greeneye Woods"
+#
+c_tradegarden:0 "Tradegarden"
+b_greenhome:0 "Greenhome"
+b_tradegarden:0 "Tradegarden"
+b_morrowflow:0 "Morrowflow"
+#
+c_fallcarren:0 "Fallcarren"
+b_fallcarren:0 "Fallcarren"
+b_calmdare:0 "Calmdare"
+b_spilltear:0 "Spilltear"
+b_inishan:0 "Inishan"
+#
+c_piramore:0 "Piramore"
+b_piramore_castle:0 "Piramore Castle"
+b_piramore:0 "Piramore"
+b_terelan:0 "Terelan"
+#
+c_daysong:0 "Daysong"
+b_daysong_castle:0 "Daysong Castle"
+b_daysong:0 "Daysong"
+b_ceril:0 "Ceril"
+b_lyric:0 "Lyric"
+#
+c_romanan:0 "Romanan"
+b_romanan:0 "Romanan"
+b_graft:0 "Graft"
+b_applehome:0 "Applehome"
+b_darkstem:0 "Darkstem"
+#
+## Kelasir
+d_kelasir:0 "Kelasir"
+c_kelasiron:0 "Kelasiron"
+b_kelasiron_castle:0 "Kelasiron Castle"
+b_kelasiron:0 "Kelasiron"
+b_catclaw:0 "Catclaw"
+b_nerilon:0 "Nerilon"
+b_isocoren:0 "Isocoren"
+#
+c_taltion:0 "Taltion"
+b_taltion:0 "Taltion"
+b_lorent:0 "Lorent"
+b_kings_relief:0 "King's Relief"
+#
+c_ordoncradle:0 "Ordoncradle"
+b_ordoncradle:0 "Ordoncradle"
+b_whiteforge:0 "Whiteforge"
+b_yorntown:0 "Yorntown"
+b_traildown:0 "Traildown"
+#
+c_salteron:0 "Salteron"
+b_saltstack_castle:0 "Saltstack Castle"
+b_salteron:0 "Salteron"
+b_sons_field:0 "Son's Field"
+#
+c_beaugard:0 "Beaugard"
+b_beaugard:0 "Beaugard"
+b_ornhallow:0 "Ornhallow"
+b_bearbreak:0 "Bearbreak"
+b_maramen:0 "Maramen"
+#
+## Ironstrand
+d_ironstrand:0 "Ironstrand"
+c_queensforge:0 "Queensforge"
+b_queensforge_citadel:0 "Queensforge"
+b_queensforge:0 "Queensforge"
+b_shovelers_hollow:0 "Shoveler's Hollow"
+b_senna:0 "Senna"
+b_inecrons_pit:0 "Inecron's Pit"
+#
+c_slagmound:0 "Slagmound"
+b_slagtop_tower:0 "Slagtop Tower"
+b_slagmound2:0 "Slagmound"
+#
+c_ironvein:0 "Ironvein"
+b_wroughtwatch:0 "Wroughtwatch"
+b_ironvein:0 "Ironvein"
+b_blackore:0 "Blackore"
+b_axehand:0 "Axehand"
+#
+c_otengar:0 "Otengar"
+b_otengar:0 "Otengar"
+b_pirinol:0 "Pirinol"
+b_velesten:0 "Velesten"
+#
+## Silverhowe
+d_silverhowe:0 "Silverhowe"
+c_whitemetal:0 "Whitemetal"
+b_silverpike_castle:0 "Silverpike Castle"
+b_whitemetal:0 "Whitemetal"
+b_hornfen:0 "Hornfen"
+b_fiendhold:0 "Fiendhold"
+#
+c_banes_grave:0 "Bane's Grave"
+b_banes_grave:0 "Bane's Grave"
+b_oldwatch:0 "Oldwatch"
+b_lynxcape:0 "Lynxcape"
+b_fireseye:0 "Fireseye"
+#
+c_silverstand:0 "Silverstand"
+b_silverstand_tower:0 "Silverstand Tower"
+#
+c_swanburn:0 "Swanburn"
+b_swanburn_castle:0 "Swanburn Castle"
+b_swanburn:0 ""
+b_goshollow:0 "Goshollow"
+b_rockdrift:0 "Rockdrift"
+#
+c_moonshade:0 "Moonshade"
+b_moonshade:0 "Moonshade"
+b_evermoon:0 "Evermoon"
+#
+c_wolftooth:0 "Wolftooth"
+b_wolftooth_tower:0 "Wolftooth Tower"
+#
+## Lyrstrand
+d_lyrstrand:0 "Lyrstrand"
+c_goldlyr:0 "Goldlyr"
+b_goldlyr_castle:0 "Goldlyr Castle"
+b_goldlyre:0 "Goldlyre"
+b_courwell:0 "Courwell"
+b_songbee:0 "Songbee"
+#
+c_iyrmore:0 "Iyrmore"
+b_iyremore:0 "Iyremore"
+b_barehill:0 "Barehill"
+b_farshade_inn:0 "Farshade Inn"
+b_sparrowforst:0 "Sparrowforst"
+#
+c_blindwatch:0 "Blindwatch"
+b_blindwatch:0 "Blindwatch"
+b_halefor:0 "Halefor"
+b_talde:0 "Talde"
+b_tricksters_rhyme:0 "Trickster's Rhyme"
+#
+c_hallowstone:0 "Hallowstone"
+b_hallowstone_castle:0 "Hallowstone Castle"
+b_hallowstone:0 "Hallowstone"
+b_rockrun:0 "Rockrun"
+b_eaglerock:0 "Eaglerock"
+#
+## Palorum Dyserus
+d_palorum_dyserus:0 "Palorum Dyserus"
+c_palorvosk:0 "Palorvosk"
+b_farfather_stronghold:0 "Farfather Stronghold"
+b_palorvosk:0 "Palorvosk"
+b_iselov:0 "Iselov"
+b_tatarovna:0 "Tatarovna"
+#
+c_dorinast:0 "Dorinast"
+b_dorinast:0 "Dorinast"
+b_kosikaran:0 "Kosikarn"
+b_orinovik:0 "Orinovik"
+#
+c_moddra:0 "Moddra"
+b_moddra:0 "Moddra"
+b_chernosk:0 "Chernosk"
+b_vyara:0 "Vyara"
+b_iskira:0 "Iskira"
+#
+## Merathan Isles
+d_merathan_isles:0 "Merathan Isles"
+c_torranmore:0 "Torranmore"
+b_gullkeep:0 "Gullkeep"
+b_torranmore:0 "Torranmore"
+b_theris_island:0 "Theris Island"
+#
+c_alahan:0 "Alahan"
+b_alahan_island:0 "Alahan Island"
+b_seasmoke_island:0 "Seasmoke Island"
+#
+c_skullsong:0 "Skullsong"
+b_skullsong_island:0 "Skullsong Island"
+#
+c_codain:0 "Codain"
+b_codain_island:0 "Codain Island"
+b_fydier_island:0 "Fydier Island"
+#
+### Inner Merathia
+k_inner_merathia:0 "Inner Merathia"
+#
+## Mistvale
+d_mistvale:0 "Mistvale"
+c_mournhome:0 "Mournhome"
+b_mistkeep:0 "Mistkeep"
+b_mournhome:0 "Mournhome"
+b_tarnsong:0 "Tarnsong"
+b_renwood:0 "Renwood"
+#
+c_lightcreep:0 "Lightcreep"
+b_lightcreep:0 "Lightcreep"
+b_dawns_maw:0 "Dawn's Maw"
+b_algenrock:0 "Algenrock"
+b_alpsgaze:0 "Alpsgaze"
+#
+c_keenwillow:0 "Keenwillow"
+b_keenwillow:0 "Keenwillow"
+b_eoran:0 "Eoran"
+b_arksall:0 "Arksall"
+b_iofast:0 "Iofast"
+#
+c_goldenpass:0 "Goldenpass"
+b_goldenpass:0 "Goldenpass"
+b_noresia:0 "Noresia"
+b_harrowstone:0 "Harrowstone"
+b_anatolan:0 "Anatolan"
+#
+c_redheather:0 "Redheather"
+b_redheather:0 "Redheather"
+b_pinebreak:0 "Pinebreak"
+b_fontel:0 "Fontel"
+#
+## Staghold
+d_staghold:0 "Staghold"
+c_staghold:0 "Staghold"
+b_staghold:0 "Staghold"
+b_harts_rest:0 "Hart's Rest"
+b_ninepoint_inn:0 "Ninepoint Inn"
+b_keril:0 "Keril"
+#
+c_arator:0 "Arator"
+b_arator:0 "Arator"
+b_dalorin:0 "Dalorin"
+b_furne:0 "Furne"
+#
+c_wyredeer:0 "Wyredeer"
+b_wyredeer:0 "Wyredeer"
+b_drethan:0 "Drethan"
+b_linenweave:0 "Linenweave"
+#
+c_blindspell:0 "Blindspell"
+b_blindespell_keep:0 "Blindspell Keep"
+b_blindspell:0 "Blindspell"
+b_tyr_wanderwin:0 "Tyr Wanderwin"
+b_cordan:0 "Cordan"
+#
+## Knightcliff
+d_knightcliff:0 "Knightcliff"
+c_spearstone:0 "Spearstone"
+b_spearstone:0 "Spearstone"
+b_grailbore:0 "Grailbore"
+b_ardglass:0 "Ardglass"
+#
+c_dyrlight:0 "Dyrlight"
+b_dyrlight:0 "Dyrlight"
+b_halen:0 "Halen"
+b_ortuson:0 "Ortuson"
+b_aconsen:0 "Aconsen"
+#
+c_marmota:0 "Marmota"
+b_oakenkeep:0 "Oakenkeep"
+b_marmota:0 "Marmota"
+b_brittlestern:0 "Brittlestern"
+#
+c_swiftwen:0 "Swiftwen"
+b_swiftwen_watch:0 "Swiftwen Watch"
+b_kalagan:0 "Kalagan"
+#
+## Mendicant's Rise
+d_mendicants_rise:0 "Mendicant's Rise"
+c_mendicant:0 "Mendicant"
+b_mendicant:0 "Mendicant"
+b_teachers_point:0 "Teacher's Point"
+b_stillstone:0 "Stillstone"
+#
+c_stormstrike:0 "Stormstrike"
+b_stormstrike:0 "Stormstrike"
+b_alpclimb:0 "Alpclimb"
+b_hollowsnow:0 "Hollowsnow"
+#
+## Greygarde
+d_greygarde:0 "Greygarde"
+c_greygarde:0 "Greygarde"
+b_greygarde_citadel:0 "Greygarde Citadel"
+b_greygarde:0 "Greygarde"
+b_direholm:0 "Direholm"
+b_falsegate:0 "Falsegate"
+#
+c_caerhaye:0 "Caerhaye"
+b_caerhaye:0 "Caerhaye"
+b_salentrade:0 "Salentrade"
+b_baridor:0 "Baridor"
+#
+c_lambridge:0 "Lambridge"
+b_lambridge:0 "Lambridge"
+b_woolsturn:0 "Woolsturn"
+b_bellwatch:0 "Bellwatch"
+#
+c_kirian:0 "Kirian"
+b_kirianwatch:0 "Kirianwatch"
+b_wildewich:0 "Wildewich"
+#
+#### Oriden
+e_oriden:0 "Oriden"
+#
+### Kaligaia
+k_kaligaia:0 "Kaligaia"
+#
+##
+d_kaligaia:0 "Kaligaia"
+c_kaliopolis:0 "Kaliopolis"
+b_palace_of_the_aegead:0 "Palace of the Aegead"
+b_lower_kaliopolis:0 "Lower Kaliopolis"
+b_upper_kaliopolis:0 "Upper Kaliopolis"
+b_fields_of_the_spartoi:0 "Fields of the Spartoi"
+b_lygeras:0 "Lygeras"
+#
+c_argedian_forest:0 "Argedian Forest"
+b_zephyrs_cliff:0 "Zephyr's Cliff"
+b_argedian_forest:0 "Argedian Forest"
+b_shrine_of_medea:0 "Shrine of Medea"
+#
+c_fields_of_kaelos:0 "Fields of Kaelos"
+b_fields_of_kaelos:0 "Fields of Kaelos"
+b_berins_passage:0 "Berin's Passage"
+b_bakaros:0 "Bakaros"
+b_eginas_folly:0 "Egina's Folly"
+#
+c_metena:0 "Metena"
+b_kalians_prow:0 "Kalian's Prow"
+b_metena:0 "Metena"
+b_pamina:0 "Pamina"
+#
+c_photonis:0 "Photonis"
+b_photonis:0 "Photonis"
+b_eberos_cliffs:0 "Eberos Cliffs"
+b_serins_line:0 "Serin's Line"
+b_kalicons_wash:0 "Kalicon's Wash"
+#
+## Knostheos
+d_knostheos:0 "Knostheos"
+c_knostheos:0 "Knostheos"
+b_castle_knostheos:0 "Castle Knostheos"
+b_knosthelikon:0 "Knosthelikon"
+b_cherions_rocks:0 "Cherion's Rocks"
+b_polyphors_call:0 "Polyphor's Call"
+#
+c_phyrigia:0 "Phyrigia"
+b_phyrigia:0 "Phyrigia"
+b_port_delas:0 "Port Delas"
+b_temple_of_armenika:0 "Temple of Armenika"
+b_fort_kalikori:0 "Fort Kalikori"
+#
+c_haemopolis:0 "Haemopolis"
+b_fort_lithohaem:0 "Fort Lithohaem"
+b_haemopolis:0 "Haemopolis"
+b_sybils_edge:0 "Sybil's Edge"
+#
+c_deros:0 "Deros"
+b_isle_of_deros:0 "Isle of Deros"
+#
+c_idosia:0 "Idosia"
+b_idosia:0 "Idosia"
+b_cnaidasos:0 "Cnaidasos"
+b_naxmera:0 "Naxmera"
+b_shrampklion:0 "Shrampklion"
+#
+## Akelonia
+d_akelonia:0 "Akelonia"
+c_akelon:0 "Akelon"
+b_akelon:0 "Akelon"
+b_akelonopolis:0 "Akelonopolis"
+b_erytrianos:0 "Erytrianos"
+b_idycona:0 "Idycona"
+#
+c_myderos:0 "Myderos"
+b_maras_point:0 "Mara's Point"
+b_myderos:0 "Myderos"
+b_oenstis:0 "Oenstis"
+#
+c_thermia:0 "Thermia"
+b_thermia:0 "Thermia"
+b_tylissikon:0 "Tylissikon"
+b_mothers_point:0 "Mother's Point"
+b_dorians_split:0 "Dorian's Split"
+#
+## Hellidos
+d_hellidos:0 "Hellidos"
+c_etrelopis:0 "Etrelopis"
+b_fortress_telemakion:0 "Fortress Telemakion"
+b_etrelopis:0 "Etrelopis"
+b_barepoint:0 "Barepoint"
+b_eikelons_ward:0 "Eikelon's Ward"
+b_eyes_of_emris:0 "Eyes of Emris"
+#
+c_karkala:0 "Karkala"
+b_karkala:0 "Karkala"
+b_cymyrdon:0 "Cymyrdon"
+b_temple_of_the_wayward:0 "Temple of the Wayward"
+#
+c_diocles_burden:0 "Dioclese Burden"
+b_grove_of_diocles:0 "Grove fo Dioclese"
+b_demosthenes:0 "Desmosthenes"
+#
+c_dymoxa:0 "Dymoxa"
+b_dymox_overlook:0 "Dymox Overlook"
+b_megeras_pillar:0 "Megera's Pillar"
+b_iocolus:0 "Iocolus"
+#
+c_averian_hills:0 "Averian Hills"
+b_actikon_stronghold:0 "Actikon Stronghold"
+b_averianis:0 "Averianis"
+b_vasenia:0 "Vasenia"
+b_caresikon:0 "Caresikon"
+#
+c_sirens_shore:0 "Siren's Shore"
+b_sirens_shore:0 "Siren's Shore"
+#
+## Valexios Islands
+d_valexios_islands:0 "Valexios Islands"
+c_nisa_valexios:0 "Nisa Valexios"
+b_castle_heranoi:0 "Castle Heranoi"
+b_valexiopolis:0 "Valexiopolis"
+b_nisothi:0 "Nisothi"
+b_zorathos:0 "Zorathos"
+#
+c_myriae:0 "Myriae"
+b_myriae:0 "Myriae"
+b_maliskopian:0 "Maliskopian"
+#
+## Chytonakti
+d_chytonakti:0 "Chytonakti"
+c_pyrokestia:0 "Pyrokestia"
+b_pyrokestia_stronghold:0 "Pyrokestia"
+b_pyrokestia:0 "Pyrokestia"
+b_prosopon:0 "Prosopon"
+b_daesos:0 "Daesos"
+#
+c_apeiros:0 "Apeiros"
+b_apeiros:0 "Apeiros"
+b_tosti:0 "Tosti"
+#
+c_orenes:0 "Orenes"
+b_orenes:0 "Orenes"
+b_spire_of_ilbyra:0 "Spire of Ilbyra"
+b_argestias:0 "Argestias"
+#
+c_marvo_spathi:0 "Marvo Spathi"
+b_marvo_spathi_fortress:0 "Marvo Spathi Fortress"
+#
+c_lefanti:0 "Lefanti"
+b_nkalmos_castle:0 "Nkalmos Castle"
+b_lefanti:0 "Lefanti"
+b_shrine_of_the_cliffmother:0 "Shrine of the Cliffmother"
+#
+c_vasedonia:0 "Vasedonia"
+b_akrikon_keep:0 "Akrion Keep"
+b_vasedonia:0 "Vasedonia"
+b_alelas_field:0 "Alelas Field"
+b_keparis:0 "Keparis"
+#
+c_kagalos:0 "Kagalos"
+b_kagalos:0 "Kagalos"
+b_phasadas_inn:0 "Phasadas Inn"
+#
+## Mara's Lament
+d_maras_lament:0 "Mara's Lament"
+c_maras_lament:0 "Mara's Lament"
+b_castle_of_tears:0 "Castle of Tears"
+b_maras_lament:0 "Mara's Lament"
+b_drowned_peace:0 "Drowned Peace"
+#
+c_kathagro:0 "Kathagro"
+b_castle_kathagro:0 "Castle Kathagro"
+b_fields_of_kathagro:0 "Fields of Kathagro"
+#
+c_chioneskos_bay:0 "Chioneskos Bay"
+b_chioneskos_bay:0 "Chioneskos Bay"
+b_imaniki:0 "Imaniki"
+#
+### Crystophan
+k_crystophan:0 "Crystophan"
+#
+## Astraquor
+d_astraquor:0 "Astraquor"
+c_astraquor:0 "Astraquor"
+b_astraquor:0 "Astraquor"
+b_citadel_amanis:0 "Citadel Amanis"
+b_elden_fields:0 "Elden Fields"
+b_spellbond_shores:0 "Spellbond Shores"
+b_soriana:0 "Soriana"
+b_temple_of_our_mothers_of_light_and_rest:0 "Temple of our Mothers of Light and Rest"
+#
+c_ponte_mar:0 "Ponte Mar"
+b_ponte_mar:0 "Ponte Mar"
+b_staffmark:0 "Staffmark"
+b_sparksand:0 "Sparksand"
+b_geojir_rocks:0 "Geojir Rocks"
+#
+c_anotril:0 "Anotril"
+b_anotril:0 "Anotril"
+b_scansteer_keep:0 "Scansteer Keep"
+b_skijrwood:0 "Skijrwood"
+#
+c_asmarfield:0 "Asmarfield"
+b_aravid:0 "Aravid"
+b_asmarfield:0 "Asmarfield"
+b_mageton:0 "Mageton"
+b_skirinfen:0 "Skirinfen"
+#
+## Old Synorn
+d_old_synorn:0 "Old Synorn"
+c_amvir_dren:0 "Amvir Dren"
+b_amvir_dren:0 "Amvir Dren"
+b_twilight_vale:0 "Twilight Vale"
+b_berins_landing:0 "Berin's Landing"
+b_sora:0 "Sora"
+#
+c_arages:0 "Arages"
+b_arages:0 "Arages"
+b_summoners_shore:0 "Summoner's Shore"
+b_isle_of_vand:0 "Isle of Vand"
+b_anderwick:0 "Anderwick"
+b_abrias_mount:0 "Abria's Mount"
+#
+c_valada:0 "Valada"
+b_valada:0 "Valada"
+b_the_standing_stones:0 "the Standing Stones"
+#
+c_elderheart:0 "Elderheart"
+b_elderheart_keep:0 "Elderheart Keep"
+b_xembrass_sands:0 "Xembrass Sands"
+b_grove_of_merilina:0 "Grove of Merilina"
+b_castana:0 "Castana"
+#
+c_thevros:0 "Thevros"
+b_thevros:0 "Thevros"
+b_kirinswer_thicket:0 "Kirinswer Thicket"
+#
+c_corihon:0 "Corihon"
+b_corihon:0 "Corihon"
+b_mogrins_hill:0 "Mogrin's Hill"
+b_dawnings_redoubt:0 "Dawning's Redoubt"
+#
+## Greater Marada
+d_greater_marada:0 "Greater Marada"
+#
+## Coastturn
+d_coastturn:0 "Coastturn"
+c_marada:0 "Marada"
+b_marada:0 "Marada"
+b_icewatch_isle:0 "Icewatch Island"
+b_konira:0 "Konira"
+b_maradans_crest:0 "Maradan's Crest"
+b_jireys_house:0 "Jireys House"
+#
+c_spiregrove:0 "Spiregrove"
+b_spiregrove_of_aman:0 "Spiregrove of Aman"
+#
+c_twin_isles:0 "Twin Isles"
+b_cailit:0 "Cailit"
+b_iresea:0 "Iresea"
+#
+c_lake_lookingglass:0 "Lake Lookingglass"
+b_lake_lookingglass:0 "Lake Lookingglass"
+b_maradani_hills:0 "Maradani Hills"
+#
+c_cantorria:0 "Cantorria"
+b_cantorria:0 "Cantorria"
+b_flamesingers_overlook:0 "Flameshinger's Overlook"
+#
+c_yrginsland:0 "Yrginsland"
+b_tower_of_yrginnal:0 "Tower of Yrginnal"
+b_adenciar:0 "Adenciar"
+b_yrginswood:0 "Yrginswood"
+b_blind_seaway:0 "Blind Seaway"
+#
+## Malwyr
+d_malwyr:0 "Malwyr"
+c_calmarin:0 "Calmarin"
+b_calmarin_spire:0 "Calmarin Spire"
+b_merspit:0 "Merspit"
+b_salarri:0 "Salarri"
+b_tower_of_varilys:0 "Tower of Varilys"
+b_anfid_narrowpath:0 "Anfid Narrowpath"
+#
+c_duhorswin:0 "Duhorswin"
+b_fields_of_duhorswin:0 "Fields of Duhorswin"
+b_isle_of_avepes:0 "Isle of Avepes"
+#
+c_chalegh:0 "Chalegh"
+b_point_chalegh:0 "Point Chalegh"
+b_narrowpath_of_agexor:0 "Narrowpath of Agexor"
+#
+c_ketiors_end:0 "Ketior's End"
+b_ketiors_end:0 "Ketior's End"
+b_chapel_of_st_mila:0 "Chapel of St Mila"
+b_merwood:0 "Merwood"
+#
+c_mergate:0 "Mergate"
+b_azaras_safehold:0 "Azaras Safehold"
+b_mergate:0 "Mergate"
+b_gales_dreamhill:0 "Gale's Dreamhill"
+#
+## Zareshi
+d_zareshi:0 "Zareshi"
+c_zareshi:0 "Zareshi"
+b_zareshi:0 "Zareshi"
+b_st_orphian:0 "St Orphian"
+b_adlebyr:0 "Adlebyr"
+b_tuskgate:0 "Tuskgate"
+#
+c_velas:0 "Velas"
+b_velas_spit:0 "Velas Spit"
+b_northwind_beach:0 "Northwind Beach"
+#
+c_upaan:0 "Upaan"
+b_upaan_lookout:0 "Upaan"
+b_mossheath:0 "Mossheath"
+b_gafaryn:0 "Gafaryn"
+#
+c_dursons_isle:0 "Durson's Isle"
+b_dursons_isle:0 "Durson's Isle"
+#
+## Gwenyn Meridys
+d_gwenyn_meridys:0 "Gwenyn Meridys"
+c_isle_of_tauna:0 "Isle of Tauna"
+b_grove_of_the_eelorleam:0 "Grove of the Eelorleam"
+b_vilaxa:0 "Vilaxa"
+b_ghostwater_swamp:0 "Ghostwater Swamp"
+#
+#### Verdanrei ###############################################################
+e_verdanrei:0 "Verdanrei"
+#
+### Verdanralta
+k_verdanralta:0 "Verdanralta"
+#
+##
+d_verdanrei:0 "Verdanrei"
+c_tolqara:0 "Tolqara"
+b_citadel_of_tolqara:0 "Citadel of Tolqara"
+b_tolqara:0 "Tolqara"
+b_irosh:0 "Irosh"
+b_rokan:0 "Rokan"
+b_tarraketh:0 "Tarraketh"
+#
+c_ishtavari:0 "Ishtavari"
+b_ishtavari_tower:0 "Ishtavari Tower"
+#
+c_velthorin:0 "Velthorin"
+b_velthorin:0 "Velthorin"
+b_gorelvan:0 "Gorelvan"
+#
+c_zanjura:0 "Zanjura"
+b_zanjura:0 "Zanjura"
+b_bloodvine:0 "Bloodvine"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

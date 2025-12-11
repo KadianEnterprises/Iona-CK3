@@ -1,0 +1,11 @@
+﻿l_english:
+
+#Test Traits
+	test_trait_godly:0 "Godly"
+	test_trait_godly_desc:0 "Blessed with long life and god-like power, this person must really be special."
+	test_trait_godly_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has been blessed by the gods with great power."
+
+#Bloodline Traits
+	trait_elf:0 "Elf"
+	trait_elf_desc:0 "The blood of elfkind."
+	trait_elf_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] carries the burden of long life and the memory of the Exodus."

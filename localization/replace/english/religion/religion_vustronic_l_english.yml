@@ -1,0 +1,88 @@
+﻿l_english:
+
+ #Generic vustronic/Common vustronic Localization
+ vustronic_religion:0 "Vustronic"
+ vustronic_religion_adj:0 "vustronic"
+ vustronic_religion_adherent:0 "Supplicant"
+ vustronic_religion_adherent_plural:0 "Supplicants"
+ vustronic_religion_desc:0 "Born out of the first miracles witnessed on Iona after the God War, the Vustronic religion most highly reveres the Prime Three who protected the peoples of Iona during the God War."
+
+ vustronic_high_god_name:0 "Mother Earth"
+ vustronic_high_god_name_2:0 "$vustronic_high_god_name$" # Optional translation alt
+ vustronic_high_god_name_possessive:0 "Mother Earth's"
+ vustronic_high_god_name_alternate:0 "Gaia"
+ vustronic_high_god_name_alternate_possessive:0 "Gaia's"
+ vustronic_good_god_father_sky:0 "$vustronic_trickster_god_name$"
+ vustronic_good_god_ancestors:0 "the ancestors"
+ vustronic_devil_name:0 "corruption"
+ vustronic_devil_name_possessive:0 "corruption's"
+ vustronic_devil_shehe:0 "it"
+ vustronic_devil_herselfhimself:0 "itself"
+ vustronic_devil_herhis:0 "its"
+ vustronic_evil_god_decay:0 "blight"
+ vustronic_evil_god_decay_possessive:0 "blight's"
+ vustronic_evil_god_drought:0 "drought"
+ vustronic_death_deity_name:0 "death"
+ vustronic_death_deity_name_possessive:0 "death's"
+ vustronic_death_deity_herhis:0 "its"
+ vustronic_mother_earth_father_sky:0 "Mother Earth and Father Sky"
+ vustronic_mother_earth_father_sky_2:0 "$vustronic_mother_earth_father_sky$" # Optional translation alt
+ vustronic_mother_earth_father_sky_3:0 "$vustronic_mother_earth_father_sky$" # Optional translation alt
+ 
+
+ vustronic_creator_god_name:0 "$vustronic_high_god_name$"
+ vustronic_creator_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_health_god_name:0 "$vustronic_high_god_name$"
+ vustronic_health_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_fertility_god_name:0 "$vustronic_high_god_name$"
+ vustronic_fertility_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_wealth_god_name:0 "$vustronic_high_god_name$"
+ vustronic_wealth_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_household_god_name:0 "$vustronic_high_god_name$"
+ vustronic_household_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_fate_god_name:0 "fate"
+ vustronic_fate_god_name_possessive:0 "fate's"
+ vustronic_knowledge_god_name:0 "$vustronic_high_god_name$"
+ vustronic_knowledge_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_war_god_name:0 "$vustronic_high_god_name$"
+ vustronic_war_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+ vustronic_trickster_god_name:0 "Father Sky"
+ vustronic_trickster_god_name_possessive:0 "Father Sky"
+ vustronic_night_god_name:0 "$vustronic_trickster_god_name$"
+ vustronic_night_god_name_possessive:0 "$vustronic_trickster_god_name_possessive$"
+ vustronic_water_god_name:0 "$vustronic_high_god_name$"
+ vustronic_water_god_name_possessive:0 "$vustronic_high_god_name_possessive$"
+
+ vustronic_house_of_worship:0 "temple"
+ vustronic_house_of_worship_2:0 "$vustronic_house_of_worship$" # Optional translation alt
+ vustronic_house_of_worship_3:0 "$vustronic_house_of_worship$" # Optional translation alt
+ vustronic_house_of_worship_plural:0 "temples"
+ vustronic_religious_symbol:0 "triquetra"
+ vustronic_religious_symbol_2:0 "$vustronic_religious_symbol$" # Optional translation alt
+ vustronic_religious_symbol_3:0 "$vustronic_religious_symbol$" # Optional translation alt
+ vustronic_religious_text:0 "sacred stories"
+ vustronic_religious_text_2:0 "$vustronic_religious_text$" # Optional translation alt
+ vustronic_religious_text_3:0 "$vustronic_religious_text$" # Optional translation alt
+ vustronic_religious_head_title:0 "Divine Speaker"
+ vustronic_religious_head_title_name:0 "High Council"
+ vustronic_devotee:0 "devotee"
+ vustronic_devoteeplural:0 "devotees"
+ vustronic_priest:0 "cleric"
+ vustronic_priest_plural:0 "clerics"
+ vustronic_priest_alternate_plural:1 "elders"
+ vustronic_divine_realm:0 "the Heavens"
+ vustronic_divine_realm_2:0 "$vustronic_divine_realm$" # Optional translation alt
+ vustronic_divine_realm_3:0 "$vustronic_divine_realm$" # Optional translation alt
+ vustronic_afterlife:0 "the underworld"
+ vustronic_afterlife_2:0 "$vustronic_afterlife$" # Optional translation alt
+ vustronic_afterlife_3:0 "$vustronic_afterlife$" # Optional translation alt
+ witchgodname_vustronic_the_shadow:0 "the Shadow"
+ witchgodname_vustronic_the_shadow_possessive:0 "the Shadow's"
+
+
+ prime_vustronic:0 "Prime Vustronic"
+ prime_vustronic_adj:0 "Prime Vustronic"
+ prime_vustronic_adherent:0 "Chosen"
+ prime_vustronic_adherent_plural:0 "Chosen"
+
+ #next faith

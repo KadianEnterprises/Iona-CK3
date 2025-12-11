@@ -1,0 +1,386 @@
+﻿k_tallendria = {
+	1756.1.1 = {
+		liege = e_volokar
+		holder = Cazelan_0		#Jelvyn II
+	}
+	1761.1.1 = {
+		holder = Cazelan_1		#Jelvyn III
+	}
+	1795.1.1 = {
+		liege = 0
+	}
+	1801.1.1 = {
+		holder = Cazelan_2		#Tescelin III
+	}
+	1834.1.1 = {
+		holder = Cazelan_3		#Emmon I
+	}
+	1856.1.1 = {
+		holder = Cazelan_4		#Jelvyn IV
+	}
+	1864.1.1 = {
+		holder = Merovan_0		#King Emmon II
+	}
+	1910.1.1 = {
+		holder = Merovan_1		#King Jelvyn V
+	}
+	1927.1.1 = {
+		holder = Merovan_2		#King Roberte I
+	}
+	1963.1.1 = {
+		holder = Merovan_3		#King Ambrosin II
+	}
+	1970.1.1 = {
+		holder = Merovan_4		#King Jelvyn VI
+	}
+	1991.1.1 = {
+		holder = Merovan_5		#King Ambrosin III
+	}
+	2002.1.1 = {
+		holder = Merovan_6		#King Roberte II
+	}
+	2016.1.1 = {
+		holder = Merovan_7		#King Ambrosin IV, Uniter of the East
+	}
+	2078.1.1 = {
+		holder = Merovan_8b		#King Ethere I
+	}
+	2086.1.1 = {
+		holder = Merovan_9		#King Roberte III the Ineffectual
+	}
+	2122.1.1 = {
+		holder = Merovan_11b	#King Emmon III
+	}
+	2144.1.1 = {
+		holder = Merovan_12d	#King Ethere II
+	}
+	2149.1.1 = {
+		holder = Merovan_12e	#King Gwyn I
+	}
+	2155.1.1 = {
+		holder = Thornblood_13c	#Queen Eris I
+	}
+	2172.1.1 = {
+		holder = Merovan_13d	#King Ambrosin V
+	}
+}
+
+## Mortisan
+	d_mortisan = {
+		
+	}
+	c_felseris = {
+		
+	}
+	c_calais = {
+		
+	}
+	c_velesarne = {
+		
+	}
+	c_galith_hen = {
+		
+	}
+	c_windanne = {
+		
+	}
+	c_drauge = {
+		
+	}
+	c_graveshore = {
+		
+	}
+	c_sorrows_harbor = {
+		
+	}
+#
+## Cote Abresset
+	d_cote_abresset = {
+		1772.1.1 = {
+			liege = k_tallendria
+			holder = Seleno_0		#Duke Tescelin I
+		}
+		1792.1.1 = {
+			holder = Seleno_1a		#Duke Telman I
+		}
+		1796.1.1 = {
+			holder = Seleno_1b		#Duke Roberte I
+		}
+		1800.1.1 = {
+			holder = Seleno_2		#Duke Tescelin II
+		}
+		1817.1.1 = {
+			holder = Seleno_3		#Duke Luisal I
+		}
+		1848.1.1 = {
+			holder = Seleno_4		#Duke Roberte II
+		}
+		1916.1.1 = {
+			holder = Seleno_5		#Duke Jacque I
+		}
+		1928.1.1 = {
+			holder = Seleno_6		#Duke Tescelin III
+		}
+		1949.1.1 = {
+			holder = Seleno_7		#Duke Luisal II
+		}
+		1956.1.1 = {
+			holder = Seleno_9		#Duke Tescelin IV
+		}
+		1960.1.1 = {
+			holder = Seleno_8b		#Duke Telman II
+		}
+		2007.1.1 = {
+			holder = Seleno_8b1		#the Rebel Duke Verain
+		}
+		2019.1.1 = {
+			holder = 0
+		}
+		2087.1.1 = {
+			holder = Delon_0		#Duke Leoset I
+		}
+		2108.1.1 = {
+			holder = Delon_1		#Duke Leoset II
+		}
+		2133.1.1 = {
+			holder = Delon_2		#Duke Jacque II
+		}
+		2139.1.1 = {
+			holder = Delon_3		#Duke Leoset III
+		}
+		2155.1.1 = {
+			holder = Delon_4		#Duke Emmon I
+		}
+	}
+	c_cadeaun = {
+		
+	}
+	c_beausonne = {
+		
+	}
+	c_blanchart = {
+		
+	}
+	c_clearingfall = {
+		
+	}
+	c_fevres = {
+		
+	}
+	c_tosencaire = {
+		
+	}
+	c_goulemn = {
+		
+	}
+#
+## Sonmeris
+	d_sonmeris = {
+		1914.1.1 = {
+			liege = k_tallendria
+			holder = Roanne_0		#Duke Colinere I
+		}
+		1946.1.1 = {
+			holder = Roanne_1		#Duke Regenier I
+		}
+		1962.1.1 = {
+			holder = Roanne_2		#Duke Colinier II
+		}
+		2001.1.1 = {
+			holder = Roanne_3		#Duke Ethere I
+		}
+		2011.1.1 = {
+			holder = Roanne_4		#Duke Regenier II
+		}
+		2019.1.1 = {
+			holder = 0
+		}
+	}
+	c_merisgate = {
+		1914.1.1 = {
+			liege = d_sonmeris
+			holder = Roanne_0		#Duke Colinere I
+		}
+		1946.1.1 = {
+			holder = Roanne_1		#Duke Regenier I
+		}
+		1962.1.1 = {
+			holder = Roanne_2		#Duke Colinier II
+		}
+		2001.1.1 = {
+			holder = Roanne_3		#Duke Ethere I
+		}
+		2011.1.1 = {
+			holder = Roanne_4		#Duke Regenier II
+		}
+		#Caspiril attacks Iregyn, capturing Merisgate and Jelvyn
+		2041.1.1 = {
+			liege = d_morin
+			holder = Indres_0		#Count Taurin I
+		}
+		2081.1.1 = {
+			holder = Indres_1		#Count Maricus I
+		}
+		2117.1.1 = {
+			holder = Indres_2		#Count Durand I
+		}
+		2128.1.1 = {
+			holder = Indres_3		#Count Durand II
+		}
+		2132.1.1 = {
+			holder = Indres_4		#Count Taurin II
+		}
+		2168.1.1 = {
+			holder = Indres_5a		#Count Durand III
+		}
+	}
+	c_oleron = {
+		
+	}
+	c_edera = {
+		
+	}
+	c_byrenn = {
+		
+	}
+	c_jelvyn = {
+		2041.1.1 = {
+			liege = d_morin
+			holder = Indres_0		#Count Taurin I
+		}
+		2081.1.1 = {
+			holder = Indres_1		#Count Maricus I
+		}
+		2117.1.1 = {
+			holder = Indres_2		#Count Durand I
+		}
+		2128.1.1 = {
+			holder = Indres_3		#Count Durand II
+		}
+		2132.1.1 = {
+			holder = Indres_4		#Count Taurin II
+		}
+		2168.1.1 = {
+			holder = Indres_5a		#Count Durand III
+		}
+	}
+#
+## Isel Corbeau
+	d_isel_corbeau = {
+		
+	}
+	c_ravenhold = {
+		
+	}
+	c_ghostlight = {
+		
+	}
+#
+## Orinea
+	d_orinea = {
+		
+	}
+	c_orinea = {
+		
+	}
+	c_galnon = {
+		
+	}
+	c_tavirtera = {
+		
+	}
+	c_portirin = {
+		
+	}
+	c_tronda = {
+		
+	}
+	c_lejos = {
+		
+	}
+#
+## Baera
+	d_baera = {
+		
+	}
+	c_kortende = {
+		
+	}
+	c_anacem = {
+		
+	}
+	c_faena = {
+		
+	}
+	c_vircia = {
+		
+	}
+	c_naresa = {
+		
+	}
+	c_zalvega = {
+		
+	}
+#
+## Arborenes
+	d_arborenes = {
+		
+	}
+	c_arborenes = {
+		
+	}
+	c_silvano = {
+		
+	}
+	c_orenida = {
+		
+	}
+	c_vareria = {
+		
+	}
+	c_kalithea = {
+		
+	}
+	c_navanes = {
+		
+	}
+#
+## Iteran
+	d_iteran = {
+		
+	}
+	c_iterans_ash = {
+		
+	}
+	c_tour_d_iteran = {
+		
+	}
+	c_iterans_confluence = {
+		
+	}
+	c_kinace = {
+		
+	}
+	c_dalcone = {
+		
+	}
+#
+## Calas Wake
+	d_calas_wake = {
+		
+	}
+	c_calaswatch = {
+		
+	}
+	c_tower_of_murals = {
+		
+	}
+	c_hollowash_howe = {
+		
+	}
+	c_kortene = {
+		
+	}
+	c_ritan = {
+		
+	}

@@ -1,0 +1,378 @@
+# Caladroja
+## Caladroja
+	### Caladran
+	1708 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1709 = {
+		holding = city_holding
+	}
+	1710 = {
+		holding = none
+	}
+	1711 = {
+		holding = none
+	}
+	1712 = {
+		holding = none
+	}
+	### Gerona
+	1713 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1714 = {
+		holding = none
+	}
+	1715 = {
+		holding = none
+	}
+	### Monte Fiore
+	1716 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1717 = {
+		holding = none
+	}
+	1718 = {
+		holding = none
+	}
+	1719 = {
+		holding = none
+	}
+	### Kiravia
+	1720 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1721 = {
+		holding = city_holding
+	}
+	1722 = {
+		holding = none
+	}
+	1723 = {
+		holding = none
+	}
+	### Censei
+	1724 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1725 = {
+		holding = none
+	}
+	1726 = {
+		holding = none
+	}
+	### Aldrada
+	1727 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1728 = {
+		holding = none
+	}
+	### Therina
+	1729 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1730 = {
+		holding = none
+	}
+	1731 = {
+		holding = none
+	}
+## Bravada
+	### Bravadan
+	1732 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1733 = {
+		holding = city_holding
+	}
+	1734 = {
+		holding = none
+	}
+	1735 = {
+		holding = none
+	}
+	1736 = {
+		holding = none
+	}
+	### Tacante
+	1737 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1738 = {
+		holding = none
+	}
+	1739 = {
+		holding = none
+	}
+	### Tremona
+	1740 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1741 = {
+		holding = city_holding
+	}
+	1742 = {
+		holding = none
+	}
+	1743 = {
+		holding = none
+	}
+	### Cadrim
+	1744 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1745 = {
+		holding = none
+	}
+	1746 = {
+		holding = none
+	}
+	1747 = {
+		holding = none
+	}
+	### Dorencia
+	1748 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1749 = {
+		holding = none
+	}
+	1750 = {
+		holding = none
+	}
+	### Teridan
+	1751 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1752 = {
+		holding = none
+	}
+	1753 = {
+		holding = none
+	}
+	1754 = {
+		holding = none
+	}
+## Tereggia
+	### Tereggia
+	1758 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1759 = {
+		holding = city_holding
+	}
+	1760 = {
+		holding = none
+	}
+	1761 = {
+		holding = none
+	}
+	1762 = {
+		holding = none
+	}
+	### Zalonia
+	1763 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1764 = {
+		holding = none
+	}
+	1765 = {
+		holding = none
+	}
+	1766 = {
+		holding = none
+	}
+	1767 = {
+		holding = none
+	}
+	### Andartos
+	1768 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1769 = {
+		holding = none
+	}
+	1770 = {
+		holding = none
+	}
+	### Ralanea
+	1771 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1772 = {
+		holding = none
+	}
+	1773 = {
+		holding = none
+	}
+	1774 = {
+		holding = none
+	}
+	### Alamaria
+	1775 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1776 = {
+		holding = none
+	}
+	### Leoncia
+	1777 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1778 = {
+		holding = none
+	}
+	1779 = {
+		holding = none
+	}
+	### Corensi
+	1780 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1781 = {
+		holding = none
+	}
+	1782 = {
+		holding = none
+	}
+## Gilrotan
+	### Isla Gilrotan
+	1755 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1756 = {
+		holding = none
+	}
+	### Isla Sania
+	1757 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+## Medaran
+	### Medarana
+	1824 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1825 = {
+		holding = none
+	}
+	1826 = {
+		holding = none
+	}
+	1827 = {
+		holding = none
+	}
+	### Telesta
+	1828 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Salonia
+	1829 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1830 = {
+		holding = none
+	}
+	1831 = {
+		holding = none
+	}
+	1832 = {
+		holding = none
+	}
+	1833 = {
+		holding = none
+	}
+	### Balastre
+	1835 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1836 = {
+		holding = none
+	}
+	1837 = {
+		holding = none
+	}
+	1838 = {
+		holding = none
+	}
+	### Murin
+	1839 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1840 = {
+		holding = none
+	}
+	1841 = {
+		holding = none
+	}
+	1842 = {
+		holding = none
+	}
+	### Tofe
+	1843 = {
+		culture = caladrojan
+		religion = aurementic
+		holding = castle_holding
+	}
+	1844 = {
+		holding = none
+	}
+	1845 = {
+		holding = none
+	}

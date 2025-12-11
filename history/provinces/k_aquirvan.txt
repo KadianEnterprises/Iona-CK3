@@ -1,0 +1,497 @@
+﻿#k_aquirvan
+##d_viramur####################################
+	###c_great_viramur
+	699 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	700 = {
+		holding = city_holding
+	}
+	701 = {
+		holding = city_holding
+	}
+	702 = {
+		holding = castle_holding
+	}
+	703 = {
+		holding = church_holding
+	}
+	### Belcaire Bay
+	706 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	707 = {
+		holding = church_holding
+	}
+	708 = {
+		holding = none
+	}
+	### Casea's Run
+	704 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	705 = {
+		holding = city_holding
+	}
+	### Aubresen
+	717 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	718 = {
+		holding = none
+	}
+	716 = {
+		holding = city_holding
+	}
+	### Inodacion
+	719 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	720 = {
+		holding = city_holding
+	}
+	721 = {
+		holding = castle_holding
+	}
+	722 = {
+		holding = none
+	}
+	### Ferferis
+	751 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	752 = {
+		holding = city_holding
+	}
+	753 = {
+		holding = none
+	}
+## Duchy of Sevrielle
+	### Fallshore
+	763 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	764 = {
+		holding = city_holding
+	}
+	766 = {
+		holding = city_holding
+	}
+	765 = {
+		holding = none
+	}
+	### Tavus
+	767 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	768 = {
+		holding = none
+	}
+	### Forekyr
+	769 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	770 = {
+		holding = city_holding
+	}
+	771 = {
+		holding = none
+	}
+	### Nerefor Split
+	772 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	773 = {
+		holding = city_holding
+	}
+	774 = {
+		holding = none
+	}
+	775 = {
+		holding = none
+	}
+	### Paillion
+	777 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	776 = {
+		holding = city_holding
+	}
+	778 = {
+		holding = none
+	}
+	779 = {
+		holding = none
+	}
+	### Bixruionn
+	780 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	781 = {
+		holding = city_holding
+	}
+	## Duchy of Borchaud
+	### Orrac Coast
+	799 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	800 = {
+		holding = city_holding
+	}
+	801 = {
+		holding = none
+	}
+	### Vanelt Crossing
+	805 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	806 = {
+		holding = none
+	}
+	### Ferau
+	807 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	808 = {
+		holding = city_holding
+	}
+	809 = {
+		holding = none
+	}
+	### Scellas Spring
+	802 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	804 = {
+		holding = city_holding
+	}
+	803 = {
+		holding = none
+	}
+## Duchy of Soliana
+	### Beaucalion
+	782 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	783 = {
+		holding = city_holding
+	}
+	784 = {
+		holding = none
+	}
+	785 = {
+		holding = city_holding
+	}
+	786 = {
+		holding = none
+	}
+	### Riversong
+	787 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	788 = {
+		holding = castle_holding
+	}
+	789 = {
+		holding = city_holding
+	}
+	790 = {
+		holding = none
+	}
+	### Isafal
+	791 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	792 = {
+		holding = none
+	}
+	### Caluire
+	793 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	794 = {
+		holding = city_holding
+	}
+	795 = {
+		holding = none
+	}
+	### Montmonfore
+	798 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	797 = {
+		holding = none
+	}
+	796 = {
+		holding = city_holding
+	}
+## Rosethorn forest
+	### Thornblood
+	810 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	811 = {
+		holding = none
+	}
+	812 = {
+		holding = none
+	}
+	813 = {
+		holding = none
+	}
+	### Briarval
+	817 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	818 = {
+		holding = none
+	}
+	819 = {
+		holding = none
+	}
+	820 = {
+		holding = none
+	}
+	### Rosewall
+	821 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	822 = {
+		holding = city_holding
+	}
+	### Thornpoint
+	823 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	824 = {
+		holding = none
+	}
+	### Runningrose
+	816 = {
+		culture = aquirvii
+		religion = aurementic
+		holding = castle_holding
+	}
+	814 = {
+		holding = none
+	}
+	815 = {
+		holding = none
+	}
+## Iteransval
+	### Pass of Iteran
+	710 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	709 = {
+		holding = castle_holding
+	}
+	711 = {
+		holding = city_holding
+	}
+	712 = {
+		holding = none
+	}
+	### Boscva
+	713 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	714 = {
+		holding = none
+	}
+	715 = {
+		holding = none
+	}
+	### Mont Seche
+	731 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	732 = {
+		holding = none
+	}
+	733 = {
+		holding  = none
+	}
+	### Vinac
+	735 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	736 = {
+		holding = none
+	}
+	737 = {
+		holding = none
+	}
+	734 = {
+		holding = none
+	}
+	### Davdala
+	738 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	739 = {
+		holding = none
+	}
+	740 = {
+		holding = none
+	}
+## Natala Istri
+### Beros
+724 = {
+	culture = aquirvii
+	religion = aurementic
+	holding = castle_holding
+}
+723 = {
+	holding = city_holding
+}
+725 = {
+	holding = none
+}
+726 = {
+	holding = castle_holding
+}
+754 = {
+	holding = none
+}
+### Istrans Dive
+727 = {
+	culture = itergiene
+	religion = aurementic
+	holding = castle_holding
+}
+728 = {
+	holding = none
+}
+729 = {
+	holding = none
+}
+### Pedreval
+741 = {
+	culture = aquirvii
+	religion = aurementic
+	holding = castle_holding
+}
+742 = {
+	holding = none
+}
+743 = {
+	holding = none
+}
+744 = {
+	holding = none
+}
+### Bosquetuc
+746 = {
+	culture = aquirvii
+	religion = aurementic
+	holding = castle_holding
+}
+747 = {
+	holding = city_holding
+}
+745 = {
+	holding = castle_holding
+}
+### Seche Rui
+748 = {
+	culture = aquirvii
+	religion = aurementic
+	holding = castle_holding
+}
+749 = {
+	holding = none
+}
+750 = {
+	holding = none
+}
+### Isala
+757 = {
+	culture = aquirvii
+	religion = aurementic
+	holding = castle_holding
+}
+756 = {
+	holding = none
+}
+755 = {
+	holding = city_holding
+}
+758 = {
+	holding = none
+}
+### Singslope
+759 = {
+	culture = aquirvii
+	religion = aurementic
+	holding = castle_holding
+}
+760 = {
+	holding = city_holding
+}
+761 = {
+	holding = none
+}
+762 = {
+	holding = church_holding
+}

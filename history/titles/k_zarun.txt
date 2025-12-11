@@ -1,0 +1,120 @@
+﻿k_zarun = {
+	1858.1.1 = {
+		holder = Cadial_0		#King Zefir the Onyxblood
+	}
+	1892.1.1 = {
+		holder = Cadial_1		#King Kosano I 
+	}
+	1898.1.1 = {
+		holder = Cadial_2b		#Queen Adrenia I
+	}
+	1922.1.1 = {
+		holder = Cadial_3d		#King Alesso I
+	}
+	1956.1.1 =  {
+		holder = Cadial_4		#Queen Zara I
+	}
+	1958.1.1 = {
+		holder = Cadial_5		#Quee Adora I
+	}
+	1977.1.1 = {
+		holder = Cadial_6		#Queen Adrenia II
+	}
+	2008.1.1 = {
+		holder = Cadial_7		#King Zefir II
+	}
+	2071.1.1 = {
+		holder = Cadial_9		#King Alesso II
+	}
+	2112.1.1 = {
+		holder = Cadial_10		#King Alesso III
+	}
+	2115.1.1 = {
+		holder = Cadial_11		#Queen Zara II
+	}
+	2137.1.1 = {
+		holder = Cadial_12		#King Kosano II
+	}
+	2155.1.1 = {
+		holder = Cadial_13		#King Kosano III
+	}
+	2186.1.1 = {
+		holder = Cadial_14		#King Alesso IV
+	}
+}
+
+## Duchy of Zarun
+	d_zarun = {
+		1797.1.1 = {
+			holder = Cadial_01		#Duke Kosano I
+		}
+		1836.1.1 = {
+			holder = Cadial_0		#King Zefir the Onyxblood
+		}
+		1892.1.1 = {
+			holder = Cadial_1		#King Kosano I 
+		}
+		1898.1.1 = {
+			holder = Cadial_2b		#Queen Adrenia I
+		}
+		1922.1.1 = {
+			holder = Cadial_3d		#King Alesso I
+		}
+		1956.1.1 =  {
+			holder = Cadial_4		#Queen Zara I
+		}
+		1958.1.1 = {
+			holder = Cadial_5		#Quee Adora I
+		}
+		1977.1.1 = {
+			holder = Cadial_6		#Queen Adrenia II
+		}
+		2008.1.1 = {
+			holder = Cadial_7		#King Zefir II
+		}
+		2071.1.1 = {
+			holder = Cadial_9		#King Alesso II
+		}
+		2112.1.1 = {
+			holder = Cadial_10		#King Alesso III
+		}
+		2115.1.1 = {
+			holder = Cadial_11		#Queen Zara II
+		}
+		2137.1.1 = {
+			holder = Cadial_12		#King Kosano II
+		}
+		2155.1.1 = {
+			holder = Cadial_13		#King Kosano III
+		}
+		2186.1.1 = {
+			holder = Cadial_14		#King Alesso IV
+		}
+	}
+	c_zaranai = {
+
+	}
+	c_fanilon
+	c_kalamathea = {
+		2137.1.1 = {
+			liege = k_caladroja
+			holder = Alorum_11a
+		}
+		2157.1.1 = {
+			holder = Alorum_12a
+		}
+		2175.1.1 = {
+			holder = Alorum_13a
+		}
+	}
+	c_lagan = {
+
+	}
+	c_nidran = {
+
+	}
+	c_evora = {
+		
+	}
+#
+## Duchy of Daniya

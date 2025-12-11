@@ -1,0 +1,841 @@
+﻿k_kaligaia = {
+	1709.1.1 = { change_development_level = 5 }
+	1796.1.1 = { change_development_level = 1 }
+	1825.1.1 = {
+		holder = icarius_2		#King Gideon I
+	}
+	1838.1.1 = {
+		holder = icarius_3		#King Kalbrias I
+	}
+	1854.1.1 = {
+		holder = icarius_6		#King Gideon II
+	}
+	1891.1.1 = {
+		holder = icarius_7		#Queen Philodera I
+	}
+	1904.1.1 = {
+		holder = icarius_8 		#King Gideon III
+	}
+	1912.1.1 = {
+		holder = 0 #Butchering of Kaligaia
+	}
+	
+}
+
+k_imperial_kaligaia = {
+	1913.1.1 = {
+		liege = e_chell
+		holder = Laneus_4d		#Imperial Governor Hector I
+	}
+	1934.1.1 = {
+		holder = Laneus_5b		#Imperial Governor Hector II
+	}
+	1941.1.1 = {
+		holder = Laneus_5b		#Imperial Governor Neres I
+	}
+	1955.1.1 = {
+		holder = Laneus_6		#Imperial Governor Neres II
+	}
+	1980.1.1 = {
+		holder = Laneus_7		#Imperial Governor Xephos I
+	}
+	1887.1.1 = {
+		holder = Laneus_8		#Imperial Governor Hector III
+	}
+	1996.1.1 = {
+		holder = Laneus_9a		#Imperial Governor Xephos II
+	}
+	2001.1.1 = {
+		holder = Laneus_9b		#Imperial Governess Lamira I
+	}
+	2007.1.1 = {
+		holder = Istrano_1a		#Imperial Governor Xephos III
+	}
+	2022.1.1 = {
+		holder = Istrano_1b		#Imperial Governor Gideon I
+	}
+	2040.1.1. = {
+		holder = Istrano_0		#Grand Duke Eranon II of Raulyn's Gate
+	}
+	2057.1.1 = {
+		holder = Jasel_0 		#Grand Duke Atelus I of Raulyn's Gate
+	}
+	2086.1.1 = {
+		holder = Jasel_1		#Grand Duke Ravenwyll of Raulyn's Gate
+	}
+	2109.1.1 = {
+		holder = Voren_0		#Grand Duke Vol I
+	}
+	2124.1.1 = {
+		holder = Voren_1		#Grand Duke Atelus II
+	}
+	2130.1.1 = {
+		holder = Gloryhall_0	#Grand Duke Eranon III
+	}
+	2151.1.1 = {
+		holder = 0
+	}
+}
+
+## Kaligaia ###############
+	d_kaligaia = {
+		1798.1.1 = {
+			holder = icarius_1 #Polymideon
+		}
+		1820.1.1 = {
+			liege = "k_kaligaia"
+			holder = icarius_2 #King Gideon I
+		}
+		1838.1.1 = {
+			holder = icarius_3 #King Kalbrias I
+		}
+		1854.1.1 = {
+			holder = icarius_6 #King Gideon II
+		}
+		1891.1.1 = {
+			holder = icarius_7 #Queen Philodera I
+		}
+		1904.1.1 = {
+			holder = icarius_8 #King Gideon III
+		}
+		1912.1.1 = {
+			liege = "e_chell"
+			holder = 0 #Butchering of Kaligaia
+		}
+		1925.1.1 = {
+			holder = Laneus_4d			#Imperial Governor Hector I
+		}
+		1934.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Hector II
+		}
+		1941.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Neres I
+		}
+		1955.1.1 = {
+			holder = Laneus_6			#Imperial Governor Neres II
+		}
+		1980.1.1 = {
+			holder = Laneus_7			#Imperial Governor Xephos I
+		}
+		1887.1.1 = {
+			holder = Laneus_8			#Imperial Governor Hector III
+		}
+		1996.1.1 = {
+			holder = Laneus_9a			#Imperial Governor Xephos II
+		}
+		2001.1.1 = {
+			holder = Laneus_9b			#Imperial Governess Lamira I
+		}
+		2007.1.1 = {
+			holder = Istrano_1a			#Imperial Governor Xephos III
+		}
+		2022.1.1 = {
+			holder = Istrano_1b			#Imperial Governor Gideon I
+		}
+		2040.1.1. = {
+			holder = Istrano_0			#Grand Duke Eranon II of Raulyn's Gate
+		}
+		2057.1.1 = {
+			holder = Jasel_0 			#Grand Duke Atelus I of Raulyn's Gate
+		}
+		2086.1.1 = {
+			holder = Jasel_1			#Grand Duke Ravenwyll of Raulyn's Gate
+		}
+		2109.1.1 = {
+			holder = Voren_0			#Grand Duke Vol I
+		}
+		2124.1.1 = {
+			holder = Voren_1			#Grand Duke Atelus II
+		}
+		2130.1.1 = {
+			holder = Gloryhall_0		#Grand Duke Eranon III
+		}
+	}
+	c_kaliopolis = {
+		1709.1.1 = { change_development_level = 10 }
+		1796.1.1 = { change_development_level = 4 }
+		1775.1.1 = {
+			holder = icarius_0 #Icarius Icarius
+		}
+		1793.1.1 = {
+			liege = "d_kaligaia"
+			holder = icarius_1 #Polymideon I
+		}
+		1820.1.1 = {
+			holder = icarius_2 #King Gideon I
+		}
+		1838.1.1 = {
+			holder = icarius_3 #King Kalbrias I
+		}
+		1854.1.1 = {
+			holder = icarius_6 #King Gideon II
+		}
+		1891.1.1 = {
+			holder = icarius_7 #Queen Philodera I
+		}
+		1904.1.1 = {
+			holder = icarius_8 #King Gideon III
+		}
+		#1912.1.1 = {
+			#holder = 0 #Butchering of Kaligaia
+		#}
+	}
+	c_argedian_forest = {
+		1793.1.1 = {
+			liege = "d_kaligaia"
+			holder = icarius_1 #Polymideon I
+		}
+		1820.1.1 = {
+			holder = icarius_2 #King Gideon I
+		}
+		1838.1.1 = {
+			holder = icarius_3 #King Kalbrias I
+		}
+		1854.1.1 = {
+			holder = icarius_6 #King Gideon II
+		}
+		1891.1.1 = {
+			holder = icarius_7 #Queen Philodera I
+		}
+		1904.1.1 = {
+			holder = icarius_8 #King Gideon III
+		}
+	}
+	c_fields_of_kaelos = {
+		1793.1.1 = {
+			liege = "d_kaligaia"
+			holder = icarius_1 #Polymideon I
+		}
+		1820.1.1 = {
+			holder = icarius_2 #King Gideon I
+		}
+		1838.1.1 = {
+			holder = icarius_3 #King Kalbrias I
+		}
+		1854.1.1 = {
+			holder = icarius_6 #King Gideon II
+		}
+		1891.1.1 = {
+			holder = icarius_7 #Queen Philodera I
+		}
+		1904.1.1 = {
+			holder = icarius_8 #King Gideon III
+		}
+	}
+	c_metena = {
+		1925.1.1 = {
+			holder = Laneus_4d			#Imperial Governor Hector I
+		}
+		1934.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Hector II
+		}
+		1941.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Neres I
+		}
+		1955.1.1 = {
+			holder = Laneus_6			#Imperial Governor Neres II
+		}
+		1980.1.1 = {
+			holder = Laneus_7			#Imperial Governor Xephos I
+		}
+		1887.1.1 = {
+			holder = Laneus_8			#Imperial Governor Hector III
+		}
+		1996.1.1 = {
+			holder = Laneus_9a			#Imperial Governor Xephos II
+		}
+		2001.1.1 = {
+			holder = Laneus_9b			#Imperial Governess Lamira I
+		}
+		2007.1.1 = {
+			holder = Istrano_1a			#Imperial Governor Xephos III
+		}
+		2022.1.1 = {
+			holder = Istrano_1b			#Imperial Governor Gideon I
+		}
+		2040.1.1. = {
+			holder = Istrano_0			#Grand Duke Eranon II of Raulyn's Gate
+		}
+		2057.1.1 = {
+			holder = Jasel_0 			#Grand Duke Atelus I of Raulyn's Gate
+		}
+		2086.1.1 = {
+			holder = Jasel_1			#Grand Duke Ravenwyll of Raulyn's Gate
+		}
+		2109.1.1 = {
+			holder = Voren_0			#Grand Duke Vol I
+		}
+		2124.1.1 = {
+			holder = Voren_1			#Grand Duke Atelus II
+		}
+		2130.1.1 = {
+			holder = Gloryhall_0		#Grand Duke Eranon III
+		}
+	}
+	c_photonis = {
+		1795.1.1 = {
+			holder = Laneus_0			#Lord Carem I
+		}
+		1831.1.1 = {
+			holder = Laneus_1			#Lord Xephos I
+		}
+		1834.1.1 = {
+			holder = Laneus_2			#Lord Plutian I
+		}
+		1859.1.1 = {
+			holder = Laneus_3			#Lord Xephos II
+		}
+		1911.1.1 = {
+			holder = Laneus_4a			#Lord Plutian II
+		}
+		1925.1.1 = {
+			holder = Laneus_4d			#Imperial Governor Hector I
+		}
+		1934.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Hector II
+		}
+		1941.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Neres I
+		}
+		1955.1.1 = {
+			holder = Laneus_6			#Imperial Governor Neres II
+		}
+		1980.1.1 = {
+			holder = Laneus_7			#Imperial Governor Xephos I
+		}
+		1887.1.1 = {
+			holder = Laneus_8			#Imperial Governor Hector III
+		}
+		1996.1.1 = {
+			holder = Laneus_9a			#Imperial Governor Xephos II
+		}
+		2001.1.1 = {
+			holder = Laneus_9b			#Imperial Governess Lamira I
+		}
+		2007.1.1 = {
+			holder = Istrano_1a			#Imperial Governor Xephos III
+		}
+		2022.1.1 = {
+			holder = Istrano_1b			#Imperial Governor Gideon I
+		}
+		2040.1.1. = {
+			holder = Istrano_0			#Grand Duke Eranon II of Raulyn's Gate
+		}
+		2057.1.1 = {
+			holder = Jasel_0 			#Grand Duke Atelus I of Raulyn's Gate
+		}
+		2086.1.1 = {
+			holder = Jasel_1			#Grand Duke Ravenwyll of Raulyn's Gate
+		}
+		2109.1.1 = {
+			holder = Voren_0			#Grand Duke Vol I
+		}
+		2124.1.1 = {
+			holder = Voren_1			#Grand Duke Atelus II
+		}
+		2130.1.1 = {
+			holder = Gloryhall_0		#Grand Duke Eranon III
+		}
+	}
+#
+## Knostheos ############
+	d_knostheos = {
+		1925.1.1 = {
+			holder = Laneus_4d			#Imperial Governor Hector I
+		}
+		1934.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Hector II
+		}
+		1941.1.1 = {
+			holder = Laneus_5b			#Imperial Governor Neres I
+		}
+		1955.1.1 = {
+			holder = Laneus_6			#Imperial Governor Neres II
+		}
+		1980.1.1 = {
+			holder = Laneus_7			#Imperial Governor Xephos I
+		}
+		1887.1.1 = {
+			holder = Laneus_8			#Imperial Governor Hector III
+		}
+		1996.1.1 = {
+			holder = Laneus_9a			#Imperial Governor Xephos II
+		}
+		2001.1.1 = {
+			holder = Laneus_9b			#Imperial Governess Lamira I
+		}
+		2007.1.1 = {
+			holder = Istrano_1a			#Imperial Governor Xephos III
+		}
+		2022.1.1 = {
+			holder = Istrano_1b			#Imperial Governor Gideon I
+		}
+		2040.1.1. = {
+			holder = Istrano_0			#Grand Duke Eranon II of Raulyn's Gate
+		}
+		2057.1.1 = {
+			holder = Jasel_0 			#Grand Duke Atelus I of Raulyn's Gate
+		}
+		2086.1.1 = {
+			holder = Jasel_1			#Grand Duke Ravenwyll of Raulyn's Gate
+		}
+		2109.1.1 = {
+			holder = Voren_0			#Grand Duke Vol I
+		}
+		2124.1.1 = {
+			holder = Voren_1			#Grand Duke Atelus II
+		}
+		2130.1.1 = {
+			holder = Gloryhall_0		#Grand Duke Eranon III
+		}
+	}
+	c_knostheos = {
+
+	}
+	c_phyrigia = {
+
+	}
+	c_haemopolis = {
+
+	}
+	c_deros = {
+
+	}
+	c_idosia = {
+
+	}
+#
+## Akelonia ###############
+	d_akelonia = {
+
+	}
+	c_akelon = {
+
+	}
+	c_myderos = {
+
+	}
+	c_thermia = {
+		2020.1.1 = {
+			holder = Jadiros_0		#Lord Alexios III of Thermia
+		}
+		2042.1.1 = {
+			holder = Jadiros_1a		#Lord Rhymenes II of Thermia
+		}
+		2046.1.1 = {
+			holder = Jadiros_1b		#Lord Lykos I of Thermia
+		}
+		2052.1.1 = {
+			holder = Jadiros_1c		#Lord Phyrus II of Thermia
+		}
+		2070.1.1 = {
+			holder = Jadiros_2b		#Lord Heiros I of Thermia
+		}
+		2094.1.1 = {
+			holder = Jadiros_3		#Lord Cyrus III of Thermia
+		}
+		2121.1.1 = {
+			holder = Jadiros_4		#Lord Alexios IV fo Thermia
+		}
+		2139.1.1 = {
+			holder = Jadiros_5		#Lord Rhymenes III of Thermia
+		}
+	}
+#
+## Hellidos #################
+	d_hellidos = {
+		1802.1.1 = {
+			holder = enochys_9		#Archon Itylus I of Hellidos
+		}
+		1824.1.1 = {
+			holder = enochys_10		#Archon Itylus II of Hellidos
+		}
+		1837.1.1 = {
+			holder = enochys_11		#Archoness Solesa I of Hellidos
+		}
+		1863.1.1 = {
+			holder = enochys_12 	#Archon Kaerys I of Hellidos
+		}
+		1881.1.1 = {
+			holder = enochys_13		#Archon Kaerys II of Hellidos
+		}
+		1887.1.1 = {
+			holder = oculus_1		#Archon Orphion I of Hellidos
+		}
+		1902.1.1 = {
+			holder = oculus_2		#Archon Dymas I of Hellidos
+		}
+		1912.1.1 = {
+			liege = 0
+		}
+		1916.1.1 = {
+			holder = oculus_3		#Archoness Alecto I of Hellidos
+		}
+		1943.1.1 = {
+			holder = oculus_4		#Archon Ceremox I of Hellidos
+		}
+		1966.1.1 = {
+			holder = oculus_5		#Archon Dymas II of Hellidos
+		}
+		1979.1.1 = {
+			holder = oculus_6		#Archon Dymas III of Hellidos
+		}
+		2005.1.1 = {
+			holder = Hyperkon_0		#Archon Philomenos I of Hellidos
+		}
+		2021.1.1 = {
+			holder = Hyperkon_1		#Archoness Thalia the Kind of Hellidos and Valexios
+		}
+		2047.1.1 = {
+			holder = Hyperkon_2		#Archon Heirax I of Hellidos and Valexios
+		}
+		2058.1.1 = {
+			holder = Hyperkon_3a	#Archon Philomenos II of Hellidos and Valexios
+		}
+		2066.1.1 = {
+			holder = Sondremo_0		#Archon Proteus I of Hellidos and Valexios
+		}
+		2091.1.1 = {
+			holder = Sondremo_1a	#Archon Heirax II of Hellidos and Valexios
+		}
+		2117.1.1 = {
+			holder = Sondremo_1b	#Archoness Alecto II of Hellidos and Valexios
+		}
+		2122.1.1 = {
+			holder = Sondremo_2a	#Archon Ceremox II of hellidos and valexios
+		}
+		2134.1.1 = {
+			holder = Sondremo_2b	#Archoness Alecto III of Hellidos and Valexios
+		}
+		2167.1.1 = {
+			holder = Sondremo_3		#Archon Orphion II of Hellidos and Valexios
+		}
+		2205.1.1 = {
+			holder = Sondremo_4		#Archon Proteus II of Hellidos and Valexios
+		}
+	}
+
+	c_etrelopis = {
+		1705.1.1 = {
+			holder = enochys_0 		#Prince Talorus Elfkneeler
+		}
+		1719.1.1 = {
+			holder = enochys_1		#Lord Andras the Bold
+		}
+		1740.1.1 = {
+			holder = enochys_2		#Lord Athamon 
+		}
+		1761.1.1 = {
+			holder = enochys_3		#Lord Kaerys 
+		}
+		1773.1.1 = {
+			holder = enochys_4		#Lord Itylus 
+		}
+		1788.1.1 = {
+			holder = enochys_9		#Archon Itylus I
+		}
+		1824.1.1 = {
+			holder = enochys_10		#Archon Itylus II
+		}
+		1837.1.1 = {
+			holder = enochys_11		#Archoness Solesa I
+		}
+		1863.1.1 = {
+			holder = enochys_12 	#Archon Kaerys I
+		}
+		1881.1.1 = {
+			holder = enochys_13		#Archon Kaerys II
+		}
+		1887.1.1 = {
+			holder = oculus_1		#Archon Orphion I
+		}
+		1902.1.1 = {
+			holder = oculus_2		#Archon Dymas I
+		}
+		1916.1.1 = {
+			holder = oculus_3		#Archoness Alecto I
+		}
+		1943.1.1 = {
+			holder = oculus_4		#Archon Ceremox I
+		}
+		1966.1.1 = {
+			holder = oculus_5		#Archon Dymas II
+		}
+		1979.1.1 = {
+			holder = oculus_6		#Archon Dymas III
+		}
+		2005.1.1 = {
+			holder = Hyperkon_0		#Archon Philomenos I of Hellidos
+		}
+		2021.1.1 = {
+			holder = Hyperkon_1		#Archoness Thalia the Kind of Hellidos and Valexios
+		}
+		2047.1.1 = {
+			holder = Hyperkon_2		#Archon Heirax I of Hellidos and Valexios
+		}
+		2058.1.1 = {
+			holder = Hyperkon_3a	#Archon Philomenos II of Hellidos and Valexios
+		}
+		2066.1.1 = {
+			holder = Sondremo_0		#Archon Proteus I of Hellidos and Valexios
+		}
+		2091.1.1 = {
+			holder = Sondremo_1a	#Archon Heirax II of Hellidos and Valexios
+		}
+		2117.1.1 = {
+			holder = Sondremo_1b	#Archoness Alecto II of Hellidos and Valexios
+		}
+		2122.1.1 = {
+			holder = Sondremo_2a	#Archon Ceremox II of hellidos and valexios
+		}
+		2134.1.1 = {
+			holder = Sondremo_2b	#Archoness Alecto III of Hellidos and Valexios
+		}
+		2167.1.1 = {
+			holder = Sondremo_3		#Archon Orphion II of Hellidos and Valexios
+		}
+		2205.1.1 = {
+			holder = Sondremo_4		#Archon Proteus II of Hellidos and Valexios
+		}
+	}
+	c_karkala = {
+		1705.1.1 = {
+			holder = enochys_0 		#Prince Talorus Elfkneeler
+		}
+		1719.1.1 = {
+			holder = enochys_1		#Lord Andras the Bold
+		}
+		1740.1.1 = {
+			holder = enochys_2		#Lord Athamon 
+		}
+		1761.1.1 = {
+			holder = enochys_3		#Lord Kaerys 
+		}
+		1773.1.1 = {
+			holder = enochys_4		#Lord Itylus 
+		}
+		1788.1.1 = {
+			holder = enochys_9		#Archon Itylus I
+		}
+		1824.1.1 = {
+			holder = enochys_10		#Archon Itylus II
+		}
+		1837.1.1 = {
+			holder = enochys_11		#Archoness Solesa I
+		}
+		1863.1.1 = {
+			holder = enochys_12 	#Archon Kaerys I
+		}
+		1881.1.1 = {
+			holder = enochys_13		#Archon Kaerys II
+		}
+		1887.1.1 = {
+			holder = oculus_1		#Archon Orphion I
+		}
+		1902.1.1 = {
+			holder = oculus_2		#Archon Dymas I
+		}
+		1916.1.1 = {
+			holder = oculus_3		#Archoness Alecto I
+		}
+		1943.1.1 = {
+			holder = oculus_4		#Archon Ceremox I
+		}
+		1966.1.1 = {
+			holder = oculus_5		#Archon Dymas II
+		}
+		1979.1.1 = {
+			holder = oculus_6		#Archon Dymas III
+		}
+		2005.1.1 = {
+			holder = Hyperkon_0		#Archon Philomenos I of Hellidos
+		}
+		2021.1.1 = {
+			holder = Hyperkon_1		#Archoness Thalia the Kind of Hellidos and Valexios
+		}
+		2047.1.1 = {
+			holder = Hyperkon_2		#Archon Heirax I of Hellidos and Valexios
+		}
+		2058.1.1 = {
+			holder = Hyperkon_3a	#Archon Philomenos II of Hellidos and Valexios
+		}
+		2066.1.1 = {
+			holder = Sondremo_0		#Archon Proteus I of Hellidos and Valexios
+		}
+		2091.1.1 = {
+			holder = Sondremo_1a	#Archon Heirax II of Hellidos and Valexios
+		}
+		2117.1.1 = {
+			holder = Sondremo_1b	#Archoness Alecto II of Hellidos and Valexios
+		}
+		2122.1.1 = {
+			holder = Sondremo_2a	#Archon Ceremox II of hellidos and valexios
+		}
+		2134.1.1 = {
+			holder = Sondremo_2b	#Archoness Alecto III of Hellidos and Valexios
+		}
+		2167.1.1 = {
+			holder = Sondremo_3		#Archon Orphion II of Hellidos and Valexios
+		}
+		2205.1.1 = {
+			holder = Sondremo_4		#Archon Proteus II of Hellidos and Valexios
+		}
+	}
+	c_diocles_burden = {
+
+	}
+	c_dymoxa = {
+		1697.1.1 = {
+			holder = phyloderon_0 	#Lord Dymeros I of Dymoxa
+		}
+		1732.1.1 = {
+			holder = phyloderon_1a 	#Lord Aegor I of Dymoxa
+		}
+		1776.1.1 = {
+			holder = phyloderon_2	#Lord Dymeros II of Dymoxa
+		}
+		1783.1.1 = {
+			holder = phyloderon_3	#Lord Aegor II of Dymoxa
+		}
+		1802.1.1 = {
+			liege = d_hellidos
+		}
+		1816.1.1 = {
+			holder = phyloderon_4a	#Lord Klestos I of Dymoxa
+		}
+		1844.1.1 = {
+			holder = phyloderon_5	#Lord Andrade I of Dymoxa
+		}
+	}
+	c_averian_hills = {
+
+	}
+	c_sirens_shore = {
+
+	}
+#
+## Valexios ###################
+	d_valexios_islands = {
+		1987.1.1 = {
+			holder = Hyperkon_01	#Archon Kaerys I of Valexios
+		}
+		2042.1.1 = {
+			holder = Hyperkon_1		#Archoness Thalia the Kind of Hellidos and Valexios
+		}
+		2047.1.1 = {
+			holder = Hyperkon_2		#Archon Heirax I of Hellidos and Valexios
+		}
+		2058.1.1 = {
+			holder = Hyperkon_3a	#Archon Philomenos II of Hellidos and Valexios
+		}
+		2066.1.1 = {
+			holder = Sondremo_0		#Archon Proteus I of Hellidos and Valexios
+		}
+		2091.1.1 = {
+			holder = Sondremo_1a	#Archon Heirax II of Hellidos and Valexios
+		}
+		2117.1.1 = {
+			holder = Sondremo_1b	#Archoness Alecto II of Hellidos and Valexios
+		}
+		2122.1.1 = {
+			holder = Sondremo_2a	#Archon Ceremox II of hellidos and valexios
+		}
+		2134.1.1 = {
+			holder = Sondremo_2b	#Archoness Alecto III of Hellidos and Valexios
+		}
+		2167.1.1 = {
+			holder = Sondremo_3		#Archon Orphion II of Hellidos and Valexios
+		}
+		2205.1.1 = {
+			holder = Sondremo_4		#Archon Proteus II of Hellidos and Valexios
+		}
+	}
+	c_nisa_valexios = {
+		1987.1.1 = {
+			holder = Hyperkon_01	#Archon Kaerys I of Valexios
+		}
+		2042.1.1 = {
+			holder = Hyperkon_1		#Archoness Thalia the Kind of Hellidos and Valexios
+		}
+		2047.1.1 = {
+			holder = Hyperkon_2		#Archon Heirax I of Hellidos and Valexios
+		}
+		2049.1.1 = {
+			liege = d_valexios_islands
+			holder = Geminid_0		#Lord Laconus I of Nisa Valexios
+		}
+		2091.1.1 = {
+			holder = Geminid_1		#Lord Laconus II of Nisa Valexios
+		}
+		2096.1.1 = {
+			holder = Geminid_2		#Lord Kaerys II of Nisa Valexios
+		}
+		2120.1.1 = {
+			holder = Geminid_3		#Lord Laconus III of Nisa Valexios
+		}
+		2157.1.1 = {
+			holder = Geminid_4a		#Lord Dymas I of Nisa Valexios
+		}
+		2189.1.1 = {
+			holder = Geminid_5		#Lord Ceremox I of Nisa Valexios
+		}
+	}
+	c_myriae = {
+		2086.1.1 = {
+			holder =  Vikos_0			#Lord Xyrates of Myriae
+			government = rogue_government
+		}
+		2099.1.1 = {
+			holder = Vikos_1a			#Lord Leokyron of Myriae
+		}
+		2101.1.1 = {
+			holder = Vikos_1b			#Lord Helicaon of Myriae
+		}
+		2108.1.1 = {
+			holder = Malderus_0			#Lord Demas the Bonegrinder
+		}
+		2114.1.1 = {
+			holder = Vikos_2			#Lord Daemenes the Snake
+		}
+
+	}
+#
+## Chytonaki ###############
+	d_chytonakti = {
+
+	}
+	c_pyrokestia = {
+		
+	}
+	c_apeiros = {
+		
+	}
+	c_orenes = {
+		
+	}
+	c_marvo_spathi = {
+		
+	}
+	c_lefanti = {
+		
+	}
+	c_vasedonia = {
+		
+	}
+	c_kagalos = {
+		
+	}
+#
+## Mara's Lament ############
+	d_maras_lament = {
+		
+	}
+	c_maras_lament = {
+		
+	}
+	c_kathagro = {
+		
+	}
+	c_chioneskos_bay = {
+		
+	}

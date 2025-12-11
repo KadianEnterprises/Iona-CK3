@@ -1,0 +1,364 @@
+﻿k_enlightened_shadarana = {
+	867.1.1 = { change_development_level = 16 }
+	1803.1.1 = { change_development_level = 5 }
+	2017.1.1 = {
+		holder = Mejati_1
+	}
+	2031.1.1 = {
+		holder = Mejati_2
+	}
+	2064.1.1 = {
+		holder = Mejati_3
+	}
+	2088.1.1 = {
+		holder = Mejati_4
+	}
+	2094.1.1 = {
+		holder = Mejati_7
+	}
+	2105.1.1 = {
+		holder = Zafrel_5
+	}
+	2130.1.1 = {
+		holder = Zafrel_6
+	}
+}
+
+## Kinshala
+	d_kinshala = {
+		867.1.1 = { change_development_level = 16 }
+		1803.1.1 = { change_development_level = 5 }
+		1987.1.1 = {
+			holder = Mejati_0 #Talo Mejati
+		}
+		1996.1.1 = {
+			holder = Mejati_1 #King Karim I
+		}
+		2031.1.1 = {
+			holder = Mejati_2 
+		}
+		2064.1.1 = {
+			holder = Mejati_3
+		}
+		2088.1.1 = {
+			holder = Mejati_4
+		}
+		2094.1.1 = {
+			holder = Mejati_7
+		}
+		2105.1.1 = {
+			holder = Zafrel_5
+		}
+		2130.1.1 = {
+			holder = Zafrel_6
+		}
+		2184.1.1 = {
+			holder = Zafrel_7
+		}
+	}
+	c_kinshala = {
+		1987.1.1 = {
+			holder = Mejati_0 #Talo Mejati
+		}
+		1996.1.1 = {
+			holder = Mejati_1 #King Karim I
+		}
+		2031.1.1 = {
+			holder = Mejati_2 
+		}
+		2064.1.1 = {
+			holder = Mejati_3
+		}
+		2088.1.1 = {
+			holder = Mejati_4
+		}
+		2094.1.1 = {
+			holder = Mejati_7
+		}
+		2105.1.1 = {
+			holder = Zafrel_5
+		}
+		2130.1.1 = {
+			holder = Zafrel_6
+		}
+		2184.1.1 = {
+			holder = Zafrel_7
+		}
+	}
+	c_nyama = {
+		1987.1.1 = {
+			holder = Mejati_0 #Talo Mejati
+		}
+		1996.1.1 = {
+			holder = Mejati_1 #King Karim I
+		}
+		2031.1.1 = {
+			holder = Mejati_2 
+		}
+		2064.1.1 = {
+			holder = Mejati_3
+		}
+		2088.1.1 = {
+			holder = Mejati_4
+		}
+		2094.1.1 = {
+			holder = Mejati_7
+		}
+		2105.1.1 = {
+			holder = Zafrel_5
+		}
+		2130.1.1 = {
+			holder = Zafrel_6
+		}
+		2184.1.1 = {
+			holder = Zafrel_7
+		}
+	}
+	c_hanayera = {
+		1987.1.1 = {
+			holder = Mejati_0 #Talo Mejati
+		}
+		1996.1.1 = {
+			holder = Mejati_1 #King Karim I
+		}
+		2031.1.1 = {
+			holder = Mejati_2 
+		}
+		2064.1.1 = {
+			holder = Mejati_3
+		}
+		2088.1.1 = {
+			holder = Mejati_4
+		}
+		2094.1.1 = {
+			holder = Mejati_7
+		}
+		2105.1.1 = {
+			holder = Zafrel_5
+		}
+		2130.1.1 = {
+			holder = Zafrel_6
+		}
+		2184.1.1 = {
+			holder = Zafrel_7
+		}
+	}
+	c_zalarun = {
+		#1694.1.1 = {
+		#	government = republic_government
+		#}
+		1803.1.1 = {
+			leige = d_enlightened_city_zalarun
+		}
+		2104.1.1 = {
+			holder = Adetzi_3 
+		}
+	}
+## Kamerian
+	d_kamerian = {
+		867.1.1 = { change_development_level = 16 }
+		1803.1.1 = { change_development_level = 5 }
+		1991.1.1 = {
+			holder = Takan_0
+		}
+		2017.1.1 = {
+			liege = k_enlightened_shadarana
+		}
+		2036.1.1 = {
+			holder = Takan_1
+		}
+		2059.1.1 = {
+			holder = Takan_2
+		}
+		2096.1.1 = {
+			holder = Takan_4
+		}
+		2128.1.1 = {
+			holder = Takan_5
+		}
+		2134.1.1 = {
+			holder = Takan_6
+		}
+		2146.1.1 = {
+			holder = Takan_9
+		}
+		2155.1.1 = {
+			holder = Takan_10
+		}
+		2191.1.1 = {
+			holder = Takan_11
+		}
+		2213.1.1 = {
+			holder = Takan_15
+		}
+		2239.1.1 = {
+			holder = Takan_17
+		}
+	}
+	c_ain_ruan = {
+		1991.1.1 = {
+			holder = Takan_0
+		}
+		2036.1.1 = {
+			holder = Takan_1
+		}
+		2059.1.1 = {
+			holder = Takan_2
+		}
+		2096.1.1 = {
+			holder = Takan_4
+		}
+		2128.1.1 = {
+			holder = Takan_5
+		}
+		2134.1.1 = {
+			holder = Takan_6
+		}
+		2146.1.1 = {
+			holder = Takan_9
+		}
+		2155.1.1 = {
+			holder = Takan_10
+		}
+		2191.1.1 = {
+			holder = Takan_11
+		}
+		2213.1.1 = {
+			holder = Takan_15
+		}
+		2239.1.1 = {
+			holder = Takan_17
+		}
+	}
+	c_zana_tower = {
+		2001.1.1 = {
+			holder = Zafrel_0
+		}
+		2024.1.1 = {
+			holder = Zafrel_1
+		}
+		2069.1.1 = {
+			holder = Zafrel_2
+		}
+		2081.1.1 = {
+			holder = Zafrel_3
+		}
+		2120.1.1 = {
+			holder = Zafrel_4
+		}
+		2134.1.1 = {
+			holder = Zafrel_6
+		}
+		2184.1.1 = {
+			holder = Zafrel_7
+		}
+	}
+	c_brana = {
+		2001.1.1 = {
+			holder = Zafrel_0
+		}
+		2024.1.1 = {
+			holder = Zafrel_1
+		}
+		2069.1.1 = {
+			holder = Zafrel_2
+		}
+		2081.1.1 = {
+			holder = Zafrel_3
+		}
+		2120.1.1 = {
+			holder = Zafrel_4
+		}
+		2134.1.1 = {
+			holder = Zafrel_6
+		}
+		2135.1.1 = {
+			liege = k_enlightened_shadarana
+			holder = Zafrel_8
+		}
+		2155.1.1 = {
+			holder = Zafrel_9
+		}
+		2180 = {
+			holder = 0
+		}
+	}
+	c_kelad = {
+		1991.1.1 = {
+			holder = Takan_0
+		}
+		2036.1.1 = {
+			holder = Takan_1
+		}
+		2059.1.1 = {
+			holder = Takan_2
+		}
+		2096.1.1 = {
+			holder = Takan_4
+		}
+		2128.1.1 = {
+			holder = Takan_5
+		}
+		2134.1.1 = {
+			holder = Takan_6
+		}
+		2146.1.1 = {
+			holder = Takan_9
+		}
+		2155.1.1 = {
+			holder = Takan_10
+		}
+		2191.1.1 = {
+			holder = Takan_11
+		}
+		2213.1.1 = {
+			holder = Takan_15
+		}
+		2239.1.1 = {
+			holder = Takan_17
+		}
+	}
+	c_herza = {
+		1991.1.1 = {
+			holder = Takan_0
+		}
+		2036.1.1 = {
+			holder = Takan_1
+		}
+		2059.1.1 = {
+			holder = Takan_2
+		}
+		2096.1.1 = {
+			holder = Takan_4
+		}
+		2128.1.1 = {
+			holder = Takan_5
+		}
+		2134.1.1 = {
+			holder = Takan_6
+		}
+		2146.1.1 = {
+			holder = Takan_9
+		}
+		2155.1.1 = {
+			holder = Takan_10
+		}
+		2191.1.1 = {
+			holder = Takan_11
+		}
+		2213.1.1 = {
+			holder = Takan_15
+		}
+		2239.1.1 = {
+			holder = Takan_17
+		}
+	}
+## Enlightened Zalarun
+	d_enlightened_zalarun = {
+		2017.1.1 = {
+			liege = k_enlightened_shadarana
+		}
+		2104.1.1 = {
+			holder = Adetzi_3 
+		}
+	}

@@ -1,0 +1,491 @@
+# Ilfan
+## Ilfane
+	### Ilfanyra
+	1425 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1426 = {
+		holding = city_holding
+	}
+	1427 = {
+		holding = city_holding
+	}
+	1428 = {
+		holding = castle_holding
+	}
+	1429 = {
+		holding = none
+	}
+	### Naseronne
+	1432 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1433 = {
+		holding = city_holding
+	}
+	1434 = {
+		holding = none
+	}
+	1435 = {
+		holding = city_holding
+	}
+	1436 = {
+		holding = none
+	}
+	### Anarion's Tower
+	1430 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Isle d'Ysam
+	1431 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Terion
+	1440 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1441 = {
+		holding = church_holding
+	}
+	1442 = {
+		holding = city_holding
+	}
+	1443 = {
+		holding = none
+	}
+	### Veauxe
+	1437 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1438 = {
+		holding = none
+	}
+	1439 = {
+		holding = none
+	}
+## Dalynmel
+	### Forencet
+	1449 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1450 = {
+		holding = city_holding
+	}
+	1451 = {
+		holding = none
+	}
+	### Galasthem
+	1452 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1453 = {
+		holding = none
+	}
+	### Herrinthen
+	1454 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1455 = {
+		holding = city_holding
+	}
+	1456 = {
+		holding = none
+	}
+	### Daynist
+	1457 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1458 = {
+		holding = none
+	}
+	1459 = {
+		holding = church_holding
+	}
+## Kyrnne
+	### Kyrnnien
+	1460 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1461 = {
+		holding = city_holding
+	}
+	1462 = {
+		holding = none
+	}
+	1463 = {
+		holding = none
+	}
+	### Besalun
+	1464 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1465 = {
+		holding = city_holding
+	}
+	1466 = {
+		holding = none
+	}
+	### Aviss
+	1467 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1468 = {
+		holding = city_holding
+	}
+	1469 = {
+		holding = none
+	}
+	1470 = {
+		holding = none
+	}
+	### Virgalen
+	1471 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1472 = {
+		holding = none
+	}
+	1473 = {
+		holding = none
+	}
+	### Leme
+	1474 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1475 = {
+		holding = city_holding
+	}
+## Aldaris
+	### Vel
+	1502 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1503 = {
+		holding = city_holding
+	}
+	1504 = {
+		holding = none
+	}
+	1505 = {
+		holding = none
+	}
+	### Nemenne
+	1506 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1507 = {
+		holding = none
+	}
+	1508 = {
+		holding = none
+	}
+	1509 = {
+		holding = none
+	}
+	### Taramyn
+	1510 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1511 = {
+		holding = city_holding
+	}
+	1512 = {
+		holding = none
+	}
+	### Arvena
+	1513 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1514 = {
+		holding = none
+	}
+	1515 = {
+		holding = none
+	}
+	### Baraceau
+	1516 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1617 = {
+		holding = none
+	}
+	1518 = {
+		holding = none
+	}
+	### Gauste
+	1519 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Senneau
+	1520 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1521 = {
+		holding = none
+	}
+	1522 = {
+		holding = none
+	}
+## Ralrois
+	### Ancienna
+	1477 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1478 = {
+		holding = city_holding
+	}
+	1479 = {
+		holding = city_holding
+	}
+	1480 = {
+		holding = church_holding
+	}
+	1481 = {
+		holding = none
+	}
+	1482 = {
+		holding = none
+	}
+	### Gap of Ilfan
+	1476 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1483 = {
+		holding = none
+	}
+	1484 = {
+		holding = none
+	}
+	### Valenaia
+	1485 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1486 = {
+		holding = none
+	}
+	1487 = {
+		holding = none
+	}
+	1488 = {
+		holding = city_holding
+	}
+	### Dralonne
+	1489 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1490 = {
+		holding = none
+	}
+	### Issalen
+	1491 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1492 = {
+		holding = none
+	}
+	1493 = {
+		holding = castle_holding
+	}
+	1494 = {
+		holding = none
+	}
+	### Laureneau
+	1495 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1496 = {
+		holding = none
+	}
+	1497 = {
+		holding = none
+	}
+	### Juela
+	1498 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1499 = {
+		holding = city_holding
+	}
+	1500 = {
+		holding = none
+	}
+	1501 = {
+		holding = none
+	}
+## Vendoleth
+	### Cyrenyr
+	1523 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1524 = {
+		holding = city_holding
+	}
+	1525 = {
+		holding = none
+	}
+	1526 = {
+		holding = none
+	}
+	1527 = {
+		holding = none
+	}
+	### Ravinyra
+	1528 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1529 = {
+		holding = none
+	}
+	1530 = {
+		holding = none
+	}
+	### Morelyr
+	1531 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1532 = {
+		holding = none
+	}
+	1533 = {
+		holding = none
+	}
+	1534 = {
+		holding = none
+	}
+	### Carengal
+	1535 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1536 = {
+		holding = none
+	}
+	### Eldyren
+	1537 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1538 = {
+		holding = city_holding
+	}
+	1539 = {
+		holding = none
+	}
+	1540 = {
+		holding = none
+	}
+	### Vistel
+	1541 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1542 = {
+		holding = none
+	}
+	1543 = {
+		holding = none
+	}
+	### Argennou
+	1544 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1545 = {
+		holding = city_holding
+	}
+	1546 = {
+		holding = none
+	}
+	1547 = {
+		holding = none
+	}
+## Surleon
+	### Leonpride
+	1444 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1445 = {
+		holding = city_holding
+	}
+	1446 = {
+		holding = castle_holding
+	}
+	1447 = {
+		holding = city_holding
+	}
+	### Ironclaw Sepulchre
+	1448 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = church_holding
+	}

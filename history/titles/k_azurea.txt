@@ -1,0 +1,180 @@
+k_azurea = {
+	1129.1.1 = {
+		holder = Nerakos_0			#King Nerin the Seaswept
+	}
+	1176.1.1 = {
+		holder = Nerakos_1			#King Azure I
+	}
+	1201.1.1 = {
+		holder = Nerakos_2			#King Dallian I
+	}
+	1216.1.1 = {
+		holder = Nerakos_3a			#King Marann I
+	}
+	1221.1.1 = {
+		holder = Nerakos_3b			#Queen Valel I
+	}
+	1247.1.1 = {
+		holder = Nerakos_4			#Queen Nenya I
+	}
+	1259.1.1 = {
+		holder = Nerakos_5			#King Maris I
+	}
+	1273.1.1 = {
+		holder = Nerakos_6			#King Dallian II
+	}
+	1326.1.1 = {
+		holder = Azural_0			#King Maris II
+	}
+	1367.1.1 = {
+		holder = Azural_1			#King Dallian III the Seatyrant
+	}
+	1394.1.1 = {
+		holder = Azural_2			#King Azure the Seablessed
+	}
+	1419.1.1 = {
+		holder = Azural_3			#King Azure III
+	}
+	1422.1.1 = {
+		holder = Azural_4d			#King Amallan the Unexpected
+	}
+	1468.1.1 = {
+		holder = Azural_5			#King Azure IV
+	}
+	1503.1.1 = {
+		holder = Azural_6			#King Amallan II
+	}
+	1535.1.1 = {
+		holder = Azural_7			#King Azure V
+	}
+	1547.1.1 = {
+		holder = Azural_8			#King Maris III
+	}
+	1596.1.1 = {
+		holder = Azural_10			#King Azure VI
+	}
+	1628.1.1 = {
+		holder = Azural_11			#King Marann II
+	}
+	1633.1.1 = {
+		holder = Azural_12			#Queen Kidagare I
+	}
+	1709.1.1 = {
+		holder = Azural_14			#King Odyranos I
+	}
+	1764.1.1 = {
+		holder = Azural_17			#King Aon I
+	}
+	1791.1.1 = {
+		holder = Azural_18			#King Nerin II
+	}
+	1794.1.1 = {
+		change_development_level = 2
+	}
+	1800.1.1 = {
+		holder = Azural_20			#King Aon II
+	}
+	1864.1.1 = {
+		holder = Azural_22			#King Amallan the Ancient
+	}
+	1939.1.1 = {
+		holder = Azural_24			#King Azure VII
+	}
+	2006.1.1 = {
+		holder = Azural_27			#King Amallan IV
+	}
+	2106.1.1 = {
+		holder = Azural_29			#Queen Kidagare II
+	}
+	2125.1.1 = {
+		holder = Azural_30			#King Auros I
+	}
+	2132.1.1 = {
+		holder = Azural_31			#King Aon III
+	}
+	2139.1.1 = {
+		holder = Azural_33			#King Auros II
+	}
+	2206.1.1 = {
+		holder = Azural_34			#King Azure VIII
+	}
+	2219.1.1 = {
+		holder = Azural_35			#King Nerin III
+	}
+}
+
+## Kidakali
+	d_kidakali = {
+		
+	}
+	c_kidakalikon = {
+
+	}
+	c_ordakestion = {
+
+	}
+	c_nacria = {
+
+	}
+	c_avodythos = {
+		
+	}
+	c_siderika = {
+
+	}
+	c_pyrodanos = {
+
+	}
+	c_kameriorus = {
+		
+	}
+#
+## Aenollonia
+	d_aenollonia = {
+		
+	}
+	c_eterith = {
+
+	}
+	c_jutikos = {
+		
+	}
+	c_orchidos = {
+		
+	}
+	c_ambyras = {
+		
+	}
+	c_nysaphon = {
+		
+	}
+#
+## Hypodaemia
+	d_hypodaemia = {
+
+	}
+	c_keberae = {
+		
+	}
+	c_helmerai = {
+		
+	}
+	c_sonyras = {
+		
+	}
+	c_kationa = {
+		
+	}
+	c_zaronkai = {
+		
+	}
+#
+## Erados
+#
+## Kalathosos
+#
+## Pontilates
+#
+## Ibriana
+#
+## Palorum Nostros

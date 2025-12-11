@@ -1,0 +1,132 @@
+﻿k_haserian = {
+	1799.1.1 = {
+		holder = Silversun_0		#King Arageisel the Great
+	}
+	1826.1.1 = {
+		holder = Silversun_1		#King Gilder I
+	}
+	1859.1.1 = {
+		holder = Silversun_2		#King Ilin I
+	}
+	1885.1.1 = {
+		holder = Silversun_3		#King Arageisel II
+	}
+	1932.1.1 = {
+		holder = Silversun_5		#Queen Herewyn I
+	}
+	1949.1.1 = {
+		holder = Silversun_6		#King Eadwin I
+	}
+	1976.1.1 = {
+		holder = Silversun_7		#King Eadwin II
+	}
+	1988.1.1 = {
+		holder = Silversun_8a		#King Gilder II
+	}
+	1996.1.1 = {
+		holder = Whitehawk_0		#King Godwyn the Whitehawk
+	}
+	2011.1.1 = {
+		holder = Whitehawk_1		#King Ashwin I
+	}
+	2048.1.1. = {
+		holder = 0
+	}
+	2050.1.1 = {
+		holder = Whitehawk_2b		#king Eadwin III
+	}
+	2071.1.1 = {
+		liege = e_chell
+	}
+	2081.1.1 = {
+		holder = Whitehawk_3		#King Godwyn II
+	}
+	2086.1.1 = {
+		holder = Whitehawk_4		#Queen Herewyn II
+	}
+	2099.1.1 = {
+		holder = Wyvernpike_0		#King Eadwin IV
+	}
+	2121.1.1 = {
+		holder = Wyvernpike_1a		#King Arageisel III
+	}
+	2124.1.1 = {
+		holder = 0
+	}
+}
+#
+## Haseric
+	d_haseric = {
+		2049.1.1 = {
+			liege = k_tessaria
+			holder = Dyresun_0			#Duke Leofric I
+		}
+		2081.1.1 = {
+			holder = Dyresun_1			#Duke Leofric II
+		}
+		2094.1.1 = {
+			holder = Dyresun_2			#Duke Dryden I
+		}
+		2120.1.1 = {
+			holder = Dyresun_3			#Duke Leofric III
+		}
+		2138.1.1 = {
+			holder = Dyresun_4a			#Duke Leofric IV
+		}
+		2162.1.1 = {
+			holder = Dyresun_5c			#Duke Dryden II
+		}
+	}
+#
+## Caedyr
+	d_caedyr = {
+		2132.1.1 = {
+			holder = Pyrestar_3b10		#Duke Kirion III
+		}
+		2154.1.1 = {
+			holder = Pyrestar_3b11		#Duke Wyran V 
+		}
+		2157.1.1 = {
+			holder = Pyrestar_3b12		#Duke Talis I
+		}
+		2180.1.1 = {
+			holder = Pyrestar_3b13		#Duke Talis II
+		}
+	}
+#
+## Eldyth
+#
+## Terac
+	d_terac = {
+		1983.1.1 = {
+			liege = k_tessaria
+			holder = Wulfstone_5c		#Duke Leofric I
+		}
+		2022.1.1 = {
+			holder = Wulfstone_6		#Duke Leofric II
+		}
+		2061.1.1 = {
+			holder = Wulfstone_7a		#Duke Leofric III
+		}
+		2076.1.1 = {
+			holder = Wulfstone_8		#Duke Theodrest I
+		}
+		2078.1.1 = {
+			holder = Wulfstone_9		#Duchess Maeve I
+		}
+		2109.1.1 = {
+			holder = Boughhold_0		#Duke Eadwin I
+		}
+		2131.1.1 = {
+			holder = Boughhold_1		#Duke Theodrest II
+		}
+		2172.1.1 = {
+			holder = Boughhold_2a		#Duke Leofric IV of the Terac
+		}
+		2177.1.1 = {
+			holder = Boughhold_3a		#Duke Eadwin II of the Terac
+		}
+		2180.1.1 = {
+			holder = Boughhold_4		#Duke Edward I of the Terac
+		}
+	}

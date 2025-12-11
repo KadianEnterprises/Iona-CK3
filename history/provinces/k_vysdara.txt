@@ -1,0 +1,202 @@
+﻿# Vysdara
+## Vysdaran
+	### Ophiran
+	1896 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1897 = {
+		holding = city_holding
+	}
+	1898 = {
+		holding = none
+	}
+	1899 = {
+		holding = none
+	}
+	### Nicalia
+	1900 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1901 = {
+		holding = none
+	}
+	1902 = {
+		holding = none
+	}
+	### Sorana
+	1903 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1904 = {
+		holding = none
+	}
+	### Atreberin
+	1905 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1906 = {
+		holding = none
+	}
+	1907 = {
+		holding = none
+	}
+	### Imros
+	1908 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1909 = {
+		holding = none
+	}
+	1910 = {
+		holding = none
+	}
+	### Acyran
+	1911 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1912 = {
+		holding = none
+	}
+	1913 = {
+		holding = none
+	}
+	### Chalceral
+	1914 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1915 = {
+		holding = none
+	}
+	1916 = {
+		holding = none
+	}
+	1917 = {
+		holding = none
+	}
+## Talidanos
+	### Talidaniki
+	1918 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1919 = {
+		holding = none
+	}
+	1920 = {
+		holding = none
+	}
+	### Syrikon
+	1921 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1922 = {
+		holding = none
+	}
+	### Physerus
+	1923 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1924 = {
+		holding = none
+	}
+	### Akration
+	1925 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1926 = {
+		holding = none
+	}
+	1927 = {
+		holding = none
+	}
+	### Magnorum
+	1928 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1929 = {
+		holding = none
+	}
+	1930 = {
+		holding = none
+	}
+	### Troanos	
+	1931 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	1932 = {
+		holding = none
+	}
+## Calonassa
+	### Calonassa
+	421 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	420 = {
+		holding = city_holding
+	}
+	422 = {
+		holding = none
+	}
+	423 = {
+		holding = none
+	}
+	### Aigiras
+	419 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Thesika
+	424 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	425 = {
+		holding = none
+	}
+	426 = {
+		holding = none
+	}
+	### Megios
+	427 = {
+		culture = caprian
+		religion = aurementic
+		holding = castle_holding
+	}
+	428 = {
+		holding = none
+	}
+	429 = {
+		holding = none
+	}
+	430 = {
+		holding = none
+	}

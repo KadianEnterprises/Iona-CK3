@@ -1,0 +1,162 @@
+﻿k_ilfan = {
+	1875.1.1 = {
+		holder = Lakaris_0		#King Dairal I of Ilfan
+	}
+	1908.1.1 = {
+		holder = Lakaris_1		#King Rhyal I of Ilfan
+	}
+	1914.1.1 = {
+		holder = Lakaris_2		#King Luisal I of Ilfan
+	}
+	1927.1.1 = {
+		holder = Lakaris_3		#King Philian the Great
+	}
+	1958.1.1 = {
+		holder = Lakaris_4		#King Philian II of Ilfan
+	}
+	1973.1.1 = {
+		holder = Lakaris_5		#King Luisal II of Ilfan
+	}
+	1984.1.1 = {
+		holder = Lakaris_6		#King Rhyal the Sickly
+	}
+	2001.1.1 = {
+		holder = Lakaris_7a		#King Philian the Boy King
+	}
+	2002.1.1 = {
+		holder = Lakaris_7b		#King Dairal II of Ilfan
+	}
+	2019.1.1 = {
+		holder = Atranoux_2a	#King Kazmyn I of Ilfan
+	}
+	2034.1.1 = {
+		holder = Atranoux_3		#King Kazmyn II of Ilfan
+	}
+	2079.1.1 = {
+		holder = Atranoux_4		#King Luisal III of Ilfan
+	}
+	2122.1.1 = {
+		holder = Atranoux_6		#Queen Cinter I of Ilfan
+	}
+	2145.1.1 = {
+		holder = Atranoux_7		#King Philian IV of Ilfan
+	}
+	2164.1.1 = {
+		holder = Atranoux_8		#King Philian V of Ilfan
+	}
+	2179.1.1 = {
+		holder = Atranoux_9a	#King Philian VI of Ilfan
+	}
+}
+## Ilfane #############
+	d_ilfane = {
+		1794.1.1 = {
+			holder = Lakaris_03		#Prine Luisal I of Ilfane
+		}
+		1801.1.1 = {
+			holder = Lakaris_02a	#Prince Luisal II of Ilfane
+		}
+		1844.1.1 = {
+			holder = Lakaris_01		#Prince Dairal I of Ilfane
+		}
+		1859.1.1 = {
+			holder = Lakaris_0		#King Dairal I of Ilfan
+		}
+		1908.1.1 = {
+			holder = Lakaris_1		#King Rhyal I of Ilfan
+		}
+		1914.1.1 = {
+			holder = Lakaris_2		#King Luisal I of Ilfan
+		}
+		1927.1.1 = {
+			holder = Lakaris_3		#King Philian the Great
+		}
+		1958.1.1 = {
+			holder = Lakaris_4		#King Philian II of Ilfan
+		}
+		1973.1.1 = {
+			holder = Lakaris_5		#King Luisal II of Ilfan
+		}
+		1984.1.1 = {
+			holder = Lakaris_6		#King Rhyal the Sickly
+		}
+		2001.1.1 = {
+			holder = Lakaris_7a		#King Philian the Boy King
+		}
+		2002.1.1 = {
+			holder = Lakaris_7b		#King Dairal II of Ilfan
+		}
+		2019.1.1 = {
+			holder = Atranoux_2a	#King Kazmyn I of Ilfan
+		}
+		2034.1.1 = {
+			holder = Atranoux_3		#King Kazmyn II of Ilfan
+		}
+		2079.1.1 = {
+			holder = Atranoux_4		#King Luisal III of Ilfan
+		}
+		2122.1.1 = {
+			holder = Atranoux_6		#Queen Cinter I of Ilfan
+		}
+		2145.1.1 = {
+			holder = Atranoux_7		#King Philian IV of Ilfan
+		}
+		2164.1.1 = {
+			holder = Atranoux_8		#King Philian V of Ilfan
+		}
+		2179.1.1 = {
+			holder = Atranoux_9a	#King Philian VI of Ilfan
+		}
+	}
+
+## Dalynmel ###########
+	d_dalynmel = {
+
+	}
+
+## Ralrois ############
+	d_ralrois = {
+		1966.1.1 = {
+			liege = k_ilfan
+			holder = Atranoux_0		#Prince Atran, first duke of Ralrois
+		}
+		2008.1.1 = {
+			holder = Atranoux_1		#Duke Luisal I
+		}
+		2014.1.1 = {
+			holder = Atranoux_2a	#King Kazmyn I of Ilfan
+		}
+		2020.1.1 = {
+			holder = Atranoux_2b	#Duke Philian I
+		}
+		2068.1.1 = {
+			holder = Atranoux_2b1	#Duke Atran II
+		}
+		2097.1.1 = {
+			holder = Atranoux_2b2	#Duke Philian II
+		}
+		2132.1.1 = {
+			holder = Atranoux_2b3a	#Duke Philian III
+		}
+		2141.1.1 = {
+			holder = Atranoux_2b4a	#Duke Luisal II
+		}
+		2145.1.1 = {
+			holder = Atranoux_2b5b	#Duke Lorens I of Ralrois
+		}
+	}
+
+## Aldaris ############
+	d_aldaris = {
+
+	}
+
+## Vendoleth ##########
+	d_vendoleth = {
+
+	}
+
+## Surleon ############
+	d_surleon = {
+
+	}

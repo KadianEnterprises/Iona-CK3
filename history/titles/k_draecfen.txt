@@ -1,0 +1,113 @@
+﻿k_draecfen = {
+
+}
+#
+## Lancewind
+	d_lancewind = {
+		2019.1.1 = {
+			liege = k_tessaria
+		}
+		2020.1.1 = {
+			holder = Wulfspear_0		#Duke Alaric I
+		}
+		2072.1.1 = {
+			holder = Wulfspear_1		#Duke Leofric II
+		}
+		2090.1.1 = {
+			holder = Wulfspear_2		#Duke Edmund III
+		}
+		2108.1.1 = {
+			holder = Wulfspear_3		#Duke Eadwin II
+		}
+		2111.1.1 = {
+			holder = Wulfspear_4		#Duke Edmund IV
+		}
+		2119.1.1 = {
+			holder = Wulfspear_5		#Queen Elswith II of Tessaria
+		}
+		2164.1.1 = {
+			holder = Wulfspear_6		#King Edmund the Illuminator
+		}
+		2197.1.1 = {
+			holder = Wulfspear_7		#King Eadric II
+		}
+	}
+#
+## Athalan
+	d_athalan = {
+		2034.1.1 = {
+			liege = k_tessaria
+			holder = Synhall_0			#Duke Wolfrin I
+		}
+		2061.1.1 = {
+			holder = Synhall_1			#Duke Osric I
+		}
+		2076.1.1 = {
+			holder = Synhall_2a			#Duke Cyrwin I
+		}
+		2099.1.1 = {
+			holder = Cjeldam_0			#Duke Osric II
+		}
+		2113.1.1 = {
+			holder = Cjeldam_1			#Duke Osric III
+		}
+		2118.1.1 = {
+			holder = Cjeldam_2a			#Duke Wolfrin II
+		}
+		2131.1.1 = {
+			holder = Cjeldam_2a1		#Duke Roland I
+		}
+		2132.1.1 = {
+			holder = Cjeldam_2b			#Duke Cyrwin II
+		}
+		2142.1.1 = {
+			holder = Cjeldam_3a			#Duke Toland I
+		}
+	}
+#
+## Briarwaite
+	d_briarwaite = {
+		1977.1.1 = {
+			liege = k_tessaria
+			holder = Coldmane_0			#Duke Eadmund I
+		}
+		1981.1.1 = {
+			holder = Coldmane_1			#Duke Leravald I
+		}
+		1996.1.1 = {
+			holder = Coldmane_2a		#Duke Eadmund II
+		}
+		2003.1.1 = {
+			holder = Coldmane_2b		#Duke Leravald II
+		}
+		2021.1.1 = {
+			holder = Coldmane_3			#Duke Berwic I
+		}
+		2058.1.1 = {
+			holder = Coldmane_4			#Duke Eadmund III
+		}
+		2061.1.1 = {
+			holder = Coldmane_5			#Duchess Gwenfrin I
+		}
+		2070.1.1 = {
+			holder = Caedmon_0			#Duke Eadmund IV
+		}
+		2111.1.1 = {
+			holder = Caedmon_1			#Duke Berwic II
+		}
+		2117.1.1 = {
+			holder = Caedmon_2			#Duke Leravald III
+		}
+		2162.1.1 = {
+			holder = Caedmon_3			#Duke Theodan I
+		}
+		2177.1.1 = {
+			holder = Caedmon_4			#Duke Toland I
+		}
+	}
+#
+## Inaurin
+#
+## Palorum Teneris
+#
+## Goldmander

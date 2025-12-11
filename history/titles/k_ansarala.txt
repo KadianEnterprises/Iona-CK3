@@ -1,0 +1,69 @@
+﻿k_ansarala = {
+	2021.1.1 = {
+		dejure_liege = e_chell
+	}
+
+}
+
+## Duchy of Majidan
+	d_majidan = {
+		2007.1.1 = {
+			liege = e_chell
+			holder = Vardis_0			#Duke Anaron I of Majidan
+		}
+		2062.1.1 = {
+			holder = Vardis_1			#Duke Galamor I of Majidan
+		}
+		2071.1.1 = {
+			holder = Vardis_2			#DuKe Janos I of Majidan
+		}
+		2077.1.1 = {
+			holder = Vardis_3			#Duke Drenare I of Majidan
+		}
+		2131.1.1 = {
+			holder = Vardis_4			#Duke Drenare II of Majidan
+		}
+		2138.1.1 = {
+			holder = Vardis_5			#Duke Galamor II of Majidan
+		}
+		2172.1.1 = {
+			holder = Vardis_6			#Duke Anaron II of Majidan
+		}
+		2187.1.1 = {
+			holder = Vardis_7			#Duke Drenare III of Majidan
+		}
+	}
+#
+## Duchy of Kulamat
+	d_kulamat = {
+		2089.1.1 = {
+			liege = e_chell
+			holder = Jedyran_0			#Duke Galen the Old of Kulamat
+		}
+		2154.1.1 = {
+			holder = Jedyran_3			#Duchess Verana II of Kulamat
+		}
+	}
+#
+## Duchy of Diraboras
+	d_diraboras = {
+		2049.1.1 = {
+			liege = e_chell
+			holder = Cedrin_0			#Duke Faelian I
+		}
+		2105.1.1 = {
+			holder = Cedrin_1			#Duke Talis III
+		}
+		2109.1.1 = {
+			holder = Cedrin_2			#Duke Faelian II
+		}
+		2124.1.1 = {
+			holder = Cedrin_3			#Duke Petalin II
+		}
+		2165.1.1 = {
+			holder = Cedrin_4a			#Duke Talis IV
+		}
+		2174.1.1 = {
+			holder = Cedrin_5c			#Duke Faelian III
+		}
+	}

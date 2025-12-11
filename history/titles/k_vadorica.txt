@@ -1,0 +1,365 @@
+﻿k_vadorica = {
+	1799.1.1 = {
+		holder = Vadorica_0			#King Philippe I
+	}
+	1849.1.1 = {
+		holder = Vadorica_1			#King Beltrane I
+	}
+	1865.1.1 = {
+		holder = Vadorica_2			#King Beltrane II
+	}
+	1894.1.1 = {
+		holder = Vadorica_3			#King Mauro I
+	}
+	1908.1.1 = {
+		holder = Vadorica_4			#King Beltrane III
+	}
+	1931.1.1 = {
+		holder = Vadorica_5a		#King Beltrane IV
+	}
+	1936.1.1 = {
+		holder = Vadorica_6			#King Jorge I
+	}
+	1961.1.1 = {
+		holder = Alorum_3			#King Philippe II
+	}
+	2001.1.1 = {
+		holder = Alorum_4			#King Leo I
+	}
+	2012.1.1 = {
+		holder = Alorum_5			#King Zaron II & I
+	}
+	2014.1.1 = {
+		holder = Alorum_6a			#King Vastian the Tyrant
+	}
+	2018.1.1 = {
+		holder = Morana_1a			#King Beltrane V
+	}
+	2041.1.1 = {
+		holder = Morana_1a1			#King Philippe III
+	}
+	2044.1.1 = {
+		holder = Morana_1a2			#King Jorge II
+	}
+	2045.1.1 = {
+		holder = Morana_1b			#King Philippe IV
+	}
+	2091.1.1 = {
+		holder = Morana_2			#King Joanes I
+	}
+	2098.1.1 = {
+		holder = Morana_3			#King Mauro II
+	}
+	2115.1.1 = {
+		holder = Morana_4			#King Beltrane VI
+	}
+	2133.1.1 = {
+		holder = Morana_5			#King Jorge III
+	}
+	2171.1.1 = {
+		holder = Morana_6			#Queen Philippa I
+	}
+	2177.1.1 = {
+		holder = Morana_7			#King Beltrane VII
+	}
+}
+#
+d_princedom_of_terenresa = {
+	1971.1.1 = {
+		holder = Ezensar_0				#Prince Alexander I
+	}
+	1988.1.1 = {
+		holder = Ezensar_1				#Prince Tristan I
+	}
+	2006.1.1 = {
+		holder = Ezensar_2				#Prince Jorge I
+	}
+	2040.1.1 = {
+		holder = Ezensar_3				#Prince Gavriel I
+	}
+	2064.1.1 = {
+		holder = Ezensar_4				#Prince Tristan II
+	}
+	2081.1.1 = {
+		holder = Ezensar_5				#Prince Jorge II
+	}
+	2113.1.1 = {
+		holder = Ezensar_6				#Prince Alexander II
+	}
+	2141.1.1 = {
+		holder = Ezensar_7				#Prince Alexander III
+	}
+	2142.1.1 = {
+		holder = Ezensar_8				#Prince Tristan III
+	}
+	2181.1.1 = {
+		holder = Ezensar_9				#Prince Alexander IV
+	}
+}
+## Vadora
+	d_vadora = {
+		1799.1.1 = {
+			holder = Vadorica_0			#King Philippe I
+		}
+		1849.1.1 = {
+			holder = Vadorica_1			#King Beltrane I
+		}
+		1865.1.1 = {
+			holder = Vadorica_2			#King Beltrane II
+		}
+		1894.1.1 = {
+			holder = Vadorica_3			#King Mauro I
+		}
+		1908.1.1 = {
+			holder = Vadorica_4			#King Beltrane III
+		}
+		1931.1.1 = {
+			holder = Vadorica_5a		#King Beltrane IV
+		}
+		1936.1.1 = {
+			holder = Vadorica_6			#King Jorge I
+		}
+		1961.1.1 = {
+			holder = Alorum_3			#King Philippe II
+		}
+		2001.1.1 = {
+			holder = Alorum_4			#King Leo I
+		}
+		2012.1.1 = {
+			holder = Alorum_5			#King Zaron II & I
+		}
+		2014.1.1 = {
+			holder = Alorum_6a			#King Vastian the Tyrant
+		}
+		2018.1.1 = {
+			holder = Morana_1a			#King Beltrane V
+		}
+		2041.1.1 = {
+			holder = Morana_1a1			#King Philippe III
+		}
+		2044.1.1 = {
+			holder = Morana_1a2			#King Jorge II
+		}
+		2045.1.1 = {
+			holder = Morana_1b			#King Philippe IV
+		}
+		2091.1.1 = {
+			holder = Morana_2			#King Joanes I
+		}
+		2098.1.1 = {
+			holder = Morana_3			#King Mauro II
+		}
+		2115.1.1 = {
+			holder = Morana_4			#King Beltrane VI
+		}
+		2133.1.1 = {
+			holder = Morana_5			#King Jorge III
+		}
+		2171.1.1 = {
+			holder = Morana_6			#Queen Philippa I
+		}
+		2177.1.1 = {
+			holder = Morana_7			#King Beltrane VII
+		}
+	}
+	c_vadoran = {
+		1799.1.1 = {
+			holder = Vadorica_0			#King Philippe I
+		}
+		1849.1.1 = {
+			holder = Vadorica_1			#King Beltrane I
+		}
+		1865.1.1 = {
+			holder = Vadorica_2			#King Beltrane II
+		}
+		1894.1.1 = {
+			holder = Vadorica_3			#King Mauro I
+		}
+		1908.1.1 = {
+			holder = Vadorica_4			#King Beltrane III
+		}
+		1931.1.1 = {
+			holder = Vadorica_5a		#King Beltrane IV
+		}
+		1936.1.1 = {
+			holder = Vadorica_6			#King Jorge I
+		}
+		1961.1.1 = {
+			holder = Alorum_3			#King Philippe II
+		}
+		2001.1.1 = {
+			holder = Alorum_4			#King Leo I
+		}
+		2012.1.1 = {
+			holder = Alorum_5			#King Zaron II & I
+		}
+		2014.1.1 = {
+			holder = Alorum_6a			#King Vastian the Tyrant
+		}
+		2018.1.1 = {
+			holder = Morana_1a			#King Beltrane V
+		}
+		2041.1.1 = {
+			holder = Morana_1a1			#King Philippe III
+		}
+		2044.1.1 = {
+			holder = Morana_1a2			#King Jorge II
+		}
+		2045.1.1 = {
+			holder = Morana_1b			#King Philippe IV
+		}
+		2091.1.1 = {
+			holder = Morana_2			#King Joanes I
+		}
+		2098.1.1 = {
+			holder = Morana_3			#King Mauro II
+		}
+		2115.1.1 = {
+			holder = Morana_4			#King Beltrane VI
+		}
+		2133.1.1 = {
+			holder = Morana_5			#King Jorge III
+		}
+		2171.1.1 = {
+			holder = Morana_6			#Queen Philippa I
+		}
+		2177.1.1 = {
+			holder = Morana_7			#King Beltrane VII
+		}
+	}
+	c_bellwind = {
+		
+	}
+	c_satoria = {
+		
+	}
+	c_alitos = {
+		
+	}
+	c_banergost = {
+		
+	}
+	c_novamo = {
+
+	}
+## Ferocena
+	d_ferocena = {
+
+	}
+	c_aronessa = {
+		
+	}
+	c_ovienna = {
+		
+	}
+	c_artemno = {
+		
+	}
+	c_thessana = {
+		
+	}
+	c_salamandura = {
+		1998.1.1 = {
+			holder = Morana_0
+		}
+		2016.1.1 = {
+			holder = Morana_1a
+		}
+		
+	}
+	c_terenresa = {
+		1971.1.1 = {
+			holder = Ezensar_0				#Prince Alexander I
+		}
+		1988.1.1 = {
+			holder = Ezensar_1				#Prince Tristan I
+		}
+		2006.1.1 = {
+			holder = Ezensar_2				#Prince Jorge I
+		}
+		2040.1.1 = {
+			holder = Ezensar_3				#Prince Gavriel I
+		}
+		2064.1.1 = {
+			holder = Ezensar_4				#Prince Tristan II
+		}
+		2081.1.1 = {
+			holder = Ezensar_5				#Prince Jorge II
+		}
+		2113.1.1 = {
+			holder = Ezensar_6				#Prince Alexander II
+		}
+		2141.1.1 = {
+			holder = Ezensar_7				#Prince Alexander III
+		}
+		2142.1.1 = {
+			holder = Ezensar_8				#Prince Tristan III
+		}
+		2181.1.1 = {
+			holder = Ezensar_9				#Prince Alexander IV
+		}
+	}
+	c_lunerin = {
+		1971.1.1 = {
+			holder = Ezensar_0				#Prince Alexander I
+		}
+		1988.1.1 = {
+			holder = Ezensar_1				#Prince Tristan I
+		}
+		2006.1.1 = {
+			holder = Ezensar_2				#Prince Jorge I
+		}
+		2040.1.1 = {
+			holder = Ezensar_3				#Prince Gavriel I
+		}
+		2064.1.1 = {
+			holder = Ezensar_4				#Prince Tristan II
+		}
+		2081.1.1 = {
+			holder = Ezensar_5				#Prince Jorge II
+		}
+		2113.1.1 = {
+			holder = Ezensar_6				#Prince Alexander II
+		}
+		2141.1.1 = {
+			holder = Ezensar_7				#Prince Alexander III
+		}
+		2142.1.1 = {
+			holder = Ezensar_8				#Prince Tristan III
+		}
+		2181.1.1 = {
+			holder = Ezensar_9				#Prince Alexander IV
+		}
+	}
+	c_agonis = {
+		1971.1.1 = {
+			holder = Ezensar_0				#Prince Alexander I
+		}
+		1988.1.1 = {
+			holder = Ezensar_1				#Prince Tristan I
+		}
+		2006.1.1 = {
+			holder = Ezensar_2				#Prince Jorge I
+		}
+		2040.1.1 = {
+			holder = Ezensar_3				#Prince Gavriel I
+		}
+		2064.1.1 = {
+			holder = Ezensar_4				#Prince Tristan II
+		}
+		2081.1.1 = {
+			holder = Ezensar_5				#Prince Jorge II
+		}
+		2113.1.1 = {
+			holder = Ezensar_6				#Prince Alexander II
+		}
+		2141.1.1 = {
+			holder = Ezensar_7				#Prince Alexander III
+		}
+		2142.1.1 = {
+			holder = Ezensar_8				#Prince Tristan III
+		}
+		2181.1.1 = {
+			holder = Ezensar_9				#Prince Alexander IV
+		}
+	}

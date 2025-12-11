@@ -1,0 +1,1846 @@
+﻿### House Bloodstone #############################
+	29 = {
+		name = "Ralk"
+		dna = dna_ralk_bloodstone
+		dynasty = 3
+		martial = 22
+		diplomacy = 7
+		intrigue = 8
+		stewardship = 6
+		learning = 5
+		prowess = 24
+		religion = "aurementic"
+		culture = vandalin
+		give_nickname = nick_the_bloody
+		trait = wrathful
+		trait = cynical
+		trait = vengeful
+		trait = education_martial_3
+		trait = aggressive_attacker
+		trait = reaver
+		trait = murderer
+		trait = reaver
+		trait = strong
+		trait = physique_good_2
+		father = 30
+		1768.1.1 = {
+			birth = yes
+		}
+		1821.1.1 = {
+			death = yes
+		}
+		random_traits = no
+	}
+	30 = {
+		name = "Sichar"
+		dna = dna_ralk_bloodstone
+		dynasty = 3
+		martial = 22
+		diplomacy = 7
+		intrigue = 8
+		stewardship = 6
+		learning = 5
+		prowess = 24
+		religion = "aurementic"
+		culture = vandalin
+		give_nickname = nick_the_bloody
+		trait = wrathful
+		trait = cynical
+		trait = vengeful
+		trait = education_martial_5
+		trait = aggressive_attacker
+		trait = reaver
+		trait = reaver
+		trait = strong
+		1724.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	31 = {
+		name = "Tam"
+		#dna = 
+		dynasty = 3
+		religion = "aurementic"
+		culture = vandalin
+		trait = intellect_bad_2
+		trait = strong
+		trait = vengeful
+		trait = impatient
+		father = 29
+		1795.1.1 = {
+			birth = yes
+		}
+		1814.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Saltblood ##############################
+	32 = {
+		name = "Gorst"
+		dna = old_wolf
+		dynasty = 4
+		religion = "aurementic"
+		culture = vandalin
+		give_nickname = nick_the_wolf
+		trait = education_martial_5
+		trait = wrathful
+		trait = callous
+		trait = arbitrary
+		trait = murderer
+		trait = aggressive_attacker
+		trait = reaver
+		1740.1.1 = {
+			birth = yes
+		}
+		1822.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Mejati #################################
+	Mejati_0 = { #Lord Talo of Kinshala
+		name = "Talo"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		#father = 
+		#mother = 
+		1966.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_1 = { #King Karim I Mejati
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		father = Mejati_0
+		#mother = 
+		1988.1.1 = {
+			birth = yes
+		}
+		2031.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_2 = { #Queen Nejai I Mejati
+		name = "Nejai"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Mejati_0
+		#mother = 
+		1990.1.1 = {
+			birth = yes
+		}
+		2007.1.1 = {
+			add_spouse = Zafrel_1
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_3 = { #King Karim II Mejati
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		father = Mejati_1
+		#mother = 
+		2005.1.1 = {
+			birth = yes
+		}
+		2088.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_4 = { #King Talo I Mejati the Scholar
+		name = "Talo"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		father = Mejati_3
+		#mother = 
+		2024.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_5 = { #Princess Nejai Mejati
+		name = "Nejai"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Mejati_3
+		#mother = 
+		2025.1.1 = {
+			birth = yes
+		}
+		2103.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_6 = { #Princess Edala Mejati
+		name = "Edala"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Mejati_3
+		#mother = 
+		2031.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_7 = { #King Taziran I Mejati
+		name = "Taziran"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		father = Mejati_3
+		#mother = 
+		2035.1.1 = {
+			birth = yes
+		}
+		2052.1.1 = {
+			add_spouse = Takan_3
+		}
+		2105.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_8 = { #Prince Karim the Vile
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		father = Mejati_7
+		#mother = 
+		2059.1.1 = {
+			birth = yes
+		}
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_9 = { #Queen Xhori Mejati
+		name = "Xhori"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Mejati_8
+		#mother = 
+		2077.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			add_spouse = Zafrel_5
+		}
+		2151.1.1 = {
+			death = yes
+		}
+	}
+	Mejati_10 = { #Princess Xhori Mejati
+		name = "Xhori"
+		#dna = 
+		dynasty = dynn_mejati
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Mejati_7
+		#mother = 
+		2052.1.1 = {
+			birth = yes
+		}
+		2068.1.1 = {
+			add_spouse = Zafrel_4
+		}
+		2135.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Takan ##################################
+	Takan_0 = { #Lord Bashal I of Kamerian
+		name = "Bashal"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		#father = 
+		#mother = 
+		1968.1.1 = {
+			birth = yes
+		}
+		2036.1.1 = {
+			death = yes
+		}
+	}
+	Takan_1 = { #Lord Osoron I of Kamerian
+		name = "Osoron"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_0
+		#mother = 
+		1990.1.1 = {
+			birth = yes
+		}
+		2059.1.1 = {
+			death = yes
+		}
+	}
+	Takan_2 = { #Lord Bashal II of Kamerian
+		name = "Bashal"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_1 
+		#mother = 
+		2012.1.1 = {
+			birth = yes
+		}
+		2096.1.1 = {
+			death = yes
+		}
+	}
+	Takan_3 = { #Queen Xhori Takan
+		name = "Xhori"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Takan_2
+		#mother = 
+		2036.1.1 = {
+			birth = yes
+		}
+		2052.1.1 = {
+			add_spouse = Mejati_7
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Takan_4 = { #Lord Osoron II of Kamerian
+		name = "Osoron"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_2
+		#mother = 
+		2039.1.1 = {
+			birth = yes
+		}
+		2128.1.1 = {
+			death = yes
+		}
+	}
+	Takan_5 = { #Lord Ilabris I of Kamerian
+		name = "Ilabris"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_4
+		#mother = 
+		2055.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Takan_6 = { #Lord Ilabris II of Kamerian
+		name = "Ilabris"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_5
+		#mother = 
+		2068.1.1 = {
+			birth = yes
+		}
+		2146.1.1 = {
+			death = yes
+		}
+	}
+	Takan_7 = { #Lady Shani Takan of Kamerian
+		name = "Shani"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Takan_5
+		#mother = 
+		2071.1.1 = {
+			birth = yes
+		}
+		2151.1.1 = {
+			death = yes
+		}
+	}
+	Takan_8 = { #Lord Jedya Takan of Kamerian
+		name = "Jedya"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Takan_6
+		#mother = 
+		2086.1.1 = {
+			birth = yes
+		}
+		2182.1.1 = {
+			death = yes
+		}
+	}
+	Takan_9 = { #Lord Bashal III of Kamerian
+		name = "Bashal"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_6
+		#mother = 
+		2089.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Takan_10 = { #Lord Niram I of Kamerian
+		name = "Niram"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_9
+		#mother = 
+		2106.1.1 = {
+			birth = yes
+		}
+		2191.1.1 = {
+			death = yes
+		}
+	}
+	Takan_11 = { #Lord Osoron III of Kamerian
+		name = "Osoron"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_10
+		#mother = 
+		2123.1.1 = {
+			birth = yes
+		}
+		2213.1.1 = {
+			death = yes
+		}
+	}
+	Takan_12 = { #Lord Ashuril Takan of Kamerian
+		name = "Ashuril"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_11
+		#mother = 
+		2139.1.1 = {
+			birth = yes
+		}
+		2205.1.1 = {
+			death = yes
+		}
+	}
+	Takan_13 = { #Lady Zdara Takan of Kamerian
+		name = "Zdara"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Takan_11
+		#mother = 
+		2140.1.1 = {
+			birth = yes
+		}
+		2207.1.1 = {
+			death = yes
+		}
+	}
+	Takan_14 = { #Lord Hilaan Takan of Kamerian
+		name = "Hilaan"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_11
+		#mother = 
+		2124.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+	Takan_15 = { #Lord Niram II of Kamerian
+		name = "Niram"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_12
+		#mother = 
+		2157.1.1 = {
+			birth = yes
+		}
+		2239.1.1 = {
+			death = yes
+		}
+	}
+	Takan_16 = { #Lady Xhori Takan of Kamerian
+		name = "Xhori"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Takan_12
+		#mother = 
+		2161.1.1 = {
+			birth = yes
+		}
+		2242.1.1 = {
+			death = yes
+		}
+	}
+	Takan_17 = { #Lord Ashuril I of Kamerian
+		name = "Ashuril"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_12
+		#mother = 
+		2176.1.1 = {
+			birth = yes
+		}
+		2250.1.1 = {
+			death = yes
+		}
+	}
+	Takan_18 = { #Lord Asardin Takan of Kamerian
+		name = "Asardin"
+		#dna = 
+		dynasty = dynn_takan
+		religion = "aurementic"
+		culture = shadarim
+		father = Takan_14
+		#mother = 
+		2165.1.1 = {
+			birth = yes
+		}
+		2247.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Zafrel #################################
+	Zafrel_0 = { #Lord Nakam 
+		name = "Nakam"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		#father = 
+		#mother = 
+		1964.1.1 = {
+			birth = yes
+		}
+		#add_spouse
+		2024.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_1 = { #Lord Jibran Zafrel
+		name = "Jibran"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_0
+		#mother = 
+		1987.1.1 = {
+			birth = yes
+		}
+		2007.1.1 = {
+			add_spouse = Mejati_2
+		}
+		2069.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_2 = { #Prince Iyas Zafrel
+		name = "Iyas"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_1
+		mother = Mejati_2
+		2002.1.1 = {
+			birth = yes
+		}
+		2081.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_3 = { #Lord Talo Zafrel
+		name = "Talo"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_2
+		#mother = 
+		2026.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_4 = { #Lord Iyas II Zafrel
+		name = "Iyas"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_3
+		#mother = 
+		2047.1.1 = {
+			birth = yes
+		}
+		2068.1.1 = {
+			add_spouse = Mejati_10
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_5 = { #King Karim III Zafrel
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_4
+		mother = Mejati_10
+		2075.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			add_spouse = Mejati_9
+		}
+		2130.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_6 = { #Queen Nejai II Zafrel
+		name = "Nejai"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Zafrel_5
+		mother = Mejati_9
+		2097.1.1 = {
+			birth = yes
+		}
+		2184.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_7 = { #King Taziran II Zafrel
+		name = "Taziran"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_5
+		mother = Zafrel_6
+		trait = legitimized_bastard
+		2116.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_8 = { #Lord Talo II Zafrel
+		name = "Talo"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_4
+		mother = Mejati_10
+		2078.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_9 = { #Lord Jaso I Zafrel
+		name = "Jaso"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Zafrel_8
+		#mother = 
+		2095.1.1 = {
+			birth = yes
+		}
+		2180.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_10 = { #Princess Nejai Zafrel
+		name = "Nejai"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		female = yes
+		father = Adetzi_4
+		mother = Zafrel_6
+		2119.1.1 = {
+			birth = yes
+		}
+		2181.1.1 = {
+			death = yes
+		}
+	}
+	Zafrel_11 = { #Prince Karim Zafrel
+		name = "Talo"
+		#dna = 
+		dynasty = dynn_zafrel
+		religion = "aurementic"
+		culture = shadarim
+		father = Adetzi_4
+		mother = Zafrel_6
+		2121.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Adetzi #################################
+	Adetzi_3 = { #Lord Eraza III 
+		name = "Eraza"
+		#dna = 
+		dynasty = dynn_adetzi
+		religion = "aurementic"
+		culture = shadarim
+		#father = Adetzi_2
+		#mother = 
+		2073.1.1 = {
+			birth = yes
+		}
+		2159.1.1 = {
+			death = yes
+		}
+	}
+	Adetzi_4 = { #Prince-Consort Isham 
+		name = "Isham"
+		#dna = 
+		dynasty = dynn_adetzi
+		religion = "aurementic"
+		culture = shadarim
+		father = Adetzi_3
+		#mother = 
+		trait = twin
+		2096.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			add_spouse = Zafrel_6
+		}
+		2158.1.1 = {
+			death = yes
+		}
+	}
+	Adetzi_5 = { # Karim
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_adetzi
+		religion = "aurementic"
+		culture = shadarim
+		father = Adetzi_3
+		#mother = 
+		trait = twin
+		2096.1.1 = {
+			birth = yes
+		}
+		2164.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Umeryd #################################
+	Umeryd_0 = { # Grand Prince Karav III of Dhalan
+		name = "Karav"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		#father = Umeryd_
+		#mother = 
+		1813.1.1 = {
+			birth = yes
+		}
+		1862.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_1 = { # King Kavish I of Dhalan
+		name = "Kavish"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_0
+		#mother = 
+		1836.1.1 = {
+			birth = yes
+		}
+		1907.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_2 = { # King Luran I of Dhalan
+		name = "Luran"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_1
+		#mother = 
+		1860.1.1 = {
+			birth = yes
+		}
+		1914.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_3 = { # King Kavish II of Dhalan
+		name = "Kavish"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_2
+		#mother = 
+		1884.1.1 = {
+			birth = yes
+		}
+		1900.1.1 ={
+			add_spouse = Umeryd_6
+		}
+		1946.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_4 = { # King Zevyan I of Dhalan
+		name = "Zevyan"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_1
+		#mother = 
+		1861.1.1 = {
+			birth = yes
+		}
+		1932.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_5 = { # Prince Karim of Dhalan
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_1
+		#mother = 
+		1866.1.1 = {
+			birth = yes
+		}
+		1943.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_6 = { # Queen Xhora I of Dhalan
+		name = "Xhora"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		father = Umeryd_1
+		#mother = 
+		1881.1.1 = {
+			birth = yes
+		}
+		1900.1.1 = {
+			add_spouse = Umeryd_3
+		}
+		1967.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_7 = { # King Markesh I of Dhalan
+		name = "Markesh"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_4
+		#mother = 
+		1882.1.1 = {
+			birth = yes
+		}
+		1935.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_8 = { # Lord Zevyan Umeryd
+		name = "Zevyan"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_5
+		#mother = 
+		1888.1.1 = {
+			birth = yes
+		}
+		1917.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_9 = { # King Luran II of Dhalan
+		name = "Luran"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_3 #King Kavish II
+		mother = Umeryd_6 #Queen Xhora I
+		1903.1.1 = {
+			birth = yes
+		}
+		1971.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_10 = { # Queen Kesa I of Dhalan
+		name = "Kesa"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		father = Umeryd_9
+		#mother = 
+		1929.1.1 = {
+			birth = yes
+		}
+		2022.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_11 = { # Princess Xhora of Dhalan
+		name = "Xhora"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		father = Umeryd_9
+		#mother = 
+		1932.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_12 = { # Queen Xhora II of Dhalan
+		name = "Xhora"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		1951.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_13 = { # Princess Kesa of Dhalan
+		name = "Kesa"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		1954.1.1 = {
+			birth = yes
+		}
+		#marriage
+		1994.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_14 = { # Princess Voshri of Dhalan
+		name = "Voshri"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		1957.1.1 = {
+			birth = yes
+		}
+		1974.1.1 = {
+			add_spouse = Caraj_1	#King Karav I
+		}
+		2027.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_15 = { # Crown Prince Markesh of Dhalan
+		name = "Markesh"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		1960.1.1 = {
+			birth = yes
+		}
+		1988.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_16 = { # Princess Jeshi of Dhalan
+		name = "Jeshi"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		trait = twin
+		1962.1.1 = {
+			birth = yes
+		}
+		#marriage
+		2005.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_17 = { # Princess Rila of Dhalan
+		name = "Rila"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		trait = twin
+		1962.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		1967.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_18 = { # Prince Jaris of Dhalan
+		name = "Jaris"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		#father = Umeryd_
+		mother = Umeryd_10 #Kesa I
+		1967.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2009.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_19 = { # Prince Zevyan of Dhalan
+		name = "Jaris"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_15
+		#mother = 
+		1987.1.1 = {
+			birth = yes
+		}
+		#2003.1.1 = {
+		#	add_lover = Umeryd_20 #Princess Kesa
+		#}
+		2004.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_20 = { # Princess Kesa of Dhalan
+		name = "Kesa"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_12 #Kesa I
+		1985.1.1 = {
+			birth = yes
+		}
+		#marriage to Karim Bal Ashva of Tegara
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_21 = { # Princess Marana of Dhalan
+		name = "Marana"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_12 #Kesa I
+		1987.1.1 = {
+			birth = yes
+		}
+		#marriage
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_22 = { # Prince Karim the Scorned of Dhalan
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		#father = Umeryd_
+		mother = Umeryd_12 #Kesa I
+		1989.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_23 = { # Princess Ikarima of Dhalan
+		name = "Ikarima"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_12 #Kesa I
+		1992.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_24 = { # Princess Zevya the Lost of Dhalan
+		name = "Zevya"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		father = Umeryd_19 #Prince Zevyan
+		mother = Umeryd_20 #Crown Princess Kesa 
+		2004.1.1 = {
+			birth = yes
+		}
+		2023.1.1 = {
+			add_spouse = Castalnier_3
+		}
+		2030.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_25 = { # Prince Markesh the Lost of Dhalan
+		name = "Markesh"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_19 #Prince Zevyan
+		mother = Umeryd_20 #Crown Princess Kesa
+		2004.1.1 = {
+			birth = yes
+		}
+		2023.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_26 = { # Princess Voshra, Lady of Dhalan
+		name = "Voshra"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		#father = Umeryd_
+		mother = Umeryd_21 #Princess Marana
+		2009.1.1 = {
+			birth = yes
+		}
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_27 = { # Prince Xhoran, Lord of Dhalan
+		name = "Jaris"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		#father = Umeryd_
+		mother = Umeryd_12 #Princess Marana
+		1985.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2022.7.1 = {
+			death = yes
+		}
+	}
+	Umeryd_28 = { # King Jaris the Unrelenting of Dhalan
+		name = "Jaris"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_18
+		#mother = 
+		1990.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2067.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_29 = { # King Xhoran I of Dhalan
+		name = "Xhoran"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_28
+		#mother = 
+		2011.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2086.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_30 = { # King Xhoran II of Dhalan
+		name = "Xhoran"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_29
+		#mother = 
+		2034.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_31 = { # Sir Karav Umeryd, Ichorguardian
+		name = "Karav"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_20
+		#mother = 
+		trait = bastard
+		2047.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2100.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_32 = { # Crown Prince Xhoran the Brave of Dhalan
+		name = "Xhoran"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_30
+		#mother = 
+		2056.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_33 = { # Prince Jaris the Unbroken of Dhalan
+		name = "Jaris"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_30
+		#mother = 
+		2057.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_34 = { #  Princess Xhora the Unwed of Dhalan
+		name = "Xhora"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		female = yes
+		father = Umeryd_30
+		#mother = 
+		2059.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Umeryd_35 = { #  Prince Karim the Slain of Dhalan
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_umeryd
+		religion = "aurementic"
+		culture = dhalanim
+		father = Umeryd_30
+		#mother = 
+		2062.1.1 = {
+			birth = yes
+		}
+		#marriage to Kanin
+		2097.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Caraj ##################################
+	Caraj_0 = { # Lord Kavo II of Sandwraith
+		name = "Kavo"
+		#dna = 
+		dynasty = dynn_caraj
+		religion = "aurementic"
+		culture = tegarim
+		#father = Caraj_
+		#mother = 
+		1934.1.1 = {
+			birth = yes
+		}
+		#marriage
+		1978.1.1 = {
+			death = yes
+		}
+	}
+	Caraj_1 = { # King Karav I of Dhalan
+		name = "Karav"
+		#dna = 
+		dynasty = dynn_caraj
+		religion = "aurementic"
+		culture = tegarim
+		father = Caraj_0
+		#mother = 
+		1956.1.1 = {
+			birth = yes
+		}
+		1974.1.1 = {
+			add_spouse = Umeryd_14
+		}
+		2032.1.1 = {
+			death = yes
+		}
+	}
+	Caraj_2 = { # King Ikarim I of Dhalan
+		name = "Ikarim"
+		#dna = 
+		dynasty = dynn_caraj
+		religion = "aurementic"
+		culture = tegarim
+		father = Caraj_1
+		mother = Umeryd_14
+		1994.1.1 = {
+			birth = yes
+		}
+		#marriage
+		2049.1.1 = {
+			death = yes
+		}
+	}
+	Caraj_3 = { # King Karav II of Dhalan
+		name = "Karav"
+		#dna = 
+		dynasty = dynn_caraj
+		religion = "aurementic"
+		culture = tegarim
+		father = Caraj_2
+		#mother = 
+		2017.1.1 = {
+			birth = yes
+		}
+		#marriage
+		2052.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Runebone ###############################
+	Runebone_0 = { # King Rulk the Flayer
+		name = "Rulk"
+		#dna = 
+		dynasty = dynn_runebone
+		religion = "aurementic"
+		culture = vandalin
+		#father = 
+		#mother = 
+		1978.1.1 = {
+			birth = yes
+		}
+		#marriage
+		2034.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Zotish #################################
+	Zotish_0 = { # King Tanalis I of Dhalan
+		name = "Tanalis"
+		#dna = 
+		dynasty = dynn_zotish
+		religion = "aurementic"
+		culture = dhalanim
+		#father =
+		#mother = 
+		2056.1.1 = {
+			birth = yes
+		}
+		2115.1.1 = {
+			death = yes
+		}
+	}
+	Zotish_1 = { # King Ikarim II of Dhalan
+		name = "Ikarim"
+		#dna = 
+		dynasty = dynn_zotish
+		religion = "aurementic"
+		culture = batalnim
+		father = Zotish_0
+		#mother = 
+		2080.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Zotish_2 = { # King Karim I of Dhalan
+		name = "Karim"
+		#dna = 
+		dynasty = dynn_zotish
+		religion = "aurementic"
+		culture = dhalanim
+		father = Zotish_1
+		#mother = 
+		2101.1.1 = {
+			birth = yes
+		}
+		2202.1.1 = {
+			death = yes
+		}
+	}
+	Zotish_3 = { # King Tanalis II of Dhalan
+		name = "Tanalis"
+		#dna = 
+		dynasty = dynn_zotish
+		religion = "aurementic"
+		culture = dhalanim
+		father = Zotish_2
+		#mother = 
+		2123.1.1 = {
+			birth = yes
+		}
+		2205.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Sarenke ################################
+	Sarenke_0 = { # King Zephon I of Batl Han
+		name = "Zephon"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		#father =
+		#mother = 
+		1783.1.1 = {
+			birth = yes
+		}
+		1876.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_1 = { # King Aradus I of Batl Han
+		name = "Aradus"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_0
+		#mother = 
+		1802.1.1 = {
+			birth = yes
+		}
+		1898.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_2 = { # Prince Zephon of Batl Han
+		name = "Zephon"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_1
+		#mother = 
+		1824.1.1 = {
+			birth = yes
+		}
+		1896.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_3 = { # King Tyren I of Batl Han
+		name = "Tyren"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_2
+		#mother = 
+		1846.1.1 = {
+			birth = yes
+		}
+		1921.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_4 = { # Queen Zephyra I of Batl Han
+		name = "Tyren"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		female = yes
+		father = Sarenke_3
+		#mother = 
+		1867.1.1 = {
+			birth = yes
+		}
+		1941.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_5 = { # King Kameran I of Batl Han
+		name = "Kameran"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		#father = 
+		mother = Sarenke_4
+		1886.1.1 = {
+			birth = yes
+		}
+		1949.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_6 = { # King Xirithos I of Batl Han
+		name = "Xirithos"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_5
+		#mother = 
+		1910.1.1 = {
+			birth = yes
+		}
+		1980.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_7 = { # King Alanum I of Batl Han
+		name = "Alanum"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_6
+		#mother = 
+		1932.1.1 = {
+			birth = yes
+		}
+		1985.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_8 = { # King Zephon II of Batl Han
+		name = "Zephon"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_7
+		#mother = 
+		1955.1.1 = {
+			birth = yes
+		}
+		2017.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_9 = { # King Tyren II of Batl Han
+		name = "Tyren"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_8
+		#mother = 
+		1973.1.1 = {
+			birth = yes
+		}
+		2029.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_10 = { # King Alanum II of Batl Han
+		name = "Alanum"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_9
+		#mother = 
+		1997.1.1 = {
+			birth = yes
+		}
+		2066.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_11 = { # King Tyren III of Batl Han
+		name = "Tyren"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_10
+		#mother = 
+		2014.1.1 = {
+			birth = yes
+		}
+		2087.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_12 = { # Queen Zephyra II of Batl Han
+		name = "Zephyra"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		female = yes
+		father = Sarenke_11
+		#mother = 
+		2039.1.1 = {
+			birth = yes
+		}
+		2109.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_13 = { # Queen Ashera I of Batl Han
+		name = "Ashera"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		female = yes
+		#father =
+		mother = Sarenke_12
+		2062.1.1 = {
+			birth = yes
+		}
+		2116.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_14 = { # King Kameran II of Batl Han
+		name = "Kameran"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		female = yes
+		#father =
+		mother = Sarenke_13
+		2084.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_15 = { # King Tyren IV of Batl Han
+		name = "Tyren"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_14
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2143.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_16 = { # King Aradus II of Batl Han
+		name = "Aradus"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_15
+		#mother = 
+		2127.1.1 = {
+			birth = yes
+		}
+		2179.1.1 = {
+			death = yes
+		}
+	}
+	Sarenke_17 = { # King Zephon III of Batl Han
+		name = "Zephon"
+		#dna = 
+		dynasty = dynn_sarenke
+		religion = "aurementic"
+		culture = batalnim
+		father = Sarenke_16
+		#mother = 
+		2143.1.1 = {
+			birth = yes
+		}
+		2215.1.1 = {
+			death = yes
+		}
+	}
+#
+###

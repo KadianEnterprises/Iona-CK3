@@ -1,0 +1,574 @@
+k_trellian = {
+	1841.1.1 = {
+		holder = Corvus_0
+	}
+	1866.1.1 = {
+		holder = Corvus_2
+	}
+	1884.1.1 = {
+		holder = Corvus_3
+	}
+	1917.1.1 = {
+		holder = Corvus_4
+	}
+	1920.1.1 = {
+		holder = Corvus_5
+	}
+	1921.1.1 = {
+		holder = Corvus_6
+	}
+	1961.1.1 = {
+		holder = Corvus_7
+	}
+	1972.1.1 = {
+		holder = Corvus_8
+	}
+	2019.1.1 = {
+		holder = Corvus_9
+	}
+	2026.1.1 = {
+		holder = Corvus_10
+	}
+	2030.1.1 = {
+		holder = Corvus_11
+	}
+	2041.1.1 = {
+		holder = Dusk_0			# King Mordain I Dusk
+	}
+	2069.1.1 = {
+		holder = Dusk_2			# King Mordain II Dusk
+	}
+	2122.1.1 = {
+		holder = Dusk_3			# King Atelus I Dusk
+	}
+	2124.1.1 = {
+		holder = Dusk_4			# King Mordain III Dusk
+	}
+	2129.1.1 = {
+		holder = Dusk_5			#King Atelus II the Warmage
+	}
+	2168.1.1 = {
+		holder = Dusk_6			#King Orestin the Martyr
+	}
+	2174.1.1 = {
+		liege = e_chell
+		holder = 0
+	}
+}
+k_umbrenal =  {
+	1614.1.1 = {
+		holder = Dusk_018
+	}
+	1638.1.1 = {
+		holder = Dusk_017g
+	}
+	1639.1.1 = {
+		holder = 0
+	}
+}
+
+## Idon Etris ###################
+	d_idon_etris = {
+		1801.1.1 = {
+			holder = Corvus_0
+		}
+		1866.1.1 = {
+			holder = Corvus_2
+		}
+		1884.1.1 = {
+			holder = Corvus_3
+		}
+		1917.1.1 = {
+			holder = Corvus_4
+		}
+		1920.1.1 = {
+			holder = Corvus_5
+		}
+		1921.1.1 = {
+			holder = Corvus_6
+		}
+		1961.1.1 = {
+			holder = Corvus_7
+		}
+		1972.1.1 = {
+			holder = Corvus_8
+		}
+	}
+	c_etris = {
+		1798.1.1 = {
+			holder = Corvus_0
+		}
+		1866.1.1 = {
+			holder = Corvus_2
+		}
+		1884.1.1 = {
+			holder = Corvus_3
+		}
+		1917.1.1 = {
+			holder = Corvus_4
+		}
+		1920.1.1 = {
+			holder = Corvus_5
+		}
+		1921.1.1 = {
+			holder = Corvus_6
+		}
+		1961.1.1 = {
+			holder = Corvus_7
+		}
+		1972.1.1 = {
+			holder = Corvus_8
+		}
+		2118.1.1 = {
+			government = military_government
+			holder = Ronan_Ashwind
+		}
+	}
+	c_dustglyph_hollow = {
+
+	}
+	c_ilfans_citadel = {
+
+	}
+	c_woods_of_idon = {
+		2118.1.1 = {
+			government = military_government
+			holder = Kirion_Skycliff
+		}
+	}
+	c_deeps_descent = {
+		2118.1.1 = {
+			government = military_government
+			holder = Kirion_Skycliff
+		}
+	}
+	c_ilfanswood = {
+
+	}
+## Duskcliff ####################
+	d_duskcliff = {
+		1576.1.1 = {
+			holder = Dusk_021
+			liege = e_chell
+		}
+		1592.1.1 = {
+			holder = Dusk_020
+		}
+		1596.1.1 = {
+			holder = Dusk_019
+		}
+		1611.1.1 = {
+			holder = Dusk_018
+		}
+		1614.1.1 = {
+			liege = k_umbrenal
+		}
+		1638.1.1 = {
+			holder = Dusk_017g
+		}
+		1639.1.1 = {
+			holder = 0
+			liege = 0 #e_volokar eventually
+		}
+		1661.1.1 = {
+			holder = Dusk_017h
+		}
+		1693.1.1 = {
+			holder = Dusk_016
+		}
+		1746.1.1 = {
+			holder = Dusk_015
+		}
+		1789.1.1 = {
+			holder = Dusk_014
+		}
+		1793.1.1 = {
+			holder = Dusk_013
+		}
+		1796.1.1 = {
+			liege = 0
+		}
+		1800.1.1 = {
+			holder = Dusk_012
+		}
+		1810.1.1 = {
+			holder = Dusk_011
+		}
+		1825.1.1 = {
+			holder = Dusk_010
+		}
+		1841.1.1 = {
+			liege = k_trellian
+		}
+		1862.1.1 = {
+			holder = Dusk_09
+		}
+		1884.1.1 = {
+			holder = Duks_08
+		}
+		1916.1.1 = {
+			holder = Dusk_07
+		}
+		1949.1.1 = {
+			holder = Dusk_06
+		}
+		1955.1.1 = {
+			holder = Dusk_05
+		}
+		1958.1.1 = {
+			holder = Dusk_04
+		}
+		1994.1.1 = {
+			holder = Dusk_03
+		}
+		2002.1.1 = {
+			holder = Dusk_02
+		}
+		2019.1.1 = {
+			holder = Dusk_01
+		}
+		2034.1.1 = {
+			holder = Dusk_0			# King Mordain I Dusk
+		}
+		2069.1.1 = {
+			holder = Dusk_2			# King Mordain II Dusk
+		}
+		2122.1.1 = {
+			holder = Dusk_3			# King Atelus I Dusk
+		}
+		2124.1.1 = {
+			holder = Dusk_4			# King Mordain III Dusk
+		}
+		2129.1.1 = {
+			holder = Dusk_5			#King Atelus II the Warmage
+		}
+		2168.1.1 = {
+			holder = Dusk_6			#King Orestin the Martyr
+		}
+	}
+	c_duskstone = {
+		1576.1.1 = {
+			holder = Dusk_021
+			liege = d_duskcliff
+		}
+		1592.1.1 = {
+			holder = Dusk_020
+		}
+		1596.1.1 = {
+			holder = Dusk_019
+		}
+		1611.1.1 = {
+			holder = Dusk_018
+		}
+		1638.1.1 = {
+			holder = Dusk_017g
+		}
+		1639.1.1 = {
+			holder = 0
+			#liege = e_volokar
+		}
+		1661.1.1 = {
+			holder = Dusk_017h
+		}
+		1693.1.1 = {
+			holder = Dusk_016
+		}
+		1746.1.1 = {
+			holder = Dusk_015
+		}
+		1789.1.1 = {
+			holder = Dusk_014
+		}
+		1793.1.1 = {
+			holder = Dusk_013
+		}
+		1800.1.1 = {
+			holder = Dusk_012
+		}
+		1810.1.1 = {
+			holder = Dusk_011
+		}
+		1825.1.1 = {
+			holder = Dusk_010
+		}
+		1862.1.1 = {
+			holder = Dusk_09
+		}
+		1884.1.1 = {
+			holder = Duks_08
+		}
+		1916.1.1 = {
+			holder = Dusk_07
+		}
+		1949.1.1 = {
+			holder = Dusk_06
+		}
+		1955.1.1 = {
+			holder = Dusk_05
+		}
+		1958.1.1 = {
+			holder = Dusk_04
+		}
+		1994.1.1 = {
+			holder = Dusk_03
+		}
+		2002.1.1 = {
+			holder = Dusk_02
+		}
+		2019.1.1 = {
+			holder = Dusk_01
+		}
+		2034.1.1 = {
+			holder = Dusk_0			# King Mordain I Dusk
+		}
+		2069.1.1 = {
+			holder = Dusk_2			# King Mordain II Dusk
+		}
+		2122.1.1 = {
+			holder = Dusk_3			# King Atelus I Dusk
+		}
+		2124.1.1 = {
+			holder = Dusk_4			# King Mordain III Dusk
+		}
+		2129.1.1 = {
+			holder = Dusk_5			#King Atelus II the Warmage
+		}
+		2168.1.1 = {
+			holder = Dusk_6			#King Orestin the Martyr
+		}
+	}
+	c_dustglyph_run = {
+		1576.1.1 = {
+			holder = Dusk_021
+			liege = d_duskcliff
+		}
+		1592.1.1 = {
+			holder = Dusk_020
+		}
+		1596.1.1 = {
+			holder = Dusk_019
+		}
+		1611.1.1 = {
+			holder = Dusk_018
+		}
+		1638.1.1 = {
+			holder = Dusk_017g
+		}
+		1639.1.1 = {
+			holder = 0
+			#liege = e_volokar
+		}
+		1661.1.1 = {
+			holder = Dusk_017h
+		}
+		1693.1.1 = {
+			holder = Dusk_016
+		}
+		1746.1.1 = {
+			holder = Dusk_015
+		}
+		1789.1.1 = {
+			holder = Dusk_014
+		}
+		1793.1.1 = {
+			holder = Dusk_013
+		}
+		1800.1.1 = {
+			holder = Dusk_012
+		}
+		1810.1.1 = {
+			holder = Dusk_011
+		}
+		1825.1.1 = {
+			holder = Dusk_010
+		}
+		1862.1.1 = {
+			holder = Dusk_09
+		}
+		1884.1.1 = {
+			holder = Duks_08
+		}
+		1916.1.1 = {
+			holder = Dusk_07
+		}
+		1949.1.1 = {
+			holder = Dusk_06
+		}
+		1955.1.1 = {
+			holder = Dusk_05
+		}
+		1958.1.1 = {
+			holder = Dusk_04
+		}
+		1994.1.1 = {
+			holder = Dusk_03
+		}
+		2002.1.1 = {
+			holder = Dusk_02
+		}
+		2019.1.1 = {
+			holder = Dusk_01
+		}
+		2034.1.1 = {
+			holder = Dusk_0			# King Mordain I Dusk
+		}
+		2069.1.1 = {
+			holder = Dusk_2			# King Mordain II Dusk
+		}
+		2122.1.1 = {
+			holder = Dusk_3			# King Atelus I Dusk
+		}
+		2124.1.1 = {
+			holder = Dusk_4			# King Mordain III Dusk
+		}
+		2129.1.1 = {
+			holder = Dusk_5			#King Atelus II the Warmage
+		}
+		2168.1.1 = {
+			holder = Dusk_6			#King Orestin the Martyr
+		}
+	}
+	c_lyresta = {
+		1796.1.1 = {
+			liege = 0
+			holder = Fernbreak_1	#Count Tomasan I Fernbreak
+		}
+		1806.1.1 = {
+			liege = d_duskcliff
+		}
+		1827.1.1 = {
+			holder = Fernbreak_2
+		}
+	}
+	c_taulet = {
+
+	}
+	c_erasmun = {
+		1576.1.1 = {
+			holder = Dusk_021
+			liege = d_duskcliff
+		}
+		1592.1.1 = {
+			holder = Dusk_020
+		}
+		1596.1.1 = {
+			holder = Dusk_019
+		}
+		1611.1.1 = {
+			holder = Dusk_018
+		}
+		1638.1.1 = {
+			holder = Dusk_017g
+		}
+		1639.1.1 = {
+			holder = 0
+			#liege = e_volokar
+		}
+		1661.1.1 = {
+			holder = Dusk_017h
+		}
+		1693.1.1 = {
+			holder = Dusk_016
+		}
+		1746.1.1 = {
+			holder = Dusk_015
+		}
+		1789.1.1 = {
+			holder = Dusk_014
+		}
+		1793.1.1 = {
+			holder = Dusk_013
+		}
+		1800.1.1 = {
+			holder = Dusk_012
+		}
+		1810.1.1 = {
+			holder = Dusk_011
+		}
+		1825.1.1 = {
+			holder = Dusk_010
+		}
+		1862.1.1 = {
+			holder = Dusk_09
+		}
+		1884.1.1 = {
+			holder = Duks_08
+		}
+		1916.1.1 = {
+			holder = Dusk_07
+		}
+		1949.1.1 = {
+			holder = Dusk_06
+		}
+		1955.1.1 = {
+			holder = Dusk_05
+		}
+		1958.1.1 = {
+			holder = Dusk_04
+		}
+		1994.1.1 = {
+			holder = Dusk_03
+		}
+		2002.1.1 = {
+			holder = Dusk_02
+		}
+		2019.1.1 = {
+			holder = Dusk_01
+		}
+		2034.1.1 = {
+			holder = Dusk_0			# King Mordain I Dusk
+		}
+		2069.1.1 = {
+			holder = Dusk_2			# King Mordain II Dusk
+		}
+		2122.1.1 = {
+			holder = Dusk_3			# King Atelus I Dusk
+		}
+		2124.1.1 = {
+			holder = Dusk_4			# King Mordain III Dusk
+		}
+		2129.1.1 = {
+			holder = Dusk_5			#King Atelus II the Warmage
+		}
+		2168.1.1 = {
+			holder = Dusk_6			#King Orestin the Martyr
+		}
+	}
+	c_twilights_wending = {
+
+	}
+## Touresmoor ###################
+	d_touresmoor = {
+		1971.1.1 = {
+			liege = e_chell
+		}
+		2118.1.1 = {
+			government = military_government
+			holder = Kirion_Skycliff
+		}
+	}
+	c_tourmon = {
+
+	}
+	c_estesmoor = {
+
+	}
+	c_woods_weeping = {
+
+	}
+	c_artessas_lament = {
+
+	}
+	c_widemander = {
+
+	}
+## Rilean #######################
+	d_rilean = {
+
+	}
+	c_rilean = {
+
+	}
+	c_isanmoor = {
+
+	}

@@ -1,0 +1,24 @@
+﻿k_inner_merathia = {
+	2052.1.1 = {
+		holder = Fallthorn_0		#King Oren I
+	}
+	2097.1.1 = {
+		holder = Fallthorn_1		#King Jalced I
+	}
+	2104.1.1 = {
+		holder = Fallthorn_2		#King Oren II
+	}
+	2119.1.1 = {
+		holder = Fallthorn_3		#King  Jalced II
+	}
+	2141.1.1 = {
+		holder = Fallthorn_4		#King Kalire I
+	}
+	2166.1.1 = {
+		holder = Fallthorn_5		#King Oren III
+	}
+	2187.1.1 = {
+		holder = Fallthorn_6		#King Kalire II
+	}
+	#2194.1.1
+}

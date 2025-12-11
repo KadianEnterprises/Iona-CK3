@@ -1,0 +1,1057 @@
+﻿### House Tejaren ###############################################
+	Tejaren_0 = { #King Irephenes I of Asta Felarin
+		name = "Irephenes"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		#father = Tejaren_01
+		#mother = 
+		1759.1.1 = {
+			birth = yes
+		}
+		1840.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_1 = { #King Serapher I of Asta Felarin
+		name = "Serapher"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_0
+		#mother = 
+		1793.1.1 = {
+			birth = yes
+		}
+		1857.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_2 = { #King Ralen I of Asta Felarin
+		name = "Ralen"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_1
+		#mother = 
+		1810.1.1 = {
+			birth = yes
+		}
+		1882.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_3 = { #Queen Kalania I of Asta Felarin
+		name = "Kalania"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		female = yes
+		father = Tejaren_2
+		#mother = 
+		1832.1.1 = {
+			birth = yes
+		}
+		1914.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_4 = { #King Aremane I of Asta Felarin
+		name = "Aremane"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		#father = 
+		mother = Tejaren_3
+		1853.1.1 = {
+			birth = yes
+		}
+		1939.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_5 = { #King Irephenes the Old of Asta Felarin
+		name = "Irephenes"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		give_nickname = nick_the_old
+		father = Tejaren_4
+		#mother = 
+		1873.1.1 = {
+			birth = yes
+		}
+		1977.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_6 = { #Prince Serapher of Asta Felarin
+		name = "Serapher"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_5
+		#mother = 
+		1894.1.1 = {
+			birth = yes
+		}
+		1965.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_7 = { #King Irephenes III of Asta Felarin
+		name = "Irephenes"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_6
+		#mother = 
+		1916.1.1 = {
+			birth = yes
+		}
+		1987.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_8 = { #King Ralen II of Asta Felarin
+		name = "Ralen"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_7
+		#mother = 
+		1935.1.1 = {
+			birth = yes
+		}
+		2002.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_9 = { #Queen Callice I of Asta Felarin
+		name = "Callice"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		female = yes
+		father = Tejaren_8
+		#mother = 
+		1957.1.1 = {
+			birth = yes
+		}
+		2038.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_10 = { #Queen Callice II of Asta Felarin
+		name = "Callice"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		female = yes
+		#father = 
+		mother = Tejaren_9
+		1975.1.1 = {
+			birth = yes
+		}
+		2052.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_11 = { #King Serapher II of Asta Felarin
+		name = "Serapher"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		#father = 
+		mother = Tejaren_10
+		1994.1.1 = {
+			birth = yes
+		}
+		2065.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_12 = { #King Irephenes IV of Asta Felarin
+		name = "Irephenes"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_11
+		#mother = 
+		2021.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_13 = { #King Aremane II of Asta Felarin
+		name = "Aremane"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_12
+		#mother = 
+		2049.1.1 = {
+			birth = yes
+		}
+		2105.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_14 = { #King Daroren I of Asta Felarin
+		name = "Daroren"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_13
+		#mother = 
+		2072.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_15 = { #King Irephenes V of Asta Felarin
+		name = "Irephenes"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_14
+		#mother = 
+		2096.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_16 = { #King Ralen III of Asta Felarin
+		name = "Ralen"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_15
+		#mother = 
+		2118.1.1 = {
+			birth = yes
+		}
+		2170.1.1 = {
+			death = yes
+		}
+	}
+	Tejaren_17 = { #King Janer I of Asta Felarin
+		name = "Janer"
+		#dna = dna_caelan_i
+		dynasty = dynn_tejaren
+		religion = "aurementic"
+		culture = felasin
+		father = Tejaren_16
+		#mother = 
+		2135.1.1 = {
+			birth = yes
+		}
+		2215.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Zirital ###############################################
+	Zirital_0 = { #Duke Teramet II of Meranfrea
+		name = "Teramet"
+		#dna = dna_caelan_i
+		dynasty = dynn_zirital
+		religion = "aurementic"
+		culture = felasin
+		#father = Zirital_01
+		#mother = 
+		2084.1.1 = {
+			birth = yes
+		}
+		2157.1.1 = {
+			death = yes
+		}
+	}
+	Zirital_1a = { #Duke Teramet III of Meranfrea
+		name = "Teramet"
+		#dna = dna_caelan_i
+		dynasty = dynn_zirital
+		religion = "aurementic"
+		culture = felasin
+		father = Zirital_0
+		#mother = 
+		trait = twin
+		2106.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+	Zirital_1b = { #Queen-consort Jenai of Cirrenia
+		name = "Jenai"
+		#dna = dna_caelan_i
+		dynasty = dynn_zirital
+		religion = "aurementic"
+		culture = felasin
+		female = yes
+		father = Zirital_0
+		#mother = 
+		trait = twin
+		2106.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			add_spouse = Barrodias_1
+		}
+		2188.1.1 = {
+			death = yes
+		}
+	}
+	Zirital_2 = { #Duke Aremane II of Meranfrea
+		name = "Aremane"
+		#dna = dna_caelan_i
+		dynasty = dynn_zirital
+		religion = "aurementic"
+		culture = felasin
+		father = Zirital_1a
+		#mother = 
+		2129.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Xerincet ##############################################
+	Xerincet_0 = { #Queen Kerana I of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		#mother = Xerincet_01
+		1776.1.1 = {
+			birth = yes
+		}
+		1847.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_1 = { #Queen Oreno I of Eradrea
+		name = "Oreno"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_0
+		1799.1.1 = {
+			birth = yes
+		}
+		1884.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_2 = { #Queen Jenai I of Eradrea
+		name = "Jenai"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_1
+		1821.1.1 = {
+			birth = yes
+		}
+		1910.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_3 = { #King Karemnis I of Eradrea
+		name = "Karemnis"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		#father = 
+		mother = Xerincet_2
+		1847.1.1 = {
+			birth = yes
+		}
+		1935.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_4 = { #Prince Ralen of Eradrea
+		name = "Ralen"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		father = Xerincet_3
+		#mother = 
+		1872.1.1 = {
+			birth = yes
+		}
+		1919.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_5 = { #Queen Vadarei I of Eradrea
+		name = "Vadarei"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		father = Xerincet_4
+		#mother = 
+		1895.1.1 = {
+			birth = yes
+		}
+		1971.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_6 = { #Queen Kerana II of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_5
+		1914.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_7 = { #Princess Kerana of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_6
+		1937.1.1 = {
+			birth = yes
+		}
+		1991.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_8 = { #Queen Oreno II of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_7
+		1960.1.1 = {
+			birth = yes
+		}
+		2041.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_9a = { #Queen Oreno III of Eradrea
+		name = "Oreno"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_8
+		1983.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_9b = { #Prince Karemnis of Eradrea
+		name = "Karemnis"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		#father = 
+		mother = Xerincet_8
+		1985.1.1 = {
+			birth = yes
+		}
+		2041.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_9c = { #Princess Kerana of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_8
+		1988.1.1 = {
+			birth = yes
+		}
+		2070.1.1 = {
+			death = yes
+		}
+	}
+	Xerincet_10 = { #Lady Oreno Xerincet
+		name = "Oreno"
+		#dna = dna_caelan_i
+		dynasty = dynn_xerincet
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_9c
+		2010.1.1 = {
+			birth = yes
+		}
+		2087.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Monosal ###############################################
+	Monosal_0 = { #King Karim of Eradrea
+		name = "Karim"
+		#dna = dna_caelan_i
+		dynasty = dynn_monosal
+		religion = "aurementic"
+		culture = eradreash
+		#father = 
+		#mother = 
+		2030.1.1 = {
+			birth = yes
+		}
+		2098.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Diracal ###############################################
+	Diracal_0 = { #Queen Jenai II of Eradrea
+		name = "Jenai"
+		#dna = dna_caelan_i
+		dynasty = dynn_diracal
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Xerincet_10
+		2036.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+	Diracal_1 = { #Princess Oreno of Eradrea
+		name = "Oreno"
+		#dna = dna_caelan_i
+		dynasty = dynn_diracal
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Diracal_0
+		2068.1.1 = {
+			birth = yes
+		}
+		2117.1.1 = {
+			death = yes
+		}
+	}
+	Diracal_2 = { #Queen Kerana III of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_diracal
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Diracal_1
+		2081.1.1 = {
+			birth = yes
+		}
+		2154.1.1 = {
+			death = yes
+		}
+	}
+	Diracal_3 = { #Queen Kerana IV of Eradrea
+		name = "Kerana"
+		#dna = dna_caelan_i
+		dynasty = dynn_diracal
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Diracal_2
+		2103.1.1 = {
+			birth = yes
+		}
+		2180.1.1 = {
+			death = yes
+		}
+	}
+	Diracal_4 = { #Queen Jenai III of Eradrea
+		name = "Jenai"
+		#dna = dna_caelan_i
+		dynasty = dynn_diracal
+		religion = "aurementic"
+		culture = eradreash
+		female = yes
+		#father = 
+		mother = Diracal_3
+		2124.1.1 = {
+			birth = yes
+		}
+		2206.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Cerindal ##############################################
+	Cerindal_0 = { #King Oram I of Cirrenia
+		name = "Oram"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		#father = 
+		#mother = 
+		1752.1.1 = {
+			birth = yes
+		}
+		1824.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_1 = { #King Edal I of Cirrenia
+		name = "Edal"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_0
+		#mother = 
+		1776.1.1 = {
+			birth = yes
+		}
+		1844.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_2a = { #Lord Quinlan Cerindal
+		name = "Quinlan"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_1
+		#mother = 
+		1792.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_2b = { #King Itheran I of Cirrenia
+		name = "Quinlan"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_1
+		#mother = 
+		1799.1.1 = {
+			birth = yes
+		}
+		1846.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_3a = { #King Oram II of Cirrenia
+		name = "Oram"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_2b
+		#mother = 
+		1822.1.1 = {
+			birth = yes
+		}
+		1852.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_3a1 = { #Princess Zyra of Cirrenia
+		name = "Zyra"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		female = yes
+		father = Cerindal_3a
+		#mother = 
+		1843.1.1 = {
+			birth = yes
+		}
+		1917.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_3b = { #King Quinlan I of Cirrenia
+		name = "Quinlan"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_2b
+		#mother = 
+		1825.1.1 = {
+			birth = yes
+		}
+		1895.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_4 = { #King Quinlan II of Cirrenia
+		name = "Quinlan"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_3b
+		#mother = 
+		1848.1.1 = {
+			birth = yes
+		}
+		1919.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_5 = { #King Edal II of Cirrenia
+		name = "Edal"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_4
+		#mother = 
+		1869.1.1 = {
+			birth = yes
+		}
+		1941.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_6 = { #King Oram III of Cirrenia
+		name = "Oram"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_5
+		#mother = 
+		1892.1.1 = {
+			birth = yes
+		}
+		1956.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_7 = { #King Itheran II of Cirrenia
+		name = "Itheran"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_6
+		#mother = 
+		1919.1.1 = {
+			birth = yes
+		}
+		1989.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_8 = { #King Zyran I of Cirrenia
+		name = "Zyran"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_7
+		#mother = 
+		1938.1.1 = {
+			birth = yes
+		}
+		1995.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_9a = { #King Itheran III of Cirrenia
+		name = "Itheran"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_8
+		#mother = 
+		1961.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_9a1 = { #King Quinlan III of Cirrenia
+		name = "Quinlan"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		father = Cerindal_8a
+		#mother = 
+		1946.1.1 = {
+			birth = yes
+		}
+		1998.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_9a2 = { #Queen Esurel I of Cirrenia
+		name = "Esurel"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		female = yes
+		father = Cerindal_8a
+		#mother = 
+		1988.1.1 = {
+			birth = yes
+		}
+		2009.1.1 = {
+			death = yes
+		}
+	}
+	Cerindal_9b = { #Queen Zyra the Warrior of Cirrenia
+		name = "Zyra"
+		#dna = dna_caelan_i
+		dynasty = dynn_cerindal
+		religion = "aurementic"
+		culture = cirrlean
+		female = yes
+		father = Cerindal_8
+		#mother = 
+		give_nickname = nick_the_warrior
+		1962.1.1 = {
+			birth = yes
+		}
+		2002.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Nareskel ##############################################
+	
+#
+### House Ys Garos
+	Ys_Garos_0 = { #King Vos I of Cirrenia
+		name = "Vos"
+		#dna = dna_caelan_i
+		dynasty = dynn_ys_garos
+		religion = "aurementic"
+		culture = cirrlean
+		#father = 
+		mother = Cerindal_9b
+		1984.1.1 = {
+			birth = yes
+		}
+		2037.1.1 = {
+			death = yes
+		}
+	}
+	Ys_Garos_1 = { #King Vos II of Cirrenia
+		name = "Vos"
+		#dna = dna_caelan_i
+		dynasty = dynn_ys_garos
+		religion = "aurementic"
+		culture = cirrlean
+		father = Ys_Garos_0
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Ys_Garos_2 = { #King Edal III of Cirrenia
+		name = "Edal"
+		#dna = dna_caelan_i
+		dynasty = dynn_ys_garos
+		religion = "aurementic"
+		culture = cirrlean
+		father = Ys_Garos_1
+		#mother = 
+		2028.1.1 = {
+			birth = yes
+		}
+		2066.1.1 = {
+			death = yes
+		}
+	}
+	Ys_Garos_3 = { #King Tavel the Young of Cirrenia
+		name = "Tarvel"
+		#dna = dna_caelan_i
+		dynasty = dynn_ys_garos
+		religion = "aurementic"
+		culture = cirrlean
+		father = Ys_Garos_2
+		#mother = 
+		2050.1.1 = {
+			birth = yes
+		}
+		2085.1.1 = {
+			death = yes
+		}
+	}
+	Ys_Garos_4 = { #Queen Zyra II of Cirrenia
+		name = "Zyra"
+		#dna = dna_caelan_i
+		dynasty = dynn_ys_garos
+		religion = "aurementic"
+		culture = cirrlean
+		female = yes
+		father = Ys_Garos_3
+		#mother = 
+		2068.1.1 = {
+			birth = yes
+		}
+		2097.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Barrodias
+	Barrodias_0 = { #King Tarvel II of Cirrenia
+		name = "Tarvel"
+		#dna = dna_caelan_i
+		dynasty = dynn_barrodias
+		religion = "aurementic"
+		culture = cirrlean
+		#father = 
+		mother = Ys_Garos_4
+		2084.1.1 = {
+			birth = yes
+		}
+		2123.1.1 = {
+			death = yes
+		}
+	}
+	Barrodias_1 = { #King Edal IV of Cirrenia
+		name = "Edal"
+		#dna = dna_caelan_i
+		dynasty = dynn_barrodias
+		religion = "aurementic"
+		culture = cirrlean
+		father = Barrodias_0
+		#mother = 
+		2107.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			add_spouse = Zirital_1b
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Barrodias_2a = { #Crown Prince Vos of Cirrenia
+		name = "Vos"
+		#dna = dna_caelan_i
+		dynasty = dynn_barrodias
+		religion = "aurementic"
+		culture = cirrlean
+		father = Barrodias_1
+		mother = Zirital_1b
+		2124.1.1 = {
+			birth = yes
+		}
+		2198.1.1 = {
+			death = yes
+		}
+	}
+	Barrodias_2b = { #Prince Tarvel of Cirrenia
+		name = "Tarvel"
+		#dna = dna_caelan_i
+		dynasty = dynn_barrodias
+		religion = "aurementic"
+		culture = cirrlean
+		father = Barrodias_1
+		mother = Zirital_1b
+		2125.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Barrodias_2c = { #Princess Zylira of Cirrenia
+		name = "Zylira"
+		#dna = dna_caelan_i
+		dynasty = dynn_barrodias
+		religion = "aurementic"
+		culture = cirrlean
+		female = yes
+		father = Barrodias_1
+		mother = Zirital_1b
+		2128.1.1 = {
+			birth = yes
+		}
+		2217.1.1 = {
+			death = yes
+		}
+	}

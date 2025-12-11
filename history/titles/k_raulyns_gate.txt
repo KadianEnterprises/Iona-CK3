@@ -1,0 +1,138 @@
+k_raulyns_gate = {
+	1985.1.1 = {
+		liege = e_chell
+		holder = Downrain_0		#Grand Duke Eranon I
+	}
+	2009.1.1 = {
+		holder = Istrano_0		#Grand Duke Eranon II
+	}
+	2057.1.1 = {
+		holder = Jasel_0		#Grand Duke Atelus I
+	}
+	2086.1.1 = {
+		holder = Jasel_1		#Grand Duke Ravenwyll I
+	}
+	2109.1.1 = {
+		holder = Voren_0		#Grand Duke Vol I
+	}
+	2124.1.1 = {
+		holder = Voren_1		#Grand Duke Atelus II
+	}
+	2130.1.1 = {
+		holder = Gloryhall_0	#Grand Duke Eranon III
+	}
+	2174.1.1 = {
+		holder = Gloryhall_1		#Grand Duke Kyris I of Raulyn's Gate
+	}
+	2185.1.1 = {
+		holder = Gloryhall_2		#Grand Duke Uldren I of Raulyn's Gate
+	}
+	2220.1.1 = {
+		holder = Gloryhall_3		#Grand Duke Uldren II of Raulyn's Gate
+	}
+}
+
+#
+## Duchy of Raulyn's Gate
+	d_raulyns_gate = {
+
+	}
+	c_raulyns_gate = {
+
+	}
+	c_point_orphiros = {
+
+	}
+	c_stag_bay = {
+		2108.1.1 = {
+			liege = k_raulyns_gate
+			holder = Gloryhall_01		#Count Kyris I of Stag Bay
+		}
+		2122.1.1 = {
+			holder = Gloryhall_0		#grand Duke Eranon III of Raulyn's Gate
+		}
+		2174.1.1 = {
+			holder = Gloryhall_1		#Grand Duke Kyris I of Raulyn's Gate
+		}
+		2185.1.1 = {
+			holder = Gloryhall_2		#Grand Duke Uldren I of Raulyn's Gate
+		}
+		2220.1.1 = {
+			holder = Gloryhall_3		#Grand Duke Uldren II of Raulyn's Gate
+		}
+	}
+	c_nekremos = {
+
+	}
+	c_nicosan_woods = {
+
+	}
+#
+## Hyraxis
+	d_hyraxis = {
+
+	}
+	c_heros_landing = {
+
+	}
+	c_brittleport = {
+
+	}
+	c_ralakin = {
+
+	}
+	c_enonaxi = {
+
+	}
+#
+## Alonbris
+	d_alonbris = {
+
+	}
+	c_hadaros = {
+		2036.1.1 = {
+			liege = k_raulyns_gate
+			holder = Jasel_0		#Grand Duke Atelus I
+		}
+		2086.1.1 = {
+			holder = Jasel_1		#Grand Duke Ravenwyll I
+		}
+		2109.1.1 = {
+			holder = Jasel_2		#Count Atelus II
+		}
+		2134.1.1 = {
+			holder = Jasel_3		#Count Ender I
+		}
+		2156.1.1 = {
+			holder = Jasel_4		#Count Orsen I
+		}
+		2158.1.1 = {
+			holder = Jasel_5		#Count Ender II
+		}
+		#2222.1.1 = {}
+	}
+	c_gedinos = {
+		2036.1.1 = {
+			liege = k_raulyns_gate
+			holder = Jasel_0		#Grand Duke Atelus I
+		}
+		2086.1.1 = {
+			holder = Jasel_1		#Grand Duke Ravenwyll I
+		}
+		2109.1.1 = {
+			holder = Jasel_2		#Count Atelus II
+		}
+		2134.1.1 = {
+			holder = Jasel_3		#Count Ender I
+		}
+		2156.1.1 = {
+			holder = Jasel_4		#Count Orsen I
+		}
+		2158.1.1 = {
+			holder = Jasel_5		#Count Ender II
+		}
+		#2222.1.1 = {}
+	}
+	c_point_qedoni = {
+
+	}

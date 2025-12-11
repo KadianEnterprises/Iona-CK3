@@ -1,0 +1,248 @@
+# Trellian
+## Duskcliff
+	### Duskstone
+	1272 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	1273 = {
+		holding = city_holding
+	}
+	1274 = {
+		holding = castle_holding
+	}
+	1275 = {
+		holding = none
+	}
+	1276 = {
+		holding = church_holding
+	}
+	### Dustglyph Run
+	1277 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	1278 = {
+		holding = city_holding
+	}
+	1279 = {
+		holding = castle_holding
+	}
+	1280 = {
+		holding = none
+	}
+	### Lyresta
+	1281 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	488 = {
+		holding = city_holding
+	}
+	1282 = {
+		holding = none
+	}
+	### Taoulet
+	1283 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	1284 = {
+		holding = none
+	}
+	1285 = {
+		holding = none
+	}
+	### Erasmun
+	1286 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	1287 = {
+		holding = city_holding
+	}
+	1288 = {
+		holding = none
+	}
+	1289 = {
+		holding = none
+	}
+	### Twilight's Wending
+	1290 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	1291 = {
+		holding = city_holding
+	}
+	1292 = {
+		holding = none
+	}
+	1293 = {
+		holding = none
+	}
+## Idon Etris
+	### Etris
+	1296 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1297 = {
+		holding = city_holding
+	}
+	1298 = {
+		holding = none
+	}
+	1299 = {
+		holding = none
+	}
+	### Duskglyph Hollow
+	1301 = {
+		culture = duskman
+		religion = aurementic
+		holding = castle_holding
+	}
+	1302 = {
+		holding = none
+	}
+	1303 = {
+		holding = none
+	}
+	### Ilfan's Citadel
+	1300 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Woods of Idon
+	1304 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1305 = {
+		holding = none
+	}
+	1306 = {
+		holding = none
+	}
+	### Deep's Descent
+	1307 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1308 = {
+		holding = none
+	}
+	1309 = {
+		holding = none
+	}
+	### Ilfan's Wood
+	1310 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1311 = {
+		holding = church_holding
+	}
+	1312 = {
+		holding = none
+	}
+	1313 = {
+		holding = none
+	}
+	1314 = {
+		holding = none
+	}
+## Touresmoor
+	### Touronne
+	1315 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1316 = {
+		holding = none
+	}
+	1317 = {
+		holding = none
+	}
+	1318 = {
+		holding = none
+	}
+	### Estesmoor
+	1320 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1321 = {
+		holding = none
+	}
+	1322 = {
+		holding = none
+	}
+	1323 = {
+		holding = city_holding
+	}
+	### Wood's Weeping
+	1324 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1325 = {
+		holding = city_holding
+	}
+	### Artessa's Lament
+	1319 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Widemander
+	1326 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1327 = {
+		holding = none
+	}
+	1328 = {
+		holding = none
+	}
+## Rilean
+	### Rilean
+	1271 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1270 = {
+		holding = city_holding
+	}
+	1269 = {
+		holding = none
+	}
+	1268 = {
+		holding = none
+	}
+	### Isanmoor
+	1266 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1267 = {
+		holding = none
+	}

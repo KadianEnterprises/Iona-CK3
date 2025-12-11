@@ -1,0 +1,99 @@
+k_vysdara = {
+
+}
+## Vysdaran
+	d_vysdaran = {
+		1889.1.1 = {
+			liege = e_chell
+		}
+		2074.1.1 = {
+			holder = Goldenbrow_46c		#Prince Perseus the Brave, Duke of Vysdaran
+		}
+		2139.1.1 = {
+			holder = Goldenbrow_46c1	#Duke Rolanus I
+		}
+		2151.1.1 = {
+			holder = Goldenbrow_46c2	#Duke Perseus II
+		}
+		2177.1.1 = {
+			holder = Goldenbrow_46c3	#Duke Rhydan I
+		}
+		2184.1.1 = {
+			holder = Goldenbrow_46c4	#Duke Rolanus II
+		}
+	}
+	c_ophiran = {
+		2074.1.1 = {
+			holder = Goldenbrow_46c		#Prince Perseus the Brave, Duke of Vysdaran
+		}
+		2139.1.1 = {
+			holder = Goldenbrow_46c1	#Duke Rolanus I
+		}
+		2151.1.1 = {
+			holder = Goldenbrow_46c2	#Duke Perseus II
+		}
+		2177.1.1 = {
+			holder = Goldenbrow_46c3	#Duke Rhydan I
+		}
+		2184.1.1 = {
+			holder = Goldenbrow_46c4	#Duke Rolanus II
+		}
+	}
+	c_nicalia = {
+
+	}
+	c_sora = {
+
+	}
+	c_atreberin = {
+		
+	}
+	c_imros = {
+
+	}
+	c_acyran = {
+
+	}
+	c_chalceral = {
+
+	}
+#
+## Talidanos
+	d_talidanos = {
+
+	}
+	c_talidaniki = {
+
+	}
+	c_syrikon = {
+
+	}
+	c_physerus = {
+
+	}
+	c_akration = {
+
+	}
+	c_magnorum = {
+		
+	}
+	c_troanos = {
+
+	}
+#
+## Calonassa
+	d_calonassa = {
+
+	}
+	c_calonassa = {
+
+	}
+	c_isle_aigiras = {
+
+	}
+	c_thesika = {
+		
+	}
+	c_megios = {
+
+	}

@@ -1,0 +1,65 @@
+﻿k_aurentis = {
+
+}
+#
+## Aurentium
+	d_aurentium = {
+		2080.1.1 = {
+			liege = e_chell
+			holder = Goldenbrow_46d		#Prince Raulyn of Chell, Governor of Aurentium
+		}
+		2141.1.1 = {
+			holder = Goldenbrow_46d1	#Governor Rhydan of Aurentium
+		}
+		2167.1.1 = {
+			holder = Goldenbrow_46d2	#Governor Sarden of Aurentium
+		}
+		2186.1.1 = {
+			holder = 0
+		}
+	}
+	c_aurentium = {
+	
+	}
+	c_caloconae = {
+	
+	}
+	c_luscarum_tower = {
+	
+	}
+	c_whipjack_peninsula = {
+	
+	}
+	c_alyum_asta = {
+	
+	}
+	c_tyrastirum = {
+	
+	}
+#
+## Moritanum
+	d_moritanum = {
+	
+	}
+	c_moritanum = {
+	
+	}
+	c_ostera = {
+	
+	}
+	c_port_averix = {
+	
+	}
+	c_jorans_slump = {
+	
+	}
+	c_afri = {
+	
+	}
+	c_hastrun = {
+	
+	}
+#
+## Aberian
+#
+## Celathium

@@ -1,0 +1,483 @@
+# Batl Han
+## Batun ####################
+	### Batun
+	1013 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1014 = {
+		holding = city_holding
+	}
+	1015 = {
+		holding = city_holding
+	}
+	1016 = {
+		holding = castle_holding
+	}
+	1017 = {
+		holding = church_holding
+	}
+	### Tower of Kafel
+	1018 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Altir Nev
+	1019 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1022 = {
+		holding = city_holding
+	}
+	1021 = {
+		holding = none
+	}
+	1020 = {
+		holding = none
+	}
+	### Keyam Al
+	1023 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1024 = {
+		holding = none
+	}
+	### Van naija
+	1025 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1026 = {
+		holding = none
+	}
+	1027 = {
+		holding = none
+	}
+## Tayza Col
+	### Tor Kalad
+	1028 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Tavilash
+	1029 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1030 = {
+		holding = city_holding
+	}
+	1032 = {
+		holding = castle_holding
+	}
+	1031 = {
+		holding = none
+	}
+	### Du Shadir
+	1036 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1037 = {
+		holding = none
+	}
+	1038 = {
+		holding = none
+	}
+	### Barazad
+	1034 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1035 = {
+		holding = none
+	}
+	### Difatan
+	1039 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1040 = {
+		holding = none
+	}
+	1041 = {
+		holding = none
+	}
+	### Mel Shani
+	1042 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1043 = {
+		holding = none
+	}
+	1044 = {
+		holding = none
+	}
+	### Mafiza
+	1045 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1046 = {
+		holding = none
+	}
+	### Tor Ixzi
+	1033 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+## Mela Revan
+	### Kharanin
+	1087 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1088 = {
+		holding = none
+	}
+	1089 = {
+		holding = none
+	}
+	1090 = {
+		holding = none
+	}
+	### Ariq Revan
+	1092 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1093 = {
+		holding = none	
+	}
+	1094 = {
+		holding = none
+	}
+	1095 = {
+		holding = none
+	}
+	### Sarisah
+	1096 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1097 = {
+		holding = none
+	}
+	### Tower of Raksis
+	1091 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Mizarim
+	1098 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1099 = {
+		holding = none
+	}
+	1100 = {
+		holding = none
+	}
+	### Deyalshir
+	1101 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1102 = {
+		holding = none
+	}
+	1103 = {
+		holding = none
+	}
+	1104 = {
+		holding = none
+	}
+	### Jala Nari
+	1105 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1106 = {
+		holding = none
+	}
+	### Koraj
+	1107 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1108 = {
+		holding = none
+	}
+	### Kebiza
+	1109 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1110 = {
+		holding = none
+	}
+	1111 = {
+		holding = none
+	}
+## Tabris
+	### Tabris
+	1113 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1114 = {
+		holding = city_holding
+	}
+	1115 = {
+		holding = none
+	}
+	### Djel
+	1124 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1126 = {
+		holding = none
+	}
+	1125 = {
+		holding = none
+	}
+	1127 = {
+		holding = none
+	}
+	### Riayawah
+	1121 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1122 = {
+		holding = none
+	}
+	1123 = {
+		holding = none
+	}
+	### Madiq
+	1119 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1120 = {
+		holding = none
+	}
+	### Tabli
+	1117 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1118 = {
+		holding = none
+	}
+	### Halfan
+	1116 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+## Ukuwela
+	### Al Virai
+	1081 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1082 = {
+		holding = city_holding
+	}
+	1083 = {
+		holding = none
+	}
+	### Urktash
+	1084 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1085 = {
+		holding = none
+	}
+	1086 = {
+		holding = none
+	}
+## Lozandi
+	### Loza Ukar
+	1049 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1048 = {
+		holding = none
+	}
+	1047 = {
+		holding = none
+	}
+	1050 = {
+		holding = none
+	}
+	### Zbir Ingla
+	1052 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1051 = {
+		holding = none
+	}
+	1053 = {
+		holding = none
+	}
+## Cal Baraket
+	1061 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1062 = {
+		holding = none
+	}
+	1063 = {
+		holding = none
+	}
+	### Gatzi
+	1064 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1065 = {
+		holding = none
+	}
+	1066 = {
+		holding = none
+	}
+	### Havo
+	1067 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1068 = {
+		holding = none
+	}
+	### Lwega
+	1071 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1069 = {
+		holding = none
+	}
+	1070 = {
+		holding = none
+	}
+	### Deto
+	1055 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1054 = {
+		holding = none
+	}
+	1056 = {
+		holding = none
+	}
+	### Anso
+	1138 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+## Mela Zujaj
+	### Qalezj Torana
+	1072 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1073 = {
+		holding = none
+	}
+	1074 = {
+		holding = church_holding
+	}
+	1075 = {
+		holding = none
+	}
+	### reza
+	1076 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1077 = {
+		holding = none
+	}
+	1078 = {
+		holding = none
+	}
+	### Tzani
+	1079 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1080 = {
+		holding = none
+	}
+## Kago
+	### Kago
+	1057 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1058 = {
+		holding = none
+	}
+	1059 = {
+		holding = none
+	}
+	### Iscai Islands
+	1060 = {
+		culture = batalnim
+		religion = aurementic
+		holding = castle_holding
+	}

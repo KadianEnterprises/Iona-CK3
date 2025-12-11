@@ -1,0 +1,37 @@
+﻿### House Ryel
+	Ryel_0 = {		#King Kyrendin the Good of the Gallan Kingdom
+		name = "Kyredin"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		#father = Ryel_01
+		#mother = 
+		1722.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1a = {		#Prince Alfyron Flameseeker of the Gallan Kingdom
+		name = "Alfyron"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_0
+		#mother = 
+		1754.1.1 = {
+			birth = yes
+		}
+		1814.1.1 = {
+			death = yes
+		}
+	}
+#
+### House ie Feyn
+#
+### House Sare
+#
+### House Rydwen

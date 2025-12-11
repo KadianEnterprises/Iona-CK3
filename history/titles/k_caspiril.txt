@@ -1,0 +1,661 @@
+﻿k_caspiril = {
+	1952.1.1 = {
+		holder = Marais_0		#King Joruis I
+	}
+	1968.1.1 = {
+		holder = Marais_1a		#king Rhyal I
+	}
+	1971.1.1 = {
+		holder = Marais_2a		#King Joruis II
+	}
+	1995.1.1 = {
+		holder = Marais_3a		#King Joruis III
+	}
+	2005.1.1 = {
+		holder = Marais_3b		#King Edmund I
+	}
+	2027.1.1 = {
+		holder = Perilance_0	#King Corin I
+	}
+	2050.1.1 = {
+		holder = Perilance_1	#King Peter I
+	}
+	2064.1.1 = {
+		holder = Perilance_2	#King Col the Bloody
+	}
+	2084.1.1 = {
+		holder = Perilance_3a	#King Corin II
+	}
+	2085.1.1 = {
+		holder = Perilance_3b	#King Rhyal the Great
+	}
+	2118.1.1 = {
+		holder = Perilance_4	#King Rhyal III
+	}
+	2125.1.1 = {
+		holder = Perilance_5a	#King Peter II
+	}
+	2132.1.1 = {
+		holder = Perilance_6	#Queen Lucibel I
+	}
+	2168.1.1 = {
+		holder = Perilance_7a	#King Edmund II
+	}
+}
+
+## Casiran
+	d_casirian = {
+		1952.1.1 = {
+
+			holder = Marais_0		#King Joruis I
+		}
+		1968.1.1 = {
+			holder = Marais_1a		#king Rhyal I
+		}
+		1971.1.1 = {
+			holder = Marais_2a		#King Joruis II
+		}
+		1995.1.1 = {
+			holder = Marais_3a		#King Joruis III
+		}
+		2005.1.1 = {
+			holder = Marais_3b		#King Edmund I
+		}
+		2027.1.1 = {
+			holder = Perilance_0	#King Corin I
+		}
+		2050.1.1 = {
+			holder = Perilance_1	#King Peter I
+		}
+		2064.1.1 = {
+			holder = Perilance_2	#King Col the Bloody
+		}
+		2084.1.1 = {
+			holder = Perilance_3a	#King Corin II
+		}
+		2085.1.1 = {
+			holder = Perilance_3b	#King Rhyal the Great
+		}
+		2118.1.1 = {
+			holder = Perilance_4	#King Rhyal III
+		}
+		2125.1.1 = {
+			holder = Perilance_5a	#King Peter II
+		}
+		2132.1.1 = {
+			holder = Perilance_6	#Queen Lucibel I
+		}
+		2168.1.1 = {
+			holder = Perilance_7a	#King Edmund II
+		}
+	}
+	c_astavoux = {
+		1952.1.1 = {
+			holder = Marais_0		#King Joruis I
+		}
+		1968.1.1 = {
+			holder = Marais_1a		#king Rhyal I
+		}
+		1971.1.1 = {
+			holder = Marais_2		#King Joruis II
+		}
+		1995.1.1 = {
+			holder = Marais_3a		#King Joruis III
+		}
+		2005.1.1 = {
+			holder = Marais_3b		#King Edmund I
+		}
+		2027.1.1 = {
+			holder = Perilance_0	#King Corin I
+		}
+		2050.1.1 = {
+			holder = Perilance_1	#King Peter I
+		}
+		2064.1.1 = {
+			holder = Perilance_2	#King Col the Bloody
+		}
+		2084.1.1 = {
+			holder = Perilance_3a	#King Corin II
+		}
+		2085.1.1 = {
+			holder = Perilance_3b	#King Rhyal the Great
+		}
+		2118.1.1 = {
+			holder = Perilance_4	#King Rhyal III
+		}
+		2125.1.1 = {
+			holder = Perilance_5a	#King Peter II
+		}
+		2132.1.1 = {
+			holder = Perilance_6	#Queen Lucibel I
+		}
+		2168.1.1 = {
+			holder = Perilance_7a	#King Edmund II
+		}
+	}
+	c_tower_of_silverbreath = {
+		
+	}
+	c_rhyals_harrow = {
+		2102.1.1 = {
+			holder = Felitess_0			#Count Jorge III
+		}
+		2113.1.1 = {
+			holder = Felitess_1			#Count Gilbert I
+		}
+		2146.1.1 = {
+			holder = Felitess_2			#Count Gilbert II
+		}
+		2162.1.1 = {
+			holder = Felitess_3			#Count Jorge IV
+		}
+		2189.1.1 = {
+			holder = Felitess_4			#Count Gilbert III
+		}
+	}
+	c_jalcrest = {
+		2101.1.1 = {
+			liege = k_caspiril
+			holder = Aralor_0
+		}
+		2134.1.1 = {
+			holder = Aralor_1
+		}
+		2167.1.1 = {
+			holder = Aralor_2
+		}
+		2184.1.1 = {
+			holder = Aralor_3
+		}
+	}
+	c_tacelin = {
+		2079.1.1 = {
+			liege = k_caspiril
+			holder = Guerou_0		#Count Elise III
+		}
+		2087.1.1 = {
+			holder = Guerou_1		#Count Emile II
+		}
+		2105.1.1 = {
+			holder = Guerou_2		#Count Jossel I
+		}
+		2129.1.1 = {
+			holder = Guerou_3		#Count Jossel II
+		}
+		2175.1.1 = {
+			holder = Guerou_4		#Count Emile III
+		}
+	}
+	c_quelcrist = {
+		
+	}
+	c_cotiris = {
+		
+	}
+	c_isle_sanguine = {
+		
+	}
+#
+## Solime
+	d_solime = {
+		
+	}
+	c_cenrian = {
+		
+	}
+	c_isel = {
+		2101.1.1 = {
+			liege = k_caspiril
+			holder = Aralor_0
+		}
+		2134.1.1 = {
+			holder = Aralor_1
+		}
+		2167.1.1 = {
+			holder = Aralor_2
+		}
+		2184.1.1 = {
+			holder = Aralor_3
+		}
+	}
+	c_silverdew = {
+		2114.1.1 = {
+			liege = k_caspiril
+			holder = Seine_0
+		}
+		2129.1.1 = {
+			holder = Seine_1
+		}
+		2162.1.1 = {
+			holder = Seine_2
+		}
+		2180.1.1 = {
+			holder = Seine_3
+		}
+	}
+	c_spur_of_solime = {
+		2070.1.1 = {
+			liege = k_caspiril
+			holder = Rheyal_0
+		}
+		2109.1.1 = {
+			holder = Rheyal_1
+		}
+		2138.1.1 = {
+			holder = Rheyal_2
+		}
+		2161.1.1 = {
+			holder = Rheyal_3
+		}
+		2163.1.1 = {
+			holder = Rheyal_4
+		}
+	}
+	c_inovan = {
+		2070.1.1 = {
+			liege = k_caspiril
+			holder = Corafae_0
+		}
+		2099.1.1 = {
+			holder = Corafae_1
+		}
+		2105.1.1 = {
+			holder = Corafae_2
+		}
+		2136.1.1 = {
+			holder = Corafae_3
+		}
+		2184.1.1 = {
+			holder = Corafae_4
+		}
+		#2191.1.1
+	}
+	c_avonte = {
+		2070.1.1 = {
+			liege = k_caspiril
+			holder = Corafae_0
+		}
+		2099.1.1 = {
+			holder = Corafae_1
+		}
+		2105.1.1 = {
+			holder = Corafae_2
+		}
+		2136.1.1 = {
+			holder = Corafae_3
+		}
+		2184.1.1 = {
+			holder = Corafae_4
+		}
+		#2191.1.1
+	}
+	c_broadtide = {
+		2070.1.1 = {
+			liege = k_caspiril
+			holder = Corafae_0
+		}
+		2099.1.1 = {
+			holder = Corafae_1
+		}
+		2105.1.1 = {
+			holder = Corafae_2
+		}
+		2136.1.1 = {
+			holder = Corafae_3
+		}
+		2184.1.1 = {
+			holder = Corafae_4
+		}
+		#2191.1.1
+	}
+#
+## Lotheris
+	d_lotheris = {
+		2083.1.1 = {
+			liege = k_caspiril
+			holder = Illum_0			#Duke Caelin I
+		}
+		2131.1.1 = {
+			holder = Illum_1			#Duke Col I
+		}
+		2138.1.1 = {
+			holder = Illum_2			#Duke Mateo III
+		}
+		2153.1.1 = {
+			holder = Illum_3a			#Duke Caelin II
+		}
+		2155.1.1 = {
+			holder = Illum_4			#Duke Beswyn III
+		}
+		2181.1.1 = {
+			holder = Illum_5			#Duke Talis I
+		}
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+	c_cair_tenris = {
+		2083.1.1 = {
+			liege = k_caspiril
+			holder = Illum_0			#Duke Caelin I
+		}
+		2131.1.1 = {
+			holder = Illum_1			#Duke Col I
+		}
+		2138.1.1 = {
+			holder = Illum_2			#Duke Mateo III
+		}
+		2153.1.1 = {
+			holder = Illum_3a			#Duke Caelin II
+		}
+		2155.1.1 = {
+			holder = Illum_4			#Duke Beswyn III
+		}
+		2181.1.1 = {
+			holder = Illum_5			#Duke Talis I
+		}
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+	c_cinder = {
+		2083.1.1 = {
+			liege = k_caspiril
+			holder = Illum_0			#Duke Caelin I
+		}
+		2131.1.1 = {
+			holder = Illum_1			#Duke Col I
+		}
+		2138.1.1 = {
+			holder = Illum_2			#Duke Mateo III
+		}
+		2153.1.1 = {
+			holder = Illum_3a			#Duke Caelin II
+		}
+		2155.1.1 = {
+			holder = Illum_4			#Duke Beswyn III
+		}
+		2181.1.1 = {
+			holder = Illum_5			#Duke Talis I
+		}
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+	c_inkheart = {
+		2083.1.1 = {
+			liege = k_caspiril
+			holder = Illum_0			#Duke Caelin I
+		}
+		2131.1.1 = {
+			holder = Illum_1			#Duke Col I
+		}
+		2138.1.1 = {
+			holder = Illum_2			#Duke Mateo III
+		}
+		2153.1.1 = {
+			holder = Illum_3a			#Duke Caelin II
+		}
+		2155.1.1 = {
+			holder = Illum_4			#Duke Beswyn III
+		}
+		2181.1.1 = {
+			holder = Illum_5			#Duke Talis I
+		}
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+	c_scribewalk = {
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+	c_silentweep = {
+		2138.1.1 = {
+			holder = Illum_2			#Duke Mateo III
+		}
+		2138.1.1 = {
+			liege = d_lotheris
+			holder = Illum_3b			#Count Jorge II
+		}
+		2169.1.1 = {
+			holder = Illum_3b1			#Count Jorge III
+		}
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+	c_heros_yearning = {
+		2185.1.1 = {
+			liege = k_ilfan				#Ilfan annexation
+			#holder = Tevrissian_
+		}
+	}
+#
+## Morin
+	d_morin = {
+		1951.1.1 = {
+			liege = k_caspiril
+			holder = Perilance_02	#Duke Edmund I
+		}
+		1985.1.1 = {
+			holder = Perilance_01	#Duke Edmund II
+		}
+		2024.1.1 = {
+			holder = Perilance_0	#originally was Duke Corin, then King
+		}
+		2050.1.1 = {
+			holder = Perilance_1	#King Peter I
+		}
+		2064.1.1 = {
+			holder = Perilance_2	#King Col the Bloody
+		}
+		2084.1.1 = {
+			holder = Perilance_3a	#King Corin II
+		}
+		2085.1.1 = {
+			holder = Perilance_3b	#King Rhyal the Great
+		}
+		2118.1.1 = {
+			holder = Perilance_4	#King Rhyal III
+		}
+		2125.1.1 = {
+			holder = Perilance_5a	#King Peter II
+		}
+		2132.1.1 = {
+			holder = Perilance_6	#Queen Lucibel I
+		}
+		2168.1.1 = {
+			holder = Perilance_7a	#King Edmund II
+		}
+	}
+	c_perilance = {
+		1951.1.1 = {
+			liege = d_morin
+			holder = Perilance_02
+		}
+		1985.1.1 = {
+			holder = Perilance_01	#Duke Edmund II
+		}
+		2024.1.1 = {
+			holder = Perilance_0	#originally was Duke Corin, then King
+		}
+		2050.1.1 = {
+			holder = Perilance_1	#King Peter I
+		}
+		2064.1.1 = {
+			holder = Perilance_2	#King Col the Bloody
+		}
+		2084.1.1 = {
+			holder = Perilance_3a	#King Corin II
+		}
+		2085.1.1 = {
+			holder = Perilance_3b	#King Rhyal the Great
+		}
+		2118.1.1 = {
+			holder = Perilance_4	#King Rhyal III
+		}
+		2125.1.1 = {
+			holder = Perilance_5c	#Prince Edmund
+		}
+		2132.1.1 = {
+			holder = Perilance_5c1	#Prince-consort Corin
+		}
+	}
+	c_proudlight = {
+		1969.1.1 = {
+			liege = d_morin
+			holder = Marais_1b
+		}
+		2016.1.1 = {
+			holder = Marais_1b1
+		}
+		2057.1.1 = {
+			holder = Marais_1b2
+		}
+		2066.1.1 = {
+			holder = Marais_1b3
+		}
+		2101.1.1 = {
+			holder = Marais_1b4
+		}
+		2118.1.1 = {
+			holder = Marais_1b5
+		}
+		2125.1.1 = {
+			holder = Marais_1b6
+		}
+		2162.1.1 = {
+			holder = Marais_1b7
+		}
+		2162.1.1 = {
+			holder = Marais_1b8
+		}
+		2170.1.1 = {
+			holder = Marais_1b9
+		}
+	}
+	c_tower_of_the_seer = {
+		
+	}
+	c_bandal = {
+		1951.1.1 = {
+			liege = d_morin
+			holder = Perilance_02
+		}
+		1985.1.1 = {
+			holder = Perilance_01	#Duke Edmund II
+		}
+		2024.1.1 = {
+			holder = Perilance_0	#originally was Duke Corin, then King
+		}
+		2050.1.1 = {
+			holder = Perilance_1	#King Peter I
+		}
+		2064.1.1 = {
+			holder = Perilance_2	#King Col the Bloody
+		}
+		2084.1.1 = {
+			holder = Perilance_3a	#King Corin II
+		}
+		2085.1.1 = {
+			holder = Perilance_3b	#King Rhyal the Great
+		}
+		2118.1.1 = {
+			holder = Perilance_4	#King Rhyal III
+		}
+		2125.1.1 = {
+			holder = Perilance_5c	#Prince Edmund
+		}
+		2132.1.1 = {
+			holder = Perilance_5c1	#Prince-consort Corin
+		}
+	}
+	c_erskendale = {
+		2004.1.1 = {
+			liege = k_caspiril
+			holder = Utone_0		#Count Regis I
+		}
+		2027.1.1 = {
+			holder = Utone_1		#Count Henry I
+		}
+		2029.1.1 = {
+			holder = Utone_2		#Count Roland I
+		}
+		2034.1.1. = {
+			holder = Utone_3		#Count Roland II
+		}
+		2092.1.1 = {
+			holder = Utone_4		#Count Regis II
+		}
+		2105.1.1 = {
+			holder = Utone_5		#Count Regis III
+		}
+		2113.1.1 = {
+			holder = Utone_6		#Count Henry II
+		}
+		2147.1.1 = {
+			holder = Utone_7		#Count Henry III
+		}
+		2185.1.1 = {
+			holder = Utone_8		#Count Jerome I
+		}
+	}
+	c_giants_walk = {
+		2087.1.1 = {
+			liege = k_caspiril
+			holder = Barranier_2b		#Count Wyllan the Dauntless of Morinfall and Giant's Walk
+		}
+		2110.1.1 = {
+			holder = Barranier_3		#Count Lucien III of Morinfall and Giant's Walk
+		}
+		2119.1.1 = {
+			holder = Barranier_4		#Count Wyllan II of Morinfall and Giant's Walk
+		}
+		2132.1.1 = {
+			holder = Barranier_5		#Count Wyllan III of Morinfall and Giant's Walk
+		}
+		2191.1.1 = {
+			holder = Barranier_6		#Count Julian II of Morinfall and Giant's Walk
+		}
+		2194.1.1 = {
+			holder = Barranier_7		#Count Lucien IV of Morinfall and Giant's Walk
+		}
+	}
+	c_morinfall = {
+		2006.1.1 = {
+			liege = k_caspiril
+			holder = Barranier_0		#Count Lucien I
+		}
+		2057.1.1 = {
+			holder = Barranier_1		#Count Lucien II
+		}
+		2076.1.1 = {
+			holder = Barranier_2a		#Count Julian the Rake
+		}
+		2078.1.1 = {
+			holder = Barranier_2b		#Count Wyllan the Dauntless of Morinfall and Giant's Walk
+		}
+		2110.1.1 = {
+			holder = Barranier_3		#Count Lucien III of Morinfall and Giant's Walk
+		}
+		2119.1.1 = {
+			holder = Barranier_4		#Count Wyllan II of Morinfall and Giant's Walk
+		}
+		2132.1.1 = {
+			holder = Barranier_5		#Count Wyllan III of Morinfall and Giant's Walk
+		}
+		2191.1.1 = {
+			holder = Barranier_6		#Count Julian II of Morinfall and Giant's Walk
+		}
+		2194.1.1 = {
+			holder = Barranier_7		#Count Lucien IV of Morinfall and Giant's Walk
+		}
+	}

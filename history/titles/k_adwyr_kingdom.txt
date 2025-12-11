@@ -1,0 +1,58 @@
+﻿k_adwyr_kingdom = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 3 }
+	1552.1.1 = {
+		holder = Syntralyr_1a		#King Kynal I
+	}
+	1612.1.1 = {
+		holder = Syntralyr_2		#Queen Sevia I
+	}
+	1687.1.1 = {
+		holder = Syntralyr_3		#King Kynal II
+	}
+	1730.1.1 = {
+		holder = Syntralyr_4		#King Jabrios I
+	}
+	1742.1.1 = {
+		holder = Syntralyr_5		#King Ataras I
+	}
+	1782.1.1 = {
+		holder = Syntralyr_6		#Queen Sevia II
+	}
+	1866.1.1 = {
+		holder = Syntralyr_7		#King Kynal III
+	}
+	1875.1.1 = {
+		holder = Syntralyr_9a		#King Kynal IV
+	}
+	1916.1.1 = {
+		holder = Syntralyr_10		#King Ataras II
+	}
+	1971.1.1 = {
+		holder = Ostiral_1			#King Ataras III
+	}
+	2021.1.1 = {
+		holder = Ostiral_2			#King Jabrios II
+	}
+	2082.1.1 = {
+		holder = Ostiral_3			#King Jabrios III
+	}
+	2083.1.1 = {
+		holder = Ostiral_4			#King Tygan I
+	}
+	2152.1.1 = {
+		holder = Ostiral_5			#King Kynal V
+	}
+	2195.1.1 = {
+		holder = Ostiral_6			#King Kynal VI
+	}
+	2203.1.1 = {
+		holder = Ostiral_7			#King Tygan II
+	}
+	2264.1.1 = {
+		holder = Ostiral_8			#Queen Erilys I
+	}
+	2316.1.1 = {
+		holder = Ostiral_9			#King Ataras IV
+	}
+}

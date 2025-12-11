@@ -1,0 +1,258 @@
+﻿k_dhalan = {
+	867.1.1 = { change_development_level = 16 }
+	1800.1.1 = { change_development_level = 1 }
+	1803.1.1 = {
+		government = tribal_government
+	}
+	1885.1.1 = {
+		holder = Umeryd_1	#Kavish I
+	}
+	1907.1.1 = {
+		holder = Umeryd_2	#Luran I
+	}
+	1914.1.1 = {
+		holder = Umeryd_3	#Kavish II
+	}
+	1919.1.1 = {
+		holder = Umeryd_4	#Zevyan the Usurper
+	}
+	1932.1.1 = {
+		holder = Umeryd_7	#Markesh I
+	}
+	1935.1.1 = {
+		holder = Umeryd_3	#Kavish II restored
+	}
+	1946.1.1 = {
+		holder = Umeryd_6	#Queen Xhora I
+	}
+	1967.1.1 = {
+		holder = Umeryd_9	#King Luran II
+	}
+	1971.1.1 = {
+		holder = Umeryd_10	#Queen Kesa I
+	}
+	2022.1.1 = {
+		holder = Umeryd_12	#Queen Xhora II
+	}
+	2022.7.1 = {
+		holder = 0
+	}
+	2023.1.1 = {
+		holder = Caraj_1	#Karav I
+	}
+	2032.1.1 = {
+		holder = Caraj_2	#Ikarim I
+	}
+	2033.1.1 = {
+		holder = Runebone_0 #Rulk the Flayer
+	}
+	2034.2.2 = {
+		holder = 0
+	}
+	2037.1.1 = {
+		holder = Caraj_2	#Ikarim I restored
+	}
+	2049.1.1 = {
+		holder = Umeryd_28	#Jaris I
+	}
+	2050.1.1 = {
+		holder = Caraj_3	#Karav II
+	}
+	2052.1.1 = {
+		holder = Umeryd_28	#Jaris the Unrelenting restored
+	}
+	2067.1.1 = {
+		holder = Umeryd_29	#Xhoran I
+	}
+	2086.1.1 = {
+		holder = Umeryd_30	#Xhoran II
+	}
+	2097.1.1 = {
+		holder = Zotish_0	#Tanalis I
+	}
+	2115.1.1 = {
+		holder = Zotish_1	#Ikarim II
+	}
+	2162.1.1 = {
+		holder = Zotish_2	#Karim I
+	}
+	2202.1.1 = {
+		holder = Zotish_3	#Tanalis II
+	}
+}
+
+##
+d_dhalan = {
+	867.1.1 = { change_development_level = 16 }
+	1800.1.1 = { change_development_level = 1 }
+	1803.1.1 = {
+		government = tribal_government
+	}
+	1846.1.1 = {
+		holder = Umeryd_0
+	}
+	1862.1.1 = {
+		holder = Umeryd_1
+	}
+	1907.1.1 = {
+		holder = Umeryd_2	#Luran I
+	}
+	1914.1.1 = {
+		holder = Umeryd_3	#Kavish II
+	}
+	1919.1.1 = {
+		holder = Umeryd_4	#Zevyan the Usurper
+	}
+	1932.1.1 = {
+		holder = Umeryd_7	#Markesh I
+	}
+	1935.1.1 = {
+		holder = Umeryd_3	#Kavish II restored
+	}
+	1946.1.1 = {
+		holder = Umeryd_6	#Queen Xhora I
+	}
+	1967.1.1 = {
+		holder = Umeryd_9	#King Luran II
+	}
+	1971.1.1 = {
+		holder = Umeryd_10	#Queen Kesa I
+	}
+	2022.1.1 = {
+		holder = Umeryd_12	#Queen Xhora II
+	}
+	2022.7.1 = {
+		holder = 0
+	}
+	2023.1.1 = {
+		holder = Caraj_1	#Karav I
+	}
+	2032.1.1 = {
+		holder = Caraj_2	#Ikarim I
+	}
+	2033.1.1 = {
+		holder = Runebone_0 #Rulk the Flayer
+	}
+	2034.2.2 = {
+		holder = 0
+	}
+	2037.1.1 = {
+		holder = Caraj_2	#Ikarim I restored
+	}
+	2049.1.1 = {
+		holder = Umeryd_28	#Jaris I
+	}
+	2050.1.1 = {
+		holder = Caraj_3	#Karav II
+	}
+	2052.1.1 = {
+		holder = Umeryd_28	#Jaris the Unrelenting restored
+	}
+	2067.1.1 = {
+		holder = Umeryd_29	#Xhoran I
+	}
+	2086.1.1 = {
+		holder = Umeryd_30	#Xhoran II
+	}
+	2097.1.1 = {
+		holder = Zotish_0	#Tanalis I
+	}
+	2115.1.1 = {
+		holder = Zotish_1	#Ikarim II
+	}
+	2162.1.1 = {
+		holder = Zotish_2	#Karim I
+	}
+	2202.1.1 = {
+		holder = Zotish_3	#Tanalis II
+	}
+}
+c_dhalan = {
+	867.1.1 = { change_development_level = 16 }
+	1800.1.1 = { change_development_level = 3 }
+	1846.1.1 = {
+		holder = Umeryd_0
+	}
+	1862.1.1 = {
+		holder = Umeryd_1
+	}
+	1907.1.1 = {
+		holder = Umeryd_2	#Luran I
+	}
+	1914.1.1 = {
+		holder = Umeryd_3	#Kavish II
+	}
+	1919.1.1 = {
+		holder = Umeryd_4	#Zevyan the Usurper
+	}
+	1932.1.1 = {
+		holder = Umeryd_7	#Markesh I
+	}
+	1935.1.1 = {
+		holder = Umeryd_3	#Kavish II restored
+	}
+	1946.1.1 = {
+		holder = Umeryd_6	#Queen Xhora I
+	}
+	1967.1.1 = {
+		holder = Umeryd_9	#King Luran II
+	}
+	1971.1.1 = {
+		holder = Umeryd_10	#Queen Kesa I
+	}
+	2022.1.1 = {
+		holder = Umeryd_12	#Queen Xhora II
+	}
+	2022.7.1 = {
+		holder = 0
+	}
+	2023.1.1 = {
+		holder = Caraj_1	#Karav I
+	}
+	2032.1.1 = {
+		holder = Caraj_2	#Ikarim I
+	}
+	2033.1.1 = {
+		holder = Runebone_0 #Rulk the Flayer
+	}
+	2034.2.2 = {
+		holder = 0
+	}
+	2037.1.1 = {
+		holder = Caraj_2	#Ikarim I restored
+	}
+	2049.1.1 = {
+		holder = Umeryd_28	#Jaris I
+	}
+	2050.1.1 = {
+		holder = Caraj_3	#Karav II
+	}
+	2052.1.1 = {
+		holder = Umeryd_28	#Jaris the Unrelenting restored
+	}
+	2067.1.1 = {
+		holder = Umeryd_29	#Xhoran I
+	}
+	2086.1.1 = {
+		holder = Umeryd_30	#Xhoran II
+	}
+	2097.1.1 = {
+		holder = Zotish_0	#Tanalis I
+	}
+	2115.1.1 = {
+		holder = Zotish_1	#Ikarim II
+	}
+	2162.1.1 = {
+		holder = Zotish_2	#Karim I
+	}
+	2202.1.1 = {
+		holder = Zotish_3	#Tanalis II
+	}
+}
+#c_takezi
+#c_harlos
+#c_meran
+#c_malual
+#c_hozana
+#c_wadasan
+#c_senfalin

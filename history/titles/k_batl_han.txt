@@ -1,0 +1,72 @@
+﻿k_batl_han = {
+	867.1.1 = { change_development_level = 16 }
+	1800.1.1 = { change_development_level = 5 }
+	1803.1.1 = {
+		government = tribal_government
+	}
+	1805.1.1 = {
+		holder = Sarenke_0
+	}
+	1876.1.1 = {
+		holder = Sarenke_1
+	}
+	1898.1.1 = {
+		holder = Sarenke_3
+	}
+	1921.1.1 = {
+		holder = Sarenke_4			#Queen Zephyra I
+	}
+	1941.1.1 = {
+		holder = Sarenke_5			#king Kameran I
+	}
+	1949.1.1 = {
+		holder = Sarenke_6			#King Xirithos I
+	}
+	1980.1.1 = {
+		holder = Sarenke_7			#King Alanum I
+	}
+	1985.1.1 = {
+		holder = Sarenke_8			#King Zephon II
+	}
+	2017.1.1 = {
+		holder = Sarenke_9			#King Tyren II
+	}
+	2029.1.1 = {
+		holder = Sarenke_10			#king alanum II
+	}
+	2066.1.1 = {
+		holder = Sarenke_11			#King Tyren III
+	}
+	2087.1.1 = {
+		holder = Sarenke_12			#Queen Zephyra II
+	}
+	2109.1.1 = {
+		holder = Sarenke_13			#Queen Ashera I
+	}
+	2116.1.1 = {
+		holder = Sarenke_14			#King Kameran II
+	}
+	2132.1.1 = {
+		holder = Sarenke_15			#King Tyren IV
+	}
+	2143.1.1 = {
+		holder = Sarenke_16			#King Aradus II
+	}
+	2179.1.1 = {
+		holder = Sarenke_17			#King Zephon III
+	}
+}
+k_dark_realm_of_udreth = {
+	
+}
+### d_lozandi
+	d_lozandi = {
+		867.1.1 = { change_development_level = 16 }
+		1800.1.1 = { change_development_level = 5 }
+	}
+	c_zbir_ingla = {
+		2104.1.1 = {
+			liege = k_enlightened_shadarana
+			holder = Adetzi_3
+		}
+	}

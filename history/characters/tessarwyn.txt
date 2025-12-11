@@ -1,0 +1,2884 @@
+﻿### House Horsebane ##############################################
+	Horsebane_0 = { #King Ethelred I of Tessaria
+		name = "Ethelred"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Horsebane_01
+		#mother = 
+		1781.1.1 = {
+			birth = yes
+		}
+		1843.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_1a = { #Queen Eadgyth the Compassionate of Tessaria
+		name = "Eadgyth"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Horsebane_0
+		#mother = 
+		give_nickname = nick_the_compassionate
+		1801.1.1 = {
+			birth = yes
+		}
+		1820.1.1 = {
+			add_spouse = Wulfstone_0
+		}
+		1875.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_1b = { #Prinz Cuthbert of Tessaria
+		name = "Cuthbert"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Horsebane_0
+		#mother = 
+		1802.1.1 = {
+			birth = yes
+		}
+		1871.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_2 = { #King Wulfric the Valiant of Tessaria
+		name = "Wulfric"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Horsebane_1b
+		#mother = 
+		give_nickname = nick_the_valiant
+		1826.1.1 = {
+			birth = yes
+		}
+		1904.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_3a = { #Prinz Elgan of Tessaria
+		name = "Elgan"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Horsebane_2
+		#mother = 
+		1847.1.1 = {
+			birth = yes
+		}
+		1869.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_3b = { #Prinzss Rotalin of Tessaria
+		name = "Rotalin"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Horsebane_2
+		#mother = 
+		1850.1.1 = {
+			birth = yes
+		}
+		1941.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_3c = { #King Cuthbert Dryadvoice of Tessaria
+		name = "Cuthbert"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Horsebane_2
+		#mother = 
+		give_nickname = nick_dryadvoice
+		1851.1.1 = {
+			birth = yes
+		}
+		1869.1.1 = {
+			add_spouse = Horsebane_3cwife
+		}
+		1932.1.1 = {
+			add_spouse = Dreamshadow_0
+		}
+		1935.1.1 = {
+			death = {
+				death_reason = death_assassination
+				killer = Dreamshadow_0
+			}
+		}
+	}
+	Horsebane_3cwife = { #Queen-consort Aesha of Tessaria
+		name = "Aesha"
+		#dna = dna_caelan_i
+		#dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		#father = 
+		#mother = 
+		1857.1.1 = {
+			birth = yes
+		}
+		1869.1.1 = {
+			add_spouse = Horsebane_3c
+		}
+		1931.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_4a = { #Prinzss Aesha of Tessaria
+		name = "Aesha"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Horsebane_3c
+		mother = Horsebane_3cwife
+		1872.1.1 = {
+			birth = yes
+		}
+		1936.1.1 = {
+			death = yes
+		}
+	}
+	Horsebane_4b = { #Prinzss Minalea of Tessaria
+		name = "Minalea"
+		#dna = dna_caelan_i
+		dynasty = dynn_horsebane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Horsebane_3c
+		mother = Horsebane_3cwife
+		1873.1.1 = {
+			birth = yes
+		}
+		1892.1.1 = {
+			add_spouse = Wulfstone_2
+		}
+		1945.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Coldmourn ##############################################
+	Coldmourn_0 = { #Prinz Ethelred Coldmourn
+		name = "Ethelred"
+		#dna = dna_caelan_i
+		dynasty_house = house_Coldmourn
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Horsebane_0
+		#mother = 
+		1803.1.1 = {
+			birth = yes
+		}
+		1847.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Dreamshadow ############################################
+	Dreamshadow_0 = { #Queen Aelfwynn the Malevolent of Tessaria
+		name = "Aelfwynn"
+		#dna = dna_caelan_i
+		dynasty = dynn_dreamshadow
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		#father = Dreamshadow_
+		#mother = 
+		trait = half_elf
+		1873.1.1 = {
+			birth = yes
+		}
+		1932.1.1 = {
+			add_spouse = Horsebane_3c
+		}
+		1955.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Wulfstone ##############################################
+	Wulfstone_0 = { #Prinz-consort Aldgild of Tessaria
+		name = "Aldgild"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Wulfstone_01
+		#mother = 
+		1801.1.1 = {
+			birth = yes
+		}
+		1820.1.1 = {
+			add_spouse = Horsebane_1a
+		}
+		1869.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_1 = { #Prinz Leofric of Tessaria
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_0
+		mother = Horsebane_1a
+		1823.1.1 = {
+			birth = yes
+		}
+		1891.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_2 = { #Lord Aldred Wulfstone
+		name = "Aldred"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_1
+		#mother = 
+		1844.1.1 = {
+			birth = yes
+		}
+		1892.1.1 = {
+			add_spouse = Horsebane_4b
+		}
+		1909.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_3 = { #King Oswin of Tessaria
+		name = "Oswin"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_2
+		mother = Horsebane_4b
+		1896.1.1 = {
+			birth = yes
+		}
+		1978.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_4a = { #Crown Prinz Ethelred of Tessaria
+		name = "Ethelred"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_3
+		#mother = 
+		1917.1.1 = {
+			birth = yes
+		}
+		1959.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_4a1 = { #Prinzess Aesha of Tessaria
+		name = "Aesha"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfstone_4a
+		#mother = 
+		1936.1.1 = {
+			birth = yes
+		}
+		1999.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_4b = { #Queen Minalea the Wise of Tessaria
+		name = "Minalea"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfstone_3
+		#mother = 
+		trait = twin
+		give_nickname = nick_the_wise
+		1921.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_4c = { #Prinzess Matiana of Tessaria
+		name = "Matiana"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfstone_3
+		#mother = 
+		trait = twin
+		1921.1.1 = {
+			birth = yes
+		}
+		1942.1.1 = {
+			add_spouse = Hardspring_0
+		}
+		1969.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_5a = { #King Aldred the Foolish of Tessaria
+		name = "Aldred"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Wulfstone_4b
+		1943.1.1 = {
+			birth = yes
+		}
+		2018.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_5a1 = { #Queen Maeve the Just of Tessaria
+		name = "Maeve"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfstone_5a
+		#mother = 
+		1975.1.1 = {
+			birth = yes
+		}
+		2042.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_5b = { #Prinzess Elswith the Faint of Tessaria
+		name = "Elswith"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		#father = 
+		mother = Wulfstone_4b
+		trait = physique_bad_2
+		trait = spindly
+		1944.1.1 = {
+			birth = yes
+		}
+		1986.1.1 = {
+			death = {
+				death_reason = death_physique_bad_2
+			}
+		}
+	}
+	Wulfstone_5c = { #Duke Leofric I of the Terac
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Wulfstone_4b
+		trait = flexible_leader
+		trait = lifestyle_blademaster
+		1946.1.1 = {
+			birth = yes
+		}
+		2022.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_6 = { #Duke Leofric II of the Terac
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_5c
+		#mother = 
+		1972.1.1 = {
+			birth = yes
+		}
+		2061.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_7a = { #Duke Leofric III of the Terac
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_6
+		#mother = 
+		1993.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_7b = { #Lord Oswin of the Terac
+		name = "Oswin"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_6
+		#mother = 
+		1994.1.1 = {
+			birth = yes
+		}
+		2041.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_8 = { #Duke Theodrest I of the Terac
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_7a
+		#mother = 
+		2016.1.1 = {
+			birth = yes
+		}
+		2078.1.1 = {
+			death = yes
+		}
+	}
+	Wulfstone_9 = { #Duchess Maeve I of the Terac
+		name = "Maeve"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfstone
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfstone_8
+		#mother = 
+		2037.1.1 = {
+			birth = yes
+		}
+		2109.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Wulfspear ##############################################
+	Wulfspear_0 = { #Duke Alaric I of Lancewind
+		name = "Alaric"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfstone_6
+		#mother = 
+		1995.1.1 = {
+			birth = yes
+		}
+		2072.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_1 = { #Duke Leofric II of Lancewind
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfspear_0
+		#mother = 
+		2016.1.1 = {
+			birth = yes
+		}
+		2090.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_2 = { #Duke Edmund III of Lancewind
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfspear_1
+		#mother = 
+		2041.1.1 = {
+			birth = yes
+		}
+		2108.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_3 = { #Duke Eadwin II of Lancewind
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfspear_2
+		#mother = 
+		2063.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			add_spouse = Falhyrst_15b
+		}
+		2111.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_4 = { #Duke Edmund IV of Lancewind
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfspear_3
+		mother = Falhyrst_15b
+		2084.1.1 = {
+			birth = yes
+		}
+		2119.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_5 = { #Queen Elswith II of Tessaria
+		name = "Elswith"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfspear_4
+		#mother = 
+		trait = education_diplomacy_4
+		trait = beauty_good_1
+		2100.1.1 = {
+			birth = yes
+		}
+		2164.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_6 = { #King Edmund the Illuminator of Tessaria
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Wulfspear_5
+		trait = education_learning_3
+		2116.1.1 = {
+			birth = yes
+		}
+		2197.1.1 = {
+			death = yes
+		}
+	}
+	Wulfspear_7 = { #King Eadric II of Tessaria
+		name = "Eadric"
+		#dna = dna_caelan_i
+		dynasty_house = house_Wulfspear
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfspear_6
+		#mother = 
+		2139.1.1 = {
+			birth = yes
+		}
+		2219.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Stormrider #############################################
+	Stormrider_0 = { #King Eadric I of Tessaria
+		name = "Eadric"
+		#dna = dna_caelan_i
+		dynasty = dynn_stormrider
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Hardspring_2
+		1986.1.1 = {
+			birth = yes
+		}
+		2058.1.1 = {
+			death = yes
+		}
+	}
+	Stormrider_1 = { #Queen Elswith the Redeemer of Tessaria
+		name = "Elswith"
+		#dna = dna_caelan_i
+		dynasty = dynn_stormrider
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Stormrider_0
+		#mother = 
+		give_nickname = nick_the_redeemer
+		2005.1.1 = {
+			birth = yes
+		}
+		2079.1.1 = {
+			death = yes
+		}
+	}
+	Stormrider_2 = { #King Eadric I of Tessaria
+		name = "Eadric"
+		#dna = dna_caelan_i
+		dynasty = dynn_stormrider
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Stormrider_1
+		give_nickname = nick_the_magnificent
+		2028.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Stormrider_3 = { #King Godric I of Tessaria
+		name = "Godric"
+		#dna = dna_caelan_i
+		dynasty = dynn_stormrider
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Stormrider_2
+		#mother = 
+		2051.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Hardspring #############################################
+	Hardspring_0 = { #Lord Harold of Halfhearth and Canimore
+		name = "Harold"
+		#dna = dna_caelan_i
+		dynasty = dynn_hardspring
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Hardspring_01
+		#mother = 
+		1918.1.1 = {
+			birth = yes
+		}
+		1942.1.1 = {
+			add_spouse = Wulfstone_4c		#Prinzess Matiana of Tessaria
+		}
+		1967.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Hardspring_1 = { #Lord Godric of Halfhearth and Canimore
+		name = "Godric"
+		#dna = dna_caelan_i
+		dynasty = dynn_hardspring
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Hardspring_0
+		mother = Wulfstone_4c
+		1942.1.1 = {
+			birth = yes
+		}
+		1967.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Hardspring_2 = { #Lady Eadrine of Halfhearth and Canimore
+		name = "Eadrine"
+		#dna = dna_caelan_i
+		dynasty = dynn_hardspring
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Hardspring_1
+		#mother = 
+		1963.1.1 = {
+			birth = yes
+		}
+		2017.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Falhyrst ###############################################
+	Falhyrst_0 = { #Plainslord Cynric I of Mordyn
+		name = "Cynric"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Falhyrst
+		#mother = 
+		1763.1.1 = {
+			birth = yes
+		}
+		1822.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_1 = { #Plainslord Aethanyr I of Mordyn
+		name = "Aethanyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_0
+		#mother = 
+		1792.1.1 = {
+			birth = yes
+		}
+		1850.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_2 = { #Plainslord Aethanyr II of Mordyn
+		name = "Aethanyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_1
+		#mother = 
+		1816.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			add_spouse = Wulfryn_1b		#Lady Eorana Wulfryn
+		}
+		1864.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_3 = { #King Stalwyn I of Mordynhal
+		name = "Stalwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_2
+		mother = Wulfryn_1b
+		1839.1.1 = {
+			birth = yes
+		}
+		#1856.1.1 = {
+		#	add_spouse = Galeban_
+		#}
+		1904.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_4a = { #King Glangrim I of Mordynhal
+		name = "Glangrim"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_3
+		#mother = Galeban_
+		1860.1.1 = {
+			birth = yes
+		}
+		1917.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_4b = { #Prinzess Goldwyn of Mordynhal
+		name = "Goldwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Falhyrst_3
+		#mother = Galeban_
+		trait = beauty_good_3
+		1862.1.1 = {
+			birth = yes
+		}
+		1939.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_4c = { #Prinz Fuldan of Mordynhal
+		name = "Fuldan"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_3
+		#mother = Galeban_
+		1860.1.1 = {
+			birth = yes
+		}
+		1945.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_5 = { #King Stalwyn II of Mordynhal
+		name = "Stalwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_4a
+		#mother = 
+		1879.1.1 = {
+			birth = yes
+		}
+		1942.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_6 = { #King Theodrest I of Mordynhal
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_5
+		#mother = 
+		1901.1.1 = {
+			birth = yes
+		}
+		1969.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_7a = { #King Vandyst I of Mordynhal
+		name = "Vandyst"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_4a
+		#mother = 
+		1923.1.1 = {
+			birth = yes
+		}
+		1988.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_7b = { #Prinz Theodel the Rebel of Mordynhal
+		name = "Theodel"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_4a
+		#mother = 
+		1925.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_7b1 = { #King Theodrest II of Mordynhal
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_7b
+		#mother = 
+		1952.1.1 = {
+			birth = yes
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_8 = { #King Stalwyn III of Mordynhal
+		name = "Stalwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_7a
+		#mother = 
+		1946.1.1 = {
+			birth = yes
+		}
+		1990.1.1 = {
+			death = {
+				death_reason = death_duel
+				killer = Falhyrst_7b1
+			}
+		}
+	}
+	Falhyrst_9a = { #Prinz Vandyst the Deviant of Mordynhal
+		name = "Vandyst"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_8
+		#mother = 
+		give_nickname = nick_the_deviant
+		trait = lustful
+		trait = incestuous
+		trait = disinherited
+		1965.1.1 = {
+			birth = yes
+		}
+		1981.1.1 = {
+			add_spouse = Fairhowe_1b
+		}
+		1982.1.1 = {
+			death = {
+				death_reason = death_hunting_mysterious
+			}
+		}
+	}
+	Falhyrst_9a1 = { #Prince Vandyst the Fair of Mordynhal
+		name = "Vandyst"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_9a
+		mother = Fairhowe_1b
+		trait = beauty_good_1
+		1982.1.1 = {
+			birth = yes
+		}
+		2041.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_9b = { #Prinzess Widwyn of Mordynhal
+		name = "Widwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Falhyrst_8
+		#mother = 
+		trait = beauty_good_1
+		trait = lustful
+		1966.1.1 = {
+			birth = yes
+		}
+		2039.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_9b1 = { #Lady Maeve of Mordynhal
+		name = "Maeve"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		#father = 
+		mother = Falhyrst_9b
+		trait = bastard
+		trait = beauty_good_1
+		1982.1.1 = {
+			birth = yes
+		}
+		2057.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_9c = { #King Glangrim II of Mordynhal
+		name = "Glangrim"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_8
+		#mother = 
+		1969.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_10 = { #Prinz Stalwyn the Exile
+		name = "Stalwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_9c
+		#mother = 
+		1988.1.1 = {
+			birth = yes
+		}
+		2044.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_11a = { #King Vandyst II of Mordynhal
+		name = "Vandyst"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_7b1
+		#mother = 
+		1975.1.1 = {
+			birth = yes
+		}
+		2020.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_11b = { #Prinz Theodrest of Mordynhal
+		name = "Vandyst"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_7b1
+		#mother = 
+		1977.1.1 = {
+			birth = yes
+		}
+		2005.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_11b1 = { #Lady Serith Falhyrst
+		name = "Vandyst"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_11b
+		#mother = 
+		1999.1.1 = {
+			birth = yes
+		}
+		2077.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_12 = { #King Vulfran I of Mordynhal
+		name = "Vulfran"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_11a
+		#mother = 
+		1998.1.1 = {
+			birth = yes
+		}
+		2069.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_13a = { #Prinz Vulfran of Mordynhal
+		name = "Vulfran"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_12
+		#mother = 
+		2020.1.1 = {
+			birth = yes
+		}
+		2040.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_13a1 = { #Prinzess Aefwyn of Mordynhal
+		name = "Aefwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_13a
+		#mother = 
+		2039.1.1 = {
+			birth = yes
+		}
+		2077.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_13b = { #King Ashmyr I of Mordynhal
+		name = "Ashmyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_12
+		#mother = 
+		2022.1.1 = {
+			birth = yes
+		}
+		2096.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_14 = { #King Vulfran II of Mordynhal
+		name = "Vulfran"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_13b
+		#mother = 
+		2043.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_15a = { #Queen Aefa I of Mordynhal
+		name = "Aefa"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Falhyrst_14
+		#mother = 
+		2064.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			add_spouse = Ingwyd_0
+		}
+		2136.1.1 = {
+			death = yes
+		}
+	}
+	Falhyrst_15b = { #Prinzess Leorinth of Mordynhal, Duchess of Lancewind
+		name = "Leorinth"
+		#dna = dna_caelan_i
+		dynasty = dynn_falhyrst
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Falhyrst_14
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			add_spouse = Wulfspear_3
+		}
+		2138.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Redwind ################################################
+	Redwind_0 = { #King Deros I of Mordynhal
+		name = "Deros"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Falhyrst_11b
+		#mother = 
+		1997.1.1 = {
+			birth = yes
+		}
+		2060.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_1 = { #King Glangrim III of Mordynhal
+		name = "Glangrim"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Redwind_0
+		#mother = 
+		2021.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_2a = { #Prinz Deros of Mordynhal
+		name = "Deros"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Redwind_1
+		#mother = 
+		2043.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_2b = { #Prinzess Faylia of Mordynhal
+		name = "Faylia"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Redwind_1
+		#mother = 
+		2047.1.1 = {
+			birth = yes
+		}
+		2106.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_2c = { #Prinzess Asha of Mordynhal
+		name = "Asha"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Redwind_1
+		#mother = 
+
+		2048.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_3 = { #Lord Aros Redwind, Blade of the Plains
+		name = "Aros"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Redwind_2a
+		#mother = 
+		give_nickname = nick_blade_of_the_plains
+		trait = lifestyle_blademaster
+		trait = brave
+		trait = education_martial_2
+		trait = education_martial_prowess_3
+		trait = profligate
+		2067.1.1 = {
+			birth = yes
+		}
+		2111.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_4a = { #Jaycen Redwind
+		name = "Jaycen"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Redwind_3
+		#mother = 
+		2091.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_4b = { #Amalia Redwind
+		name = "Amalia"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Redwind_3
+		#mother = 
+		2096.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_5 = { #Answyn Redwind
+		name = "Answyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Redwind_4a
+		#mother = 
+		2112.1.1 = {
+			birth = yes
+		}
+		2165.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_6a = { #Sigwin Redwind
+		name = "Sigwin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Redwind_5
+		#mother = 
+		2133.1.1 = {
+			birth = yes
+		}
+		2181.1.1 = {
+			death = yes
+		}
+	}
+	Redwind_6b = { #Aros Redwind
+		name = "Aros"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redwind
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Redwind_5
+		#mother = 
+		2135.1.1 = {
+			birth = yes
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Ingwyd #################################################
+	Ingwyd_0 = { #Prinz-consort Forgewyn of Mordynhal
+		name = "Forgewyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_ingwyd
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Ingwyd_01
+		#mother = 
+		2064.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			add_spouse = Falhyrst_15a
+		}
+		2124.1.1 = {
+			death = yes
+		}
+	}
+	Ingwyd_1 = { #King Ashmyr II of Mordynhal
+		name = "Ashmyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_ingwyd
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Ingwyd_0
+		mother = Falhyrst_15a
+		2087.1.1 = {
+			birth = yes
+		}
+		2170.1.1 = {
+			death = yes
+		}
+	}
+	Ingwyd_2 = { #King Forgewyn I of Mordynhal
+		name = "Forgewyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_ingwyd
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Ingwyd_1
+		#mother = 
+		2104.1.1 = {
+			birth = yes
+		}
+		2192.1.1 = {
+			death = yes
+		}
+	}
+	Ingwyd_3a = { #Prinz Forgewyn of Mordynhal
+		name = "Forgewyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_ingwyd
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Ingwyd_2
+		#mother = 
+		2125.1.1 = {
+			birth = yes
+		}
+		2190.1.1 = {
+			death = yes
+		}
+	}
+	Ingwyd_3b = { #Prinzess Aefa Ingwyd of Mordynhal
+		name = "Aefa"
+		#dna = dna_caelan_i
+		dynasty = dynn_ingwyd
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Ingwyd_2
+		#mother = 
+		2127.1.1 = {
+			birth = yes
+		}
+		2207.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Wulfryn ################################################
+	Wulfryn_0 = { #Plainslord Theodrest I of Dynalist
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfryn
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Wulfryn_01
+		#mother = 
+		1786.1.1 = {
+			birth = yes
+		}
+		1871.1.1 = {
+			death = yes
+		}
+	}
+	Wulfryn_1a = { #Plainslord Theodal I of Dynalist
+		name = "Theodal"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfryn
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfryn_0
+		#mother = 
+		1812.1.1 = {
+			birth = yes
+		}
+		1879.1.1 = {
+			death = yes
+		}
+	}
+	Wulfryn_1b = { #Lady Eorana of Dynalist
+		name = "Eorana"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfryn
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfryn_0
+		#mother = 
+		1814.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			add_spouse = Falhyrst_2
+		}
+		1886.1.1 = {
+			death = yes
+		}
+	}
+	Wulfryn_2 = { #Plainslord Celwyn I of Dynalist
+		name = "Celwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfryn
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfryn_1a
+		#mother = 
+		1835.1.1 = {
+			birth = yes
+		}
+		1909.1.1 = {
+			death = yes
+		}
+	}
+	Wulfryn_3 = { #Plainslord Theodrest II of Dynalist
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfryn
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wulfryn_2
+		#mother = 
+		1858.1.1 = {
+			birth = yes
+		}
+		1936.1.1 = {
+			death = yes
+		}
+	}
+	Wulfryn_4 = { #Plainslady Goldrun I of Dynalist
+		name = "Goldrun"
+		#dna = dna_caelan_i
+		dynasty = dynn_wulfryn
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wulfryn_3
+		#mother = 
+		1881.1.1 = {
+			birth = yes
+		}
+		1959.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Galeban ################################################
+#
+### House Fairhowe ###############################################
+	Fairhowe_01 = { #Plainslord Wyrgild I of Dynalist
+		name = "Wyrgild"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Fairhowe_02
+		mother = Wulfryn_4
+		1921.1.1 = {
+			birth = yes
+		}
+		1975.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_0 = { #Plainslord Eadrid I of Dynalist
+		name = "Eadrid"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_01
+		#mother = 
+		1943.1.1 = {
+			birth = yes
+		}
+		2007.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_1a = { #Plainslord Wyrgild II of Dynalist
+		name = "Wyrgild"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_0
+		#mother = 
+		1964.1.1 = {
+			birth = yes
+		}
+		2032.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_1b = { #Lady Ishana of Dynalist
+		name = "Ishana"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Fairhowe_0
+		#mother = 
+		trait = twin
+		1966.1.1 = {
+			birth = yes
+		}
+		1981.1.1 = {
+			add_spouse = Falhyrst_9a
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_1c = { #Lady Rheyna of Dynalist
+		name = "Rheyna"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Fairhowe_0
+		#mother = 
+		trait = twin
+		1966.1.1 = {
+			birth = yes
+		}
+		2044.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_2 = { #Plainslord Roderick I of Dynalist
+		name = "Roderick"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_1a
+		#mother = 
+		1987.1.1 = {
+			birth = yes
+		}
+		2067.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_3 = { #Plainslord Godfric I of Dynalist
+		name = "Godfric"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_2
+		#mother = 
+		2010.1.1 = {
+			birth = yes
+		}
+		2089.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_4 = { #Plainslord Theodrest III of Dynalist
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_3
+		#mother = 
+		2034.1.1 = {
+			birth = yes
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_5 = { #Plainslord Roderick II of Dynalist
+		name = "Roderick"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_4
+		#mother = 
+		2055.1.1 = {
+			birth = yes
+		}
+		2130.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_6 = { #Plainslord Eadrid II of Dynalist
+		name = "Eadrid"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_5
+		#mother = 
+		2077.1.1 = {
+			birth = yes
+		}
+		2136.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_7 = { #Plainslord Roderick III of Dynalist
+		name = "Roderick"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_6
+		#mother = 
+		2101.1.1 = {
+			birth = yes
+		}
+		2153.1.1 = {
+			death = yes
+		}
+	}
+	Fairhowe_8 = { #Plainslord Theodal II of Dynalist
+		name = "Theodal"
+		#dna = dna_caelan_i
+		dynasty = dynn_fairhowe
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Fairhowe_7
+		#mother = 
+		2128.1.1 = {
+			birth = yes
+		}
+		2165.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Silversun ##############################################
+	Silversun_0 = { #King Arageisel the Great of Haserian
+		name = "Arageisel"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Silversun_01
+		#mother = 
+		1769.1.1 = {
+			birth = yes
+		}
+		1826.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_1 = { #King Gilder I of Haserian
+		name = "Gilder"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_0
+		#mother = 
+		1788.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_2 = { #King Ilin I of Haserian
+		name = "Ilin"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_1
+		#mother = 
+		1808.1.1 = {
+			birth = yes
+		}
+		1885.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_3 = { #King Arageisel II of Haserian
+		name = "Arageisel"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_2
+		#mother = 
+		1831.1.1 = {
+			birth = yes
+		}
+		1932.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_4 = { #Prinz Gilder of Haserian
+		name = "Gilder"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_3
+		#mother = 
+		1853.1.1 = {
+			birth = yes
+		}
+		1877.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_5 = { #Queen Herewyn I of Haserian
+		name = "Herewyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Silversun_4
+		#mother = 
+		1871.1.1 = {
+			birth = yes
+		}
+		1949.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_6 = { #King Eadwin I of Haserian
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Silversun_5
+		1894.1.1 = {
+			birth = yes
+		}
+		1976.1.1 = {
+			death = yes
+		}
+	}
+	Silversun_7 = { #King Eadwin II of Haserian
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_6
+		#mother = 
+		1919.1.1 = {
+			birth = yes
+		}
+		1988.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Silversun_8a = { #King Gilder II of Haserian
+		name = "Gilder"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_7
+		#mother = 
+		1938.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Silversun_8b = { #Prince Ilin of Haserian
+		name = "Ilin"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_7
+		#mother = Silversun_
+		1940.1.1 = {
+			birth = yes
+		}
+		1988.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Silversun_9 = { #Prinz Leored of Haserian, Knight of the Morning
+		name = "Leodred"
+		#dna = dna_caelan_i
+		dynasty = dynn_silversun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_8a
+		#mother = 
+		1960.1.1 = {
+			birth = yes
+		}
+		1992.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+#
+### House Whitehawk ##############################################
+	Whitehawk_0 = { #King Godwyn the Whitehawk of Haserian
+		name = "Godwyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Whitehawk
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Silversun_8b
+		#mother = 
+		1966.1.1 = {
+			birth = yes
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+	Whitehawk_1 = { #King Ashwin I of Haserian
+		name = "Ashwin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Whitehawk
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Whitehawk_0
+		#mother = 
+		1990.1.1 = {
+			birth = yes
+		}
+		2048.1.1 = {
+			death = yes
+		}
+	}
+	Whitehawk_2a = { #Crown-Prinz Aethelric of Haserian
+		name = "Aethelric"
+		#dna = dna_caelan_i
+		dynasty_house = house_Whitehawk
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Whitehawk_1
+		#mother = 
+		2013.1.1 = {
+			birth = yes
+		}
+		2028.1.1 = {
+			death = yes
+		}
+	}
+	Whitehawk_2b = { #King Eadwin III of Haserian
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Whitehawk
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Whitehawk_1
+		#mother = 
+		2014.1.1 = {
+			birth = yes
+		}
+		2081.1.1 = {
+			death = yes
+		}
+	}
+	Whitehawk_3 = { #King Godwyn II of Haserian
+		name = "Godwyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Whitehawk
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Whitehawk_2b
+		#mother = 
+		2039.1.1 = {
+			birth = yes
+		}
+		2086.1.1 = {
+			death = yes
+		}
+	}
+	Whitehawk_4 = { #Queen Herewyn II of Haserian
+		name = "Herewyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Whitehawk
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Whitehawk_3
+		#mother = 
+		2061.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Wyvernpike #############################################
+	Wyvernpike_0 = { #King Eadwin IV of Haserian
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = 
+		mother = Whitehawk_4
+		2084.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Wyvernpike_1a = { #King Arageisel III of Haserian
+		name = "Arageisel"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wyvernpike_0
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			death = {
+				death_reason = death_siege
+			}
+		}
+	}
+	Wyvernpike_1a1 = { #Crown-Prinz Ashwin of Haserian
+		name = "Ashwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wyvernpike_1a
+		#mother =
+		2121.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			death = yes
+		}
+	}
+	Wyvernpike_1a2 = { #Prinzess Eadwine of Haserian
+		name = "Eadwine"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wyvernpike_1a
+		#mother =
+		trait = twin
+		2122.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			death = yes
+		}
+	}
+	Wyvernpike_1a3 = { #Prinzess Asha of Haserian
+		name = "Asha"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wyvernpike_1a
+		#mother =
+		trait = twin
+		2122.1.1 = {
+			birth = yes
+		}
+		2165.1.1 = {
+			death = yes
+		}
+	}
+	Wyvernpike_1a4 = { #Prinz Leofric of Haserian
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wyvernpike_1a
+		#mother =
+		2124.1.1 = {
+			birth = yes
+		}
+		2147.1.1 = {
+			death = yes
+		}
+	}
+	Wyvernpike_1b = { #Prinz Godwin of Haserian
+		name = "Godwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Wyvernpike_0
+		#mother =
+		2105.1.1 = {
+			birth = yes
+		}
+		2165.1.1 = {
+			death = yes
+		}
+	}
+	Wyvernpike_1b1 = { #Lady Braith of Haserian
+		name = "Braith"
+		#dna = dna_caelan_i
+		dynasty = dynn_Wyvernpike
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Wyvernpike_1b
+		#mother =
+		2134.1.1 = {
+			birth = yes
+		}
+		2195.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Boughhold ##############################################
+	Boughhold_0 = { #Duke Eadwin I of the Terac
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		#father =
+		mother = Wulfstone_9		#Duchess Maeve I of the Terac
+		2058.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_1 = { #Duke Theodrest II the Old of the Terac
+		name = "Theodrest"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_0
+		#mother =
+		2071.1.1 = {
+			birth = yes
+		}
+		2172.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_2a = { #Duke Leofric IV of the Terac
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_1
+		#mother =
+		2103.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_2b = { #Lord Eadwin of the Terac
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_1
+		#mother =
+		2104.1.1 = {
+			birth = yes
+		}
+		2133.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_2b1 = { #Lord Eadric Boughhold
+		name = "Eadric"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_2b
+		#mother =
+		2123.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_2c = { #Lord Wolfrin of the Terac
+		name = "Wolfrin"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_1
+		#mother =
+		2108.1.1 = {
+			birth = yes
+		}
+		2159.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_2c1 = { #Lord Eoin Boughhold
+		name = "Eion"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_1
+		#mother =
+		2103.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_3a = { #Duke Eadwin II of the Terac
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_2a
+		#mother =
+		2125.1.1 = {
+			birth = yes
+		}
+		2180.1.1 = {
+			death = yes
+		}
+	}
+	Boughhold_3b = { #Lady Herawyth of the Terac
+		name = "Herawyth"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Boughhold_2a
+		#mother =
+		2127.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = {
+				death_reason = death_childbirth
+			}
+		}
+	}
+	Boughhold_4 = { #Duke Edward I of the Terac
+		name = "Edward"
+		#dna = dna_caelan_i
+		dynasty = dynn_boughhold
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Boughhold_3a
+		#mother =
+		2142.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+	
+#
+### House Dyresun ################################################
+	Dyresun_0 = { #Duke Leofric I of Haseric
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Dyresun_01
+		#mother =
+		2012.1.1 = {
+			birth = yes
+		}
+		2081.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_1 = { #Duke Leofric II of Haseric
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_0
+		#mother =
+		2032.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_2 = { #Duke Dryden I of Haseric
+		name = "Dryden"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_1
+		#mother =
+		2056.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_3 = { #Duke Leofric III of Haseric
+		name = "Leofric"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_2
+		#mother =
+		2080.1.1 = {
+			birth = yes
+		}
+		2138.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_4a = { #Duke Leofric IV of Haseric
+		name = "Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_3
+		#mother =
+		2099.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			add_spouse = Cjeldam_2c
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_4b = { #Lord Toland of Haseric
+		name = "Toland"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_3
+		#mother =
+		2100.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_4b1 = { #Lord Herobrand Dyresun
+		name = "Herobrand"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_4b
+		#mother =
+		2124.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_5a = { #Lady Leorel of Haseric
+		name = "Leorel"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Dyresun_4a
+		mother = Cjeldam_2c
+		2126.1.1 = {
+			birth = yes
+		}
+		2204.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_5b = { #Lady Wylren of Haseric
+		name = "Wylren"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Dyresun_4a
+		mother = Cjeldam_2c
+		2128.1.1 = {
+			birth = yes
+		}
+		2220.1.1 = {
+			death = yes
+		}
+	}
+	Dyresun_5c = { #Duke Dryden II of Haseric
+		name = "Dryden"
+		#dna = dna_caelan_i
+		dynasty = dynn_dyresun
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Dyresun_4a
+		mother = Cjeldam_2c
+		2134.1.1 = {
+			birth = yes
+		}
+		2222.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Coldmane ###############################################
+	Coldmane_0 = { #Duke Eadmund I of Briarwaite
+		name = "Eadmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Coldmane_01
+		#mother = 
+		1917.1.1 = {
+			birth = yes
+		}
+		1981.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_1 = { #Duke Leravald I of Briarwaite
+		name = "Leravald"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Coldmane_0
+		#mother = 
+		1935.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_2a = { #Duke Eadmund II of Briarwaite
+		name = "Eadmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Coldmane_1
+		#mother = 
+		1958.1.1 = {
+			birth = yes
+		}
+		2003.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_2a1 = { #Lady Ashwyn of Briarwaite
+		name = "Ashwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Coldmane_2a
+		#mother = 
+		1979.1.1 = {
+			birth = yes
+		}
+		2074.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_2b = { #Duke Leravald II of Briarwaite
+		name = "Leravald"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Coldmane_1
+		#mother = 
+		1961.1.1 = {
+			birth = yes
+		}
+		2021.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_3 = { #Duke Berwic I of Briarwaite
+		name = "Berwic"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Coldmane_2b
+		#mother = 
+		1982.1.1 = {
+			birth = yes
+		}
+		2058.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_4 = { #Duke Eadmund III of Briarwaite
+		name = "Eadmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Coldmane_3
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2061.1.1 = {
+			death = yes
+		}
+	}
+	Coldmane_5 = { #Duchess Gwenfrin of Briarwaite
+		name = "Gwenfrin"
+		#dna = dna_caelan_i
+		dynasty = dynn_coldmane
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Coldmane_4
+		#mother = 
+		2028.1.1 = {
+			birth = yes
+		}
+		2070.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Caedmon ################################################
+	Caedmon_0 = { #Duke Eadmund IV of Briarwaite
+		name = "Eadmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_caedmon
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Caedmon_01
+		mother = Coldmane_5
+		2046.1.1 = {
+			birth = yes
+		}
+		2111.1.1 = {
+			death = yes
+		}
+	}
+	Caedmon_1 = { #Duke Berwic II of Briarwaite
+		name = "Berwic"
+		#dna = dna_caelan_i
+		dynasty = dynn_caedmon
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Caedmon_0
+		#mother = 
+		2067.1.1 = {
+			birth = yes
+		}
+		2117.1.1 = {
+			death = yes
+		}
+	}
+	Caedmon_2 = { #Duke Leravald III of Briarwaite
+		name = "Leravald"
+		#dna = dna_caelan_i
+		dynasty = dynn_caedmon
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Caedmon_1
+		#mother = 
+		2087.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Caedmon_3 = { #Duke Theodan I of Briarwaite
+		name = "Theodan"
+		#dna = dna_caelan_i
+		dynasty = dynn_caedmon
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Caedmon_2
+		#mother = 
+		2110.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+	Caedmon_4 = { #Duke Toland I of Briarwaite
+		name = "Toland"
+		#dna = dna_caelan_i
+		dynasty = dynn_caedmon
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Caedmon_3
+		#mother = 
+		2130.1.1 = {
+			birth = yes
+		}
+		2214.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Synhall ################################################
+	Synhall_0 = { #Duke Wolfrin I of Athalan
+		name = "Wolfrin"
+		#dna = dna_caelan_i
+		dynasty = dynn_synhall
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Synhall_01
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2061.1.1 = {
+			death = yes
+		}
+	}
+	Synhall_1 = { #Duke Osric I of Athalan
+		name = "Osric"
+		#dna = dna_caelan_i
+		dynasty = dynn_synhall
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Synhall_0
+		#mother = 
+		2023.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			death = yes
+		}
+	}
+	Synhall_2a = { #Duke Cyrwin I of Athalan
+		name = "Cyrwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_synhall
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Synhall_1
+		#mother = 
+		2044.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Synhall_2b = { #Lady Otheren of Athalan
+		name = "Otheren"
+		#dna = dna_caelan_i
+		dynasty = dynn_synhall
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Synhall_1
+		#mother = 
+		2047.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+#
+### house Cjeldam ################################################
+	Cjeldam_0 = { #Duke Osric II of Athalan
+		name = "Osric"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		#father = Cjeldam_01
+		mother = Synhall_2b
+		2066.1.1 = {
+			birth = yes
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_1 = { #Duke Osric III of Athalan
+		name = "Osric"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Cjeldam_0
+		#mother = 
+		2086.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_2a = { #Duke Wolfrin II of Athalan
+		name = "Wolfrin"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Cjeldam_1
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_2a1 = { #Duke Roland I of Athalan
+		name = "Roland"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Cjeldam_2a
+		#mother = 
+		2126.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = {
+				death_reason = death_ill
+			}
+		}
+	}
+	Cjeldam_2b = { #Duke Cyrwin II of Athalan
+		name = "Cyrwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Cjeldam_1
+		#mother = 
+		2105.1.1 = {
+			birth = yes
+		}
+		2142.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_2c = { #Duchess Aldrea of Haseric
+		name = "Aldrea"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Cjeldam_1
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			add_spouse = Dyresun_4a
+		}
+		2164.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_3a = { #Duke Toland I of Athalan
+		name = "Toland"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Cjeldam_2b
+		#mother = 
+		2128.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_3b = { #Lord Eadwin of Athalan
+		name = "Lord Eadwin"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		father = Cjeldam_2b
+		#mother = 
+		2130.1.1 = {
+			birth = yes
+		}
+		2157.1.1 = {
+			death = yes
+		}
+	}
+	Cjeldam_3c = { #Duke Herawyn I of Athalan
+		name = "Herawyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_cjeldam
+		religion = "aurementic"
+		culture = tessarwyn
+		female = yes
+		father = Cjeldam_2b
+		#mother = 
+		2133.1.1 = {
+			birth = yes
+		}
+		2221.1.1 = {
+			death = yes
+		}
+	}

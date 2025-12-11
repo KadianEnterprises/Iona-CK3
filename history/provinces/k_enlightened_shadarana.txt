@@ -1,0 +1,114 @@
+#Enlightened Shadarana
+## Kinshala
+	### Kinshala
+	950 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	949 = {
+		holding = city_holding
+	}
+	951 = {
+		holding = none
+	}
+	952 = {
+		holding = city_holding
+	}
+	953 = {
+		holding = none
+	}
+	### Nyama
+	954 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Hanayera
+	955 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	956 = {
+		holder = none
+	}
+	### Zalarun
+	957 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	958 = {
+		holding = city_holding
+	}
+	959 = {
+		holding = castle_holding
+	}
+	960 = {
+		holding = city_holding
+	}
+	961 = {
+		holder = none
+	}
+## Kamerian
+	### Ain Ruan
+	962 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	963 = {
+		holding = city_holding
+	}
+	964 = {
+		holding = none
+	}
+	965 = {
+		holding = none
+	}
+	### Zana Tower
+	966 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Brana
+	967 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	968 = {
+		holding = none
+	}
+	969 = {
+		holding = none
+	}
+	### Kelad
+	971 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	972 = {
+		holding = none
+	}
+	973 = {
+		holding = none
+	}
+	### Herza
+	975 = {
+		culture = shadarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	974 = {
+		holding = city_holding
+	}
+	976 = {
+		holding = none
+	}
+	977 = {
+		holding = none
+	}

@@ -1,0 +1,148 @@
+﻿k_cirrenia = {
+	1795.1.1 = {
+		holder = Cerindal_0
+	}
+	1824.1.1 = {
+		holder = Cerindal_1
+	}
+	1844.1.1 = {
+		holder = Cerindal_2b		#King Itheran I
+	}
+	1846.1.1 = {
+		holder = Cerindal_3a		#King Oram II
+	}
+	1852.1.1 = {
+		holder = Cerindal_3b		#King Quinlan I
+	}
+	1895.1.1 = {
+		holder = Cerindal_4			#King Quinlan II
+	}
+	1919.1.1 = {
+		holder = Cerindal_5			#King Edal II
+	}
+	1941.1.1 = {
+		holder = Cerindal_6			#King Oram III
+	}
+	1956.1.1 = {
+		holder = Cerindal_7			#King Itheran II
+	}
+	1989.1.1 = {
+		holder = Cerindal_8			#King Zyran I
+	}
+	1995.1.1 = {
+		holder = Cerindal_9a		#King Itheran III
+	}
+	1997.1.1 = {
+		holder = Cerindal_9a1		#King Quinlan III
+	}
+	1998.1.1 = {
+		holder = Cerindal_9b		#Queen Zyra the Warrior
+	}
+	2002.1.1 = {
+		holder = Cerindal_9a2		#Queen Esurel I
+	}
+	2009.1.1 = {
+		holder = Ys_Garos_0			#King Vos I
+	}
+	2037.1.1 = {
+		holder = Ys_Garos_1			#King Vos II
+	}
+	2064.1.1 = {
+		holder = Ys_Garos_2			#King Edal III
+	}
+	2066.1.1 = {
+		holder = Ys_Garos_3			#King Tavel the Young
+	}
+	2085.1.1 = {
+		holder = Ys_Garos_4			#Queen Zyra II
+	}
+	2097.1.1 = {
+		holder = Barrodias_0		#King Tarvel II
+	}
+	2123.1.1 = {
+		holder = Barrodias_1		#King Edal IV
+	}
+	2132.1.1 = {
+		holder = Astra_22		#Emperor Auren XV
+	}
+	2174.1.1 = {
+		holder = Astra_23		#Emperor Galahath VIII
+	}
+	2180.1.1 = {
+		holder = Astra_24		#Emperor Celestal IV
+	}
+}
+
+# Cirrenian Islands
+	d_cirrenian_islands = {
+		1795.1.1 = {
+			holder = Cerindal_0
+		}
+		1824.1.1 = {
+			holder = Cerindal_1
+		}
+		1844.1.1 = {
+			holder = Cerindal_2b		#King Itheran I
+		}
+		1846.1.1 = {
+			holder = Cerindal_3a		#King Oram II
+		}
+		1852.1.1 = {
+			holder = Cerindal_3b		#King Quinlan I
+		}
+		1895.1.1 = {
+			holder = Cerindal_4			#King Quinlan II
+		}
+		1919.1.1 = {
+			holder = Cerindal_5			#King Edal II
+		}
+		1941.1.1 = {
+			holder = Cerindal_6			#King Oram III
+		}
+		1956.1.1 = {
+			holder = Cerindal_7			#King Itheran II
+		}
+		1989.1.1 = {
+			holder = Cerindal_8			#King Zyran I
+		}
+		1995.1.1 = {
+			holder = Cerindal_9a		#King Itheran III
+		}
+		1997.1.1 = {
+			holder = Cerindal_9a1		#King Quinlan III
+		}
+		1998.1.1 = {
+			holder = Cerindal_9b		#Queen Zyra the Warrior
+		}
+		2002.1.1 = {
+			holder = Cerindal_9a2		#Queen Esurel I
+		}
+		2009.1.1 = {
+			holder = Ys_Garos_0			#King Vos I
+		}
+		2037.1.1 = {
+			holder = Ys_Garos_1			#King Vos II
+		}
+		2064.1.1 = {
+			holder = Ys_Garos_2			#King Edal III
+		}
+		2066.1.1 = {
+			holder = Ys_Garos_3			#King Tavel the Young
+		}
+		2085.1.1 = {
+			holder = Ys_Garos_4			#Queen Zyra II
+		}
+		2097.1.1 = {
+			holder = Barrodias_0		#King Tarvel II
+		}
+		2123.1.1 = {
+			holder = Barrodias_1		#King Edal IV
+		}
+		2132.1.1 = {
+			liege = e_solaar
+		}
+	}
+#
+## Hardbreak Islands
+#
+## Waywater Islands

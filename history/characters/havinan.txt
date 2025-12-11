@@ -1,0 +1,605 @@
+﻿### House Joysong ###############################
+	Joysong_0 = {			#King Coren I of Merathia
+		name = "Coren"
+		#dna = 
+		dynasty = dynn_joysong
+		religion = "aurementic"
+		culture = havinan
+		#father = 
+		#mother =
+		1544.1.1 = {
+			birth = yes
+		}
+		1617.1.1 = {
+			death = yes
+		}
+	}
+	Joysong_1 = {			#Queen Cormira I of Merathia
+		name = "Cormira"
+		#dna = 
+		dynasty = dynn_joysong
+		religion = "aurementic"
+		culture = havinan
+		female = yes
+		father = Joysong_0
+		#mother =
+		1565.1.1 = {
+			birth = yes
+		}
+		1638.1.1 = {
+			death = yes
+		}
+	}
+	Joysong_2 = {			#Queen Kalyra I of Merathia
+		name = "Kalyra"
+		#dna = 
+		dynasty = dynn_joysong
+		religion = "aurementic"
+		culture = havinan
+		female = yes
+		#father = 
+		mother = Joysong_1
+		1591.1.1 = {
+			birth = yes
+		}
+		1661.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Coppercrown ###########################
+	Coppercrown_0 = {			#Queen Rheya I of Merathia
+		name = "Rheya"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		#mother =
+		1774.1.1 = {
+			birth = yes
+		}
+		1852.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_1 = {			#Queen Rheya II of Merathia
+		name = "Rheya"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Coppercrown_0
+		1798.1.1 = {
+			birth = yes
+		}
+		1865.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_2 = {			#Queen Rosalia I of Merathia
+		name = "Rosalia"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Coppercrown_1
+		1817.1.1 = {
+			birth = yes
+		}
+		1900.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_3 = {			#King Coren II of Merathia
+		name = "Coren"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Coppercrown_2
+		1834.1.1 = {
+			birth = yes
+		}
+		1911.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_4 = {			#King Reyan I of Merathia
+		name = "Reyan"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		father = Coppercrown_3
+		#mother = 
+		1853.1.1 = {
+			birth = yes
+		}
+		1915.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_5 = {			#Queen Rosalia II of Merathia
+		name = "Rosalia"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		father = Coppercrown_4
+		#mother = 
+		1874.1.1 = {
+			birth = yes
+		}
+		1920.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_6 = {			#Queen Cormira II of Merathia
+		name = "Cormira"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Coppercrown_5
+		1897.1.1 = {
+			birth = yes
+		}
+		1932.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_7a = {			#King Morgane I of Merathia
+		name = "Morgane"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Coppercrown_6
+		1919.1.1 = {
+			birth = yes
+		}
+		1935.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_7b = {			#King Kirion I of Merathia
+		name = "Kirion"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Coppercrown_6
+		1922.1.1 = {
+			birth = yes
+		}
+		1967.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_8 = {			#Queen Rheya III of Merathia
+		name = "Rheya"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		father = Coppercrown_7b
+		#mother = 
+		1938.1.1 = {
+			birth = yes
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+	Coppercrown_9 = {			#Princess Cormira of Merathia
+		name = "Cormira"
+		#dna = 
+		dynasty = dynn_coppercrown
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Coppercrown_8
+		1958.1.1 = {
+			birth = yes
+		}
+		1980.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Telasaron #############################
+	Telastron_0 = {				#King Asterchrom I of Merathia
+		name = "Asterchrom"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Coppercrown_9
+		1980.1.1 = {
+			birth = yes
+		}
+		2034.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_1 = {				#Queen Rosalia III of Merathia
+		name = "Rosalia"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		father = Telastron_0
+		#mother = 
+		2001.1.1 = {
+			birth = yes
+		}
+		2056.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_2 = {				#Queen Verana I of Merathia
+		name = "Verana"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Telastron_1
+		2001.1.1 = {
+			birth = yes
+		}
+		2060.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_3 = {				#Queen Kalyra II of Merathia
+		name = "Kalyra"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Telastron_2
+		2044.1.1 = {
+			birth = yes
+		}
+		2110.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_4 = {				#King Coren III of Merathia
+		name = "Coren"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Telastron_3
+		2066.1.1 = {
+			birth = yes
+		}
+		2127.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_5 = {				#Queen Cormira III of Merathia
+		name = "Cormira"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		father = Telastron_4
+		#mother = 
+		2087.1.1 = {
+			birth = yes
+		}
+		2146.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_6a = {			#King Kirion II of Merathia
+		name = "Kirion"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Telastron_5
+		2102.1.1 = {
+			birth = yes
+		}
+		2154.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_6b = {			#Prince Astrerchrom of Merathia
+		name = "Asterchrom"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Telastron_5
+		2105.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}	
+	Telastron_6c = {			#Princess Renrae of Merathia
+		name = "Renrae"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Telastron_5
+		2108.1.1 = {
+			birth = yes
+		}
+		2152.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_6d = {			#Princess Caetlyn of Merathia
+		name = "Caetlyn"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Telastron_5
+		2114.1.1 = {
+			birth = yes
+		}
+		2153.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_6e = {			#Prince Morgane of Merathia
+		name = "Morgane"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		mother = Telastron_5
+		2116.1.1 = {
+			birth = yes
+		}
+		#2127.1.1 = {
+		#	set_relation_best_friend = character:Goldenbrow_51
+		#}
+		2149.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_6e1 = {			#Lord Rayen of Merathia
+		name = "Rayen"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		father = Telastron_6e
+		#mother = 
+		2137.1.1 = {
+			birth = yes
+		}
+		2212.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_6f = {			#Empress-consort Kalyra the Fair of Merathia
+		name = "Kalyra"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		#father = 
+		mother = Telastron_5
+		2118.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			add_spouse = Goldenbrow_51
+		}
+		2205.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_7a = {			#King Coren IV of Merathia
+		name = "Coren"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		father = Telastron_6a
+		#mother = 
+		2125.1.1 = {
+			birth = yes
+		}
+		2211.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_7b = {			#Princess Cormira the Seer of Merathia
+		name = "Cormira"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		female = yes
+		father = Telastron_6a
+		#mother = 
+		give_nickname = nick_the_seer
+		2136.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_7c = {			#Prince Morgane the Viper of Merathia
+		name = "Morgane"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		father = Telastron_6a
+		#mother = 
+		give_nickname = nick_the_viper
+		trait = shrewd
+		2129.1.1 = {
+			birth = yes
+		}
+		2214.1.1 = {
+			death = yes
+		}
+	}
+	Telastron_8 = {				#King Morgane II of Merathia
+		name = "Morgane"
+		#dna = 
+		dynasty = dynn_telasaron
+		religion = "aurementic"
+		culture = merathan
+		father = Telastron_7a
+		#mother = 
+		2145.1.1 = {
+			birth = yes
+		}
+		2216.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Blacktree #############################
+#
+### House Fallthorn #############################
+	Fallthorn_0 = {				#King Oren I of Inner Merathia
+		name = "Oren"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		#father = 
+		#mother = 
+		2016.1.1 = {
+			birth = yes
+		}
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Fallthorn_1 = {				#King Jalced I of Inner Merathia
+		name = "Jalced"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		father = Fallthorn_0
+		#mother = 
+		2036.1.1 = {
+			birth = yes
+		}
+		2104.1.1 = {
+			death = yes
+		}
+	}
+	Fallthorn_2 = {				#King Oren II of Inner Merathia
+		name = "Oren"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		father = Fallthorn_1
+		#mother = 
+		2057.1.1 = {
+			birth = yes
+		}
+		2119.1.1 = {
+			death = yes
+		}
+	}
+	Fallthorn_3 = {				#King Jalced II of Inner Merathia
+		name = "Jalced"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		father = Fallthorn_2
+		#mother = 
+		2076.1.1 = {
+			birth = yes
+		}
+		2141.1.1 = {
+			death = yes
+		}
+	}
+	Fallthorn_4 = {				#King Kalire I of Inner Merathia
+		name = "Kalire"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		father = Fallthorn_3
+		#mother = 
+		2098.1.1 = {
+			birth = yes
+		}
+		2166.1.1 = {
+			death = yes
+		}
+	}
+	Fallthorn_5 = {				#King Oren III of Inner Merathia
+		name = "Oren"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		father = Fallthorn_4
+		#mother = 
+		2121.1.1 = {
+			birth = yes
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+	Fallthorn_6 = {				#King Kalire II of Inner Merathia
+		name = "Kalire"
+		#dna = 
+		dynasty = dynn_fallthorn
+		religion = "aurementic"
+		culture = merathan
+		father = Fallthorn_5
+		#mother = 
+		2141.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}

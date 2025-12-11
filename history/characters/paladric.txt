@@ -1,0 +1,1876 @@
+﻿### House Alorum ##############################################
+	Alorum_09 = { #Duke Kaldreh I of Caladroja
+		name = "Kaldreh"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		#father = Alorum_010
+		#mother = 
+		1653.1.1 = {
+			birth = yes
+		}
+		1697.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_08 = { #Duke Vastian I of Caladroja
+		name = "Vastian"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_09
+		#mother = 
+		1676.1.1 = {
+			birth = yes
+		}
+		1724.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_07 = { #Duke Rhyal I of Caladroja
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_08
+		#mother = 
+		1697.1.1 = {
+			birth = yes
+		}
+		1758.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_06 = { #Duke Ferran I of Caladroja
+		name = "Ferran"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_07
+		#mother = 
+		1722.1.1 = {
+			birth = yes
+		}
+		1782.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_05 = { #Duke Philippe I of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_06
+		#mother = 
+		1745.1.1 = {
+			birth = yes
+		}
+		1791.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_04 = { #Duke Vastian II of Caladroja
+		name = "Vastian"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_05
+		#mother = 
+		1767.1.1 = {
+			birth = yes
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_03 = { #Duke Philippe II of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_04
+		#mother = 
+		1789.1.1 = {
+			birth = yes
+		}
+		1823.1.1 = {
+			death = {
+				death_reason = death_cancer
+			}
+		}
+	}
+	Alorum_02 = { #Duke Ferran II of Caladroja
+		name = "Ferran"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_03
+		#mother = 
+		1810.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_01 = { #Duke Philippe III of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_02
+		#mother = 
+		1832.1.1 = {
+			birth = yes
+		}
+		1881.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_0 = { #King Zaron I of Caladroja
+		name = "Zaron"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_01
+		#mother = 
+		1855.1.1 = {
+			birth = yes
+		}
+		1920.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_1 = { #King Philippe I of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_0
+		#mother = 
+		1874.1.1 = {
+			birth = yes
+		}
+		1945.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_2 = { #King Ramiro I of Caladroja
+		name = "Ramiro"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_1
+		#mother = 
+		1896.1.1 = {
+			birth = yes
+		}
+		1906.1.1 = {
+			add_spouse = Vadorica_5b
+		}
+		1966.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_3 = { #King Philippe II of Caladroja and Vadorica
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_2
+		mother = Vadorica_5b
+		1918.1.1 = {
+			birth = yes
+		}
+		2001.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_4 = { #King Leo I of Caladroja and Vadorica
+		name = "Leo"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_3
+		#mother = 
+		1939.1.1 = {
+			birth = yes
+		}
+		2012.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_5 = { #King Zaron II & I of Caladroja and Vadorica
+		name = "Zaron"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_4
+		#mother = 
+		1958.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_6a = { #King Vastian the Tyrant of Caladroja
+		name = "Vastian"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_5
+		#mother = 
+		1982.1.1 = {
+			birth = yes
+		}
+		2024.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_6a1 = { #King Rhyal the Brute of Caladroja
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_6a
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2040.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_6a2 = { #Prince Drensan the Warmonger of Caladroja
+		name = "Drensan"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_6a
+		#mother = 
+		2006.1.1 = {
+			birth = yes
+		}
+		2044.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_6b = { #Prince Philippe of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_5
+		#mother = 
+		1988.1.1 = {
+			birth = yes
+		}
+		2016.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_7 = { #King Philippe III of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_6b
+		#mother = 
+		2009.1.1 = {
+			birth = yes
+		}
+		2077.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_8 = { #King Leo the Great of Caladroja
+		name = "Leo"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_7
+		#mother = 
+		give_nickname = nick_the_great
+		2032.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_9a = { #King Kaldreh the Old I of Caladroja
+		name = "Kaldreh"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_8
+		#mother = 
+		give_nickname = nick_the_old
+		2033.1.1 = {
+			birth = yes
+		}
+		2108.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10a = { #Prince Philippe the Elder of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_9a
+		#mother = 
+		2072.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10a1 = { #Prince Philippe the Younger of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_10a
+		#mother = 
+		2093.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10a2 = { #Queen Isabella of Caladroja
+		name = "Isabella"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_10a1
+		#mother = 
+		2114.1.1 = {
+			birth = yes
+		}
+		2133.1.1 = {
+			add_spouse = Tremaria_2
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10b = { #Princess Isabella of Caladroja
+		name = "Isabella"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_9a
+		#mother = 
+		2074.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			add_spouse = Tremaria_0		#Duke Lorent III of Tereggia
+		}
+		2149.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10c = { #Princess Annamaria of Caladroja
+		name = "Annamaria"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_9a
+		#mother = 
+		2075.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10d = { #Prince Leo of Caladroja
+		name = "Leo"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_9a
+		#mother = 
+		2078.1.1 = {
+			birth = yes
+		}
+		2138.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_10d1 = { #Lady Helena of Caladroja
+		name = "Helena"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_10d
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_9b = { #Prince Zaron of Caladroja
+		name = "Zaron"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_8
+		#mother = 
+		trait = disinherited
+		2053.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			add_spouse = Tremaria_01b
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_11a = { #Captain Tristan Alorum of the Red Suns
+		name = "Tristan"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_9b
+		mother = Tremaria_01b
+		trait = lustful
+		trait = education_martial_3
+		trait = education_martial_prowess_4
+		trait = drunkard
+		trait = brave
+		trait = physique_good_1
+		trait = disinherited
+		2078.1.1 = {
+			birth = yes
+		}
+		2157.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_12a = { #Captain Jamie de Alorum of the Red Suns
+		name = "Jamie"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_11a
+		#mother = 
+		trait = legitimized_bastard
+		trait = strategist
+		trait = education_intrigue_2
+		trait = intellect_good_1
+		2097.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_12b = { #Anna de Alorum
+		name = "Anna"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_11a
+		#mother = 
+		trait = legitimized_bastard
+		trait = education_stewardship_3
+		trait = intellect_good_1
+		trait = beauty_good_1
+		trait = blind
+		trait = architect
+		2101.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			add_spouse = Caladran_1		#Count Amadeus II of Cadrim
+		}
+		2185.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_13a = { #Captain Roman the Grim of the Red Suns
+		name = "Roman"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		father = Alorum_12a
+		#mother = 
+		2124.1.1 = {
+			birth = yes
+		}
+		2202.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_13b = { #Lady Constanza de Alorum
+		name = "Constanza"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_12a
+		#mother = 
+		2126.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Alorum_13c = { #Lady Beatrice de Alorum
+		name = "Beatrice"
+		#dna = dna_caelan_i
+		dynasty = dynn_alorum
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Alorum_12a
+		#mother = 
+		2127.1.1 = {
+			birth = yes
+		}
+		2232.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Tremaria ############################################
+	Tremaria_06 = { #Duke Guillen II of Tereggia
+		name = "Guillen"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		#father = Tremaria_07
+		#mother = 
+		1933.1.1 = {
+			birth = yes
+		}
+		1992.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_05 = { #Duke Leon I of Tereggia
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_06
+		#mother = 
+		1957.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_04 = { #Duke Lorent I of Tereggia
+		name = "Lorent"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_05
+		#mother = 
+		1980.1.1 = {
+			birth = yes
+		}
+		2017.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_03 = { #Duke Leon II of Tereggia
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_04
+		#mother = 
+		2000.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_02 = { #Duke Lorent II of Tereggia
+		name = "Lorent"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_03
+		#mother = 
+		2021.1.1 = {
+			birth = yes
+		}
+		2082.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_01 = { #Duke Guillen II of Tereggia
+		name = "Guillen"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_02
+		#mother = 
+		2044.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_01b = { #Lady Soraya Tremaria
+		name = "Soraya"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		female = yes
+		father = Tremaria_02
+		#mother = 
+		2052.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			add_spouse = Alorum_9b
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_0 = { #Duke Lorent III of Tereggia
+		name = "Lorent"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_01
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			add_spouse = Alorum_10b
+		}
+		2151.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_1 = { #King Philippe IV of Caladroja
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_0
+		mother = Alorum_10b		#Princess Isabella of Caladroja
+		2096.1.1 = {
+			birth = yes
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_2 = { #King Guillen I of Caladroja
+		name = "Guillen"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_1
+		#mother = 
+		2113.1.1 = {
+			birth = yes
+		}
+		2133.1.1 = {
+			add_spouse = Alorum_10a2		#Queen-Consort Isabella of Caladroja
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+	Tremaria_3 = { #King Zaron III of Caladroja
+		name = "Zaron"
+		#dna = dna_caelan_i
+		dynasty = dynn_tremaria
+		religion = "aurementic"
+		culture = caladrojan
+		father = Tremaria_2
+		mother = Alorum_10a2
+		2138.1.1 = {
+			birth = yes
+		}
+		2227.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Caladran ############################################
+	Caladran_01 = { #Count Henrick I of Cadrim
+		name = "Henrick"
+		#dna = dna_caelan_i
+		dynasty = dynn_caladran
+		religion = "aurementic"
+		culture = caladrojan
+		#father = Caladran_02
+		#mother = 
+		give_nickname = nick_the_brave
+		trait = education_martial_3
+		trait = education_martial_prowess_4
+		2056.1.1 = {
+			birth = yes
+		}
+		2117.1.1 = {
+			death = yes
+		}
+	}
+	Caladran_0 = { #Count Amadeus I of Cadrim
+		name = "Amadeus"
+		#dna = dna_caelan_i
+		dynasty = dynn_caladran
+		religion = "aurementic"
+		culture = caladrojan
+		father = Caladran_01
+		#mother = 
+		trait = education_diplomacy_2
+		trait = cautious_leader
+		trait = physique_bad_1
+		trait = craven
+		trait = stuttering
+		trait = chaste
+		2077.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			death = {
+				death_reason = death_murder
+				killer = Caladran_1
+				
+			}
+		}
+	}
+	Caladran_1 = { #Count Amadeus II of Cadrim
+		name = "Amadeus"
+		#dna = dna_caelan_i
+		dynasty = dynn_caladran
+		religion = "aurementic"
+		culture = caladrojan
+		father = Caladran_0
+		#mother = 
+		trait = spindly
+		trait = education_martial_4
+		trait = brave
+		trait = gregarious
+		trait = ambitious
+		trait = flexible_leader
+		trait = rough_terrain_expert
+		trait = lifestyle_hunter
+		2100.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			add_spouse = Alorum_12b
+		}
+		#2124.1.1 = {
+		#	secret
+		#}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Caladran_2a = { #Count Leopold I of Cadrim
+		name = "Leopold"
+		#dna = dna_caelan_i
+		dynasty = dynn_caladran
+		religion = "aurementic"
+		culture = caladrojan
+		father = Caladran_1
+		mother = Alorum_12b
+		2126.1.1 = {
+			birth = yes
+		}
+		2190.1.1 = {
+			death = yes
+		}
+	}
+	Caladran_2b = { #Lady Maria de Caladran of Cadrim
+		name = "Maria"
+		#dna = dna_caelan_i
+		dynasty = dynn_caladran
+		religion = "aurementic"
+		culture = caladrojan
+		father = Caladran_1
+		mother = Alorum_12b
+		female = yes
+		2128.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Trollsfen ###########################################
+	Trollsfen_0 = { #Brejin the Hunter, Lord of Gilrotan
+		name = "Brejin"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		#father = Trollsfen_01
+		#mother = 
+		1912.1.1 = {
+			birth = yes
+		}
+		1964.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_1 = { #Lord Ralren I of Gilrotan
+		name = "Ralren"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_0
+		#mother = 
+		1931.1.1 = {
+			birth = yes
+		}
+		1999.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_2 = { #Lord Ralren II of Gilrotan
+		name = "Ralren"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_1
+		#mother = 
+		1955.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_3 = { #Lord Ralren III of Gilrotan
+		name = "Ralren"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_2
+		#mother = 
+		1981.1.1 = {
+			birth = yes
+		}
+		2054.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_4 = { #Lord Ximon I of Gilrotan
+		name = "Ximon"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_3
+		#mother = 
+		2004.1.1 = {
+			birth = yes
+		}
+		2059.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_5 = { #Lord Brejin II of Gilrotan
+		name = "Brejin"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_1
+		#mother = 
+		2030.1.1 = {
+			birth = yes
+		}
+		2085.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_6 = { #Duke Salazar I of Gilrotan
+		name = "Salazar"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_5
+		#mother = 
+		2056.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_7 = { #Duke Julian I of Gilrotan
+		name = "Julian"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_6
+		#mother = 
+		2100.1.1 = {
+			birth = yes
+		}
+		2192.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_8 = { #Duke Ferran I of Gilrotan
+		name = "Ferran"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_7
+		#mother = 
+		2121.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Trollsfen_9 = { #Duke Salazar II of Gilrotan
+		name = "Salzar"
+		#dna = dna_caelan_i
+		dynasty = dynn_trollsfen
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_8
+		#mother = 
+		2142.1.1 = {
+			birth = yes
+		}
+		2221.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Redfeather ##########################################
+	Redfeather_0 = { #Lord Mathias the Redfeather of Gilrotan
+		name = "Mathias"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redfeather
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_6
+		#mother = 
+		2081.1.1 = {
+			birth = yes
+		}
+		2125.1.1 = {
+			death = yes
+		}
+	}
+	Redfeather_1 = { #Cosimo Redfeather, Lord of the Roads
+		name = "Cosimo"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redfeather
+		religion = "aurementic"
+		culture = caladrojan
+		father = Redfeather_0
+		#mother = 
+		2107.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Redfeather_2 = { #Alverno Blackfeather, king of the roads
+		name = "Alverno"
+		#dna = dna_caelan_i
+		dynasty_house = house_Redfeather
+		religion = "aurementic"
+		culture = caladrojan
+		father = Redfeather_1
+		#mother = 
+		2129.1.1 = {
+			birth = yes
+		}
+		2196.1.1 = {
+			death = yes
+		}
+	}
+#
+### House d'Blanc #############################################
+	Blanc_0 = { #Count Leon I of Medarana
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty_house = house_d_blanc
+		religion = "aurementic"
+		culture = caladrojan
+		father = Trollsfen_6
+		#mother = 
+		trait = intellect_good_3
+		2084.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			employer = Alorum_8
+			give_council_position = councillor_chancellor
+		}
+		2159.1.1 = {
+			death = yes
+		}
+	}
+	Blanc_1 = { #Count Leon II of Medarana
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty_house = house_d_blanc
+		religion = "aurementic"
+		culture = caladrojan
+		father = Blanc_0
+		#mother = 
+		trait = intellect_good_2
+		2103.1.1 = {
+			birth = yes
+		}
+		2192.1.1 = {
+			death = yes
+		}
+	}
+	Blanc_2 = { #Count Raynes I of Medarana
+		name = "Raynes"
+		#dna = dna_caelan_i
+		dynasty_house = house_d_blanc
+		religion = "aurementic"
+		culture = caladrojan
+		father = Blanc_1
+		#mother = 
+		trait = intellect_good_2
+		2127.1.1 = {
+			birth = yes
+		}
+		2199.1.1 = {
+			death = yes
+		}
+	}
+#
+### Cadial ####################################################
+	Cadial_01 = { #King Zefir the Onyxblood of Zarun
+		name = "Zefir"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		#father = Cadial_02
+		#mother = 
+		1781.1.1 = {
+			birth = yes
+		}
+		1836.1.1 = {
+			death = yes
+		}
+	}	
+	Cadial_0 = { #King Zefir the Onyxblood of Zarun
+		name = "Zefir"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_01
+		#mother = 
+		1801.1.1 = {
+			birth = yes
+		}
+		1892.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_1 = { #King Kosano I of Zarun
+		name = "Kosano"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_0
+		#mother = 
+		1827.1.1 = {
+			birth = yes
+		}
+		1898.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_2a = { #Prince Zefir the Songbird of Zarun
+		name = "Zefir"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_1
+		#mother = 
+		1848.1.1 = {
+			birth = yes
+		}
+		1854.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_2b = { #Queen Adrenia I of Zarun
+		name = "Adrenia"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		female = yes
+		father = Cadial_1
+		#mother = 
+		1851.1.1 = {
+			birth = yes
+		}
+		1922.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_3a = { #Prince Zefir of Zarun
+		name = "Zefir"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		#father =
+		mother = Cadial_2b
+		1868.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_3b = { #Prince Kosano of Zarun
+		name = "Kosano"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		#father =
+		mother = Cadial_2b
+		1870.1.1 = {
+			birth = yes
+		}
+		1887.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_3c = { #Princess Zevya of Zarun
+		name = "Zevya"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		female = yes
+		#father = 
+		mother = Cadial_2b
+		1873.1.1 = {
+			birth = yes
+		}
+		1950.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_3d = { #King Alesso I of Zarun
+		name = "Alesso"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		#father = 
+		mother = Cadial_2b
+		1878.1.1 = {
+			birth = yes
+		}
+		1956.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_4 = { #Queen Zara I of Zarun
+		name = "Zara"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		female = yes
+		father = Cadial_3d
+		#mother = 
+		1896.1.1 = {
+			birth = yes
+		}
+		1958.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_5 = { #Queen Adora I of Zarun
+		name = "Zevya"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		female = yes
+		#father = 
+		mother = Cadial_4
+		1919.1.1 = {
+			birth = yes
+		}
+		1977.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_6 = { #Queen Adrenia II of Zarun
+		name = "Zevya"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		female = yes
+		#father = 
+		mother = Cadial_4
+		1943.1.1 = {
+			birth = yes
+		}
+		2008.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_7 = { #King Zefir II of Zarun
+		name = "Zefir"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		#father = 
+		mother = Cadial_6
+		1971.1.1 = {
+			birth = yes
+		}
+		2071.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_8 = { #Prince Kosano the Sunwave of Zarun
+		name = "Kosano"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_7
+		#mother = 
+		1993.1.1 = {
+			birth = yes
+		}
+		2057.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_9 = { #King Alesso II of Zarun
+		name = "Alesso"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_8
+		#mother = 
+		2016.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_10 = { #King Alesso III of Zarun
+		name = "Alesso"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_9
+		#mother = 
+		2041.1.1 = {
+			birth = yes
+		}
+		2115.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_11 = { #Queen Zara II of Zarun
+		name = "Zara"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		female = yes
+		father = Cadial_10
+		#mother = 
+		2060.1.1 = {
+			birth = yes
+		}
+		2137.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_12 = { #King Kosano II of Zarun
+		name = "Kosano"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		#father = 
+		mother = Cadial_11
+		2084.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_13 = { #King Kosano III of Zarun
+		name = "Kosano"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_12
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2186.1.1 = {
+			death = yes
+		}
+	}
+	Cadial_14 = { #King Alesso IV of Zarun
+		name = "Alesso"
+		#dna = dna_caelan_i
+		dynasty = dynn_cadial
+		religion = "aurementic"
+		culture = zarai
+		father = Cadial_13
+		#mother = 
+		2128.1.1 = {
+			birth = yes
+		}
+		2200.1.1 = {
+			death = yes
+		}
+	}
+#
+### House de Vadorica #########################################
+	Vadorica_0 = { #King Philippe I of Vadorica
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		#father = 
+		#mother = 
+		1786.1.1 = {
+			birth = yes
+		}
+		1849.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_1 = { #King Beltrane I of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_0
+		#mother = 
+		1803.1.1 = {
+			birth = yes
+		}
+		1865.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_2 = { #King Beltrane II of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_1
+		#mother = 
+		1827.1.1 = {
+			birth = yes
+		}
+		1894.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_3 = { #King Mauro I of Vadorica
+		name = "Mauro"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_2
+		#mother = 
+		1847.1.1 = {
+			birth = yes
+		}
+		1908.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_4 = { #King Beltrane III of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_3
+		#mother = 
+		1863.1.1 = {
+			birth = yes
+		}
+		1931.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_5a = { #King Beltrane IV of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_4
+		#mother = 
+		1886.1.1 = {
+			birth = yes
+		}
+		1936.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_5b = { #Queen Camira of Caladroja
+		name = "Camira"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_4
+		#mother = 
+		1889.1.1 = {
+			birth = yes
+		}
+		1906.1.1 = {
+			add_spouse = Alorum_2
+		}
+		1965.1.1 = {
+			death = yes
+		}
+	}
+	Vadorica_6 = { #King Jorge I of Vadorica
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_de_vadorica
+		religion = "aurementic"
+		culture = vadorican
+		father = Vadorica_5a
+		#mother = 
+		1905.1.1 = {
+			birth = yes
+		}
+		1961.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Morana ##############################################
+	Morana_0 = { #Lord Joanes of Salamandura
+		name = "Joanes"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		#father = 
+		#mother = 
+		1977.1.1 = {
+			birth = yes
+		}
+		2016.1.1 = {
+			death = {
+				death_reason = death_brutally_despatched
+				killer = Alorum_6a
+			}
+		}
+	}
+	Morana_1a = { #King Beltrane V of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_0
+		#mother = 
+		1998.1.1 = {
+			birth = yes
+		}
+		2041.1.1 = {
+			death = yes
+		}
+	}
+	Morana_1a1 = { #King Philippe III of Vadorica
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_1a
+		#mother = 
+		2020.1.1 = {
+			birth = yes
+		}
+		2044.1.1 = {
+			death = yes
+		}
+	}
+	Morana_1a2 = { #King Jorge II of Vadorica
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_1a1
+		#mother = 
+		2043.1.1 = {
+			birth = yes
+		}
+		2119.1.1 = {
+			death = yes
+		}
+	}
+	Morana_1b = { #King Philippe IV of Vadorica
+		name = "Philippe"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_0
+		#mother = 
+		2000.1.1 = {
+			birth = yes
+		}
+		2091.1.1 = {
+			death = yes
+		}
+	}
+	Morana_2 = { #King Joanes I of Vadorica
+		name = "Joanes"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_1b
+		#mother = 
+		2027.1.1 = {
+			birth = yes
+		}
+		2098.1.1 = {
+			death = yes
+		}
+	}
+	Morana_3 = { #King Mauro II of Vadorica
+		name = "Mauro"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_2
+		#mother = 
+		2048.1.1 = {
+			birth = yes
+		}
+		2115.1.1 = {
+			death = yes
+		}
+	}
+	Morana_4 = { #King Beltrane VI of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_3
+		#mother = 
+		2071.1.1 = {
+			birth = yes
+		}
+		2133.1.1 = {
+			death = yes
+		}
+	}
+	Morana_5 = { #King Jorge III of Vadorica
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		father = Morana_4
+		#mother = 
+		2094.1.1 = {
+			birth = yes
+		}
+		2171.1.1 = {
+			death = yes
+		}
+	}
+	Morana_6 = { #Queen Philippa I of Vadorica
+		name = "Philippa"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		female = yes
+		father = Morana_5
+		#mother = 
+		2115.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+	Morana_7 = { #King Beltrane VII of Vadorica
+		name = "Beltrane"
+		#dna = dna_caelan_i
+		dynasty = dynn_morana
+		religion = "aurementic"
+		culture = vadorican
+		#father =
+		mother = Morana_6
+		2133.1.1 = {
+			birth = yes
+		}
+		2211.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Ezensar #############################################
+	Ezensar_0 = { #Prince Alexander I of Terenresa
+		name = "Alexander"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		#father = Ezensar_01
+		#mother = 
+		1922.1.1 = {
+			birth = yes
+		}
+		1988.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_1 = { #Prince Tristan I of Terenresa
+		name = "Tristan"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_0
+		#mother = 
+		1944.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_2 = { #Prince Jorge I of Terenresa
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_1
+		#mother = 
+		1966.1.1 = {
+			birth = yes
+		}
+		2040.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_3 = { #Prince Gavriel I of Terenresa
+		name = "Gavriel"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_2
+		#mother = 
+		1988.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_4 = { #Prince Tristan II of Terenresa
+		name = "Tristan"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_3
+		#mother = 
+		2007.1.1 = {
+			birth = yes
+		}
+		2081.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_5 = { #Prince Jorge II of Terenresa
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_4
+		#mother = 
+		2030.1.1 = {
+			birth = yes
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_6 = { #Prince Alexander II of Terenresa
+		name = "Alexander"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_5
+		#mother = 
+		2053.1.1 = {
+			birth = yes
+		}
+		2141.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_7 = { #Prince Alexander III of Terenresa
+		name = "Alexander"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_6
+		#mother = 
+		2076.1.1 = {
+			birth = yes
+		}
+		2142.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_8 = { #Prince Tristan III of Terenresa
+		name = "Tristan"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_7
+		#mother = 
+		2099.1.1 = {
+			birth = yes
+		}
+		2181.1.1 = {
+			death = yes
+		}
+	}
+	Ezensar_9 = { #Prince Alexander IV of Terenresa
+		name = "Alexander"
+		#dna = dna_caelan_i
+		dynasty = dynn_ezensar
+		religion = "aurementic"
+		culture = vadorican
+		father = Ezensar_8
+		#mother = 
+		2121.1.1 = {
+			birth = yes
+		}
+		2193.1.1 = {
+			death = yes
+		}
+	}

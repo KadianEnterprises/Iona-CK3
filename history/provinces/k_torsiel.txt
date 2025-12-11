@@ -1,0 +1,121 @@
+﻿# Torsiel
+## d_torsiel #####################
+	### Val de Estos
+	1236 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1237 = {
+		holding = none
+	}
+	1238 = {
+		holding = none
+	}
+	1239 = {
+		holding = city_holding
+	}
+	1240 = {
+		holding = none
+	}
+	### Soncole
+	1243 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1244 = {
+		holding = city_holding
+	}
+	1245 = {
+		holding = none
+	}
+	### Mont Torsiel
+	1241 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1242 = {
+		holding = none
+	}
+	### Vasan
+	1246 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1247 = {
+		holding = city_holding
+	}
+	1248 = {
+		holding = none
+	}
+	### Courvin
+	1249 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1250 = {
+		holding = city_holding
+	}
+	1251 = {
+		holding = none
+	}
+	1252 = {
+		holding = city_holding
+	}
+	### Poileten
+	1253 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1254 = {
+		holding = none
+	}
+	1255 = {
+		holding = city_holding
+	}
+#
+## d_sontier #####################
+	### veiryonne
+	1256 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1257 = {
+		holding = city_holding
+	}
+	1258 = {
+		holding = none
+	}
+	1259 = {
+		holding = none
+	}
+	### Borzeau
+	1261 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1260 = {
+		holding = city_holding
+	}
+	### naress
+	1262 = {
+		culture = itergiene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1263 = {
+		holding = city_holding
+	}
+	1264 = {
+		holding = none
+	}
+	1265 = {
+		holding = none
+	}

@@ -1,0 +1,385 @@
+﻿### House Sol
+#
+### House Halios
+#
+### House Astra
+	Astra_0 = {		#Emperor Hastrudath III of the Solaar Empire
+		name = "Hastrudath"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		#father = Astra_01
+		#mother = 
+		1470.1.1 = {
+			birth = yes
+		}
+		1553.1.1 = {
+			death = yes
+		}
+	}
+	Astra_1 = {		#Emperor Veltaeran IX of the Solaar Empire
+		name = "Velaeran"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_0
+		#mother = 
+		1494.1.1 = {
+			birth = yes
+		}
+		1561.1.1 = {
+			death = yes
+		}
+	}
+	Astra_2 = {		#Emperor Galahath VI of the Solaar Empire
+		name = "Galahath"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_1
+		#mother = 
+		1522.1.1 = {
+			birth = yes
+		}
+		1626.1.1 = {
+			death = yes
+		}
+	}
+	Astra_3 = {		#Emperor Auren XII of the Solaar Empire
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_2
+		#mother = 
+		1549.1.1 = {
+			birth = yes
+		}
+		1673.1.1 = {
+			death = yes
+		}
+	}
+	Astra_4 = {		#Emperor Celestal II of the Solaar Empire
+		name = "Celestal"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_3
+		#mother = 
+		1574.1.1 = {
+			birth = yes
+		}
+		1687.1.1 = {
+			death = yes
+		}
+	}
+	Astra_5 = {		#Emperor Auren XIII of the Solaar Empire
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_4
+		#mother = 
+		1607.1.1 = {
+			birth = yes
+		}
+		1708.1.1 = {
+			death = yes
+		}
+	}
+	Astra_6 = {		#Emperor Auren XIV of the Solaar Empire
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_5
+		#mother = 
+		1635.1.1 = {
+			birth = yes
+		}
+		1757.1.1 = {
+			death = yes
+		}
+	}
+	Astra_7 = {		#Emperor Celestal III of the Solaar Empire
+		name = "Celestal"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_6
+		#mother = 
+		1663.1.1 = {
+			birth = yes
+		}
+		1776.1.1 = {
+			death = yes
+		}
+	}
+	Astra_8 = {		#Emperor Galahath VII of the Solaar Empire
+		name = "Galahath"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_7
+		#mother = 
+		1689.1.1 = {
+			birth = yes
+		}
+		1792.1.1 = {
+			death = yes
+		}
+	}
+	Astra_9 = {		#Emperor Hastrudath IV of the Solaar Empire
+		name = "Hastrudath"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_8
+		#mother = 
+		1712.1.1 = {
+			birth = yes
+		}
+		1799.1.1 = {
+			death = yes
+		}
+	}
+	Astra_10 = {		#Prince Galahath of the Solaar Empire
+		name = "Galahath"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_9
+		#mother = 
+		1736.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	Astra_11 = {		#Emperor Veltaeran X of the Solaar Empire
+		name = "Veltaeran"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_10
+		#mother = 
+		1764.1.1 = {
+			birth = yes
+		}
+		1819.1.1 = {
+			death = yes
+		}
+	}
+	Astra_12 = {		#Emperor Veltaeran XI of the Solaar Empire
+		name = "Veltaeran"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_11
+		#mother = 
+		1787.1.1 = {
+			birth = yes
+		}
+		1851.1.1 = {
+			death = yes
+		}
+	}
+	Astra_13 = {		#Emperor Cindrael VI of the Solaar Empire
+		name = "Cindrael"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_12
+		#mother = 
+		1812.1.1 = {
+			birth = yes
+		}
+		1878.1.1 = {
+			death = yes
+		}
+	}
+	Astra_14 = {		#Empress Adrema IV of the Solaar Empire
+		name = "Adrema"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		female = yes
+		father = Astra_13
+		#mother = 
+		1834.1.1 = {
+			birth = yes
+		}
+		1904.1.1 = {
+			death = yes
+		}
+	}
+	Astra_15 = {		#Emperor Halandeth V of the Solaar Empire
+		name = "Halandeth"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		#father = 
+		mother = Astra_14
+		1862.1.1 = {
+			birth = yes
+		}
+		1936.1.1 = {
+			death = yes
+		}
+	}
+	Astra_16 = {		#Empress Rilitere III of the Solaar Empire
+		name = "Rilitere"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		female = yes
+		father = Astra_15
+		#mother = 
+		1889.1.1 = {
+			birth = yes
+		}
+		1982.1.1 = {
+			death = yes
+		}
+	}
+	Astra_17 = {		#Empress Adrema V of the Solaar Empire
+		name = "Adrema"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		female = yes
+		#father =
+		mother = Astra_16
+		1912.1.1 = {
+			birth = yes
+		}
+		2013.1.1 = {
+			death = yes
+		}
+	}
+	Astra_18 = {		#Emperor Veltaeran XII of the Solaar Empire
+		name = "Veltaeran"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		#father =
+		mother = Astra_17
+		1941.1.1 = {
+			birth = yes
+		}
+		2060.1.1 = {
+			death = yes
+		}
+	}
+	Astra_19 = {		#Emperor Taulwyr III of the Solaar Empire
+		name = "Taulwyr"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_18
+		#mother = 
+		1967.1.1 = {
+			birth = yes
+		}
+		2085.1.1 = {
+			death = yes
+		}
+	}
+	Astra_20 = {		#Emperor Cindrael VII of the Solaar Empire
+		name = "Cindrael"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_19
+		#mother = 
+		2002.1.1 = {
+			birth = yes
+		}
+		2103.1.1 = {
+			death = yes
+		}
+	}
+	Astra_21 = {		#Empress Rilitere IV of the Solaar Empire
+		name = "Rilitere"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		female = yes
+		father = Astra_20
+		#mother = 
+		2038.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Astra_22 = {		#Emperor Auren XV of the Solaar Empire
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		#father = 
+		mother = Astra_21
+		2067.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+	Astra_23 = {		#Emperor Galahath VIII of the Solaar Empire
+		name = "Galahath"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_22
+		#mother = 
+		2101.1.1 = {
+			birth = yes
+		}
+		2180.1.1 = {
+			death = yes
+		}
+	}
+	Astra_24 = {		#Emperor Celestal IV of the Solaar Empire
+		name = "Celestal"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = solaarin
+		father = Astra_23
+		#mother = 
+		2129.1.1 = {
+			birth = yes
+		}
+		2232.1.1 = {
+			death = yes
+		}
+	}
+#

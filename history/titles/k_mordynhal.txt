@@ -1,0 +1,175 @@
+﻿k_mordynhal = {
+	1871.1.1 = {
+		holder = Falhyrst_3				#King Stalwyn I
+	}
+	1904.1.1 = {
+		holder = Falhyrst_4a			#King Glangrim I
+	}
+	1917.1.1 = {
+		holder = Falhyrst_5				#King Stalwyn II
+	}
+	1942.1.1 = {
+		holder = Falhyrst_6				#King Theodrest I
+	}
+	1969.1.1 = {
+		holder = Falhyrst_7a			#King Vandyst I
+	}
+	1988.1.1 = {
+		holder = Falhyrst_8				#King Stalwyn III
+	}
+	1990.1.1 = {
+		holder = Falhyrst_7b1			#King Theodrest II
+	}
+	1994.1.1 = {
+		holder = Falhyrst_9c			#King Glangrim II
+	}
+	1996.1.1 = {
+		holder = Falhyrst_7b1			#King Theodrest II
+	}
+	2011.1.1 = {
+		holder = Falhyrst_11a			#King Vandyst II
+	}
+	2020.1.1 = {
+		holder = Falhyrst_12			#King Vulfran I
+	}
+	2041.1.1 = {
+		holder = Redwind_0				#King Deros I
+	}
+	2060.1.1 = {
+		holder = Redwind_1				#King Glangrim III
+	}
+	2064.1.1 = {
+		holder = Falhyrst_13b			#King Ashmyr I
+	}
+	2096.1.1 = {
+		holder = Falhyrst_14			#King Vulfran II
+	}
+	2120.1.1 = {
+		holder = Falhyrst_15a			#Queen Aefa I
+	}
+	2136.1.1 = {
+		holder = Ingwyd_1				#King Ashmyr II
+	}
+	2170.1.1 = {
+		holder = Ingwyd_2				#King Forgewyn I
+	}
+}
+#
+## Mordyn
+	d_mordyn = {
+		1794.1.1 = {
+			holder = Falhyrst_0			#Planeslord Cynric I
+		}
+		1822.1.1 = {
+			holder = Falhyrst_1			#Planeslord Aethanyr I
+		}
+		1850.1.1 = {
+			holder = Falhyrst_2			#Planeslord Aethanyr II
+		}
+		1864.1.1 = {
+			holder = Falhyrst_3			#King Stalwyn I
+		}
+		1904.1.1 = {
+			holder = Falhyrst_4a			#King Glangrim I
+		}
+		1917.1.1 = {
+			holder = Falhyrst_5				#King Stalwyn II
+		}
+		1942.1.1 = {
+			holder = Falhyrst_6				#King Theodrest I
+		}
+		1969.1.1 = {
+			holder = Falhyrst_7a			#King Vandyst I
+		}
+		1988.1.1 = {
+			holder = Falhyrst_8				#King Stalwyn III
+		}
+		1990.1.1 = {
+			holder = Falhyrst_7b1			#King Theodrest II
+		}
+		1994.1.1 = {
+			holder = Falhyrst_9c			#King Glangrim II
+		}
+		1996.1.1 = {
+			holder = Falhyrst_7b1			#King Theodrest II
+		}
+		2011.1.1 = {
+			holder = Falhyrst_11a			#King Vandyst II
+		}
+		2020.1.1 = {
+			holder = Falhyrst_12			#King Vulfran I
+		}
+		2041.1.1 = {
+			holder = Redwind_0				#King Deros I
+		}
+		2060.1.1 = {
+			holder = Redwind_1				#King Glangrim III
+		}
+		2064.1.1 = {
+			holder = Falhyrst_13b			#King Ashmyr I
+		}
+		2096.1.1 = {
+			holder = Falhyrst_14			#King Vulfran II
+		}
+		2120.1.1 = {
+			holder = Falhyrst_15a			#Queen Aefa I
+		}
+		2136.1.1 = {
+			holder = Ingwyd_1				#King Ashmyr II
+		}
+		2170.1.1 = {
+			holder = Ingwyd_2				#King Forgewyn I
+		}
+	}
+#
+## Dynalist
+	d_dynalist = {
+		1797.1.1 = {
+			holder = Wulfryn_0
+		}
+		1871.1.1 = {
+			liege = k_mordynhal
+			holder = Wulfryn_1a
+		}
+		1879.1.1 = {
+			holder = Wulfryn_2
+		}
+		1909.1.1 = {
+			holder = Wulfryn_3
+		}
+		1936.1.1 = {
+			holder = Wulfryn_4
+		}
+		1959.1.1 = {
+			holder = Fairhowe_01		#Plainslord Wyrgild I
+		}
+		1975.1.1 = {
+			holder = Fairhowe_0			#Plainslord Eadrid I
+		}
+		2007.1.1 = {
+			holder = Fairhowe_1a		#Plainslord Wyrgild II
+		}
+		2032.1.1 = {
+			holder = Fairhowe_2			#Plainslord Roderick I
+		}
+		2067.2.2 = {
+			holder = Fairhowe_3			#Plainslord Godfric I
+		}
+		2089.1.1 = {
+			holder = Fairhowe_4			#Theodrest III
+		}
+		2113.1.1 = {
+			holder = Fairhowe_5
+		}
+		2130.2.2 = {
+			holder = Fairhowe_6			
+		}
+		2136.1.1 = {
+			holder = Fairhowe_7
+		}
+		2153.1.1 = {
+			holder = Fairhowe_8
+		}
+	}
+#
+## Teringal

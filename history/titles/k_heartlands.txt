@@ -1,0 +1,1084 @@
+﻿e_chell = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 3 }
+	1387.1.1 = {
+		holder = 1		#Arterius the Golden
+	}
+	1415.1.1 = {
+        holder = 3		#Cahill the Great
+    }
+    1421.1.1 = {
+        holder = 4		#Maximus the Unready
+    }
+	1464.1.1 = {
+		holder = 5		#Nonus the Frail
+	}
+	1483.1.1 = {		
+		holder = 6		#Rolanus the Patriar
+	}
+	1512.1.1 = {
+		holder = 7		#Yon the Fruitful
+	}
+	1542.1.1 = {
+		holder = 8		#Rolanus II the Icetongue
+	}
+	1596.1.1 = {
+		holder = 9		#Herodius the Defeated
+	}
+	1640.1.1 = { 
+		holder = 0 #Elven Invasion
+	}
+	1818.1.1 = {
+		
+		holder = Goldenbrow_1		#Raulyn the Restorer
+	}
+	1832.1.1 = {
+		holder = Goldenbrow_2		#Raulyn the Old and Powerful
+	}
+	1883.1.1 = {
+		holder = Goldenbrow_35	#Sarden the Negotiator
+	}
+	1901.1.1 = {
+		holder = Goldenbrow_37 #Raulyn III the Butcher of Kaligaia
+	}
+	1931.1.1 = {
+		holder = Goldenbrow_38 #Perseus I the Old
+	}
+	1979.1.1 = {
+		holder = Goldenbrow_40 #Raulyn IV the Conqueror of Sauvignon
+	}
+	2004.1.1 = {
+		holder = Goldenbrow_41 #Perseus II
+	}
+	2012.1.1 = {
+		holder = Goldenbrow_42 #Perseus III the Gourmand
+	}
+	2026.1.1 = {
+		holder = Goldenbrow_43 #Rhydan the Magnificent
+	}
+	2045.1.1 = {
+		holder = Goldenbrow_44 #Rolanus III
+	}
+	2060.1.1 = {
+		holder = Goldenbrow_45 #Rhydan II, Slayer and Slain
+	}
+	2066.1.1 = {
+		holder = Goldenbrow_47 #Amoryn I the Just
+	}
+	2103.1.1 = {
+		holder = Goldenbrow_50 #Marion, Queen of Stars
+	}
+	2141.1.1 = {
+		holder = Goldenbrow_51 #Evardus the Bloody
+	}
+	2143.1.1 = {
+		holder = Paleheart_3 #False-King Trystyr
+	}
+	2145.1.1 = {
+		holder = Goldenbrow_51 #Evardus the Bloody
+	}
+	2146.1.1 = {
+		holder = Paleheart_3
+	}
+	2149.1.1 = {
+		holder = Paleheart_4
+	}
+	2150.1.1 = {
+		holder = Goldenbrow_51
+	}
+}
+
+k_titular_old_kingdom_of_chell = {
+	1211.1.1 = {
+		holder = Goldenbrow_28		#Rolanus II of Elder Chell
+	}
+	1249.1.1 = {
+		holder = Goldenbrow_24		#Nonus I
+	}
+	1292.1.1 = {
+		holder = Goldenbrow_23		#Nonus II
+	}
+	1326.1.1 = {
+		holder = Goldenbrow_20		#Aurent the Illustrious
+	}
+	1359.1.1 = {
+		holder = Goldenbrow_19		#Cahill the Elder
+	}
+	1379.1.1 = {
+		holder = 1		#Arterius the Golden
+	}
+	1415.1.1 = {
+       	holder = 3		#Cahill the Great
+    }
+   	1421.1.1 = {
+      	holder = 4		#Maximus the Unready
+    }
+	1464.1.1 = {
+		holder = 5		#Nonus the Frail
+	}
+	1483.1.1 = {		
+		holder = 6		#Rolanus the Patriar
+	}
+	1512.1.1 = {
+		holder = 7		#Yon the Fruitful
+	}
+	1542.1.1 = {
+		holder = 8		#Rolanus II
+	}
+	1596.1.1 = {
+		holder = 9		#Herodius the Defeated
+	}
+	1642.1.1 = {
+		holder = 11		#Arterius vi
+	}
+	1662.1.1 = {
+		holder = 12
+	}
+	1703.1.1 = {
+		holder = 13
+	}
+	1720.1.1 = {
+		holder = 14
+	}
+	1739.1.1 = {
+		holder = 15
+	}
+	1768.1.1 = {
+		holder = 16
+	}
+	1801.1.1 = {
+		holder = Goldenbrow_1
+	}
+	1818.1.1 = {
+		holder = 0
+	}
+}
+
+k_heartlands = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 3 }
+}
+
+d_bloodstone = {
+	1792.1.1 = {
+		government = rogue_government
+		holder = 30
+	}
+	1796.1.1 = {
+		holder = 29
+	}
+	1821.1.1 = {
+		holder = 0
+	}
+}
+d_saltblood = {
+	1789.1.1 = {
+		holder = 32
+		government = rogue_government
+	}
+	1822.1.1 = {
+		holder = 0
+	}
+}
+d_dreadguard_of_chell = {
+	
+}
+## Cahillion ############################################
+	d_cahillion = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 3 }
+		1415.1.1 = {
+			holder = 3		#Cahill the Great
+		}
+		1421.1.1 = {
+			holder = 4		#Maximus the Unready
+		}
+		1464.1.1 = {
+			holder = 5		#Nonus the Frail
+		}
+		1483.1.1 = {		
+			holder = 6		#Rolanus the Patriar
+		}
+		1512.1.1 = {
+			holder = 7		#Yon the Fruitful
+		}
+		1542.1.1 = {
+			holder = 8		#Rolanus II
+		}
+		1596.1.1 = {
+			holder = 9		#Herodius the Defeated
+		}
+	}
+	c_cahillion = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 6 }
+		767.1.1 = { government = feudal_government }
+		1415.1.1 = {
+			holder = 3		#Cahill the Great
+		}
+		1421.1.1 = {
+			holder = 4		#Maximus the Unready
+		}
+		1464.1.1 = {
+			holder = 5		#Nonus the Frail
+		}
+		1483.1.1 = {		
+			holder = 6		#Rolanus the Patriar
+		}
+		1512.1.1 = {
+			holder = 7		#Yon the Fruitful
+		}
+		1542.1.1 = {
+			holder = 8		#Rolanus II
+		}
+		1596.1.1 = {
+			holder = 9		#Herodius the Defeated
+		}
+	}
+	c_lower_cahillion = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 4 }
+		767.1.1 = { government = feudal_government }
+		1415.1.1 = {
+			holder = 3		#Cahill the Great
+		}
+		1421.1.1 = {
+			holder = 4		#Maximus the Unready
+		}
+		1464.1.1 = {
+			holder = 5		#Nonus the Frail
+		}
+		1483.1.1 = {		
+			holder = 6		#Rolanus the Patriar
+		}
+		1512.1.1 = {
+			holder = 7		#Yon the Fruitful
+		}
+		1542.1.1 = {
+			holder = 8		#Rolanus II
+		}
+		1596.1.1 = {
+			holder = 9		#Herodius the Defeated
+		}
+	}
+	c_cahills_crossing = {
+		1818.1.1 = {
+			holder = Penwater_2
+		}
+		1846.1.1 = {
+			holder = Penwater_1
+		}
+		1887.1.1 = {
+			holder = penwater_4
+		}
+	}
+#
+## Silvercrest ##########################################
+	d_silvercrest = {
+		1502.1.1 = {
+			liege = e_chell
+			holder = Atara_0		#Duke Atar I
+		}
+		1556.1.1 = {
+			holder = Atara_1		#Duke Valos I
+		}
+		1559.1.1 = {
+			holder = Atara_2		#Duke Amryn I
+		}
+		1568.1.1 = {
+			holder = Atara_3		#Duke Valos II
+		}
+		1577.1.1 = {
+			holder = Atara_4a		#Duke Charois I
+		}
+		1579.1.1 = {
+			holder = Atara_4b		#Duchess Melara I
+		}
+		1617.1.1 = {
+			holder = Atara_5		#Duke Amryn II
+		}
+		1640.1.1 = {
+			holder = 0
+		}
+		1818.1.1 = {
+			holder = Atara_13		#Duke Atar II
+		}
+		1846.1.1 = {
+			holder = Atara_14		#Duke Aurius I
+		}
+		1875.1.1 = {
+			holder = Atara_15		#Duke Amryn III
+		}
+		1918.1.1 = {
+			holder = Atara_16		#Duke Astarin I
+		}
+		1940.1.1 = {
+			holder = Starfall_5		#Duke Aurius II
+		}
+		1962.1.1 = {
+			holder = Starfall_6		#Duke Aurius III
+		}
+		1986.1.1 = {
+			holder = Starfall_7		#Duke Aurius IV
+		}
+		1998.1.1 = {
+			holder = Starfall_8		#Duke Charois II
+		}
+		2024.1.1 = {
+			holder = Starfall_9a	#Duke Aurius V	
+		}
+		2026.1.1 = {
+			holder = Starfall_9b	#Duke Valos III
+		}
+		2039.1.1 = {
+			holder = Starfall_11	#Duke Aurius VI
+		}
+		2065.1.1 = {
+			holder = Starfall_12a	#Duke Aurius VII
+		}
+		2077.1.1 = {
+			holder = Starfall_12b	#Duke Theodoran I
+		}
+		2118.1.1 = {
+			holder = Starfall_13	#Duke Theodoran II
+		}
+		2131.1.1 = {
+			holder = Starfall_14	#Duke Aurius VIII
+		}
+		2170.1.1 = {
+			holder = Starfall_15a	#Duke Aurius IX
+		}
+		2207.1.1 = {
+			holder = Starfall_16	#Duke Vestian I
+		}
+	}
+	c_silverharbour = {
+		1789.1.1 = {
+			holder = 32
+		}
+		1818.1.1 = {
+			holder = Atara_13		#Duke Atar II
+		}
+		1846.1.1 = {
+			holder = Atara_14		#Duke Aurius I
+		}
+		1875.1.1 = {
+			holder = Atara_15		#Duke Amryn III
+		}
+		1918.1.1 = {
+			holder = Atara_16		#Duke Astarin I
+		}
+		1940.1.1 = {
+			holder = Starfall_5		#Duke Aurius II
+		}
+		1962.1.1 = {
+			holder = Starfall_6		#Duke Aurius III
+		}
+		1986.1.1 = {
+			holder = Starfall_7		#Duke Aurius IV
+		}
+		1998.1.1 = {
+			holder = Starfall_8		#Duke Charois II
+		}
+		2024.1.1 = {
+			holder = Starfall_9a	#Duke Aurius V	
+		}
+		2026.1.1 = {
+			holder = Starfall_9b	#Duke Valos III
+		}
+		2039.1.1 = {
+			holder = Starfall_11	#Duke Aurius VI
+		}
+		2065.1.1 = {
+			holder = Starfall_12a	#Duke Aurius VII
+		}
+		2077.1.1 = {
+			holder = Starfall_12b	#Duke Theodoran I
+		}
+		2118.1.1 = {
+			holder = Starfall_13	#Duke Theodoran II
+		}
+		2131.1.1 = {
+			holder = Starfall_14	#Duke Aurius VIII
+		}
+		2170.1.1 = {
+			holder = Starfall_15a	#Duke Aurius IX
+		}
+		2207.1.1 = {
+			holder = Starfall_16	#Duke Vestian I
+		}
+	}
+	c_quiet_crossing = {
+		1789.1.1 = {
+			holder = 32
+		}
+		1807.1.1 = {
+			liege = e_chell
+		}
+		1818.1.1 = {
+			liege = d_silvercrest
+		}
+		2006.1.1 = {
+			holder = Bronzewell_2
+		}
+		2032.1.1 = {
+			holder = Bronzewell_1
+		}
+		2056.1.1 = {
+			holder = Bronzewell_3
+		}
+		2084.1.1 = {
+			holder = Bronzewell_6
+		}
+		2108.1.1 = {
+			holder = Bronzewell_7
+		}
+		2114.1.1 = {
+			holder = Bronzewell_8
+		}
+		2132.1.1 = {
+			holder = Bronzewell_9
+		}
+		2160.1.1 = {
+			holder = Bronzewell_10
+		}
+		2204.1.1 = {
+			holder = Bronzewell_15
+		}
+		2219.1.1 = {
+			holder = Bronzewell_16
+		}
+	}
+	c_dragongrave = {
+		1818.1.1 = {
+			holder = Meron_1
+		}
+		1845.1.1 = {
+			holder = Meron_2
+		}
+		1919.1.1 = {
+			holder = Clearstream_5
+		}
+		1931.1.1 = {
+			holder = Clearstream_4
+		}
+		1937.1.1 = {
+			holder = Clearstream_3
+		}
+		2006.1.1 = {
+			holder = Clearstream_2
+		}
+		2023.1.1 = {
+			holder = Clearstream_1
+		}
+		2044.1.1 = {
+			holder = Clearstream_6
+		}
+		2089.1.1 = {
+			holder = Clearstream_7
+		}
+		2106.1.1 = {
+			holder = Clearstream_8
+		}
+		2130.1.1 = {
+			holder = Sagescribe_2
+		}
+		2154.1.1 = {
+			holder = Sagescribe_3
+		}
+		2171.1.1 = {
+			holder = Sagescribe_4
+		}
+	}
+	c_dragonslope = {
+		1818.1.1 = {
+			holder = Meron_1
+		}
+		1845.1.1 = {
+			holder = Meron_2
+		}
+		1919.1.1 = {
+			holder = Clearstream_5
+		}
+		1931.1.1 = {
+			holder = Clearstream_4
+		}
+		1937.1.1 = {
+			holder = Clearstream_3
+		}
+		2006.1.1 = {
+			holder = Clearstream_2
+		}
+		2023.1.1 = {
+			holder = Clearstream_1
+		}
+		2044.1.1 = {
+			holder = Clearstream_6
+		}
+		2089.1.1 = {
+			holder = Clearstream_7
+		}
+		2106.1.1 = {
+			holder = Clearstream_8
+		}
+		2130.1.1 = {
+			holder = Sagescribe_2
+		}
+		2154.1.1 = {
+			holder = Sagescribe_3
+		}
+		2171.1.1 = {
+			holder = Sagescribe_4
+		}
+	}
+#
+## Chell ################################################
+	d_chell = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 5 }
+		1211.1.1 = {
+			holder = 28		#Rolanus II of Elder Chell
+		}
+		1249.1.1 = {
+			holder = 24		#Nonus I
+		}
+		1292.1.1 = {
+			holder = 23		#Nonus II
+		}
+		1326.1.1 = {
+			holder = 20		#Aurent the Illustrious
+		}
+		1359.1.1 = {
+			holder = 19		#Cahill the Elder
+		}
+		1379.1.1 = {
+			holder = 1		#Arterius the Golden
+		}
+		1415.1.1 = {
+			holder = 3		#Cahill the Great
+		}
+		1421.1.1 = {
+			holder = 4		#Maximus the Unready
+		}
+		1464.1.1 = {
+			holder = 5		#Nonus the Frail
+		}
+		1483.1.1 = {		
+			holder = 6		#Rolanus the Patriar
+		}
+		1512.1.1 = {
+			holder = 7		#Yon the Fruitful
+		}
+		1542.1.1 = {
+			holder = 8		#Rolanus II
+		}
+		1596.1.1 = {
+			holder = 9		#Herodius the Defeated
+		}
+		1642.1.1 = {
+			holder = 11		#Arterius vi
+		}
+		1662.1.1 = {
+			holder = 12
+		}
+		1703.1.1 = {
+			holder = 13
+		}
+		1720.1.1 = {
+			holder = 14
+		}
+		1739.1.1 = {
+			holder = 15
+		}
+		1768.1.1 = {
+			holder = 16
+		}
+		1801.1.1 = {
+			holder = Goldenbrow_1
+		}
+	}
+#
+## Chell Inaurin ########################################
+	d_chell_inaurin = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 3 }
+		1819.1.1 = {
+			liege = e_chell
+		}
+		1892.1.1 = {
+			holder = Paleheart_19
+		}
+		1934.1.1 = {
+			holder = Paleheart_18
+		}
+		1941.1.1 = {
+			holder = Paleheart_15
+		}
+		1956.1.1 = {
+			holder = Paleheart_14
+		}
+		1979.1.1 = {
+			holder = Paleheart_12
+		}
+		2006.1.1 = {
+			holder = Paleheart_10
+		}
+		2008.1.1 = {
+			holder = Paleheart_8
+		}
+		2041.1.1 = {
+			holder = Paleheart_9
+		}
+		2046.1.1 = {
+			holder = Paleheart_7
+		}
+		2097.1.1 = {
+			holder = Paleheart_6
+		}
+		2104.1.1 = {
+			holder = Paleheart_5
+		}
+		2121.1.1 = {
+			holder = Paleheart_1
+		}
+		2150.1.1 = {
+			holder = Paleheart_2
+		}
+	}
+	c_inaurvon = {
+		2006.1.1 = {
+			holder = Paleheart_10
+		}
+		2008.1.1 = {
+			holder = Paleheart_8
+		}
+		2041.1.1 = {
+			holder = Paleheart_9
+		}
+		2046.1.1 = {
+			holder = Paleheart_7
+		}
+		2097.1.1 = {
+			holder = Paleheart_6
+		}
+		2104.1.1 = {
+			holder = Paleheart_5
+		}
+		2121.1.1 = {
+			holder = Paleheart_1
+		}
+		2150.1.1 = {
+			holder = Paleheart_2
+		}
+	}
+	c_fort_inaurus = {
+		2006.1.1 = {
+			holder = Paleheart_10
+		}
+		2008.1.1 = {
+			holder = Paleheart_8
+		}
+		2041.1.1 = {
+			holder = Paleheart_9
+		}
+		2046.1.1 = {
+			holder = Paleheart_7
+		}
+		2097.1.1 = {
+			holder = Paleheart_6
+		}
+		2104.1.1 = {
+			holder = Paleheart_5
+		}
+		2121.1.1 = {
+			holder = Paleheart_1
+		}
+		2150.1.1 = {
+			holder = Paleheart_2
+		}
+	}
+	c_terac_dal = {
+		1789.1.1 = {
+			holder = 32
+		}
+		2121.1.1 = {
+			holder = Paleheart_1
+		}
+		2150.1.1 = {
+			holder = Paleheart_2
+		}
+	}
+	c_haron_overlook = {
+		1789.1.1 = {
+			holder = 32
+		}
+		2121.1.1 = {
+			holder = Paleheart_1
+		}
+		2150.1.1 = {
+			holder = Paleheart_2
+		}
+	}
+#
+## Crown Coast ##########################################
+	d_crown_coast = {
+
+	}
+	c_arcan = {
+
+	}
+	c_silvershore = {
+		1789.1.1 = {
+			holder = 32
+		}
+	}
+	c_whitehall = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_princewood = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_dragonwood = {
+
+	}
+#
+## Verifer ##############################################
+	d_verifer = {
+		1624.1.1 = {
+			liege = e_chell
+			holder = Talis_0		#Duke Aurius II
+		}
+		1640.1.1 = {
+			liege = e_volokar
+			holder = 0
+		}
+		1818.1.1 = {
+			liege = e_chell
+			holder = Talis_8		#Duke Caelus IV
+		}
+		1845.1.1 = {
+			holder = Talis_9		#Duke Aurius III
+		}
+		1868.1.1 = {
+			holder = Talis_10		#Duke Joruis I
+		}
+		1885.1.1 = {
+			holder = Talis_11		#Duke Joruis II
+		}
+		1892.1.1 = {
+			holder = Talis_12		#Duke Emeron I
+		}
+		1949.1.1 = {
+			holder = Talis_13		#Duke Proteus I
+		}
+		1970.1.1 = {
+			holder = Talis_14		#Duke Emeron II
+		}
+		1986.1.1 = {
+			holder = Talis_15		#Duke Proteus II
+		}
+		2022.1.1 = {
+			holder = Talis_16		#Duke Caelus V
+		}
+		2040.2.2 = {
+			holder = Talis_17		#Duke Letho I
+		}
+		2051.1.1 = {
+			holder = Talis_18		#Duke Caelus VI
+		}
+		2075.1.1 = {
+			holder = Talis_19		#Duke Proteus III
+		}
+		2091.1.1 = {
+			holder = Talis_20		#Duke Aurius IV
+		}
+		2120.1.1 = {
+			holder = Talis_21		#Duke Caelus VII
+		}
+		2158.1.1 = {
+			holder = Talis_22a		#Duke Letho II
+		}
+		2192.1.1 = {
+			holder = Talis_24		#Duke Joruis III
+		}
+	}
+	c_rivermouth = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_galros_fall = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_gelrirv = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_southmount = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_parrterre = {
+		1792.1.1 = {
+			holder = 30
+		}
+		1796.1.1 = {
+			holder = 29
+		}
+	}
+	c_mountainwash = {
+		1819.1.1 = {
+			holder = Oroth_0		#Count Astarin I
+		}
+		1840.1.1 = {
+			holder = Oroth_1a		#Count Kalos I
+		}
+		1842.1.1 = {
+			holder = Oroth_1b		#Count Astarin II
+		}
+		1857.1.1 = {
+			holder = Oroth_2		#Count Kalos II
+		}
+		1884.1.1 = {
+			holder = Oroth_3		#Count Ender the Avaricious
+		}
+	}
+#
+## Palorum Meridis ######################################
+	d_palorum_meridis = {
+		1803.1.1 = { change_development_level = 5 }
+		1784.1.1 = {
+			holder = 16
+		}
+		1801.1.1 = {
+			holder = Goldenbrow_1
+		}
+	}
+#
+## StoneTrough ##########################################
+	d_stonetrough = {
+
+	}
+	c_stonetrough = {
+
+	}
+	c_stonevale = {
+		#1803.1.1 = {
+		#	government = rogue_government
+		#}
+	}
+#
+## Terrax Media #########################################
+	d_terrax_media = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 3 }
+		1341.1.1 = {
+			liege = k_titular_old_kingdom_of_chell
+		}
+		1791.1.1 = {
+			holder = Pyrestar_01	#Duke Amoryn II
+		}
+		1797.1.1 = {
+			holder = Pyrestar_0		#Duke Valos V
+		}
+		1818.1.1 = {
+			liege = e_chell
+		}
+		1850.1.1 = {
+			holder = Pyrestar_1		#Duke Kiron II
+		}
+		1877.1.1 = {
+			holder = Pyrestar_2		#Duke Valos VI
+		}
+		1904.1.1 = {
+			holder = Pyrestar_3a	#Duke Valos VII 
+		}
+		1930.1.1 = {
+			holder = Pyrestar_4		#Duke Kirion IV
+		}
+		1949.1.1 = {
+			holder = Pyrestar_5		#Duke Rallon III
+		}
+		1956.1.1 = {
+			holder = Pyrestar_6a	#Duchess Teleria I
+		}
+		2014.1.1 = {
+			holder = Pyrestar_7		#Duke Heron I
+		}
+		2026.1.1 = {
+			holder = Pyrestar_8		#Duke Amoryn III
+		}
+		2054.1.1 = {
+			holder = Pyrestar_9b	#Duchess Teleria II
+		}
+		2081.1.1 = {
+			holder = Coldstar_6a	#Duke Talis III
+		}
+		2109.1.1 = {
+			holder = Coldstar_7		#Duke Valos VIII
+		}
+		2128.1.1 = {
+			holder = Coldstar_8		#Duke Kirion V
+		}
+		2142.1.1 = {
+			holder = Coldstar_9		#Duke Heron II
+		}
+		2161.1.1 = {
+			holder = Coldstar_10	#Duke Rallon IV
+		}
+		2197.1.1 = {
+			holder = Coldstar_11	#Duke Casius IV
+		}
+	}
+	c_terrax_allon = {
+		#1341.1.1 = {
+		#	holder = Pyrestar_00
+		#}
+		1791.1.1 = {
+			holder = Pyrestar_01	#Duke Amoryn II
+		}
+		1797.1.1 = {
+			holder = Pyrestar_0		#Duke Valos V
+		}
+		1850.1.1 = {
+			holder = Pyrestar_1		#Duke Kiron II
+		}
+		1877.1.1 = {
+			holder = Pyrestar_2		#Duke Valos VI
+		}
+		1904.1.1 = {
+			holder = Pyrestar_3a	#Duke Valos VII 
+		}
+		1930.1.1 = {
+			holder = Pyrestar_4		#Duke Kirion IV
+		}
+		1949.1.1 = {
+			holder = Pyrestar_5		#Duke Rallon III
+		}
+		1956.1.1 = {
+			holder = Pyrestar_6a	#Duchess Teleria I
+		}
+		2014.1.1 = {
+			holder = Pyrestar_7		#Duke Heron I
+		}
+		2026.1.1 = {
+			holder = Pyrestar_8		#Duke Amoryn III
+		}
+		2054.1.1 = {
+			holder = Pyrestar_9b	#Duchess Teleria II
+		}
+		2081.1.1 = {
+			holder = Coldstar_6a	#Duke Talis III
+		}
+		2109.1.1 = {
+			holder = Coldstar_7		#Duke Valos VIII
+		}
+		2128.1.1 = {
+			holder = Coldstar_8		#Duke Kirion V
+		}
+		2142.1.1 = {
+			holder = Coldstar_9		#Duke Heron II
+		}
+		2161.1.1 = {
+			holder = Coldstar_10	#Duke Rallon IV
+		}
+		2197.1.1 = {
+			holder = Coldstar_11	#Duke Casius IV
+		}
+	}
+	c_perin = {
+		1791.1.1 = {
+			holder = Pyrestar_01	#Duke Amoryn II
+		}
+		1797.1.1 = {
+			holder = Pyrestar_0		#Duke Valos V
+		}
+		1850.1.1 = {
+			holder = Pyrestar_1		#Duke Kiron II
+		}
+		1877.1.1 = {
+			holder = Pyrestar_2		#Duke Valos VI
+		}
+		1904.1.1 = {
+			holder = Pyrestar_3a	#Duke Valos VII 
+		}
+		1930.1.1 = {
+			holder = Pyrestar_4		#Duke Kirion IV
+		}
+		1949.1.1 = {
+			holder = Pyrestar_5		#Duke Rallon III
+		}
+		1956.1.1 = {
+			holder = Pyrestar_6a	#Duchess Teleria I
+		}
+		2014.1.1 = {
+			holder = Pyrestar_7		#Duke Heron I
+		}
+		2026.1.1 = {
+			holder = Pyrestar_8		#Duke Amoryn III
+		}
+		2054.1.1 = {
+			holder = Pyrestar_9b	#Duchess Teleria II
+		}
+		2081.1.1 = {
+			holder = Coldstar_6a	#Duke Talis III
+		}
+		2109.1.1 = {
+			holder = Coldstar_7		#Duke Valos VIII
+		}
+		2128.1.1 = {
+			holder = Coldstar_8		#Duke Kirion V
+		}
+		2142.1.1 = {
+			holder = Coldstar_9		#Duke Heron II
+		}
+		2161.1.1 = {
+			holder = Coldstar_10	#Duke Rallon IV
+		}
+		2197.1.1 = {
+			holder = Coldstar_11	#Duke Casius IV
+		}
+	}
+	c_allonwood = {
+
+	}
+	c_oldash = {
+
+	}
+	c_flamewyre_tower = {
+		1457.1.1 = {
+			holder = Dusk_00
+		}
+		2129.1.1 = {
+			liege = d_terrax_media
+			holder = Goldenbrow_49
+		}
+	}
+#
+## Godseye ##############################################

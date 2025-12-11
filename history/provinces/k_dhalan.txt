@@ -1,0 +1,260 @@
+# Dhalan
+## Dhalan
+	### Dhalan
+	1172 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1173 = {
+		holding = city_holding
+	}
+	1174 = {
+		holding = castle_holding
+	}
+	1175 = {
+		holding = none
+	}
+	### Takezi
+	1176 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1177 = {
+		holding = none
+	}
+	### Harlos
+	1178 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1179 = {
+		holding = none
+	}
+	1180 = {
+		holding = none
+	}
+	### Meran
+	1181 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1182 = {
+		holding = none
+	}
+	### Malual
+	1183 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1184 = {
+		holding = none
+	}
+	1185 = {
+		holding = none
+	}
+	### Hozana
+	1186 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1187 = {
+		holding = none
+	}
+	### Wadasan
+	1188 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1189 = {
+		holding = none
+	}
+	1190 = {
+		holding = none
+	}
+	### Senfalin
+	1191 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1192 = {
+		holding = none
+	}
+## Vanda Halx
+	### Talan
+	1207 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1208 = {
+		holding = none
+	}
+	1209 = {
+		holding = none
+	}
+	1210 = {
+		holding = none
+	}
+	### Iso Vysal
+	1211 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Quob
+	1212 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1213 = {
+		holding = none
+	}
+	### Za Ortal
+	1214 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1215 = {
+		holding = none
+	}
+	### Tazan
+	1216 = {
+		culture = dhalanim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1217 = {
+		holding = none
+	}
+	1218 = {
+		holding = none
+	}
+## Ichorsand
+	### Ara Errasa
+	1219 = {
+		culture = vandalin
+		religion = aurementic
+		holding = castle_holding
+	}
+	1220 = {
+		holding = none
+	}
+	1221 = {
+		holding = none
+	}
+	1222 = {
+		holding = none
+	}
+	### Bukalon
+	1223 = {
+		culture = vandalin
+		religion = aurementic
+		holding = castle_holding
+	}
+	1224 = {
+		holding = none
+	}
+	1225 = {
+		holding = none
+	}
+	1226 = {
+		holding = none
+	}
+	### Gisluat
+	1227 = {
+		culture = vandalin
+		religion = aurementic
+		holding = castle_holding
+	}
+	1228 = {
+		holding = none
+	}
+	1229 = {
+		holding = none
+	}
+	### Vanadlana
+	1230 = {
+		culture = vandalin
+		religion = aurementic
+		holding = castle_holding
+	}
+	1231 = {
+		holding = none
+	}
+	1232 = {
+		holding = none
+	}
+	### Gorana
+	1233 = {
+		culture = vandalin
+		religion = aurementic
+		holding = castle_holding
+	}
+	1234 = {
+		holding = none
+	}
+## Sandwraith
+	### Tegara
+	1193 = {
+		culture = tegarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1194 = {
+		holding = none
+	}
+	1195 = {
+		holding = none
+	}
+	1196 = {
+		holding = none
+	}
+	### Halkesa
+	1198 = {
+		culture = tegarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1200 = {
+		holding = none
+	}
+	1199 = {
+		holding = none
+	}
+	### Talad
+	1201 = {
+		culture = tegarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1202 = {
+		holding = none
+	}
+	1197 = {
+		holding = none
+	}
+	### Medkran
+	1203 = {
+		culture = tegarim
+		religion = aurementic
+		holding = castle_holding
+	}
+	1204 = {
+		holding = none
+	}
+	1205 = {
+		holding = none
+	}
+	1206 = {
+		holding = none
+	}

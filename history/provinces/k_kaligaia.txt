@@ -1,0 +1,399 @@
+﻿#k_kaligaia
+##d_kaligaia###################################
+###c_kaliopolis
+845 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+846 = {
+	holding = city_holding
+}
+847 = {
+	holding = city_holding
+}
+848 = {
+	holding = none
+}
+849 = {
+	holding = none
+}
+
+###c_argedian_forest
+850 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+851 = {
+	holding = none
+}
+852 = {
+	holding = church_holding
+}
+
+###c_fields_of_kaelos
+854 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+855 = {
+	holding = none
+}
+856 = {
+	holding = city_holding
+}
+857 = {
+	holding = castle_holding
+}
+
+###c_metena
+857 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+858 = {
+	holding = city_holding
+}
+859 = {
+	holding = city_holding
+}
+
+###c_photonis
+860 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+861 = {
+	holding = city_holding
+}
+862 = {
+	holding = none
+}
+863 = {
+	holding = none
+}
+
+##d_knostheos####################################
+###c_knostheos
+865 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+866 = {
+	holding = city_holding
+}
+867 = {
+	holding = none
+}
+868 = {
+	holding = none
+}
+###c_phyrigia
+869 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+870 = {
+	holding = city_holding
+}
+871 = {
+	holding = church_holding
+}
+872 = {
+	holding = castle_holding
+}
+###c_haemopolis
+873 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+874 = {
+	holding = city_holding
+}
+875 = {
+	holding = church_holding
+}
+###c_deros
+864 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+###c_idosia
+876 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+877 = {
+	holding = city_holding
+}
+878 = {
+	holding = none
+}
+879 = {
+	holding = none
+}
+
+##d_akelonia#####################################
+###c_akelon
+880 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+881 = {
+	holding = city_holding
+}
+882 = {
+	holding = city_holding
+}
+883 = {
+	holding = none
+}
+###c_myderos
+884 = {
+	holding = city_holding
+}
+885 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+886 = {
+	holding = none
+}
+###c_thermia
+887 = {
+	holding = none
+}
+888 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+889 = {
+	holding = city_holding
+}
+890 = {
+	holding = castle_holding
+}
+
+##d_valexios_islands#############################
+###c_nisa_valexios
+891 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+892 = {
+	holding = city_holding
+}
+893 = {
+	holding = none
+}
+894 = {
+	holding = church_holding
+}
+###c_myriae
+895 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+896 = {
+	holding = city_holding
+}
+
+##d_hellidos#####################################
+###c_sirens_shore
+897 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+###c_avarian_hills
+898 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+899 = {
+	holding = city_holding
+}
+900 = {
+	holding = none
+}
+901 = {
+	holding = none
+}
+###c_dymoxa
+902 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+903 = {
+	holding = none
+}
+904 = {
+	holding = none
+}
+###c_etrelopis
+905 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+906 = {
+	holding = city_holding
+}
+907 = {
+	holding = none
+}
+908 = {
+	holding = city_holding
+}
+909 = {
+	holding = church_holding
+}
+###c_karkala
+910 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+911 = {
+	holding = city_holding
+}
+912 = {
+	holding = church_holding
+}
+###c_diocles_burden
+913 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+914 = {
+	holding = city_holding
+}
+
+##d_chytonakti###################################
+###c_pyrokestia
+915 = {
+	culture = deledani
+	religion = aurementic
+	holding = castle_holding
+}
+916 = {
+	holding = city_holding
+}
+917 = {
+	holding = city_holding
+}
+918 = {
+	holding = none
+}
+###c_apeiros
+919 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+920 = {
+	holding = none
+}
+###c_marvo_spathi
+921 = {
+	culture = deledani
+	religion = aurementic
+	holding = castle_holding
+}
+###c_orenes
+922 = {
+	culture = deledani
+	religion = aurementic
+	holding = castle_holding
+}
+923 = {
+	holding = castle_holding
+}
+924 = {
+	holding = city_holding
+}
+###c_lefanti
+925 = {
+	culture = deledani
+	religion = aurementic
+	holding = castle_holding
+}
+926 = {
+	holding = city_holding
+}
+927 = {
+	holding = church_holding
+}
+###c_vasedonia
+928 = {
+	culture = deledani
+	religion = aurementic
+	holding = castle_holding
+}
+929 = {
+	holding = city_holding
+}
+930 = {
+	holding = none
+}
+931 = {
+	holding = none
+}
+###c_kalagos
+932 = {
+	culture = deledani
+	religion = aurementic
+	holding = castle_holding
+}
+933 = {
+	holding = city_holding
+}
+
+##d_maras_lament#################################
+###c_maras_lament
+934 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+935 = {
+	holding = city_holding
+}
+936 = {
+	holding = church_holding
+}
+###c_kathagro
+937 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+938 = {
+	holding = none
+}
+###c_chioneskos_bay
+939 = {
+	culture = kalidorian
+	religion = aurementic
+	holding = castle_holding
+}
+940 = {
+	holding = city_holding
+}

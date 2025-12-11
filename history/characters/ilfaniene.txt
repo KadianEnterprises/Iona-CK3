@@ -1,0 +1,9197 @@
+﻿### House Lavosan ################################
+	Lavosan_04 = { #Lord Clovis Lavosan the Translator
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = 5
+		religion = "aurementic"
+		culture = vyargale
+		#father = 
+		mother = Maredan_3b		#Lady Andreja Maredan
+		1731.1.1 = {
+			birth = yes
+		}
+		1794.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_3 = {	#Prince Cyricus, Warlord of Tamilon
+		name = "Cyricus"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		father = Lavosan_04
+		#mother = 
+		trait = education_diplomacy_2
+		trait = greedy
+		trait = diligent
+		trait = fickle
+		trait = physique_bad_1
+		trait = cautious_leader
+		1760.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			death = yes
+		}
+	}
+	33 = {			#Prince Cyricus II of Tamilon
+		name = "Cyricus"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		trait = education_diplomacy_2
+		trait = greedy
+		trait = diligent
+		trait = fickle
+		trait = physique_bad_1
+		trait = cautious_leader
+		father = Lavosan_3
+		#mother = 
+		1781.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	34 = {			#King Clovis I the Ambitious
+		name = "Clovis"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 8
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = vyargale
+		give_nickname = nick_the_ambitious
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = 33
+		1807.1.1 = {
+			birth = yes
+		}
+		1881.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_4 = {	#Cyricus I of Sauvignon
+		name = "Cyricus"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		trait = education_diplomacy_2
+		trait = greedy
+		trait = diligent
+		trait = fickle
+		trait = physique_bad_1
+		trait = cautious_leader
+		father = 34
+		1828.1.1 = {
+			birth = yes
+		}
+		1889.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_5 = {	#Niberias the Calm
+		name = "Niberias"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		give_nickname = nick_the_calm
+		#trait = education_diplomacy_2
+		father = Lavosan_4
+		1828.1.1 = {
+			birth = yes
+		}
+		1930.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_6 = {	#Cyricus the Tall
+		name = "Cyricus"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		give_nickname = nick_the_tall
+		trait = education_diplomacy_2
+		father = Lavosan_5
+		trait = giant
+		1873.1.1 = {
+			birth = yes
+		}
+		1956.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_7 = {	#Queen Aresena I
+		name = "Aresena"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		female = yes
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_6
+		1894.1.1 = {
+			birth = yes
+		}
+		1960.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_8 = {	#King Hanlan I
+		name = "Hanlan"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_7
+		1919.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_9 = {	#Queen Nicolyra I
+		name = "Nicolyra"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		female = yes
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_8
+		1934.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_10 = {	#Queen Aresena II
+		name = "Aresena"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		female = yes
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		give_nickname = nick_the_old
+		#trait = education_diplomacy_2
+		father = Lavosan_9
+		1953.1.1 = {
+			birth = yes
+		}
+		2057.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_11 = {	#Lucien I Lavosan
+		name = "Lucien"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_10
+		1976.1.1 = {
+			birth = yes
+		}
+		2069.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_12 = {	#Hanlan II Lavosan
+		name = "Hanlan"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_11
+		2005.1.1 = {
+			birth = yes
+		}
+		2075.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_13 = {	#Lucien II Lavosan
+		name = "Lucien"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_12
+		2025.1.1 = {
+			birth = yes
+		}
+		2088.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_14 = {	#Lucien III Lavosan
+		name = "Lucien"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_13
+		2044.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_15 = {	#Clovis II Lavosan
+		name = "Clovis"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_14
+		2067.1.1 = {
+			birth = yes
+		}
+		2106.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_16 = {	#Clovis III Lavosan
+		name = "Clovis"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_15
+		2083.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_17 = {	#Lucien IV the Bright
+		name = "Lucien"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_16
+		2102.1.1 = {
+			birth = yes
+		}
+		2141.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_18 = {	#Mattias I The Strong
+		name = "Mattias"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		give_nickname = nick_the_strong
+		#trait = education_diplomacy_2
+		father = Lavosan_17
+		2124.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_19 = {	#Mattias II Lavosan
+		name = "Mattias"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_18
+		2140.1.1 = {
+			birth = yes
+		}
+		2206.1.1 = {
+			death = yes
+		}
+	}
+	Lavosan_20 = {	#Hanlan III Lavosan
+		name = "Hanlan"
+		#dna = dna_cyricus_lavosan
+		dynasty = 5
+		martial = 7
+		diplomacy = 7
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 5
+		religion = "aurementic"
+		culture = vyargale
+		#trait = education_diplomacy_2
+		father = Lavosan_19
+		2165.1.1 = {
+			birth = yes
+		}
+		2239.1.1 = {
+			death = yes
+		}
+	}
+
+#
+### House Olorid #################################
+	Olorid_1 = { #Olorus the Great
+		name = "Olorus"
+		#dna = dna_olorus_the_great
+		dynasty = Aquirvan_1
+		give_nickname = nick_the_great
+		martial = 18
+		diplomacy = 12
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = ilfaniene
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		#father =
+		1516.1.1 = {
+			birth = yes
+		}
+		1574.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_2 = { #Halan I
+		name = "Halan"
+		#dna = dna_halan_i
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = ilfaniene
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_1
+		1537.1.1 = {
+			birth = yes
+		}
+		1602.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_3 = { #Halan II
+		name = "Halan"
+		#dna = dna_halan_ii
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_2
+		1556.1.1 = {
+			birth = yes
+		}
+		1603.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_4 = { #Olorus II
+		name = "Olorus"
+		#dna = dna_olorus_ii
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_2
+		1558.1.1 = {
+			birth = yes
+		}
+		1627.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_5 = { #Anno I
+		name = "Anno"
+		#dna = dna_
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_3
+		1571.1.1 = {
+			birth = yes
+		}
+		1638.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_6 = { #Princess Andica
+		name = "Andica"
+		#dna = dna_
+		dynasty = Aquirvan_1
+		female = yes
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_5
+		1590.1.1 = {
+			birth = yes
+		}
+		1604.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_7 = { #Princess Hadaken
+		name = "Hadaken"
+		#dna = dna_
+		dynasty = Aquirvan_1
+		female = yes
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_5
+		1592.1.1 = {
+			birth = yes
+		}
+		1608.1.1 = {
+			add_spouse = Velus_01
+		}
+		1666.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_8 = { #Cassyon I
+		name = "Cassyon"
+		#dna = dna_cassyon_i
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_4
+		1579.1.1 = {
+			birth = yes
+		}
+		1654.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_9 = { #Cyricus I
+		name = "Cyricus"
+		#dna = dna_cyricus_i
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_8
+		1602.1.1 = {
+			birth = yes
+		}
+		1662.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_10 = { #Princess Aefa
+		name = "Aefa"
+		#dna = dna_
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_9
+		1629.1.1 = {
+			birth = yes
+		}
+		1710.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_11 = { #Prince Olorus
+		name = "Olorus"
+		#dna = dna_
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_8
+		1604.1.1 = {
+			birth = yes
+		}
+		1659.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_12 = { #Cassyon II
+		name = "Cassyon"
+		#dna = dna_cassyon_ii
+		dynasty = Aquirvan_1
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_11
+		1623.1.1 = {
+			birth = yes
+		}
+		1665.1.1 = {
+			death = yes
+		}
+	}
+	Olorid_13 = { #Princess Abera
+		name = "Abera"
+		#dna = dna_
+		dynasty = Aquirvan_1
+		female = yes
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Olorid_8
+		1607.1.1 = {
+			birth = yes
+		}
+		1624.1.1 = {
+			add_spouse = Velus_0
+		}
+		1683.1.1 = {
+			death = yes
+		}
+	}
+
+#
+### House Corvus #################################
+	Corvus_0 = { #King Rowan the Hero
+		name = "Rowan"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Corvus_01
+		1782.1.1 = {
+			birth = yes
+		}
+		1866.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_1 = { #Princess Luciera of Trellian
+		name = "Luciera"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Corvus_0
+		1801.1.1 = {
+			birth = yes
+		}
+		1891.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_2 = { #King Davyon I of Trellian
+		name = "Davyon"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_0
+		1808.1.1 = {
+			birth = yes
+		}
+		1884.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_3 = { #King Jorin I of Trellian
+		name = "Jorin"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_2
+		1830.1.1 = {
+			birth = yes
+		}
+		1917.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_4 = { #King Amorys I of Trellian
+		name = "Amorys"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_3
+		1853.1.1 = {
+			birth = yes
+		}
+		1920.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_5 = { #King Rowan II of Trellian
+		name = "Rowan"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_4
+		1875.1.1 = {
+			birth = yes
+		}
+		1921.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_6 = { #King Matthias the Strong
+		name = "Matthias"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		give_nickname = nick_the_strong
+		father = Corvus_5
+		1897.1.1 = {
+			birth = yes
+		}
+		1961.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_7 = { #King Jorin II of Trellian
+		name = "Jorin"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_6
+		1914.1.1 = {
+			birth = yes
+		}
+		1972.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_8 = { #King Jorin III of Trellian
+		name = "Jorin"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_7
+		1938.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_9 = { #King Matthias II of Trellian
+		name = "Matthias"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_8
+		1955.1.1 = {
+			birth = yes
+		}
+		2026.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_10 = { #King Corben Peacebringer of Trellian
+		name = "Corben"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_9
+		1983.1.1 = {
+			birth = yes
+		}
+		2030.1.1 = {
+			death = yes
+		}
+	}
+	Corvus_11 = { #King Matthias III of Trellian
+		name = "Matthias"
+		#dna = 
+		dynasty = dynn_corvus
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Corvus_10
+		2007.1.1 = {
+			birth = yes
+		}
+		2044.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Dusk ###################################
+	Dusk_00 = { #Atelus the Duskweaver
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		give_nickname = nick_the_duskweaver
+		#father = Dusk_01
+		1448.1.1 = {
+			birth = yes
+		}
+		1553.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_023 = { #Morrow the Duskblade
+		name = "Morrow"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_00
+		1472.1.1 = {
+			birth = yes
+		}
+		1506.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_022 = { #Lord-Captain Talis Dusk
+		name = "Talis"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_023
+		1493.1.1 = {
+			birth = yes
+		}
+		1545.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_021 = { #Prince Talis I of Duskcliff
+		name = "Talis"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_022
+		1524.1.1 = {
+			birth = yes
+		}
+		1592.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_020 = { #Prince Astarin I of Duskcliff
+		name = "Astarin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_021
+		1543.1.1 = {
+			birth = yes
+		}
+		1596.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_019 = { #Prince Mordain I of Duskcliff
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_020
+		1560.1.1 = {
+			birth = yes
+		}
+		1611.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_018 = { #King Atelus the Great of Umbrenal
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_019
+		1580.1.1 = {
+			birth = yes
+		}
+		1638.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017a = { #Prince Mordain of Umbrenal
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1599.1.1 = {
+			birth = yes
+		}
+		#1649.1.1 = {
+		#	add_spouse = Auin_	#Lyris of Dyrwen
+		#}
+		1636.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017a1 = { #Young Prince Morrow of Umbrenal
+		name = "Morrow"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_017a
+		#mother = Auin_		#Princess Lyris of Dyrwen
+		1622.1.1 = {
+			birth = yes
+		}
+		1636.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017b = { #Prince Dagyrin of Umbrenal
+		name = "Dagyrin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		trait = twin
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1602.1.1 = {
+			birth = yes
+		}
+		#1619.1.1 = {
+		#	add_lover = Dusk_017d	#Princess Malisthyna
+		#}
+		#1619.1.1 = {
+		#	add_lover = Dusk_017c	#Prince Orestin of Umbrenal
+		#}
+		1628.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017c = { #Prince Orestin of Umbrenal
+		name = "Orestin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		trait = twin
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1602.1.1 = {
+			birth = yes
+		}
+		#1619.1.1 = {
+		#	add_lover = Dusk_017b	#Prince Dagyrin
+		#}
+		#1619.1.1 = {
+		#	add_lover = Dusk_017c	#Prince Orestin of Umbrenal
+		#}
+		1622.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017d = { #Princess Malisthyna of Umbrenal
+		name = "Malisthyna"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		female = yes
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1602.1.1 = {
+			birth = yes
+		}
+		#1619.1.1 = {
+		#	add_lover = Dusk_017b	#Prince Dagyrin
+		#}
+		#1619.1.1 = {
+		#	add_lover = Dusk_017c	#Prince Orestin of Umbrenal
+		#}
+		1675.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017d1 = { #Lady Andrada Duskshard
+		name = "Andrada"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		female = yes
+		father = Dusk_017c
+		mother = Dusk_017d
+		1622.1.1 = {
+			birth = yes
+		}
+		1646.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017e = { #Prince Leovyr of Umbrenal
+		name = "Leovyr"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1609.1.1 = {
+			birth = yes
+		}
+		#1649.1.1 = {
+		#	add_spouse =
+		#}
+		1632.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017f = { #Princess Kitalia of Umbrenal
+		name = "Kitalia"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		female = yes
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1614.1.1 = {
+			birth = yes
+		}
+		#1649.1.1 = {
+		#	add_spouse = Auin_	#Lyris of Dyrwen
+		#}
+		1647.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017g = { #King in Exile Clovis the Youngstar of Umbrenal
+		name = "Clovis"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1626.1.1 = {
+			birth = yes
+		}
+		#1641.7.4 = {
+		#	add_spouse = Seabreak_	#Princess Isa of Forins
+		#}
+		1642.8.12 = {
+			death = yes
+		}
+	}
+	Dusk_017h = { #Prince-Commander Talis II of Duskcliff
+		name = "Talis"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1630.1.1 = {
+			birth = yes
+		}
+		#1649.1.1 = {
+		#	add_spouse = IrGalan_	#Lady Elyswen Ir Galan
+		#}
+		1693.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017i = { #Princess Anawyr of Umbrenal
+		name = "Anawyr"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		female = yes
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1633.1.1 = {
+			birth = yes
+		}
+		1649.1.1 = {
+			add_spouse = Maredan_0	#Lord Kysran of Tavus
+		}
+		1716.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_017j = { #Princess Selira of Umbrenal
+		name = "Selira"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_018
+		#mother = Vailsien_		#Queen Meledyn of Umbrenal
+		1638.1.1 = {
+			birth = yes
+		}
+		#1649.1.1 = {
+		#	add_spouse = 	#Somebody
+		#}
+		1656.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_016 = { #Prince Thelan I of Duskcliff
+		name = "Thelan"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		trait = half_elf
+		father = Dusk_017h
+		#mother = IrGalan_		#Lady Elyswen Ir Galan
+		1650.1.1 = {
+			birth = yes
+		}
+		1746.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_015 = { #Prince Atelus II of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		trait = quarter_elf
+		father = Dusk_016
+		1674.1.1 = {
+			birth = yes
+		}
+		1789.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_014 = { #Prince Atelus III of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		trait = elven_ancestors
+		father = Dusk_015
+		1695.1.1 = {
+			birth = yes
+		}
+		1793.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_013 = { #Prince Thelan II of Duskcliff
+		name = "Thelan"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_014
+		1720.1.1 = {
+			birth = yes
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_012 = { #Prince Atelus IV of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_013
+		1742.1.1 = {
+			birth = yes
+		}
+		1810.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_011a = { #Lord Atelus the Godfallen of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_012
+		1765.1.1 = {
+			birth = yes
+		}
+		1798.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_011 = { #Prince Mordain II of Duskcliff
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_012
+		1769.1.1 = {
+			birth = yes
+		}
+		1825.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_010 = { #Prince Orestin I of Duskcliff
+		name = "Orestin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_011
+		1791.1.1 = {
+			birth = yes
+		}
+		1862.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_09 = { #Prince Mordain III of Duskcliff
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_010
+		1812.1.1 = {
+			birth = yes
+		}
+		1884.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_08 = { #Prince Astarin II of Duskcliff
+		name = "Astarin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_09
+		1835.1.1 = {
+			birth = yes
+		}
+		1916.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_07 = { #Prince Atelus V of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_08
+		1853.1.1 = {
+			birth = yes
+		}
+		1949.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_06 = { #Prince Orestin II of Duskcliff
+		name = "Orestin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_07
+		1876.1.1 = {
+			birth = yes
+		}
+		1955.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_05 = { #Prince Mordain IV of Duskcliff
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_06
+		1898.1.1 = {
+			birth = yes
+		}
+		1958.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_04 = { #Prince Morrow I of Duskcliff
+		name = "Morrow"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_05
+		1920.1.1 = {
+			birth = yes
+		}
+		1994.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_03 = { #Prince Atelus VI of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_04
+		1942.1.1 = {
+			birth = yes
+		}
+		2002.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_02 = { #Prince Morrow II of Duskcliff
+		name = "Morrow"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_03
+		1963.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_01 = { #Prince Atelus VII of Duskcliff
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_02
+		1985.1.1 = {
+			birth = yes
+		}
+		2034.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_0 = { #King Mordain I of Trellian
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_01
+		2011.1.1 = {
+			birth = yes
+		}
+		2069.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_1 = { #Prince Morrow of Trellian
+		name = "Morrow"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_0
+		2033.1.1 = {
+			birth = yes
+		}
+		2050.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_2 = { #King Mordain II of Trellian
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_0
+		2034.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_3 = { #King Atelus I of Trellian
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_2
+		2053.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_4 = { #King Mordain III of Trellian
+		name = "Mordain"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_3
+		2077.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_5 = { #King Atelus II of Trellian
+		name = "Atelus"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		give_nickname = nick_the_warmage
+		father = Dusk_4
+		2101.1.1 = {
+			birth = yes
+		}
+		2168.1.1 = {
+			death = yes
+		}
+	}
+	Dusk_6 = { #King Orestin I the Martyr of Trellian
+		name = "Orestin"
+		#dna = 
+		dynasty = dynn_dusk
+		religion = "aurementic"
+		culture = duskman
+		father = Dusk_5
+		2133.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Velus ##################################
+	Velus_02 = { #Duke Everal IV of Soliana
+		name = "Everal"
+		#dna = dna_everal_iv
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		#father = Velus_
+		1569.1.1 = {
+			birth = yes
+		}
+		1611.1.1 = {
+			death = yes
+		}
+	}
+	Velus_01 = { #Duke Ebroin I of Soliana
+		name = "Ebroin"
+		#dna = dna_ebroin_i
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_02
+		1589.1.1 = {
+			birth = yes
+		}
+		1608.1.1 = {
+			add_spouse = Olorid_7
+		}
+		1635.1.1 = {
+			death = yes
+		}
+	}
+	Velus_0 = { #Duke Everal V of Soliana
+		name = "Everal"
+		#dna = dna_everal_v
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_01
+		mother = Olorid_7
+		1608.10.10 = {
+			birth = yes
+		}
+		1624.1.1 = {
+			add_spouse = Olorid_13
+		}
+		1659.1.1 = {
+			death = yes
+		}
+	}
+	Velus_1 = { #King Cyricus II of Aquirvan
+		name = "Cyricus"
+		#dna = dna_cyricus_ii
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_0
+		mother = Olorid_13
+		1630.1.1 = {
+			birth = yes
+		}
+		1676.1.1 = {
+			death = yes
+		}
+	}
+	Velus_2 = { #king Alecton I of Aquirvan
+		name = "Alecton"
+		#dna = dna_alecton_i
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_1
+		1647.1.1 = {
+			birth = yes
+		}
+		1687.1.1 = {
+			death = yes
+		}
+	}
+	Velus_3 = { #king Anno II the young
+		name = "Anno"
+		#dna = dna_anno_ii
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_2
+		1670.1.1 = {
+			birth = yes
+		}
+		1698.1.1 = {
+			death = yes
+		}
+	}
+	Velus_4 = { #king Alecton II the child
+		name = "Alecton"
+		#dna = dna_anno_ii
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_3
+		1689.1.1 = {
+			birth = yes
+		}
+		1706.1.1 = {
+			death = yes
+		}
+	}
+	Velus_5 = { #Princess Imicira of Aquirvan
+		name = "Imicira"
+		#dna = dna_anno_ii
+		dynasty = dynn_velus
+		female = yes
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_4
+		1705.1.1 = {
+			birth = yes
+		}
+		1778.1.1 = {
+			death = yes
+		}
+	}
+	Velus_6 = { #Princess Gisala of Aquirvan
+		name = "Gisala"
+		#dna = dna_anno_ii
+		dynasty = dynn_velus
+		female = yes
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_2
+		1665.1.1 = {
+			birth = yes
+		}
+		1681.1.1 = {
+			add_spouse = Tressour_1
+		}
+		1737.1.1 = {
+			death = yes
+		}
+	}
+	Velus_7 = { #Duke Ebroin II
+		name = "Ebroin"
+		#dna = dna_ebroin_ii
+		dynasty = dynn_velus
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Velus_0
+		mother = Olorid_13
+		1631.1.1 = {
+			birth = yes
+		}
+		1697.1.1 = {
+			death = yes
+		}
+	}
+	Velus_8 = { #lady Fiora Velus
+		name = "Fiora"
+		#dna = 
+		dynasty = dynn_velus
+		female = yes
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_7
+		1648.1.1 = {
+			birth = yes
+		}
+		1665.1.1 = {
+			add_spouse = Kinsiran_6c #Lord Leon Kinsiran
+		}
+		1730.1.1 = {
+			death = yes
+		}
+	}
+	Velus_9 = { #Duke Andyr I of Soliana
+		name = "Andyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_7
+		1650.1.1 = {
+			birth = yes
+		}
+		1734.1.1 = {
+			death = yes
+		}
+	}
+	Velus_10 = { #Duke Cyricus II the Noble of Soliana
+		name = "Cyricus"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_9
+		1672.1.1 = {
+			birth = yes
+		}
+		1755.1.1 = {
+			death = yes
+		}
+	}
+	Velus_11 = { #Duke Andyr II of Soliana
+		name = "Andyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_10
+		1691.1.1 = {
+			birth = yes
+		}
+		1762.1.1 = {
+			death = yes
+		}
+	}
+	Velus_12 = { #Duke Sirius I of Soliana
+		name = "Sirius"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_11
+		1723.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	Velus_13 = { #Duke Ebroin III of Soliana
+		name = "Ebroin"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_12
+		1744.1.1 = {
+			birth = yes
+		}
+		1799.1.1 = {
+			death = yes
+		}
+	}
+	Velus_14 = { #Duke Sirius II of Soliana
+		name = "Sirius"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_13
+		1766.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	Velus_15 = { #Lady Nerissa Velus
+		name = "Nerissa"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Velus_13
+		1768.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			add_spouse = Brocard_0
+		}
+		1855.1.1 = {
+			death = yes
+		}
+	}
+	Velus_16 = { #Duke Soren I of Soliana
+		name = "Soren"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_14
+		1788.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			death = yes
+		}
+	}
+	Velus_17 = { #Lord Andyr of Soliana
+		name = "Andyr"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_14
+		1789.1.1 = {
+			birth = yes
+		}
+		1838.1.1 = {
+			death = yes
+		}
+	}
+	Velus_18 = { #Duchess Arianne of Soliana
+		name = "Soren"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Velus_17
+		1809.1.1 = {
+			birth = yes
+		}
+		1827.1.1 = {
+			add_spouse = Velus_19
+		}
+		1851.1.1 = {
+			death = yes
+		}
+	}
+	Velus_19 = { #Duke Cyricus III of Soliana
+		name = "Cyricus"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_16
+		1807.1.1 = {
+			birth = yes
+		}
+		1827.1.1 = {
+			add_spouse = Velus_18
+		}
+		1872.1.1 = {
+			death = yes
+		}
+	}
+	Velus_20 = { #Duke Ebroin IV of Soliana
+		name = "Ebroin"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_16
+		1810.1.1 = {
+			birth = yes
+		}
+		1892.1.1 = {
+			death = yes
+		}
+	}
+	Velus_21 = { #Lady Heloise of Soliana
+		name = "Heloise"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Velus_19
+		1828.1.1 = {
+			birth = yes
+		}
+		1847.1.1 = {
+			add_spouse = Carrelis_2 #Count Beros II Carrelis of Montmonfore
+		}
+		1905.1.1 = {
+			death = yes
+		}
+	}
+	Velus_22 = { #Lord Alexandre of Soliana
+		name = "Alexandre"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_19
+		1829.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	Velus_23 = { #Duke Everal VI the Sickly of Soliana
+		name = "Everal"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_19
+		1835.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			death = yes
+		}
+	}
+	Velus_24 = { #Duke Soren II of Soliana
+		name = "Soren"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_23
+		1857.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			add_spouse = Carrelis_4 #Lady Yvonne Carrelis
+		}
+		1875.1.1 = {
+			death = yes
+		}
+	}
+	Velus_25 = { #Duke Everal VII of Soliana
+		name = "Everal"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		father = Velus_24
+		mother = Carrelis_4 #lady Yvonne Carrelis
+		1875.1.1 = {
+			birth = yes
+		}
+		1890.1.1 = {
+			add_spouse = Brocard_05b #Lady Nerissa Brocard of the Rosethorn
+		}
+		1969.1.1 = {
+			death = yes
+		}
+	}
+	Velus_26 = { #Lady Nerissa Velus of Soliana
+		name = "Nerissa"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Velus_25
+		mother = Brocard_05b #Lady Nerissa of the Rosethorn
+		1896.1.1 = {
+			birth = yes
+		}
+		1903.1.1 = {
+			add_spouse = Brocard_04 #Warden Alexandre II Brocard of the Rosethorn
+		}
+		1980.1.1 = {
+			death = yes
+		}
+	}
+	Velus_27 = { #Lady Renee of Soliana
+		name = "Renee"
+		#dna = dna_caelan_i
+		dynasty = dynn_velus
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Velus_25
+		mother = Brocard_05b #Lady Nerissa of the Rosethorn
+		1898.1.1 = {
+			birth = yes
+		}
+		1987.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Carrelis ###############################
+	Carrelis_0 = { #Count Clovis I Carrelis of Montmonfore
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		1781.1.1 = {
+			birth = yes
+		}
+		1831.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_1 = { #Count Beros I Carrelis of Montmonfore
+		name = "Beros"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_0
+		1803.1.1 = {
+			birth = yes
+		}
+		1855.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_2 = { #Count Beros II Carrelis of Montmonfore
+		name = "Beros"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_1
+		1826.1.1 = {
+			birth = yes
+		}
+		1847.1.1 = {
+			add_spouse = Velus_21	#Lady Heloise Velus of Soliana
+		}
+		1874.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_3 = { #Lady Nerissa Carrelis of Montmonfore
+		name = "Nerissa"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Carrelis_2
+		mother = velus_21
+		1847.1.1 = {
+			birth = yes
+		}
+		1919.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_4 = { #Lady Yvonne Carrelis of Montmonfore
+		name = "Yvonne"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Carrelis_2
+		mother = Velus_21
+		1849.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			add_spouse = Velus_24	#Duke Soren II of Soliana
+		}
+		1906.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_5 = { #Count Beros III the Old Carrelis of Montmonfore
+		name = "Beros"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_2
+		mother = velus_21
+		give_nickname = nick_the_old
+		1852.1.1 = {
+			birth = yes
+		}
+		1939.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_6 = { #Count Halan I of Montmonfore
+		name = "Halan"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_5
+		#mother =
+		1879.1.1 = {
+			birth = yes
+		}
+		1948.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_7 = { #Count Beros IV of Montmonfore
+		name = "Beros"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_6
+		1901.1.1 = {
+			birth = yes
+		}
+		1982.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_8 = { #Count Clovis II of Montmonfore
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_7
+		#mother =
+		trait = eccentric
+		1930.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_9 = { #Count Robyn I of Montmonfore
+		name = "Robyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_8
+		#mother =
+		1954.1.1 = {
+			birth = yes
+		}
+		2030.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_10 = { #Count Halan II of Montmonfore
+		name = "Halan"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		father = Carrelis_9
+		#mother =
+		1977.1.1 = {
+			birth = yes
+		}
+		2048.1.1 = {
+			death = yes
+		}
+	}
+	Carrelis_11 = { #Countess Jeanere I of Montmonfore
+		name = "Jeanere"
+		#dna = dna_caelan_i
+		dynasty = dynn_carrelis
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Carrelis_10
+		#mother =
+		2000.1.1 = {
+			birth = yes
+		}
+		2079.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Sunhawk ################################
+	Sunhawk_0 = { #Count Gwyn I of Montmonfore
+		name = "Gwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_sunhawk
+		religion = "aurementic"
+		culture = aquirvii
+		mother = Carrelis_11
+		#father =
+		2026.1.1 = {
+			birth = yes
+		}
+		2107.1.1 = {
+			death = yes
+		}
+	}
+	Sunhawk_1 = { #Count Robyn II of Montmonfore
+		name = "Robyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_sunhawk
+		religion = "aurementic"
+		culture = aquirvii
+		father = Sunhawk_0
+		#mother =
+		2044.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Sunhawk_2 = { #Count Gwyn II of Montmonfore
+		name = "Gwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_sunhawk
+		religion = "aurementic"
+		culture = aquirvii
+		father = Sunhawk_1
+		#mother =
+		2069.1.1 = {
+			birth = yes
+		}
+		2130.1.1 = {
+			death = yes
+		}
+	}
+	Sunhawk_3 = { #Count Clovis III of Montmonfore
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = dynn_sunhawk
+		religion = "aurementic"
+		culture = aquirvii
+		father = Sunhawk_2
+		#mother =
+		2092.1.1 = {
+			birth = yes
+		}
+		2180.1.1 = {
+			death = yes
+		}
+	}
+	Sunhawk_4 = { #Count Halan III of Montmonfore
+		name = "Halan"
+		#dna = dna_caelan_i
+		dynasty = dynn_sunhawk
+		religion = "aurementic"
+		culture = aquirvii
+		father = Sunhawk_3
+		#mother =
+		2116.1.1 = {
+			birth = yes
+		}
+		2182.1.1 = {
+			death = yes
+		}
+	}
+	Sunhawk_5 = { #Count Beros V of Montmonfore
+		name = "Beros"
+		#dna = dna_caelan_i
+		dynasty = dynn_sunhawk
+		religion = "aurementic"
+		culture = aquirvii
+		father = Sunhawk_4
+		#mother =
+		2136.1.1 = {
+			birth = yes
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Vulferge ###############################
+	Vulferge_0 = { #lady Theodrada Vulferge
+		name = "Theodrada"
+		#dna = 
+		dynasty = dynn_vulferge
+		female = yes
+		religion = "aurementic"
+		culture = aquirvii
+		#father = Tressour_
+		1643.1.1 = {
+			birth = yes
+		}
+		1660.1.1 = {
+			add_spouse = Tressour_0
+		}
+		1709.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Tressour ###############################
+	Tressour_0 = { #lord Caelan I
+		name = "Caelan"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		#father = Tressour_
+		1642.1.1 = {
+			birth = yes
+		}
+		1660.1.1 = {
+			add_spouse = Vulferge_0
+		}
+		1697.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_1 = { #lord Caelan II
+		name = "Caelan"
+		#dna = dna_caelan_ii
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_0
+		mother = Vulferge_0
+		1664.1.1 = {
+			birth = yes
+		}
+		1681.1.1 = {
+			add_spouse = Velus_6
+		}
+		1718.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_2 = { #king Caelan I
+		name = "Caelan"
+		#dna = dna_caelan_ii
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_1
+		mother = Velus_6
+		1683.1.1 = {
+			birth = yes
+		}
+		1722.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_3 = { #king anno III
+		name = "Anno"
+		#dna = dna_anno_iii
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_2
+		1701.1.1 = {
+			birth = yes
+		}
+		1749.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_4 = { #king Cassyon III
+		name = "Cassyon"
+		#dna = dna_cassyon_iii
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_2
+		1703.1.1 = {
+			birth = yes
+		}
+		1751.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_5 = { #king Cassyon IV
+		name = "Cassyon"
+		#dna = dna_cassyon_iv
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_4
+		1727.1.1 = {
+			birth = yes
+		}
+		1767.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_6 = { #king Sarden I
+		name = "Sarden"
+		#dna = dna_sarden_i_aquirvan
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_5
+		1748.1.1 = {
+			birth = yes
+		}
+		1784.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_7 = { #king Sarden II
+		name = "Sarden"
+		#dna = dna_Sarden_ii_aquirvan
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_6
+		1767.1.1 = {
+			birth = yes
+		}
+		1797.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_8 = { #king Caelan II the Old
+		name = "Caelan"
+		#dna = dna_cassyon_iii
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_7
+		1787.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_9 = { #Princess Variana of Aquirvan
+		name = "Variana"
+		#dna = dna_variana_aquirvan
+		dynasty = dynn_tressour
+		female = yes
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_8
+		1802.1.1 = {
+			birth = yes
+		}
+		1818.1.1 = {
+			add_spouse = Goldenbrow_2
+		}
+		1877.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_10 = { #Duke Alecton I
+		name = "Alecton"
+		#dna = dna_caelan_ii
+		dynasty = dynn_tressour
+		martial = 8
+		diplomacy = 2
+		intrigue = 6
+		stewardship = 6
+		learning = 7
+		prowess = 8
+		religion = "aurementic"
+		culture = aquirvii
+		trait = education_martial_3
+		trait = calm
+		trait = diligent
+		trait = patient
+		trait = intellect_good_1
+		trait = inappetetic
+		father = Tressour_1
+		mother = Velus_6
+		1685.1.1 = {
+			birth = yes
+		}
+		1706.1.1 = {
+			add_spouse = Kinsiran_12
+		}
+		1767.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_11 = { #Duke Caelan I
+		name = "Caelan"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_10
+		mother = Kinsiran_12
+		1703.1.1 = {
+			birth = yes
+		}
+		1782.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_12 = { #Duke Alecton II
+		name = "Alecton"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_11
+		1725.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_13 = { #Duke Caelan II
+		name = "Caelan"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_12
+		1746.1.1 = {
+			birth = yes
+		}
+		1763.1.1 = {
+			add_spouse = Courmont_1
+		}
+		1824.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_14 = { #Duke Ravenwyll I
+		name = "Ravenwyll"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_13
+		mother = Courmont_1
+		1770.1.1 = {
+			birth = yes
+		}
+		1787.1.1 = {
+			add_spouse = Trinita_1
+		}
+		1841.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_15 = { #Lord Caelan the slight
+		name = "Caelan"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_13
+		mother = Courmont_1
+		trait = physique_bad_1
+		trait = spindly
+		1781.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_16 = { #Duke Alecton III of Borchaud
+		name = "Alecton"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_14
+		mother = Trinita_1
+		1792.1.1 = {
+			birth = yes
+		}
+		1867.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_17 = { #Count Clovis I
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_10
+		mother = Kinsiran_12
+		1705.1.1 = {
+			birth = yes
+		}
+		1793.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_18 = { #Count Clovis II
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_17
+		1723.1.1 = {
+			birth = yes
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_19 = { #Count Clovis III
+		name = "Clovis"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_18
+		1746.1.1 = {
+			birth = yes
+		}
+		1815.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_20 = { #Count Ancellus I
+		name = "Ancellus"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_19
+		1746.1.1 = {
+			birth = yes
+		}
+		1815.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_21 = { #Duke Ravenwyll II of Borchaud
+		name = "Ravenwyll"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_16
+		#mother =
+		1811.1.1 = {
+			birth = yes
+		}
+		1898.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_22 = { #Duke Caelan III of Borchaud
+		name = "Caelan"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_21
+		#mother =
+		1833.1.1 = {
+			birth = yes
+		}
+		1901.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_23 = { #Duke Arthos I of Borchaud
+		name = "Arthos"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_22
+		#mother =
+		1855.1.1 = {
+			birth = yes
+		}
+		1905.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_24a = { #Lord Arthos Tressour of Borchaud
+		name = "Arthos"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_23
+		#mother =
+		1876.1.1 = {
+			birth = yes
+		}
+		1893.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_24b = { #Duke Ravenwyll III of Borchaud
+		name = "Ravenwyll"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_23
+		#mother =
+		1881.1.1 = {
+			birth = yes
+		}
+		1906.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_24c = { #Duke Alecton IV of Borchaud
+		name = "Alecton"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_23
+		#mother =
+		1882.1.1 = {
+			birth = yes
+		}
+		1946.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_25 = { #Duke Arthos II of Borchaud
+		name = "Arthos"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_24c
+		#mother =
+		1906.1.1 = {
+			birth = yes
+		}
+		1968.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_26a = { #Lord Ravenwyll, Scion of Borchaud
+		name = "Ravenwyll"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		father = Tressour_25
+		#mother =
+		1925.1.1 = {
+			birth = yes
+		}
+		1953.1.1 = {
+			death = yes
+		}
+	}
+	Tressour_26b = { #Duchess Zyara I of Borchaud
+		name = "Zyara"
+		#dna = dna_caelan_i
+		dynasty = dynn_tressour
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Tressour_25
+		#mother =
+		1927.1.1 = {
+			birth = yes
+		}
+		1944.1.1 = {
+			add_spouse = Castalnier_01
+		}
+		1905.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Trinita ################################
+	Trinita_0 = { #Count Peregrine of Ferau
+		name = "Peregrine"
+		#dna = dna_caelan_i
+		dynasty = dynn_trinita
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		1748.1.1 = {
+			birth = yes
+		}
+		1831.1.1 = {
+			death = yes
+		}
+	}
+	Trinita_1 = { #Duchess Maeve
+		name = "Maeve"
+		#dna = dna_caelan_i
+		dynasty = dynn_trinita
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Trinita_0
+		1771.1.1 = {
+			birth = yes
+		}
+		1787.1.1 = {
+			add_spouse = Tressour_14
+		}
+		1840.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Ashleaf ################################
+	Ashleaf_0 = { #Lord Mattias Ashleaf
+		name = "Mattias"
+		#dna = dna_caelan_i
+		dynasty = dynn_ashleaf
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		1689.1.1 = {
+			birth = yes
+		}
+		
+		1747.1.1 = {
+			death = yes
+		}
+	}
+	Ashleaf_1 = { #Count Theoderic II of Ferau
+		name = "Theoderic"
+		#dna = dna_caelan_i
+		dynasty = dynn_ashleaf
+		religion = "aurementic"
+		culture = aquirvii
+		father = Ashleaf_0
+		1710.1.1 = {
+			birth = yes
+		}
+		1728.1.1 = {
+			add_spouse = Kinsiran_10c #Lady Alana Kinsiran
+		}
+		1773.1.1 = {
+			death = yes
+		}
+	}
+	Ashleaf_2 = { #Lord Vero Ashleaf
+		name = "Vero"
+		#dna = dna_caelan_i
+		dynasty = dynn_ashleaf
+		religion = "aurementic"
+		culture = aquirvii
+		father = Ashleaf_1
+		mother = Kinsiran_10c
+		1730.1.1 = {
+			birth = yes
+		}
+		1744.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Courmont ###############################
+	Courmont_1 = { #Duchess Athelesia
+		name = "Athelesia"
+		#dna = dna_caelan_i
+		dynasty = dynn_courmont
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		#father = 
+		1747.1.1 = {
+			birth = yes
+		}
+		1763.1.1 = {
+			add_spouse = Tressour_13
+		}
+		1782.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Castalnier #############################
+	Castalnier_01 = { #Count Ralwyn II of Balcaire
+		name = "Ralwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		#father = 
+		#mother =
+		1919.1.1 = {
+			birth = yes
+		}
+		1944.1.1 = {
+			add_spouse = Tressour_26b	#Duchess Zyara I of Borchaud
+		}
+		1974.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_0 = { #Duke Arthos III of Borchaud
+		name = "Arthos"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_01
+		mother = Tressour_26b
+		1972.1.1 = {
+			birth = yes
+		}
+		1968.1.1 = {
+			add_spouse = Grifon_2
+		}
+		2026.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_1 = { #Duke Arthos IV of Borchaud
+		name = "Arthos"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_0
+		mother = Grifon_2
+		1972.1.1 = {
+			birth = yes
+		}
+		2026.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_2 = { #Duke Arthos V of Borchaud
+		name = "Arthos"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_1
+		#mother =
+		1996.1.1 = {
+			birth = yes
+		}
+		2074.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_3 = { #Count Aquilus II of the Orrac and Ferau
+		name = "Aquilus"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_1
+		#mother =
+		1997.1.1 = {
+			birth = yes
+		}
+		2023.1.1 = {
+			add_spouse = Umeryd_24 #Princess Zevya the Lost
+		}
+		2061.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_4 = { #Lady Ashva
+		name = "Ashva"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Castalnier_3
+		mother = Umeryd_24 #Princess Zevya the Lost
+		2024.1.1 = {
+			birth = yes
+		}
+		2033.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_5 = { #Lord Agisan
+		name = "Agisan"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_3
+		mother = Umeryd_24 #Princess Zevya the Lost
+		2027.1.1 = {
+			birth = yes
+		}
+		2033.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_6 = { #Count Lyran I of the Orrac and Ferau
+		name = "Lyran"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_3
+		mother = Umeryd_24 #Princess Zevya the Lost
+		2027.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_7 = { #Count Leon I of the Orrac and Ferau
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_3
+		#mother =
+		2033.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_8 = { #Duke Duke Theoderic II of Borchaud
+		name = "Theoderic"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_2
+		#mother =
+		2020.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_9 = { #Duke Ravenwyll IV of Borchaud
+		name = "Ravenwyll"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_8
+		#mother =
+		2033.1.1 = {
+			birth = yes
+		}
+		2106.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_10 = { #Duke Alecton the Vile V of Borchaud
+		name = "Alecton"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_9
+		#mother =
+		trait = sadistic
+		trait = paranoid
+		trait = wrathful
+		trait = strong
+		2056.1.1 = {
+			birth = yes
+		}
+		2115.1.1 = {
+			death = {
+				death_reason = death_execution
+			}
+		}
+	}
+	Castalnier_11a = { #Duke Alecton the Snake VI of Borchaud
+		name = "Alecton"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_10
+		#mother =
+		trait = paranoid
+		trait = wrathful
+		2077.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = {
+				death_reason = death_execution
+			}
+		}
+	}
+	Castalnier_11b = { #Duke Hugh V of Borchaud
+		name = "Eude"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_10
+		#mother =
+		2084.1.1 = {
+			birth = yes
+		}
+		2101.1.1 = {
+			add_spouse = Brocard_5b
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_12a = { #Lady Raine of Borchaud
+		name = "Raine"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Castalnier_11b
+		mother = Brocard_5b
+		2103.1.1 = {
+			birth = yes
+		}
+		2170.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_12b = { #Queen Alyss of Aquirvan
+		name = "Alyss"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Castalnier_11b
+		mother = Brocard_5b
+		2105.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			add_spouse = Brocard_7
+		}
+		2182.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_12 = { #Duke Caelan IV of Borchaud
+		name = "Caelan"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_11b
+		mother = Brocard_5b
+		2117.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Castalnier_13 = { #Duke Ravenwyll the Old (V) of Borchaud
+		name = "Ravenwyll"
+		#dna = dna_caelan_i
+		dynasty = dynn_castalnier
+		religion = "aurementic"
+		culture = aquirvii
+		father = Castalnier_8
+		#mother =
+		2236.1.1 = {
+			birth = yes
+		}
+		3239.1.1 = {
+			death = yes
+		}
+	}
+#
+### House d'Grifon ###############################
+	Grifon_1 = { #Count Soren II of Aubresen
+		name = "Soren"
+		#dna = dna_caelan_i
+		dynasty = dynn_grifon
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		#mother =
+		1926.1.1 = {
+			birth = yes
+		}
+		1966.1.1 = {
+			death = yes
+		}
+	}
+	Grifon_2 = { # Duchess Isabelle of Borchaud and Countess of Aubresen
+		name = "Isabelle"
+		#dna = dna_caelan_i
+		dynasty = dynn_grifon
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Grifon_1
+		#mother =
+		1950.1.1 = {
+			birth = yes
+		}
+		1968.1.1 = {
+			add_spouse = Castalnier_0
+		}
+		2012.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Kinsiran ###############################
+	Kinsiran_0 = { # Count Peregrine I of Ferau
+		name = "Peregrine"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		1494.1.1 = {
+			birth = yes
+		}
+		1541.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_1 = { #Count Peregrine II of Ferau
+		name = "Peregrine"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_0
+		1517.1.1 = {
+			birth = yes
+		}
+		1552.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_2 = { #Count Ouus of Ferau
+		name = "Ouus"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_1
+		1535.1.1 = {
+			birth = yes
+		}
+		1591.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_3 = { #Duke Eude I of Borchaud
+		name = "Eude"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_2
+		1558.1.1 = {
+			birth = yes
+		}
+		1625.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_4 = { #Duke Eude II of Borchaud
+		name = "Eude"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_3
+		1581.1.1 = {
+			birth = yes
+		}
+		1654.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_5 = { #Duke Reginar I of Borchaud
+		name = "Reginar"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_4
+		1601.1.1 = {
+			birth = yes
+		}
+		1692.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_6 = { #Duke Reginar II of Borchaud
+		name = "Reginar"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_5
+		1620.1.1 = {
+			birth = yes
+		}
+		1694.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_7 = { #Duke Eude III of Borchaud
+		name = "Eude"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_6
+		1644.1.1 = {
+			birth = yes
+		}
+		1703.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_8 = { #Duke Theoderic I of Borchaud
+		name = "Theoderic"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_6
+		1645.1.1 = {
+			birth = yes
+		}
+		1718.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_9 = { #Duke Eude IV of Borchaud
+		name = "Eude"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_8
+		1667.1.1 = {
+			birth = yes
+		}
+		#1686.1.1 = {
+		#	add_lover = Kinsiran_10
+		#}
+		1735.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_10 = { #Lady Adala Kinsiran
+		name = "Adala"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Kinsiran_8
+		1669.1.1 = {
+			birth = yes
+		}
+		#1686.1.1 = {
+		#	add_lover = Kinsiran_9
+		#}
+		1722.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_11 = { #Lord Ender Kinsiran (bastard
+		name = "Ender"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_9
+		mother = Kinsiran_10
+		trait = bastard
+		trait = twin
+		1690.1.1 = {
+			birth = yes
+		}
+		1708.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_12 = { #Lady Asha Kinsiran (bastard)
+		name = "Asha"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Kinsiran_9
+		mother = Kinsiran_10
+		trait = bastard
+		trait = twin
+		1690.1.1 = {
+			birth = yes
+		}
+		1706.1.1 = {
+			add_spouse = Tressour_10
+		}
+		1777.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_6c = { # Lord Leon Kinsiran
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_6
+		1647.1.1 = {
+			birth = yes
+		}
+		1664.1.1 = {
+			add_spouse = Velus_8 #Lady Fiora Velus of Soliana
+		}
+		1713.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_7c = { # Lord Ethan Kinsiran
+		name = "Ethan"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_6c
+		mother = Velus_8
+		1670.1.1 = {
+			birth = yes
+		}
+		1754.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_8c = { # Lord Wyllan Kinsiran
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_7c
+		1693.1.1 = {
+			birth = yes
+		}
+		1772.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_9c = { # Lady Adara Kinsiran
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Kinsiran_7c
+		1694.1.1 = {
+			birth = yes
+		}
+		1786.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_10c = { # Lady Alana Kinsiran
+		name = "Alana"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Kinsiran_8c
+		1707.1.1 = {
+			birth = yes
+		}
+		1728.1.1 = {
+			add_spouse = Ashleaf_1 #Count Theoderic II Ashleaf
+		}
+		1771.1.1 = {
+			death = yes
+		}
+	}
+	Kinsiran_11c = { # Sir Ethan Kinsiran
+		name = "Ethan"
+		#dna = dna_caelan_i
+		dynasty = dynn_kinsiran
+		religion = "aurementic"
+		culture = aquirvii
+		father = Kinsiran_8c
+		1708.1.1 = {
+			birth = yes
+		}
+		1732.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Veranne ################################
+	Veranne_1 = { #Count Evard III of Beros
+		name = "Evard"
+		#dna
+		dynasty = dynn_veranne
+		religion = "aurementic"
+		culture = aquirvii
+		#father = Veranne_
+		#mother = 
+		1917.1.1 = {
+			birth = yes
+		}
+		2001.1.1 = {
+			death = yes
+		}
+	}
+	Veranne_2 = { #Lady Isolda of Beros
+		name = "Isolda"
+		#dna
+		dynasty = dynn_veranne
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Veranne_1
+		#mother = 
+		1939.1.1 = {
+			birth = yes
+		}
+		1954.1.1 = {
+			add_spouse = Brocard_02
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Brocard ################################
+	Brocard_0 = { #Count Alexandre I Brocard of Isafal
+		name = "Alexandre"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		#father = Brocard_
+		#mother = 
+		1774.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			add_spouse = Velus_15
+		}
+		1846.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_08 = { #Count Florian I Brocard of Isafal
+		name = "Florian"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_0
+		mother = Velus_15
+		1802.1.1 = {
+			birth = yes
+		}
+		1885.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_07 = { #Warden Alexandre I Brocard of the Rosethorn
+		name = "Alexandre"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_08
+		#mother =
+		1824.1.1 = {
+			birth = yes
+		}
+		1897.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_07b = { #Lord Ebroin of the Rosethorn
+		name = "Ebroin"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_08
+		#mother = 
+		1827.1.1 = {
+			birth = yes
+		}
+		1890.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_06 = { #Warden Florian I Brocard of the Rosethorn
+		name = "Florian"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_07
+		#mother =
+		1846.1.1 = {
+			birth = yes
+		}
+		1929.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_05 = { #Warden Florian II Brocard of the Rosethorn
+		name = "Florian"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_06
+		#mother = 
+		1865.1.1 = {
+			birth = yes
+		}
+		1934.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_05b = { #Lady Nerissa of the Rosethorn
+		name = "Nerissa"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Brocard_06
+		#mother =
+		1870.1.1 = {
+			birth = yes
+		}
+		1890.1.1 = {
+			add_spouse = Velus_25
+		}
+		1926.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_04 = { #Warden Alexandre II Brocard of the Rosethorn
+		name = "Alexandre"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_05
+		#mother =
+		1888.1.1 = {
+			birth = yes
+		}
+		1903.1.1 = {
+			add_spouse = Velus_26
+		}
+		1950.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_03 = { #Duke-Warden Soren III Brocard of Soliana and the Rosethorn
+		name = "Soren"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_04
+		mother = Velus_26
+		1909.1.1 = {
+			birth = yes
+		}
+		1976.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_02a = { #Duke Florian I Brocard of Soliana
+		name = "Florian"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_03
+		#mother = 
+		1932.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_01a = { #Duke Soren IV Brocard of Soliana
+		name = "Soren"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_02a
+		#mother = 
+		1955.1.1 = {
+			birth = yes
+		}
+		2025.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_1a = { #Duke Sirius III Brocard of Soliana
+		name = "Sirius"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_01a
+		#mother = 
+		1973.1.1 = {
+			birth = yes
+		}
+		2052.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_2a = { #Duke Alexandre I Brocard of Soliana
+		name = "Alexandre"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_1a
+		#mother = 
+		1999.1.1 = {
+			birth = yes
+		}
+		2082.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_3a = { #Duke Alexandre II Brocard of Soliana
+		name = "Alexandre"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_2a
+		#mother = 
+		2023.1.1 = {
+			birth = yes
+		}
+		2110.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_4a = { #Duke Florian II Brocard of Soliana
+		name = "Florian"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_3a
+		#mother = 
+		2044.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_5a = { #Duke Florian III Brocard of Soliana
+		name = "Florian"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_4a
+		#mother = 
+		2064.1.1 = {
+			birth = yes
+		}
+		2158.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_6a = { #Lord Soren Brocard of Soliana
+		name = "Soren"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_5a
+		#mother = 
+		2087.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_7a = { #Duke Aramis I Brocard of Soliana
+		name = "Aramis"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_6a
+		#mother = 
+		2112.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_8a = { #Duke Alexandre III Brocard of Soliana
+		name = "Alexandre"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_7a
+		#mother = 
+		2136.1.1 = {
+			birth = yes
+		}
+		2211.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_02 = { #Lord Evard Brocard of Soliana and the Rosethorn
+		name = "Evard"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_03
+		#mother = 
+		1938.1.1 = {
+			birth = yes
+		}
+		1954.1.1 = {
+			add_spouse = Veranne_2
+		}
+		2003.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_01 = { #Gellus II Brocard of Beros
+		name = "Gellus"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_02
+		mother = Veranne_2
+		1961.1.1 = {
+			birth = yes
+		}
+		2017.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_1 = { #Gellus III Brocard of Beros
+		name = "Gellus"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_01
+		#mother = 
+		1986.1.1 = {
+			birth = yes
+		}
+		2056.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_2 = { #King Evard II
+		name = "Evard"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_1
+		mother = Goldenbrow_Tressour_8
+		2012.1.1 = {
+			birth = yes
+		}
+		2086.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_3 = { #King Cassyon VI
+		name = "Cassyon"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_2
+		#mother = 
+		2034.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_4 = { #King Richar II the Fat
+		name = "Richar"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_3
+		#mother = 
+		2057.1.1 = {
+			birth = yes
+		}
+		2114.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_5 = { #King Perigon I of Aquirvan
+		name = "Perigon"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_4
+		#mother = 
+		2074.1.1 = {
+			birth = yes
+		}
+		2126.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_5b = { #Princess Aurora of Aquirvan
+		name = "Aurora"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Brocard_4
+		#mother = 
+		2080.1.1 = {
+			birth = yes
+		}
+		2101.1.1 = {
+			add_spouse = Castalnier_11b
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_6 = { #King Cassyon VII
+		name = "Cassyon"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_5
+		#mother = 
+		2096.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_7 = { #King Perigon II
+		name = "Perigon"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_5
+		#mother = 
+		2098.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			add_spouse = Castalnier_12b
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Brocard_8 = { #King Evard III
+		name = "Evard"
+		#dna
+		dynasty = Aquirvan_4
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_7
+		mother = Castalnier_12b
+		2116.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Whiterose ##############################
+	Whiterose_0 = { #Warden Augustine I Whiterose, Warden of the Rosethorn
+		name = "Augustine"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_03
+		#mother = 
+		trait = brave
+		trait = education_martial_3
+		1933.1.1 = {
+			birth = yes
+		}
+		2009.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_1a = { #Lady Astrid Whiterose
+		name = "Astrid"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Whiterose_0
+		#mother = 
+		1956.1.1 = {
+			birth = yes
+		}
+		2004.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_1b = { #Lady Geneviere Whiterose
+		name = "Geneviere"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Whiterose_0
+		#mother = 
+		1961.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_1c = { #Warden Alexandre III Whiterose
+		name = "Alexandre"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_0
+		#mother = 
+		1963.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_1d = { #Lady Marinette Whiterose
+		name = "Marinette"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Whiterose_0
+		#mother = 
+		1965.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_1e = { #Lord Augustine Whiterose
+		name = "Augustine"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_0
+		#mother = 
+		1968.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a = { #Roran Rivenhand Whiterose
+		name = "Roran"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_1c
+		#mother = 
+		1985.1.1 = {
+			birth = yes
+		}
+		2062.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a1 = { #Sir Thomasan Whiterose
+		name = "Thomasan"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2031.1.1 = {
+			add_spouse = Whiterose_2a1w
+		}
+		2071.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a1w = { #Valadena Whiterose
+		name = "Valadena"
+		#dna
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		#father =
+		#mother = 
+		2014.1.1 = {
+			birth = yes
+		}
+		2031.1.1 = {
+			add_spouse = Whiterose_2a1
+		}
+		2072.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a2a = { #Count Talis I of Briarval
+		name = "Talis"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a1
+		mother = Whiterose_2a1w
+		2033.1.1 = {
+			birth = yes
+		}
+		2056.1.1 = {
+			add_spouse = Whiterose_2a2b
+		}
+		2096.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a2b = { #Lady Mariana of Briarval
+		name = "Mariana"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Whiterose_2a1
+		mother = Whiterose_2a1w
+		2034.1.1 = {
+			birth = yes
+		}
+		2056.1.1 = {
+			add_spouse = Whiterose_2a2a
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a3a = { #Annabel Whiterose of Briarval
+		name = "Annabel"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Whiterose_2a2a
+		mother = Whiterose_2a2b
+		2055.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a3b = { #Count Talis II Whiterose of Briarval
+		name = "Talis"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a2a
+		mother = Whiterose_2a2b
+		2059.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a4 = { #Count Roran I Whiterose of Briarval
+		name = "Roran"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a3b
+		#mother =
+		2080.1.1 = {
+			birth = yes
+		}
+		2136.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a5 = { #Count Tomasan I Whiterose of Briarval
+		name = "Tomasan"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a4
+		#mother =
+		2099.1.1 = {
+			birth = yes
+		}
+		2153.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a6 = { #Count Roran II Whiterose of Briarval
+		name = "Roran"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a5
+		#mother =
+		2123.1.1 = {
+			birth = yes
+		}
+		2182.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a3c = { #Roran Whiterose of Briarval
+		name = "Roran"
+		#dna = 
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a2a
+		mother = Whiterose_2a2b
+		2033.1.1 = {
+			birth = yes
+		}
+		2098.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a3c1 = { #Ambros Whiterose
+		name = "Ambros"
+		#dna = 
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2a3c
+		mother = Whiterose_2a3a
+		trait = inbred
+		2084.1.1 = {
+			birth = yes
+		}
+		2168.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2a3d = { #Galina Whiterose of Briarval
+		name = "Galina"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Whiterose_2a2a
+		mother = Whiterose_2a2b
+		2064.1.1 = {
+			birth = yes
+		}
+		2150.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_2b = { #Warden Soren II Whiterose
+		name = "Soren"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_1c
+		#mother = 
+		1990.1.1 = {
+			birth = yes
+		}
+		2041.1.1 = {
+			add_trait = incapable
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_3 = { #Warden Ravenwyll I Whiterose
+		name = "Ravenwyll"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_2b
+		#mother = 
+		2009.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_4 = { #Warden Corin I Whiterose
+		name = "Corin"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_3
+		#mother = 
+		2033.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_5 = { #Warden Ravenwyll II Whiterose
+		name = "Ravenwyll"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_4
+		#mother = 
+		2056.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_6 = { #Warden Soren III Whiterose
+		name = "Soren"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_5
+		#mother = 
+		2080.1.1 = {
+			birth = yes
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_7 = { #Warden Augustine II Whiterose
+		name = "Augustine"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_6
+		#mother = 
+		2105.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Whiterose_8 = { #Warden Augustine III Whiterose
+		name = "Augustine"
+		#dna
+		dynasty_house = house_Whiterose
+		religion = "aurementic"
+		culture = aquirvii
+		father = Whiterose_7
+		#mother = 
+		2129.1.1 = {
+			birth = yes
+		}
+		2202.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Thornblood #############################
+	Thornblood_0 = { #Lord Lucien I Thornblood
+		name = "Lucien"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Brocard_08
+		#mother = 
+		1830.1.1 = {
+			birth = yes
+		}
+		1899.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_1 = { #Lord Lucien II Thornblood
+		name = "Lucien"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_0
+		#mother = 
+		1853.1.1 = {
+			birth = yes
+		}
+		1937.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_2 = { #Duke Hector I Thornblood of Natala Istri
+		name = "Hector"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_1
+		#mother = 
+		1875.1.1 = {
+			birth = yes
+		}
+		1945.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_3 = { #Lord Philip I the Old Thornblood
+		name = "Philip"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_1
+		#mother = 
+		1879.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_4 = { #Duke Gwyn I Thornblood
+		name = "Gwyn"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_2
+		#mother = 
+		1897.1.1 = {
+			birth = yes
+		}
+		1970.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_5 = { #Duke Hector II Thornblood
+		name = "Hector"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_4
+		#mother = 
+		1914.1.1 = {
+			birth = yes
+		}
+		1987.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_6 = { #Duke Milos I Thornblood
+		name = "Milos"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_5
+		#mother = 
+		1933.1.1 = {
+			birth = yes
+		}
+		2010.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_7 = { #Duke Lionel I the Old Thornblood
+		name = "Lionel"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_6
+		#mother = 
+		1955.1.1 = {
+			birth = yes
+		}
+		2061.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_8 = { #Lord Milos Thornblood of Natala Istri
+		name = "Milos"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_7
+		#mother = 
+		1977.1.1 = {
+			birth = yes
+		}
+		2047.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_9 = { #Duke Lionel II Thornblood
+		name = "Lionel"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_8
+		#mother = 
+		1998.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_10 = { #Lord Lionel Thornblood of Natala Istri
+		name = "Lionel"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_9
+		#mother = 
+		2021.1.1 = {
+			birth = yes
+		}
+		2065.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_11 = { #Duke Gwyn II Thornblood
+		name = "Gwyn"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_10
+		#mother = 
+		2043.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_12 = { #Duke Lionel III Thornblood
+		name = "Lionel"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_11
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_13a = { #Duke Gwyn III Thornblood
+		name = "Gwyn"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_12
+		#mother = 
+		2088.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_13b = { #Lord Jaris Thornblood
+		name = "Jaris"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		father = Thornblood_12
+		#mother = 
+		2090.1.1 = {
+			birth = yes
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_13c = { #Queen Eris Thornblood of Tallendria
+		name = "Eris"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Thornblood_12
+		#mother = 
+		2101.1.1 = {
+			birth = yes
+		}
+		2172.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_14a = { #Lady Luciel Thornblood
+		name = "Luciel"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Thornblood_13a
+		#mother = 
+		2105.1.1 = {
+			birth = yes
+		}
+		2178.1.1 = {
+			death = yes
+		}
+	}
+	Thornblood_14b = { #Lady Alexandrea Thornblood
+		name = "Alexandrea"
+		#dna
+		dynasty_house = house_Thornblood
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Thornblood_13a
+		#mother = 
+		2114.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Fernbreak ##############################
+	Fernbreak_1 = { #Count Tomasan I of Lyresta
+		name = "Tomasan"
+		#dna = dna_caelan_i
+		dynasty = dynn_fernbreak
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Fernbreak_0
+		#mother =
+		1773.1.1 = {
+			birth = yes
+		}
+		1792.1.1 = {
+			add_spouse = Fernbreak_1m
+		}
+		1827.1.1 = {
+			death = yes
+		}
+	}
+	Fernbreak_1m = { #Lady Anna of Lyresta
+		name = "Anna"
+		#dna = dna_caelan_i
+		#dynasty = dynn_fernbreak
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		#father = 
+		#mother =
+		1775.1.1 = {
+			birth = yes
+		}
+		1792.1.1 = {
+			add_spouse = Fernbreak_1
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	Fernbreak_2 = { #Count Tomasan II of Lyresta
+		name = "Tomasan"
+		#dna = dna_caelan_i
+		dynasty = dynn_fernbreak
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Fernbreak_1
+		mother = Fernbreak_1m
+		1793.1.1 = {
+			birth = yes
+		}
+		1871.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Arctros ################################
+	Arctros_1 = { #High Lord Cor of Torsiel
+		name = "Cor"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Arctros_0
+		#mother =
+		1752.1.1 = {
+			birth = yes
+		}
+		1802.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_2a = { #the young lord Lord Cor of Torsiel
+		name = "Cor"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_1
+		#mother =
+		trait = twin
+		1771.1.1 = {
+			birth = yes
+		}
+		1779.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_2b = { #lord Lord Corin of Torsiel
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_1
+		#mother =
+		trait = twin
+		1771.1.1 = {
+			birth = yes
+		}
+		1798.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_2c = { #High Arbiter Dorin I of Torsiel
+		name = "Dorin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_1
+		#mother =
+		1775.1.1 = {
+			birth = yes
+		}
+		1783.1.1 = {
+			add_spouse = Arctros_2c_wifie	#Lady Anna
+		}
+		1847.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_2c_wifie = { #Lady Anna of Torsiel
+		name = "Anna"
+		#dna = dna_caelan_i
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = 
+		#mother =
+		1776.1.1 = {
+			birth = yes
+		}
+		1783.1.1 = {
+			add_spouse = Arctros_2c
+		}
+		1877.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_3a = { #lady Helena of Torsiel
+		name = "Helena"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Arctros_2c
+		mother = Arctros_2c_wifie
+		1794.1.1 = {
+			birth = yes
+		}
+		1881.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_3b = { #High Arbiter Nute I of Torsiel
+		name = "Nute"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_2c
+		mother = Arctros_2c_wifie
+		1796.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_3c = { #lord Damin of Torsiel
+		name = "Damin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_2c
+		mother = Arctros_2c_wifie
+		1797.1.1 = {
+			birth = yes
+		}
+		1802.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_4 = { #High Arbiter Nires I of Torsiel
+		name = "Nires"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_3b
+		#mother = 
+		1818.1.1 = {
+			birth = yes
+		}
+		1886.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_5 = { #High Arbiter Dorin II of Torsiel
+		name = "Dorin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_4
+		#mother = 
+		1843.1.1 = {
+			birth = yes
+		}
+		1915.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_6 = { #High Arbiter Damin I of Torsiel
+		name = "Damin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_5
+		#mother = 
+		1863.1.1 = {
+			birth = yes
+		}
+		1933.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_7 = { #High Arbiter Nute II of Torsiel
+		name = "Nute"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_6
+		#mother = 
+		1884.1.1 = {
+			birth = yes
+		}
+		1975.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_8 = { #High Arbiter Dorin III of Torsiel
+		name = "Dorin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_7
+		#mother = 
+		1901.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_9 = { #High Arbiter Damin II of Torsiel
+		name = "Damin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_8
+		#mother = 
+		1925.1.1 = {
+			birth = yes
+		}
+		1999.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_10 = { #High Arbiter Nires II of Torsiel
+		name = "Nires"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_9
+		#mother = 
+		1950.1.1 = {
+			birth = yes
+		}
+		2007.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_11 = { #High Arbiter Loren I of Torsiel
+		name = "Loren"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_10
+		#mother = 
+		1974.1.1 = {
+			birth = yes
+		}
+		2025.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_12a = { #High Arbiter Loren II of Torsiel
+		name = "Loren"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_11
+		#mother = 
+		1993.1.1 = {
+			birth = yes
+		}
+		2050.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_12b = { #Lady Erjes of Torsiel
+		name = "Erjes"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Arctros_11
+		#mother = 
+		1998.1.1 = {
+			birth = yes
+		}
+		2072.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13a = { #High Arbiter Dorin IV of Torsiel
+		name = "Doren"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_12a
+		#mother = 
+		2019.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13a1 = { #High Arbiter Dorin V of Torsiel
+		name = "Dorin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_13a
+		#mother = 
+		2046.1.1 = {
+			birth = yes
+		}
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13a2a = { #High Arbiter Erjes I of Torsiel
+		name = "Erjes"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Arctros_13a1
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2104.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13a2b = { #High Arbiter Loren IV of Torsiel
+		name = "Loren"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_13a1
+		#mother = 
+		2067.1.1 = {
+			birth = yes
+		}
+		2114.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13a3 = { #High Arbiter Cor III of Torsiel
+		name = "Cor"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_13a2b
+		#mother = 
+		2088.1.1 = {
+			birth = yes
+		}
+		2104.1.1 = {
+			add_spouse = Arctros_13b3 #Lady Gwyen of torsiel
+		} 
+		2160.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13b = { #High Arbiter Cor I of Torsiel
+		name = "Cor"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_12a
+		#mother = 
+		2021.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13b1 = { #High Arbiter Loren III of Torsiel
+		name = "Loren"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_13b
+		#mother = 
+		2046.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13b2 = { #High Arbiter Cor II of Torsiel
+		name = "Cor"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_13b1
+		#mother = 
+		2065.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_13b3 = { #Lady Gwyen of Torsiel
+		name = "Gwyen"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Arctros_13b2
+		#mother = 
+		2089.1.1 = {
+			birth = yes
+		}
+		2104.1.1 = {
+			add_spouse = Arctros_13a3 #High Arbiter Cor III
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_14 = { #High Arbiter Dorin VI of Torsiel
+		name = "Dorin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_13a3
+		mother = Arctros_13b3
+		2105.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_15 = { #High Arbiter Dorin VII of Torsiel
+		name = "Dorin"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_14
+		#mother = 
+		2123.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_16 = { #High Arbiter Loren V of Torsiel
+		name = "Loren"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_15
+		#mother = 
+		2150.1.1 = {
+			birth = yes
+		}
+		#add_spouse Princess Lucibel the Fair of Caspiril
+		2181.1.1 = {
+			death = yes
+		}
+	}
+	Arctros_17 = { #High Arbiter Nires III of Torsiel
+		name = "Nires"
+		#dna = dna_caelan_i
+		dynasty = dynn_arctros
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Arctros_16
+		#mother = #Princess Lucibel the Fair
+		2175.1.1 = {
+			birth = yes
+		}
+		#add_spouse Serissa the Sorrowed
+		2197.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Lakaris ################################
+	Lakaris_03 = { #Prince Luisal I of Ilfane
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Lakaris_
+		#mother =
+		1771.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_02a = { #Prince Luisal II of Ilfane
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_03
+		#mother =
+		1792.1.1 = {
+			birth = yes
+		}
+		1844.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_02b = { #Lady Cinter of Ilfane
+		name = "Cinter"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Lakaris_03
+		#mother =
+		1793.1.1 = {
+			birth = yes
+		}
+		1867.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_02c = { #Lord Dairal of Ilfane
+		name = "Dairal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_03
+		#mother =
+		1795.1.1 = {
+			birth = yes
+		}
+		1822.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_01 = { #Prince Dairal I of Ilfane
+		name = "Dairal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_02a
+		#mother =
+		1812.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_0 = { #King Dairal I of Ilfan
+		name = "Dairal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_01
+		#mother =
+		1834.1.1 = {
+			birth = yes
+		}
+		1908.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_1 = { #King Rhyal I of Ilfan
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_0
+		#mother =
+		1857.1.1 = {
+			birth = yes
+		}
+		1914.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_2 = { #King Luisal I of Ilfan
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_1
+		#mother =
+		1882.1.1 = {
+			birth = yes
+		}
+		1927.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_3 = { #King Philian the Great of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_2
+		#mother =
+		1903.1.1 = {
+			birth = yes
+		}
+		1958.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_4 = { #King Philian II of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_3
+		#mother =
+		1920.1.1 = {
+			birth = yes
+		}
+		1973.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_5 = { #King Luisal II of Ilfan
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_4
+		#mother =
+		1942.1.1 = {
+			birth = yes
+		}
+		1984.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_6 = { #King Rhyal "the sickly" II of Ilfan
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		give_nickname = nick_the_sickly
+		father = Lakaris_5
+		#mother =
+		1968.1.1 = {
+			birth = yes
+		}
+		2001.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_7a = { #King Philian "the boy king" III of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		give_nickname = nick_the_boy_king
+		father = Lakaris_6
+		#mother =
+		1985.1.1 = {
+			birth = yes
+		}
+		2002.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_7b = { #King Dairal II of Ilfan
+		name = "Dairal"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_6
+		#mother =
+		1987.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_7c = { #Princess Helene of Ilfan
+		name = "Helene"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Lakaris_6
+		#mother =
+		1990.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			add_spouse = Atranoux_2a
+		}
+		2053.1.1 = {
+			death = yes
+		}
+	}
+	Lakaris_8 = { #Princess Cinter of Ilfan
+		name = "Cinter"
+		#dna = dna_caelan_i
+		dynasty = dynn_lakaris
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Lakaris_7b
+		#mother =
+		2005.1.1 = {
+			birth = yes
+		}
+		2024.1.1 = {
+			add_spouse = Atranoux_3
+		}
+		2074.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Atranoux ###############################
+	Atranoux_0 = { #Prince Atran, First Duke of Ralrois
+		name = "Atran"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Lakaris_3
+		#mother =
+		1947.1.1 = {
+			birth = yes
+		}
+		2008.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_1 = { #Duke Luisal I of Ralrois
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_0
+		#mother =
+		1968.1.1 = {
+			birth = yes
+		}
+		2014.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2a = { #King Kazmyn I of Ilfan
+		name = "Kazmyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_1
+		#mother =
+		1989.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			add_spouse = Lakaris_7c
+		}
+		2034.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b = { #Duke Philian I of Ralrois
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_1
+		#mother =
+		1991.1.1 = {
+			birth = yes
+		}
+		2068.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b1 = { #Duke Atran II of Ralrois
+		name = "Atran"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b
+		#mother =
+		2013.1.1 = {
+			birth = yes
+		}
+		2097.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b2 = { #Duke Philian II of Ralrois
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b1
+		#mother =
+		2037.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b3a = { #Duke Philian III of Ralrois
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b2
+		#mother =
+		2060.1.1 = {
+			birth = yes
+		}
+		2141.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b3b = { #Lord Atran the Hornfast
+		name = "Atran"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		give_nickname = nick_the_hornfast
+		father = Atranoux_2b2
+		#mother =
+		2067.1.1 = {
+			birth = yes
+		}
+		2149.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b4a = { #Duke Luisal II of Ralrois
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b3a
+		#mother =
+		2086.1.1 = {
+			birth = yes
+		}
+		2145.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b4b = { #Lord Corin of Ralrois
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b3a
+		#mother =
+		2089.1.1 = {
+			birth = yes
+		}
+		2158.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b5a = { #Lady Aveline of Ralrois
+		name = "Aveline"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Atranoux_2b4a
+		#mother =
+		2108.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b5b = { #Duke Lorens I of Ralrois
+		name = "Lorens"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b4a
+		#mother =
+		2110.1.1 = {
+			birth = yes
+		}
+		2172.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_2b5c = { #Lord Atran of Ralrois
+		name = "Atran"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2b4a
+		#mother =
+		2115.1.1 = {
+			birth = yes
+		}
+		2151.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_3 = { #King Kazmyn II of Ilfan
+		name = "Kazmyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_2a
+		mother = Lakaris_7c
+		2008.1.1 = {
+			birth = yes
+		}
+		2024.1.1 = {
+			add_spouse = Lakaris_8
+		}
+		2079.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_4 = { #King Luisal III of Ilfan
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_3
+		mother = Lakaris_8
+		2029.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_5a = { #Prince Luisal of Ilfan
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_4
+		#mother =
+		2050.1.1 = {
+			birth = yes
+		}
+		2107.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_5b = { #Prince Kazmyn of Ilfan
+		name = "Kazmyn"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_4
+		#mother =
+		2051.1.1 = {
+			birth = yes
+		}
+		2112.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_5b1 = { #Prince-Consort Philian of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_5b
+		#mother =
+		2073.1.1 = {
+			birth = yes
+		}
+		2091.1.1 = {
+			add_spouse = Atranoux_6
+		}
+		2156.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_6 = { #Queen Cinter I of Ilfan
+		name = "Cinter"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Atranoux_5a
+		#mother =
+		2072.1.1 = {
+			birth = yes
+		}
+		2091.1.1 = {
+			add_spouse = Atranoux_5b1
+		}
+		2145.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_7 = { #King Philian IV of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_5b1
+		mother = Atranoux_6
+		2096.1.1 = {
+			birth = yes
+		}
+		2164.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_8 = { #Kign Philian V of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_7
+		#mother =
+		2117.1.1 = {
+			birth = yes
+		}
+		2179.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_9a = { #King Philian VI of Ilfan
+		name = "Philian"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		father = Atranoux_8
+		#mother =
+		2134.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+	Atranoux_9b = { #Princess Alyssan of Ilfan
+		name = "Alyssan"
+		#dna = dna_caelan_i
+		dynasty_house = house_Atranoux
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Atranoux_8
+		#mother =
+		2135.1.1 = {
+			birth = yes
+		}
+		2241.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Marais #################################
+	Marais_0 = { #King Joruis I of Caspiril
+		name = "Joruis"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Marais_
+		#mother =
+		1918.1.1 = {
+			birth = yes
+		}
+		1968.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1a = { #King Rhyal I of Caspiril
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_0
+		#mother =
+		1942.1.1 = {
+			birth = yes
+		}
+		1971.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b = { #Prince Astarin of Proudlight
+		name = "Astarin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_0
+		#mother =
+		1945.1.1 = {
+			birth = yes
+		}
+		2016.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1c = { #Princess Meliana of Caspiril
+		name = "Meliana"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Marais_0
+		#mother =
+		1950.1.1 = {
+			birth = yes
+		}
+		1968.1.1 = {
+			add_spouse = Perilance_01		#Duke Edmund II
+		}
+		2039.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b1 = { #Count Niberin I of Proudlight
+		name = "Niberin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b
+		#mother =
+		1968.1.1 = {
+			birth = yes
+		}
+		2057.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b2 = { #Count Joruis I of Proudlight
+		name = "Joruis"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b1
+		#mother =
+		1991.1.1 = {
+			birth = yes
+		}
+		2066.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b3 = { #Count Niberin II of Proudlight
+		name = "Niberin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b2
+		#mother =
+		2015.1.1 = {
+			birth = yes
+		}
+		2101.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b4 = { #Count Corin I of Proudlight
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b3
+		#mother =
+		2032.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b5 = { #Count Niberin III of Proudlight
+		name = "Niberin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b4
+		#mother =
+		2056.1.1 = {
+			birth = yes
+		}
+		2125.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b6 = { #Count Astarin II of Proudlight
+		name = "Astarin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b5
+		#mother =
+		2075.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b7 = { #Count Joruis II of Proudlight
+		name = "Joruis"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b6
+		#mother =
+		2099.1.1 = {
+			birth = yes
+		}
+		2166.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b8 = { #Count Niberin IV of Proudlight
+		name = "Niberin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b7
+		#mother =
+		2125.1.1 = {
+			birth = yes
+		}
+		2170.1.1 = {
+			death = yes
+		}
+	}
+	Marais_1b9 = { #Count Corin the Old of Proudlight
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty_house = house_Telmarais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1b8
+		#mother =
+		2142.1.1 = {
+			birth = yes
+		}
+		2239.1.1 = {
+			death = yes
+		}
+	}
+	Marais_2a = { #King Joruis II of Caspiril
+		name = "Joruis"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_1a
+		#mother =
+		1963.1.1 = {
+			birth = yes
+		}
+		1995.1.1 = {
+			death = yes
+		}
+	}
+	Marais_2b = { #Queen Vyana of Caspiril
+		name = "Vyana"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Marais_1a
+		#mother =
+		1968.1.1 = {
+			birth = yes
+		}
+		1986.1.1 = {
+			add_spouse = Perilance_0		#King Corin I
+		}
+		2055.1.1 = {
+			death = yes
+		}
+	}
+	Marais_3a = { #King Joruis III of Caspiril
+		name = "Joruis"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_2a
+		#mother =
+		1987.1.1 = {
+			birth = yes
+		}
+		2005.1.1 = {
+			death = yes
+		}
+	}
+	Marais_3b = { #King Edmund I of Caspiril
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_marais
+		religion = "aurementic"
+		culture = ilfaine
+		father = Marais_2a
+		#mother =
+		1990.1.1 = {
+			birth = yes
+		}
+		2027.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Perilance ##############################
+	Perilance_02 = { #Duke Edmund II of Morin
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Perilance_03
+		#mother =
+		1928.1.1 = {
+			birth = yes
+		}
+		1985.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_01 = { #Duke Edmund II of Morin
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_02
+		#mother =
+		1951.1.1 = {
+			birth = yes
+		}
+		1968.1.1 = {
+			add_spouse = Marais_1c
+		}
+		2024.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_0 = { #King Corin I of Caspiril
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_01
+		#mother =
+		1972.1.1 = {
+			birth = yes
+		}
+		1986.1.1 = {
+			add_spouse = Marais_2b		#Queen Vyana
+		}
+		2050.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_1 = { #King Peter I of Caspiril
+		name = "Peter"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_0
+		#mother =
+		1996.1.1 = {
+			birth = yes
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_2 = { #King Col the Bloody I of Caspiril
+		name = "Col"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_1
+		#mother =
+		2019.1.1 = {
+			birth = yes
+		}
+		2084.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_3a = { #King Corin II of Caspiril
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_2
+		#mother =
+		2041.1.1 = {
+			birth = yes
+		}
+		2085.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_3a1 = { #Crown Prince Andrin of Caspiril
+		name = "Andrin"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_3a
+		#mother =
+		2066.1.1 = {
+			birth = yes
+		}
+		2084.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_3a2 = { #Queen Esmerena of Tallendria
+		name = "Esmerena"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Perilance_3a1
+		#mother =
+		2084.1.1 = {
+			birth = yes
+		}
+
+		2124.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_3b = { #King Rhyal the Great II of Caspiril
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		give_nickname = nick_the_great
+		father = Perilance_2
+		#mother =
+		2043.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_4 = { #King Rhyal III of Caspiril
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_3b
+		#mother =
+		2067.1.1 = {
+			birth = yes
+		}
+		2125.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_5a = { #King Peter II of Caspiril
+		name = "Peter"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_4
+		#mother =
+		2092.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_5b = { #Princess Susan of Caspiril
+		name = "Susdan"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Perilance_4
+		#mother =
+		2094.1.1 = {
+			birth = yes
+		}
+		2146.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_5c = { #Prince Edmund of Caspiril, lord of Perilance and Bandal
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_4
+		#mother =
+		2097.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_5c1 = { #Prince-Consort Corin of Caspiril, lord of perilance and bandal
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_5c
+		#mother =
+		2117.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			add_spouse = Perilance_6
+		}
+		2184.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_5d = { #Princess Lucibel of Caspiril
+		name = "Lucibel"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Perilance_4
+		#mother =
+		2101.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_6 = { #Queen Lucibel I of Caspiril
+		name = "Lucibel"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Perilance_5a
+		#mother =
+		2113.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			add_spouse = Perilance_5c1
+		}
+		2168.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_7a = { #King Edmund II of Caspiril
+		name = "Edmund"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_5c1
+		mother = Perilance_6
+		2133.1.1 = {
+			birth = yes
+		}
+		2171.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_7b = { #Prince Col of Caspiril
+		name = "Col"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_5c1
+		mother = Perilance_6
+		trait = sickly
+		2135.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_7c = { #Prince Kaliran of Caspiril
+		name = "Kaliran"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_5c1
+		mother = Perilance_6
+		2138.1.1 = {
+			birth = yes
+		}
+		2157.1.1 = {
+			add_spouse = Indres_5b	#Lady Elena of Merisgate
+		}
+		2181.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_7c1a = { #Lord Rhyal Perilance
+		name = "Rhyal"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_7c
+		mother = Indres_5b
+		2158.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_7c1b = { #Lord Ferin Perilance
+		name = "Ferin"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		father = Perilance_7c
+		mother = Indres_5b
+		2158.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Perilance_7d = { #Princess Emeris of Caspiril
+		name = "Emeris"
+		#dna = dna_caelan_i
+		dynasty = dynn_perilance
+		religion = "aurementic"
+		culture = ilfaine
+		female = yes
+		father = Perilance_5c1
+		mother = Perilance_6
+		2142.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Barranier ##############################
+	Barranier_0 = { #Count Lucien I of Morinfall
+		name = "Lucien"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Barranier_01
+		#mother =
+		1989.1.1 = {
+			birth = yes
+		}
+		2057.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_1 = { #Count Lucien II of Morinfall
+		name = "Lucien"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_0
+		#mother =
+		2018.1.1 = {
+			birth = yes
+		}
+		2076.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_2a = { #Count Julian the Rake of Morinfall
+		name = "Julian"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_1
+		#mother =
+		2036.1.1 = {
+			birth = yes
+		}
+		2078.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_2b = { #Count Wyllan the Dauntless of Morinfall and Giant's Walk
+		name = "Wyllan"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_1
+		#mother =
+		2038.1.1 = {
+			birth = yes
+		}
+		2110.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_3 = { #Count Lucien III of Morinfall and Giant's Walk
+		name = "Lucien"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_2b
+		#mother =
+		2061.1.1 = {
+			birth = yes
+		}
+		2119.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_4 = { #Count Wyllan II of Morinfall and Giant's Walk
+		name = "Wyllan"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_3
+		#mother =
+		2080.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_5 = { #Count Wyllan III of Morinfall and Giant's Walk
+		name = "Wyllan"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_4
+		#mother =
+		2099.1.1 = {
+			birth = yes
+		}
+		2191.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_6 = { #Count Julian II of Morinfall and Giant's Walk
+		name = "Julian"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_5
+		#mother =
+		2121.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Barranier_7 = { #Count Lucien IV of Morinfall and Giant's Walk
+		name = "Lucien"
+		#dna = dna_caelan_i
+		dynasty = dynn_barranier
+		religion = "aurementic"
+		culture = ilfaine
+		father = Barranier_6
+		#mother =
+		2139.1.1 = {
+			birth = yes
+		}
+		2204.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Utone ##################################
+	Utone_0 = { #Count Regis I of Erskendale
+		name = "Regis"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Utone_01
+		#mother =
+		1962.1.1 = {
+			birth = yes
+		}
+		2027.1.1 = {
+			death = yes
+		}
+	}
+	Utone_1 = { #Count Henry I of Erskendale
+		name = "Henry"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_0
+		#mother =
+		1981.1.1 = {
+			birth = yes
+		}
+		2029.1.1 = {
+			death = yes
+		}
+	}
+	Utone_2 = { #Count Roland I of Erskendale
+		name = "Roland"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_1
+		#mother =
+		2001.1.1 = {
+			birth = yes
+		}
+		2034.1.1 = {
+			death = yes
+		}
+	}
+	Utone_3 = { #Count Roland II of Erskendale
+		name = "Roland"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_2
+		#mother =
+		2020.1.1 = {
+			birth = yes
+		}
+		2092.1.1 = {
+			death = yes
+		}
+	}
+	Utone_4 = { #Count Regis II of Erskendale
+		name = "Regis"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_3
+		#mother =
+		2038.1.1 = {
+			birth = yes
+		}
+		2105.1.1 = {
+			death = yes
+		}
+	}
+	Utone_5 = { #Count Regis III of Erskendale
+		name = "Regis"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_4
+		#mother =
+		2062.1.1 = {
+			birth = yes
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Utone_6 = { #Count Henry II of Erskendale
+		name = "Henry"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_5
+		#mother =
+		2085.1.1 = {
+			birth = yes
+		}
+		2147.1.1 = {
+			death = yes
+		}
+	}
+	Utone_7 = { #Count Henry III of Erskendale
+		name = "Henry"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_6
+		#mother =
+		2102.1.1 = {
+			birth = yes
+		}
+		2185.1.1 = {
+			death = yes
+		}
+	}
+	Utone_8 = { #Count Jerome I of Erskendale
+		name = "Jerome"
+		#dna = dna_caelan_i
+		dynasty = dynn_utone
+		religion = "aurementic"
+		culture = ilfaine
+		father = Utone_7
+		#mother =
+		2134.1.1 = {
+			birth = yes
+		}
+		2228.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Aralor #################################
+	Aralor_0 = { #Count Edgrier II of Jalcrest and Isel
+		name = "Edgrier"
+		#dna = dna_caelan_i
+		dynasty = dynn_aralor
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Aralor_01
+		#mother =
+		2062.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Aralor_1 = { #Count Edgrier III of Jalcrest and Isel
+		name = "Edgrier"
+		#dna = dna_caelan_i
+		dynasty = dynn_aralor
+		religion = "aurementic"
+		culture = ilfaine
+		father = Aralor_0
+		#mother =
+		2089.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Aralor_2 = { #Count Moren II of Jalcrest and Isel
+		name = "Moren"
+		#dna = dna_caelan_i
+		dynasty = dynn_aralor
+		religion = "aurementic"
+		culture = ilfaine
+		father = Aralor_1
+		#mother =
+		2109.1.1 = {
+			birth = yes
+		}
+		2184.1.1 = {
+			death = yes
+		}
+	}
+	Aralor_3 = { #Count Leon II of Jalcrest and Isel
+		name = "Leon"
+		#dna = dna_caelan_i
+		dynasty = dynn_aralor
+		religion = "aurementic"
+		culture = ilfaine
+		father = Aralor_2
+		#mother =
+		2129.1.1 = {
+			birth = yes
+		}
+		2196.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Guerou #################################
+	Guerou_0 = { #Count Elise III of Tacelin
+		name = "Elise"
+		#dna = dna_caelan_i
+		dynasty = dynn_guerou
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Guerou_01
+		#mother =
+		2043.1.1 = {
+			birth = yes
+		}
+		2087.1.1 = {
+			death = yes
+		}
+	}
+	Guerou_1 = { #Count Emile II of Tacelin
+		name = "Emile"
+		#dna = dna_caelan_i
+		dynasty = dynn_guerou
+		religion = "aurementic"
+		culture = ilfaine
+		father = Guerou_0
+		#mother =
+		2064.1.1 = {
+			birth = yes
+		}
+		2105.1.1 = {
+			death = yes
+		}
+	}
+	Guerou_2 = { #Count Jossel I of Tacelin
+		name = "Jossel"
+		#dna = dna_caelan_i
+		dynasty = dynn_guerou
+		religion = "aurementic"
+		culture = ilfaine
+		father = Guerou_1
+		#mother =
+		2083.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Guerou_3 = { #Count Jossel II of Tacelin
+		name = "Jossel"
+		#dna = dna_caelan_i
+		dynasty = dynn_guerou
+		religion = "aurementic"
+		culture = ilfaine
+		father = Guerou_2
+		#mother =
+		2105.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}
+	Guerou_4 = { #Count Emile III of Tacelin
+		name = "Emile"
+		#dna = dna_caelan_i
+		dynasty = dynn_guerou
+		religion = "aurementic"
+		culture = ilfaine
+		father = Guerou_3
+		#mother =
+		2126.1.1 = {
+			birth = yes
+		}
+		2191.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Rheyal #################################
+	Rheyal_0 = { #Count Rheyon Rheyal I of the Spur
+		name = "Rheyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_rheyal
+		religion = "aurementic"
+		culture = ilfaine
+		#father = 
+		#mother =
+		2039.1.1 = {
+			birth = yes
+		}
+		2109.1.1 = {
+			death = yes
+		}
+	}
+	Rheyal_1 = { #Count Rheyon Rheyal II of the Spur
+		name = "Rheyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_rheyal
+		religion = "aurementic"
+		culture = ilfaine
+		father = Rheyal_0
+		#mother =
+		2057.1.1 = {
+			birth = yes
+		}
+		2138.1.1 = {
+			death = yes
+		}
+	}
+	Rheyal_2 = { #Count Rheyon Rheyal III of the Spur
+		name = "Rheyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_rheyal
+		religion = "aurementic"
+		culture = ilfaine
+		father = Rheyal_1
+		#mother =
+		2079.1.1 = {
+			birth = yes
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Rheyal_3 = { #Count Rheyon Rheyal IV of the Spur
+		name = "Rheyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_rheyal
+		religion = "aurementic"
+		culture = ilfaine
+		father = Rheyal_2
+		#mother =
+		2098.1.1 = {
+			birth = yes
+		}
+		2163.1.1 = {
+			death = yes
+		}
+	}
+	Rheyal_4 = { #Count Corin I of the Spur
+		name = "Corin"
+		#dna = dna_caelan_i
+		dynasty = dynn_rheyal
+		religion = "aurementic"
+		culture = ilfaine
+		father = Rheyal_3
+		#mother =
+		2122.1.1 = {
+			birth = yes
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Seine ##################################
+	Seine_0 = { #Count Cassyon I of Silverdew
+		name = "Cassyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_seine
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Seine_01
+		#mother =
+		2071.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Seine_1 = { #Count Cassyon II of Silverdew
+		name = "Cassyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_seine
+		religion = "aurementic"
+		culture = ilfaine
+		father = Seine_0
+		#mother =
+		2094.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Seine_2 = { #Count Cassyon III of Silverdew
+		name = "Cassyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_seine
+		religion = "aurementic"
+		culture = ilfaine
+		father = Seine_1
+		#mother =
+		trait = clubfooted
+		trait = sickly
+		give_nickname = nick_the_lame
+		2117.1.1 = {
+			birth = yes
+		}
+		2180.1.1 = {
+			death = yes
+		}
+	}
+	Seine_3 = { #Count Cassyon IV of Silverdew
+		name = "Cassyon"
+		#dna = dna_caelan_i
+		dynasty = dynn_seine
+		religion = "aurementic"
+		culture = ilfaine
+		father = Seine_2
+		#mother =
+		2136.1.1 = {
+			birth = yes
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Corafae ################################
+	Corafae_0 = { #Count Jerome I of Inovan, Avonte & Broadtide
+		name = "Jerome"
+		#dna = dna_caelan_i
+		dynasty = dynn_corafae
+		religion = "aurementic"
+		culture = ilfaine
+		#father = Corafae_01
+		#mother =
+		2044.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Corafae_1 = { #Count August I of Inovan, Avonte & Broadtide
+		name = "August"
+		#dna = dna_caelan_i
+		dynasty = dynn_corafae
+		religion = "aurementic"
+		culture = ilfaine
+		father = Corafae_0
+		#mother =
+		2062.1.1 = {
+			birth = yes
+		}
+		2105.1.1 = {
+			death = yes
+		}
+	}
+	Corafae_2 = { #Count Luisal I of Inovan, Avonte & Broadtide
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_corafae
+		religion = "aurementic"
+		culture = ilfaine
+		father = Corafae_1
+		#mother =
+		2081.1.1 = {
+			birth = yes
+		}
+		2136.1.1 = {
+			death = yes
+		}
+	}
+	Corafae_3 = { #Count August II of Inovan, Avonte & Broadtide
+		name = "August"
+		#dna = dna_caelan_i
+		dynasty = dynn_corafae
+		religion = "aurementic"
+		culture = ilfaine
+		father = Corafae_2
+		#mother =
+		2103.1.1 = {
+			birth = yes
+		}
+		2184.1.1 = {
+			death = yes
+		}
+	}
+	Corafae_4 = { #Count Jerome II of Inovan, Avonte & Broadtide
+		name = "Jerome"
+		#dna = dna_caelan_i
+		dynasty = dynn_corafae
+		religion = "aurementic"
+		culture = ilfaine
+		father = Corafae_3
+		#mother =
+		2123.1.1 = {
+			birth = yes
+		}
+		2191.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Illum ##################################
+	Illum_0 = { #Duke Caelin I of Lotheris
+		name = "Caelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = 
+		#mother =
+		2054.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+	Illum_1 = { #Duke Col I of Lotheris
+		name = "Col"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_0
+		#mother =
+		2073.1.1 = {
+			birth = yes
+		}
+		2138.1.1 = {
+			death = yes
+		}
+	}
+	Illum_2 = { #Duke Mateo III of Lotheris
+		name = "Mateo"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_1
+		#mother =
+		2091.1.1 = {
+			birth = yes
+		}
+		2153.1.1 = {
+			death = yes
+		}
+	}
+	Illum_3a = { #Duke Caelin II of Lotheris
+		name = "Caelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_2
+		#mother =
+		2115.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Illum_3b = { #Count Jorge II of Silentweep
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_2
+		#mother =
+		2117.1.1 = {
+			birth = yes
+		}
+		2169.1.1 = {
+			death = yes
+		}
+	}
+	Illum_3b1 = { #Count Jorge III of Silentweep
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_3b
+		#mother =
+		2136.1.1 = {
+			birth = yes
+		}
+		2190.1.1 = {
+			death = yes
+		}
+	}
+	Illum_4 = { #Duke Beswyn III of Lotheris
+		name = "Beswyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_3
+		#mother =
+		2139.1.1 = {
+			birth = yes
+		}
+		2181.1.1 = {
+			death = yes
+		}
+	}
+	Illum_5 = { #Duke Talis I of Lotheris
+		name = "Talis"
+		#dna = dna_caelan_i
+		dynasty = dynn_illum
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Illum_4
+		#mother =
+		2157.1.1 = {
+			birth = yes
+		}
+		2247.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Felitess ###############################
+	Felitess_0 = { #Count Jorge III of Rhyal's Harrow
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_felitess
+		religion = "aurementic"
+		culture = ilfaine
+		#father = 
+		#mother =
+		2051.1.1 = {
+			birth = yes
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Felitess_1 = { #Count Gilbert I of Rhyal's Harrow
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_felitess
+		religion = "aurementic"
+		culture = ilfaine
+		father = Felitess_0
+		#mother =
+		2070.1.1 = {
+			birth = yes
+		}
+		2146.1.1 = {
+			death = yes
+		}
+	}
+	Felitess_2 = { #Count Gilbert II of Rhyal's Harrow
+		name = "Gilbert"
+		#dna = dna_caelan_i
+		dynasty = dynn_felitess
+		religion = "aurementic"
+		culture = ilfaine
+		father = Felitess_1
+		#mother =
+		2088.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Felitess_3 = { #Count Jorge IV of Rhyal's Harrow
+		name = "Jorge"
+		#dna = dna_caelan_i
+		dynasty = dynn_felitess
+		religion = "aurementic"
+		culture = ilfaine
+		father = Felitess_2
+		#mother =
+		2108.1.1 = {
+			birth = yes
+		}
+		2185.1.1 = {
+			death = yes
+		}
+	}
+	Felitess_4 = { #Count Gilbert III of Rhyal's Harrow
+		name = "Gilbert"
+		#dna = dna_caelan_i
+		dynasty = dynn_felitess
+		religion = "aurementic"
+		culture = ilfaine
+		father = Felitess_3
+		#mother =
+		2128.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Cazelan ################################
+	Cazelan_0 = { #King Jelvyn II of Tallendria
+		name = "Jelvyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_cazelan
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Cazelan_01
+		#mother = 
+		1710.1.1 = {
+			birth = yes
+		}
+		1761.1.1 = {
+			death = yes
+		}
+	}
+	Cazelan_1 = { #King Jelvyn III of Tallendria
+		name = "Jelvyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_cazelan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Cazelan_0
+		#mother = 
+		1733.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			death = yes
+		}
+	}
+	Cazelan_2 = { #King Tescelin III of Tallendria
+		name = "Tescelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_cazelan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Cazelan_1
+		#mother = 
+		1754.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	Cazelan_3 = { #King Emmon I of Tallendria
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_cazelan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Cazelan_2
+		#mother = 
+		1778.1.1 = {
+			birth = yes
+		}
+		1856.1.1 = {
+			death = yes
+		}
+	}
+	Cazelan_4 = { #King Jelvyn IV of Tallendria
+		name = "Jelvyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_cazelan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Cazelan_3
+		#mother = 
+		1795.1.1 = {
+			birth = yes
+		}
+		1864.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Merovan ################################
+	Merovan_0 = { #King Emmon II of Tallendria
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Merovan_01
+		#mother = 
+		1827.1.1 = {
+			birth = yes
+		}
+		1910.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_1 = { #King Jelvyn V of Tallendria
+		name = "Jelvyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_0
+		#mother = 
+		1848.1.1 = {
+			birth = yes
+		}
+		1927.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_2 = { #King Roberte I of Tallendria
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_1
+		#mother = 
+		1867.1.1 = {
+			birth = yes
+		}
+		1963.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_3 = { #King Ambrosin II of Tallendria
+		name = "Ambrosin"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_2
+		#mother = 
+		1891.1.1 = {
+			birth = yes
+		}
+		1970.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_4 = { #King Jelvyn VI of Tallendria
+		name = "Jelvyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_3
+		#mother = 
+		1912.1.1 = {
+			birth = yes
+		}
+		1991.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_5 = { #King Ambrosin III of Tallendria
+		name = "Ambrosin"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_4
+		#mother = 
+		1940.1.1 = {
+			birth = yes
+		}
+		2002.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_6 = { #King Roberte II of Tallendria
+		name = "Roberte"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_5
+		#mother = 
+		1964.1.1 = {
+			birth = yes
+		}
+		2016.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_7 = { #King Ambrosin IV of Tallendria, Uniter of the East
+		name = "Ambrosin"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		give_nickname = nick_uniter_of_the_east
+		father = Merovan_6
+		#mother = 
+		1987.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			add_spouse = Roanne_5		#Queen Peria of Tallendria
+		}
+		2078.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_8a = { #Prince Roberte of Tallendria
+		name = "Roberte"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_7
+		mother = Roanne_5
+		2008.1.1 = {
+			birth = yes
+		}
+		2012.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_8b = { #King Ethere I of Tallendria
+		name = "Ethere"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_7
+		mother = Roanne_5
+		2009.1.1 = {
+			birth = yes
+		}
+		2086.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_8c = { #Princess Beatrice of Tallendria
+		name = "Beatrice"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_7
+		mother = Roanne_5
+		2010.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_9 = { #King Roberte III the Ineffectual of Tallendria
+		name = "Roberte"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		give_nickname = nick_the_ineffectual
+		father = Merovan_8b
+		#mother = 
+		2035.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_10 = { #Crown Prince Emmon of Tallendria
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_9
+		#mother = 
+		2059.1.1 = {
+			birth = yes
+		}
+		2103.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_11a = { #the Banished Prince Jelvyn of Tallendria
+		name = "Roberte"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_10
+		#mother = 
+		2081.1.1 = {
+			birth = yes
+		}
+		2116.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_11b = { #King Emmon III of Tallendria
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_10
+		#mother = 
+		2083.1.1 = {
+			birth = yes
+		}
+		2101.1.1 = {
+			add_spouse = Perilance_3a2 #Queen Esmerena of Tallendria
+		}
+		2137.1.1 = {
+			add_spouse = Thornblood_13c	#Queen Eris of Tallendria
+		}
+		2144.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_11c = { #Princess Meris of Tallendria
+		name = "Meris"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_10
+		#mother = 
+		2090.1.1 = {
+			birth = yes
+		}
+		2165.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_12a = { #Princess Beatrice of Tallendria
+		name = "Beatrice"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_11b
+		mother = Perilance_3a2
+		2106.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_12b = { #Princess Gela of Tallendria
+		name = "Gela"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_11b
+		mother = Perilance_3a2
+		2108.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			add_spouse = Delon_3 	#Duke Leoset III of Cote Abresset
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_12c = { #Princess Peria of Tallendria
+		name = "Peria"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_11b
+		mother = Perilance_3a2
+		2109.1.1 = {
+			birth = yes
+		}
+		2144.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_12d = { #King Ethere II of Tallendria
+		name = "Ethere"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_11b
+		mother = Perilance_3a2
+		2112.1.1 = {
+			birth = yes
+		}
+		#Queen Guinevere
+		2149.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_12e = { #King Gwyn of Tallendria
+		name = "Gwyn"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_11b
+		mother = Thornblood_13c
+		2138.1.1 = {
+			birth = yes
+			#effect = {
+			#	add_character_flag = flag_secret_bastard
+			#	set_real_father = character: Merovan_12d #King Ethere II
+			#}
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_13a = { #the Young Prince Emmon of Tallendria
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_12d
+		#mother = #Queen Guinevere
+		2135.1.1 = {
+			birth = yes
+		}
+		2137.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_13b = { #Princess Esmerena of Tallendria
+		name = "Esmerena"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_12d
+		#mother = #Queen Guinevere
+		2138.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_13c = { #Princess Thalia of Tallendria
+		name = "Thalia"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Merovan_12d
+		#mother = #Queen Guinevere
+		2141.1.1 = {
+			birth = yes
+		}
+		2225.1.1 = {
+			death = yes
+		}
+	}
+	Merovan_13d = { #King Ambrosin V of Tallendria
+		name = "Ambrosin"
+		#dna = dna_caelan_i
+		dynasty = dynn_merovan
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Merovan_12d
+		#mother = #Queen Guinevere
+		2148.1.1 = {
+			birth = yes
+		}
+		2217.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Roanne #################################
+	Roanne_0 = { #Duke Colinere I of Sonmeris
+		name = "Colinere"
+		#dna = dna_caelan_i
+		dynasty = dynn_roanne
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Roanne_01
+		#mother = 
+		1882.1.1 = {
+			birth = yes
+		}
+		1946.1.1 = {
+			death = yes
+		}
+	}
+	Roanne_1 = { #Duke Regenier I of Sonmeris
+		name = "Regenier"
+		#dna = dna_caelan_i
+		dynasty = dynn_roanne
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Roanne_0
+		#mother = 
+		1904.1.1 = {
+			birth = yes
+		}
+		1962.1.1 = {
+			death = yes
+		}
+	}
+	Roanne_2 = { #Duke Colinere II of Sonmeris
+		name = "Colinere"
+		#dna = dna_caelan_i
+		dynasty = dynn_roanne
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Roanne_1
+		#mother = 
+		1926.1.1 = {
+			birth = yes
+		}
+		2001.1.1 = {
+			death = yes
+		}
+	}
+	Roanne_3 = { #Duke Ethere I of Sonmeris
+		name = "Ethere"
+		#dna = dna_caelan_i
+		dynasty = dynn_roanne
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Roanne_2
+		#mother = 
+		1947.1.1 = {
+			birth = yes
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+	Roanne_4 = { #Duke Regenier II of Sonmeris
+		name = "Regenier"
+		#dna = dna_caelan_i
+		dynasty = dynn_roanne
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Roanne_3
+		#mother = 
+		1970.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Roanne_5 = { #Queen Peria of Tallendria
+		name = "Peria"
+		#dna = dna_caelan_i
+		dynasty = dynn_roanne
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Roanne_4
+		#mother = 
+		1992.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			add_spouse = Merovan_7		#King Ambrosin IV of Tallendria
+		}
+		2064.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Indres #################################
+	Indres_0 = { #Count Taurin I of Merisgate and Jelvyn
+		name = "Taurin"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = Indres_01
+		#mother = 
+		2017.1.1 = {
+			birth = yes
+		}
+		2081.1.1 = {
+			death = yes
+		}
+	}
+	Indres_1 = { #Count Maricus I of Merisgate and Jelvyn
+		name = "Maricus"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Indres_0
+		#mother = 
+		2049.1.1 = {
+			birth = yes
+		}
+		2117.1.1 = {
+			death = yes
+		}
+	}
+	Indres_2 = { #Count Durand I of Merisgate and Jelvyn
+		name = "Durand"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Indres_1
+		#mother = 
+		2073.1.1 = {
+			birth = yes
+		}
+		2128.1.1 = {
+			death = yes
+		}
+	}
+	Indres_3 = { #Count Durand II of Merisgate and Jelvyn
+		name = "Durand"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Indres_2
+		#mother = 
+		2096.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Indres_4 = { #Count Taurin II of Merisgate and Jelvyn
+		name = "Taurin"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Indres_3
+		#mother = 
+		2117.1.1 = {
+			birth = yes
+		}
+		2168.1.1 = {
+			death = yes
+		}
+	}
+	Indres_5a = { #Count Durand III of Merisgate and Jelvyn
+		name = "Durand"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Indres_4
+		#mother = 
+		2138.1.1 = {
+			birth = yes
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+	Indres_5b = { #Lady Elena of Merisgate
+		name = "Elena"
+		#dna = dna_caelan_i
+		dynasty = dynn_indres
+		religion = "aurementic"
+		culture = ilfaniene
+		female = yes
+		father = Indres_4
+		#mother = 
+		2140.1.1 = {
+			birth = yes
+		}
+		2157.1.1 = {
+			add_spouse = Perilance_7c
+		}
+		2197.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Seleno #################################
+	Seleno_0 = { #Duke Tescelin I of Cote Abresset
+		name = "Tescelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = 
+		#mother =
+		1741.1.1 = {
+			birth = yes
+		}
+		1792.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_1a = { #Duke Telman I of Cote Abresset
+		name = "Telman"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_0
+		#mother =
+		1765.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_1b = { #Duke Roberte I of Cote Abresset
+		name = "Roberte"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_0
+		#mother =
+		1769.1.1 = {
+			birth = yes
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_2 = { #Duke Tescelin II of Cote Abresset
+		name = "Tescelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_1a
+		#mother =
+		1793.1.1 = {
+			birth = yes
+		}
+		1817.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_3 = { #Duke Luisal I of Cote Abresset
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_2
+		#mother =
+		1806.1.1 = {
+			birth = yes
+		}
+		1848.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_4 = { #Duke Roberte II of Cote Abresset
+		name = "Roberte"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_3
+		#mother =
+		1829.1.1 = {
+			birth = yes
+		}
+		1916.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_5 = { #Duke Jacque I of Cote Abresset
+		name = "Jacque"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_4
+		#mother =
+		1852.1.1 = {
+			birth = yes
+		}
+		1928.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_6 = { #Duke Tescelin III of Cote Abresset
+		name = "Tescelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_5
+		#mother =
+		1875.1.1 = {
+			birth = yes
+		}
+		1949.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_7 = { #Duke Luisal II of Cote Abresset
+		name = "Luisal"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_6
+		#mother =
+		1893.1.1 = {
+			birth = yes
+		}
+		1956.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_8a = { #Lord Jacque of Cote Abresset
+		name = "Jacque"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_7
+		#mother =
+		1916.1.1 = {
+			birth = yes
+		}
+		1944.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_8b = { #Duke Telman II of Cote Abresset
+		name = "Telman"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_7
+		#mother =
+		1918.1.1 = {
+			birth = yes
+		}
+		2007.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_8b1 = { #the Rebel Duke Verain I of Cote Abresset
+		name = "Verain"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_7
+		#mother =
+		1941.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_9 = { #Duke Tescelin IV of Cote Abresset
+		name = "Tescelin"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_8a
+		#mother =
+		1939.1.1 = {
+			birth = yes
+		}
+		1960.1.1 = {
+			death = yes
+		}
+	}
+	Seleno_10 = { #Lord Ambros Seleno, the Lost Heir of Cote Abresset
+		name = "Ambros"
+		#dna = dna_caelan_i
+		dynasty = dynn_seleno
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Seleno_7
+		#mother =
+		1960.1.1 = {
+			birth = yes
+		}
+		2003.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Delon ##################################
+	Delon_0 = { #Duke Leoset I of Cote Abresset
+		name = "Leoset"
+		#dna = dna_caelan_i
+		dynasty = dynn_delon
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = 
+		#mother = 
+		2033.1.1 = {
+			birth = yes
+		}
+		2108.1.1 = {
+			death = yes
+		}
+	}
+	Delon_1 = { #Duke Leoset II of Cote Abresset
+		name = "Leoset"
+		#dna = dna_caelan_i
+		dynasty = dynn_delon
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Delon_0
+		#mother = 
+		2052.1.1 = {
+			birth = yes
+		}
+		2133.1.1 = {
+			death = yes
+		}
+	}
+	Delon_2 = { #Duke Jacque II of Cote Abresset
+		name = "Jacque"
+		#dna = dna_caelan_i
+		dynasty = dynn_delon
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Delon_1
+		#mother = 
+		2077.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Delon_3 = { #Duke Leoset III of Cote Abresset
+		name = "Leoset"
+		#dna = dna_caelan_i
+		dynasty = dynn_delon
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Delon_2
+		#mother = 
+		2101.1.1 = {
+			birth = yes
+		}
+		2124.1.1 = {
+			add_spouse = Merovan_12b
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Delon_4 = { #Duke Emmon I of Cote Abresset
+		name = "Emmon"
+		#dna = dna_caelan_i
+		dynasty = dynn_delon
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Delon_3
+		mother = Merovan_12b
+		2127.1.1 = {
+			birth = yes
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Catarin
+#
+### House
+#
+###
+#
+###	House Bruent #################################
+	Bruent_0 = { #Count Caspian II of Forkyre and Paillon
+		name = "Caspian"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		#father = 
+		#mother = #Countes Ahelis of Forkyre and Paillon
+		2002.1.1 = {
+			birth = yes
+		}
+		2065.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_1 = { #Count Felix I of Forkyre and Paillon
+		name = "Felix"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		father = Bruent_0
+		#mother = 
+		2021.1.1 = {
+			birth = yes
+		}
+		2070.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_2 = { #Count Hugo I of Forkyre and Paillon
+		name = "Hugo"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		father = Bruent_1
+		#mother = 
+		2045.1.1 = {
+			birth = yes
+		}
+		2107.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_3a = { #Count Felix II of Forkyre and Paillon
+		name = "Felix"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		father = Bruent_2
+		#mother = 
+		2068.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_3b = { #Lord Jaspar Bruent
+		name = "Jaspar"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		father = Bruent_2
+		#mother = 
+		2071.1.1 = {
+			birth = yes
+		}
+		2154.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_3b1 = { #Lord Hugo Bruent
+		name = "Hugo"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = ilfaniene
+		father = Bruent_3b
+		#mother = 
+		2088.1.1 = {
+			birth = yes
+		}
+		2159.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_3c = { #Lord Gallaren Bruent
+		name = "Gallaren"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		father = Bruent_2
+		#mother = 
+		2075.1.1 = {
+			birth = yes
+		}
+		2147.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_3c1 = { #Lady Catherine Bruent
+		name = "Catherine"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Bruent_3c
+		#mother = 
+		2096.1.1 = {
+			birth = yes
+		}
+		2151.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_4 = { #Countess Amicia I of Forkyre and Paillon
+		name = "Amicia"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		father = Bruent_3a
+		#mother = 
+		2091.1.1 = {
+			birth = yes
+		}
+		2165.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_5a = { #Count Caspian III of Forkyre and Paillon
+		name = "Caspian"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		mother = Bruent_4
+		2113.1.1 = {
+			birth = yes
+		}
+		2182.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_5b = { #Lord Hugo Bruent
+		name = "Hugo"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		mother = Bruent_4
+		2116.1.1 = {
+			birth = yes
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Bruent_6 = { #Count Hugo II of Forkyre and Paillon
+		name = "Hugo"
+		#dna = dna_caelan_i
+		dynasty = dynn_bruent
+		religion = "aurementic"
+		culture = aquirvii
+		#father =
+		mother = Bruent_4
+		2035.1.1 = {
+			birth = yes
+		}
+		2210.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Maredan ################################
+	Maredan_0 = { #Count Kysran I of Tavus
+		name = "Kysran"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = ilfaniene
+		#father = 
+		#mother = 
+		1633.1.1 = {
+			birth = yes
+		}
+		1649.1.1 = {
+			add_spouse = Dusk_017i		#Princess Anawyr of Umbrenal
+		}
+		1701.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_1 = { #Count Berosus I of Tavus
+		name = "Berosus"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_0
+		mother = Dusk_017i				#Princess Anawyr of Umbrenal
+		1656.1.1 = {
+			birth = yes
+		}
+		1726.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_2a = { #Count Alaric I of Tavus
+		name = "Alaric"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_1
+		#mother = 
+		1674.1.1 = {
+			birth = yes
+		}
+		1757.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_2b = { #Lady Arika of Tavus
+		name = "Arika"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Maredan_1
+		#mother = 
+		1675.1.1 = {
+			birth = yes
+		}
+		1762.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_3a = { #Count Kysran II of Tavus
+		name = "Kysran"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_2a
+		#mother = 
+		1697.1.1 = {
+			birth = yes
+		}
+		1773.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_3b = { #Lady Andreja of Tavus
+		name = "Andreja"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Maredan_2a
+		#mother = 
+		1699.1.1 = {
+			birth = yes
+		}
+		1791.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_4 = { #Count Erilaius I of Tavus
+		name = "Erilaius"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_3a
+		#mother = 
+		1720.1.1 = {
+			birth = yes
+		}
+		1793.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_5 = { #Count Aramis I of Tavus
+		name = "Aramis"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_4
+		#mother = 
+		1744.1.1 = {
+			birth = yes
+		}
+		1796.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_6 = { #Count Everal I of Tavus
+		name = "Everal"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_5
+		#mother = 
+		1765.1.1 = {
+			birth = yes
+		}
+		1822.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_7 = { #Count Aramis II of Tavus
+		name = "Aramis"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_6
+		#mother = 
+		1787.1.1 = {
+			birth = yes
+		}
+		1877.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_8a = { #Count Berosus II of Tavus
+		name = "Berosus"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_6
+		#mother = 
+		trait = twin
+		1803.1.1 = {
+			birth = yes
+		}
+		1884.1.1 = {
+			death = yes
+		}
+	}
+	Maredan_8b = { #Lady Rheyna of Tavus
+		name = "Rheyna"
+		#dna = dna_caelan_i
+		dynasty = dynn_maredan
+		religion = "aurementic"
+		culture = aquirvii
+		father = Maredan_6
+		#mother = 
+		trait = twin
+		1803.1.1 = {
+			birth = yes
+		}
+		1856.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Raulon #################################
+	Raulon_02 = { #Count Germaine I of Tavus
+		name = "Germaine"
+		#dna = dna_caelan_i
+		dynasty = dynn_raulon
+		religion = "aurementic"
+		culture = aquirvii
+		#father = Raulon_03
+		#mother = 
+		2043.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Raulon_01 = { #Count Verain II of Tavus
+		name = "Verain"
+		#dna = dna_caelan_i
+		dynasty = dynn_raulon
+		religion = "aurementic"
+		culture = aquirvii
+		father = Raulon_02
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Raulon_0 = { #Count Aramis VI of Tavus
+		name = "Aramis"
+		#dna = dna_caelan_i
+		dynasty = dynn_raulon
+		religion = "aurementic"
+		culture = aquirvii
+		father = Raulon_01
+		#mother = 
+		2089.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Raulon_1a = { #Count Verain III of Tavus
+		name = "Verain"
+		#dna = dna_caelan_i
+		dynasty = dynn_raulon
+		religion = "aurementic"
+		culture = aquirvii
+		father = Raulon_0
+		#mother = 
+		2112.1.1 = {
+			birth = yes
+		}
+		2166.1.1 = {
+			death = yes
+		}
+	}
+	Raulon_1b = { #Lady Celesa of Tavus
+		name = "Celesa"
+		#dna = dna_caelan_i
+		dynasty = dynn_raulon
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Raulon_0
+		#mother = 
+		2115.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+	Raulon_2 = { #Count Germaine II of Tavus
+		name = "Germaine"
+		#dna = dna_caelan_i
+		dynasty = dynn_raulon
+		religion = "aurementic"
+		culture = aquirvii
+		father = Raulon_1a
+		#mother = 
+		2132.1.1 = {
+			birth = yes
+		}
+		2184.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Dero ###################################
+	Dero_0 = { #Count Charles III of Fallshore and Nerefor
+		name = "Charles"
+		#dna = dna_caelan_i
+		dynasty = dynn_dero
+		religion = "aurementic"
+		culture = aquirvii
+	#	father = Dero_01
+		#mother = 
+		2081.1.1 = {
+			birth = yes
+		}
+		2131.1.1 = {
+			death = yes
+		}
+	}
+	Dero_1 = { #Count Talis I of Fallshore and Nerefor
+		name = "Talis"
+		#dna = dna_caelan_i
+		dynasty = dynn_dero
+		religion = "aurementic"
+		culture = aquirvii
+		father = Dero_0
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Dero_2a = { #Count Quentin I of Fallshore and Nerefor
+		name = "Quentin"
+		#dna = dna_caelan_i
+		dynasty = dynn_dero
+		religion = "aurementic"
+		culture = aquirvii
+		father = Dero_1
+		#mother = 
+		2125.1.1 = {
+			birth = yes
+		}
+		2187.1.1 = {
+			death = yes
+		}
+	}
+	Dero_2b = { #Lady Letia Dero of Fallshore and Nerefor
+		name = "Letia"
+		#dna = dna_caelan_i
+		dynasty = dynn_dero
+		religion = "aurementic"
+		culture = aquirvii
+		female = yes
+		father = Dero_1
+		#mother = 
+		2128.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}

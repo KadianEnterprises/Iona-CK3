@@ -1,0 +1,81 @@
+#k_platinate_raulyns_gate
+##d_raulyns_gate ###################################
+###c_raulyns_gate
+377 = {		#citadel of kyr
+	culture = gateborn
+	religion = aurementic
+	holding = castle_holding
+}
+378 = {
+	holding = city_holding
+}
+379 = {
+	holding = city_holding
+}
+380 = {
+	holding = castle_holding
+}
+381 = {
+	holding = church_holding
+}
+382 = {
+	holding = none
+}
+
+###c_point_orphiros
+383 = {
+	culture = gateborn
+	religion = aurementic
+	holding = castle_holding
+}
+384 = {
+	holding = city_holding
+}
+385 = {
+	holding = none
+}
+
+###c_stag_bay
+386 = {
+	culture = gateborn
+	religion = aurementic
+	holding = castle_holding
+}
+387 = {
+	holding = city_holding
+}
+388 = {
+	holding = none
+}
+389 = {
+	holding = none
+}
+
+###c_nekremos
+397 = {
+	culture = gateborn
+	religion = aurementic
+	holding = castle_holding
+}
+398 = {
+	holding = none
+}
+399 = {
+	holding = city_holding
+}
+400 = {
+	holding = none
+}
+
+###c_nicosan_woods
+402 = {
+	culture = gateborn
+	religion = aurementic
+	holding = castle_holding
+}
+403 = {
+	holding = none
+}
+404 = {
+	holding = none
+}

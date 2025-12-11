@@ -1,0 +1,67 @@
+﻿k_asta_felarin = {
+	1800.1.1 = {
+		holder = Tejaren_0			#King Irephenes I
+	}
+	1840.1.1 = {
+		holder = Tejaren_1			#King Serapher I
+	}
+	1857.1.1 = {
+		holder = Tejaren_2			#King Ralen I
+	}
+	1882.1.1 = {
+		holder = Tejaren_3			#Queen Kalania I
+	}
+	1914.1.1 = {
+		holder = Tejaren_4			#King Aremane I
+	}
+	1939.1.1 = {
+		holder = Tejaren_5			#King Irephenes the Old
+	}
+	1977.1.1 = {
+		holder = Tejaren_7			#Irephenes III
+	}
+	1987.1.1 = {
+		holder = Tejaren_8			#King Ralen II
+	}
+	2002.1.1 = {
+		holder = Tejaren_9			#Queen Callice I
+	}
+	2038.1.1 = {
+		holder = Tejaren_10			#Queen Callice II
+	}
+	2052.1.1 = {
+		holder = Tejaren_11			#King Serapher II
+	}
+	2065.1.1 = {
+		holder = Tejaren_12			#King Irephenes IV
+	}
+	2083.1.1 = {
+		holder = Tejaren_13			#King Aremane II
+	}
+	2105.1.1 = {
+		holder = Tejaren_14			#King Daroren I
+	}
+	2124.1.1 = {
+		holder = Tejaren_15			#King Irephenes V
+	}
+	2139.1.1 = {
+		holder = Tejaren_16			#King Ralen III
+	}
+	2170.1.1 = {
+		holder = Tejaren_17			#King Janer I
+	}
+}
+
+# Duchy of Meranfrea
+	d_meranfrea = {
+		2098.1.1 = {
+			liege = k_asta_felarin
+			holder = Zirital_0
+		}
+		2157.1.1 = {
+			holder = Zirital_1a
+		}
+		2174.1.1 = {
+			holder = Zirital_2
+		}
+	}

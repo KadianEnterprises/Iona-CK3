@@ -1,0 +1,195 @@
+﻿# Zarun
+## Zarun
+	### Zaranai
+	1846 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1847 = {
+		holding = city_holding
+	}
+	1848 = {
+		holding = none
+	}
+	1849 = {
+		holing = none
+	}
+	1850 = {
+		holding = none
+	}
+	### Fanilon
+	1851 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Kalamathea
+	1852 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1853 = {
+		holding = city_holding
+	}
+	1854 = {
+		holding = none
+	}
+	1855 = {
+		holding = none
+	}
+	### Lagan
+	1856 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1857 = {
+		holding = none
+	}
+	1858 = {
+		holding = none
+	}
+	1859 = {
+		holding = none
+	}
+	### Nidran
+	1860 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1861 = {
+		holding = none
+	}
+	1862 = {
+		holding = none
+	}
+	1863 = {
+		holding = none
+	}
+	### Evora
+	1864 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1865 = {
+		holding = city_holding
+	}
+	1866 = {
+		holding = none
+	}
+	1867 = {
+		holding = none
+	}
+# Daniya
+	### Daniyala
+	1868 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1869 = {
+		holding = city_holding
+	}
+	1870 = {
+		holding = none
+	}
+	1871 = {
+		holding = none
+	}
+	1872 = {
+		holding = none
+	}
+	### Glanfada
+	1873 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1874 = {
+		holding = none
+	}
+	1875 = {
+		holding = none
+	}
+	1876 = {
+		holding = none
+	}
+	1877 = {
+		holding = none
+	}
+	### Natera
+	1878 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1879 = {
+		holding = none
+	}
+	1880 = {
+		holding = none
+	}
+	1881 = {
+		holding = none
+	}
+	### Andorica
+	1882 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1883 = {
+		holding = city_holding
+	}
+	1884 = {
+		holding = none
+	}
+	1885 = {
+		holding = none
+	}
+	1895 = {
+		holding = none
+	}
+	### Balastrom
+	1886 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1887 = {
+		holding = city_holding
+	}
+	1888 = {
+		holding = none
+	}
+	1889 = {
+		holding = none
+	}
+	### Friendra
+	1890 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1891 = {
+		holding = none
+	}
+	### Girobella
+	1892 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}
+	1893 = {
+		holding = none
+	}
+	### Risena
+	1894 = {
+		culture = zarai
+		religion = aurementic
+		holding = castle_holding
+	}

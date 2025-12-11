@@ -1,0 +1,82 @@
+k_xol_aurena = {
+
+}
+
+## Duchy of Belltide
+	d_belltide = {
+		1798.1.1 = {
+			holder = Kyras_0		#Archon Phyrron I of Belltide
+		}
+		1837.1.1 = {
+			holder = Kyras_1		#Archon Polyserus I of Belltide
+		}
+		1867.1.1 = {
+			holder = Kyras_2		#Archon Polymideon I of Belltide
+		}
+		1871.1.1 = {
+			holder = Kyras_3		#Archon Phyrron II of Belltide
+		}
+		1888.1.1 = {
+			holder = Kyras_4		#Archon Hakelos I of Belltide
+		}
+		1905.1.1 = {
+			holder = Kyras_5		#Archon Aegis I of Belltide
+		}
+		1939.1.1 = {
+			holder = Kyras_6		#Archon Kyron I of Belltide
+		}
+		1957.1.1 = {
+			holder = Kyras_7		#Archon Polymideon II of Belltide
+		}
+		1972.1.1 = {
+			holder = Kyras_8a		#Archon Aegis II of Belltide
+		}
+		1991.1.1 = {
+			holder = Kyras_9a		#Archon Polymideon III of Belltide
+		}
+		1996.1.1 = {
+			holder = Kyras_9a1		#Archon Polyserus II of Belltide
+		}
+		1997.1.1 = {
+			holder = Kyras_9b		#Archon Hakelos II of Belltide
+		}
+		2009.1.1 = {
+			holder = Kyras_10a		#Archon Phyrron III of Belltide
+		}
+		2011.1.1 = {
+			holder = Kyras_10b		#Archon Kyron II of Belltide
+		}
+		2021.1.1 = {
+			holder = Kyras_11		#Archon Proximos I of Belltide
+		}
+		2042.1.1 = {
+			holder = Photys_1		#Archon Aegis III of Belltide
+		}
+		2060.1.1 = {
+			holder = Photys_2		#Archon Proximos II of Belltide
+		}
+		2096.1.1 = {
+			holder = Photys_3		#Archon Polyserus III of Belltide
+		}
+		2134.1.1 = {
+			holder = Photys_4		#Archon Kalikos I of Belltide
+		}
+		2137.1.1 = {
+			holder = Photys_5		#Archon Aegis IV of Belltide
+		}
+		2161.1.1 = {
+			holder = Photys_6		#Archon Kalikos II of Belltide
+		}
+		2175.1.1 = {
+			holder = Photys_7		#Archon Proximos III of Belltide
+		}
+		#2206.1.1
+	}
+#
+##
+#
+##
+#
+##
+#
+##

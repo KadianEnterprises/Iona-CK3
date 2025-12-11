@@ -1,0 +1,68 @@
+k_merathia = {
+	1580.1.1 = {
+		holder = Joysong_0			#King Coren I
+	}
+	1617.1.1 = {
+		holder = Joysong_1			#Queen Cormira I
+	}
+	1638.1.1 = {
+		holder = Joysong_2			#Queen Kalyra I
+	}
+	1653.1.1 = {
+		holder = 0
+	}
+	1796.1.1 = {
+		holder = Coppercrown_0		#Queen Rheya I
+	}
+	1852.1.1 = {
+		holder = Coppercrown_1		#Queen Rheya II
+	}
+	1865.1.1 = {
+		holder = Coppercrown_2		#Queen Rosalia I
+	}
+	1900.1.1 = {
+		holder = Coppercrown_3		#King Coren II
+	}
+	1911.1.1 = {
+		holder = Coppercrown_4 		#King Reyan I
+	}
+	1915.1.1 = {
+		holder = Coppercrown_5		#Queen Rosalia II
+	}
+	1920.1.1 = {
+		holder = Coppercrown_6		#Queen Cormira II
+	}
+	1932.1.1 = {
+		holder = Coppercrown_7a		#King Morgane I
+	}
+	1935.1.1 = {
+		holder = Coppercrown_7b		#King Kirion I
+	}
+	1967.1.1 = {
+		holder = Coppercrown_8		#Queen Rheya III
+	}
+	2011.1.1 = {
+		holder = Telastron_0		#King Asterchrom I
+	}
+	2034.1.1 = {
+		holder = Telastron_1		#Queen Rosalia III
+	}
+	2056.1.1 = {
+		holder = Telastron_2		#Queen Verana I
+	}
+	2060.1.1 = {
+		holder = Telastron_3		#Queen Kalyra II
+	}
+	2110.1.1 = {
+		holder = Telastron_4		#King Coren III
+	}
+	2127.1.1 = {
+		holder = Telastron_5		#Queen Cormira III
+	}
+	2146.1.1 = {
+		holder = Telastron_6a		#King Kirion II
+	}
+	2154.1.1 = {
+		holder = Telastron_7a		#King Coren IV
+	}
+}

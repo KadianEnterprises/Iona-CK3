@@ -1,0 +1,570 @@
+﻿Ilrinid_3 = {
+	name = "Erilys"
+	#dna = 
+	#dynasty = Ilrinid_1
+	female = yes
+	religion = "aurementic"
+	culture = volokarian
+	trait = half_elf
+	trait = beauty_good_1
+	#father = Ilrinid_2
+	1745.1.1 = {
+		birth = yes
+	}
+	2006.1.1 = {
+		death = yes
+	}
+}
+
+### House Sintralyr ###############################
+	Syntralyr_0 = {
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		#father = Syntralyr_
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1352.1.1 = {
+			birth = yes
+		}
+		1539.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_1a = {			#King Kynal the Crowntaker of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_0
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1404.1.1 = {
+			birth = yes
+		}
+		1612.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_1a1 = {
+		name = "Vyrsus"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		trait = half_elf
+		trait = beauty_good_1
+		father = Syntralyr_1a
+		1437.1.1 = {
+			birth = yes
+		}
+		1715.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_1a2 = {
+		name = "Erilys"
+		#dna = 
+		dynasty = dynn_syntralyr
+		female = yes
+		religion = "aurementic"
+		culture = adwyr_gallan
+		trait = half_elf
+		trait = beauty_good_1
+		father = Syntralyr_1a
+		1440.1.1 = {
+			birth = yes
+		}
+		1780.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_1a3 = {
+		name = "Ophyria"
+		#dna = 
+		dynasty = dynn_syntralyr
+		female = yes
+		religion = "aurementic"
+		culture = adwyr_gallan
+		trait = half_elf
+		trait = beauty_good_1
+		father = Syntralyr_1a
+		1446.1.1 = {
+			birth = yes
+		}
+		1832.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_1b = {			#Lord Jabrios Sintralyr
+		name = "Jabrios"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_0
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1411.1.1 = {
+			birth = yes
+		}
+		1550.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Syntralyr_2 = {			#Queen Sevia I of Adwyr
+		name = "Sevia"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		female = yes
+		father = Syntralyr_1b
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1464.1.1 = {
+			birth = yes
+		}
+		1687.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_3 = {			#King Kynal II of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		#father = 
+		mother = Syntralyr_2
+		trait = half_elf
+		1516.1.1 = {
+			birth = yes
+		}
+		1730.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_4 = {			#King Jabrios I the Cold of Adwyr
+		name = "Jabrios"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_3
+		#mother = 
+		trait = half_elf
+		1549.1.1 = {
+			birth = yes
+		}
+		1742.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_5 = {			#King Ataras I of Adwyr
+		name = "Ataras"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_4
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1592.1.1 = {
+			birth = yes
+		}
+		1782.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_6 = {			#Queen Sevia II of Adwyr
+		name = "Sevia"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		female = yes
+		father = Syntralyr_5
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1626.1.1 = {
+			birth = yes
+		}
+		1866.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_7 = {			#King Kynal III of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		#father = 
+		mother = Syntralyr_6
+		trait = half_elf
+		trait = beauty_good_1
+		1661.1.1 = {
+			birth = yes
+		}
+		1875.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_8 = {			#Prince Ataras of Adwyr
+		name = "Ataras"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_7
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1707.1.1 = {
+			birth = yes
+		}
+		1752.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_9a = {			#King Kynal IV of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_8
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1746.1.1 = {
+			birth = yes
+		}
+		1916.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_9b = {			#Prince Joserin of Adwyr
+		name = "Joserin"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_8
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1748.1.1 = {
+			birth = yes
+		}
+		1892.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_9b1 = {			#Lady Aurea of Adwyr
+		name = "Aurea"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_9b
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1773.1.1 = {
+			birth = yes
+		}
+		1789.1.1 = {
+			add_spouse = Ostiral_0
+		}
+		1967.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_10 = {			#King Ataras II of Adwyr
+		name = "Ataras"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_9a
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1787.1.1 = {
+			birth = yes
+		}
+		1971.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_11a = {			#Prince Jabrios of Adwyr
+		name = "Jabrios"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_10
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1825.1.1 = {
+			birth = yes
+		}
+		1928.1.1 = {
+			death = {
+				death_reason = death_murder
+			}
+		}
+	}
+	Syntralyr_11b = {			#Queen Vrysa of Adwyr
+		name = "Vrysa"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		female = yes
+		father = Syntralyr_10
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1833.1.1 = {
+			birth = yes
+		}
+		1862.1.1 = {
+			add_spouse = Ostiral_1			#King Ataras III of Adwyr
+		}
+		2021.1.1 = {
+			death = yes
+		}
+	}
+	Syntralyr_12a = {			#Prince Kynal the Young of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_11a
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		trait = consumption
+		1862.1.1 = {
+			birth = yes
+		}
+		1889.1.1 = {
+			death = {
+				death_reason = death_consumption
+			}
+		}
+	}
+	Syntralyr_12b = {			#Prince Balmyr of Adwyr
+		name = "Balmyr"
+		#dna = 
+		dynasty = dynn_syntralyr
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Syntralyr_11a
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		trait = lustful
+		trait = rakish
+		trait = lifestyle_hunter
+		1867.1.1 = {
+			birth = yes
+		}
+		1945.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Ostiral ###########################################
+	Ostiral_0 = {			#Lord Tygan Ostiral
+		name = "Tygan"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		#father = 
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1766.1.1 = {
+			birth = yes
+		}
+		1789.1.1 = {
+			add_spouse = Syntralyr_9b1
+		}
+		1941.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_1 = {			#King Ataras III of Adwyr
+		name = "Ataras"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_0
+		mother = Syntralyr_9b1
+		trait = half_elf
+		trait = beauty_good_1
+		1798.1.1 = {
+			birth = yes
+		}
+		1862.1.1 = {
+			add_spouse = Syntralyr_11b
+		}
+		2021.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_2 = {			#King Jabrios II of Adwyr
+		name = "Jabrios"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_1
+		mother = Syntralyr_11b
+		trait = half_elf
+		trait = beauty_good_1
+		1864.1.1 = {
+			birth = yes
+		}
+		2082.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_3 = {			#King Jabrios III of Adwyr
+		name = "Jabrios"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_2
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1882.1.1 = {
+			birth = yes
+		}
+		2083.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_4 = {			#King Tygan I of Adwyr
+		name = "Tygan"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_3
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1929.1.1 = {
+			birth = yes
+		}
+		2152.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_5 = {			#King Kynal V of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_4
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		1971.1.1 = {
+			birth = yes
+		}
+		2195.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_6 = {			#King Kynal VI of Adwyr
+		name = "Kynal"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_5
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		2011.1.1 = {
+			birth = yes
+		}
+		2203.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_7 = {			#King Tygan II of Adwyr
+		name = "Tygan"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_6
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		2056.1.1 = {
+			birth = yes
+		}
+		2264.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_8 = {			#Queen Erilys I of Adwyr
+		name = ""
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		father = Ostiral_7
+		#mother = 
+		trait = half_elf
+		trait = beauty_good_1
+		2092.1.1 = {
+			birth = yes
+		}
+		2316.1.1 = {
+			death = yes
+		}
+	}
+	Ostiral_9 = {			#King Ataras IV of Adwyr
+		name = "Ataras"
+		#dna = 
+		dynasty = dynn_ostiral
+		religion = "aurementic"
+		culture = adwyr_gallan
+		#father = 
+		mother = Ostiral_8
+		trait = half_elf
+		trait = beauty_good_1
+		2134.1.1 = {
+			birth = yes
+		}
+		2325.1.1 = {
+			death = yes
+		}
+	}

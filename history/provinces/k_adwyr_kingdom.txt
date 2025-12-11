@@ -1,0 +1,263 @@
+﻿#k_adwyr_kingdom
+##d_port_nigan####################
+###c_port_nigan
+574 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+573 = {
+	holding = city_holding
+}
+575 = {
+	holding = city_holding
+}
+576 = {
+	holding = none
+}
+577 = {
+	holding = none
+}
+578 = {
+	holding = none
+}
+
+###c_spearpoint
+649 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+650 = {
+	holding = church_holding
+}
+651 = {
+	holding = city_holding
+}
+
+###c_vandyril
+652 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+653 = {
+	holding = city_holding
+}
+654 = {
+	holding = none
+}
+
+###c_nigan_highlands
+655 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+656 = {
+	holding = none
+}
+657 = {
+	holding = none
+}
+659 = {
+	holding = none
+}
+
+###c_winnowfield
+679 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+678 = {
+	holding = none
+}
+680 = {
+	holding = none
+}
+
+##d_breakshore####################
+###c_kyrastkeep
+681 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+682 = {
+	holding = none
+}
+683 = {
+	holding = none
+}
+
+###c_taegoril
+684 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+685 = {
+	holding = none
+}
+
+###c_surbon
+687 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+686 = {
+	holding = none
+}
+
+###astertower
+688 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+689 = {
+	holding = city_holding
+}
+690 = {
+	holding = none
+}
+
+###c_oaken_way
+691 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+692 = {
+	holding = city_holding
+}
+693 = {
+	holding = church_holding
+}
+665 = {
+	holding = castle_holding
+}
+
+##d_holim######################
+###c_sein_holim
+579 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+640 = {
+	holding = none
+}
+641 = {
+	holding = none
+}
+
+###c_eladyr
+642 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+643 = {
+	holding = none
+}
+644 = {
+	holding = none
+}
+
+###c_inra_kin
+667 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+666 = {
+	holding = none
+}
+
+###c_great_tree
+645 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+646 = {
+	holding = none
+}
+647 = {
+	holding = none
+}
+648 = {
+	holding = none
+}
+
+##d_south_rothera
+###c_grenoux
+663 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+664 = {
+	holding = city_holding
+}
+662 = {
+	holding = castle_holding
+}
+
+###c_angria
+659 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+660 = {
+	holding = city_holding
+}
+661 = {
+	holding = church_holding
+}
+
+###c_tithesfield
+671 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+668 = {
+	holding = none
+}
+669 = {
+	holding = none
+}
+670 = {
+	holding = none
+}
+
+###c_spinefurrows
+672 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+673 = {
+	holding = none
+}
+674 = {
+	holding = none
+}
+675 = {
+	holding = none
+}
+
+###c_smokeroad
+677 = {
+	culture = adwyr_gallan
+	religion = aurementic
+	holding = castle_holding
+}
+676 = {
+	holding = none
+}

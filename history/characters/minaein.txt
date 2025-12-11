@@ -1,0 +1,2807 @@
+﻿### House Icarius ###############################################
+	icarius_0 = {
+		name = "Icarius"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		1741.1.1 = {
+			birth = yes
+		}
+		1793.1.1 = {
+			death = yes
+		}
+	}
+	icarius_1 = {
+		name = "Polymideon"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_0
+		1762.1.1 = {
+			birth = yes
+		}
+		1779.1.1 = {
+			add_spouse = enochys_8
+		}
+		1820.1.1 = {
+			death = yes
+		}
+	}
+	icarius_2 = { 			#King Gideon I
+		name = "Gideon"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_1
+		mother = enochys_8
+		1784.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			add_spouse = vaesso_1
+		}
+		1838.1.1 = {
+			death = yes
+		}
+	}
+	icarius_3 = {			#King Kalbrias I
+		name = "Kalbrias"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_2
+		mother = vaesso_1
+		1802.1.1 = {
+			birth = yes
+		}
+		1854.1.1 = {
+			death = yes
+		}
+	}
+	icarius_4 = {			#Princess Antiope
+		name = "Antiope"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = icarius_2
+		mother = vaesso_1
+		1804.1.1 = {
+			birth = yes
+		}
+		1875.1.1 = {
+			death = yes
+		}
+	}
+	icarius_5 = {			#Prince Canius
+		name = "Canius"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_2
+		mother = vaesso_1
+		1807.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	icarius_6 = {			#King Gideon II
+		name = "Gideon"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_3
+		1820.1.1 = {
+			birth = yes
+		}
+		1891.1.1 = {
+			death = yes
+		}
+	}
+	icarius_7 = {			#Queen Philodera
+		name = "Philodera"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = icarius_6
+		1841.1.1 = {
+			birth = yes
+		}
+		1904.1.1 = {
+			death = yes
+		}
+	}
+	icarius_8 = {			#King Gideon III
+		name = "Gideon"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		mother = icarius_7
+		1862.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_9 = {			#Prince Kalabrias
+		name = "Kalabrias"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_8
+		1885.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_10 = {			#Prince Gideon
+		name = "Gideon"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_8
+		1886.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_11 = {			#Prince Polymideon
+		name = "Polymideon"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_8
+		1890.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_12 = {			#Princess Antiope the Younger
+		name = "Antiope"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = icarius_8
+		1897.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_13 = {			#Prince Kalabrias the younger
+		name = "Kalabrias"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_9
+		1903.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_14 = {			#Princess Zoe
+		name = "Zoe"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_9
+		1905.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_15 = {			#Prince Arastal
+		name = "Arastal"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_10
+		1904.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = yes
+		}
+	}
+	icarius_16 = {			#Prince Khadras the Exile
+		name = "Kadras"
+		#dna = 
+		dynasty = dynn_icarius
+		religion = "aurementic"
+		culture = kalidorian
+		father = icarius_11
+		1911.1.1 = {
+			birth = yes
+		}
+		1949.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Vaesso ################################################
+	vaesso_1 = {
+		name = "Iresya"
+		#dna = 
+		dynasty = dynn_vaesso
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		#father = vaesso_2
+		1783.1.1 = {
+			birth = yes
+		}
+		1847.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Enochys ###############################################
+	enochys_0 = { 		#Prince Talorus Elfkneeler
+		name = "Talorus"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		1669.1.1 = {
+			birth = yes
+		}
+		1719.1.1 = {
+			death = yes
+		}
+	}
+	enochys_1 = { 		#Lord Andras the Bold
+		name = "Andras"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_0
+		1692.1.1 = {
+			birth = yes
+		}
+		1709.1.1 = {
+			add_spouse = phyloderon_1b #lady Kidalea phyloderon
+		}
+		1740.1.1 = {
+			death = yes
+		}
+	}
+	enochys_2 = { 		#Lord Athamon I
+		name = "Athamon"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_1
+		mother = phyloderon_1b
+		1717.1.1 = {
+			birth = yes
+		}
+		1735.1.1 = {
+			add_spouse = harimore_1 #lady Antiope Harimore
+		}
+		1761.1.1 = {
+			death = yes
+		}
+	}
+	enochys_3 = { 		#Lord Kaerys I
+		name = "Kaerys"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_2
+		mother = harimore_1
+		1734.1.1 = {
+			birth = yes
+		}
+		1751.1.1 = {
+			add_spouse = thalokis_1 #lady eunala thalokis
+		}
+		1773.1.1 = {
+			death = yes
+		}
+	}
+	enochys_4 = { 		#Lord Itylus I
+		name = "Itylus"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_3
+		mother = thalokis_1
+		1751.1.1 = {
+			birth = yes
+		}
+		1788.1.1 = {
+			death = yes
+		}
+	}
+	enochys_5 = { 		#Lord Andras
+		name = "Andras"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_3
+		mother = thalokis_1
+		1753.1.1 = {
+			birth = yes
+		}
+		1843.1.1 = {
+			death = yes
+		}
+	}
+	enochys_6 = { 		#Lord Kalcaes
+		name = "Kalcaes"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_3
+		mother = thalokis_1
+		1756.1.1 = {
+			birth = yes
+		}
+		1779.1.1 = {
+			death = yes
+		}
+	}
+	enochys_7 = { 		#Lady Naermea
+		name = "Naermea"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = enochys_3
+		mother = thalokis_1
+		1759.1.1 = {
+			birth = yes
+		}
+		1825.1.1 = {
+			death = yes
+		}
+	}
+	enochys_8 = { 		#Lady Zoe 
+		name = "Zoe"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = enochys_3
+		mother = thalokis_1
+		1764.1.1 = {
+			birth = yes
+		}
+		1836.1.1 = {
+			death = yes
+		}
+	}
+	enochys_9 = { 		#Archon Itylus I
+		name = "Itylus"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_4
+		1771.1.1 = {
+			birth = yes
+		}
+		1824.1.1 = {
+			death = yes
+		}
+	}
+	enochys_10 = { 		#Archon Itylus II
+		name = "Itylus"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_9
+		1790.1.1 = {
+			birth = yes
+		}
+		1837.1.1 = {
+			death = yes
+		}
+	}
+	enochys_11 = { 		#Archoness Solesa I
+		name = "Solesa"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = enochys_10
+		1807.1.1 = {
+			birth = yes
+		}
+		1863.1.1 = {
+			death = yes
+		}
+	}
+	enochys_12 = { 		#Archon Kaerys I
+		name = "Kaerys"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		mother = enochys_11
+		1826.1.1 = {
+			birth = yes
+		}
+		1881.1.1 = {
+			death = yes
+		}
+	}
+	enochys_13 = { 		#Archon Kaerys II
+		name = "Kaerys"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_12
+		1845.1.1 = {
+			birth = yes
+		}
+		1887.1.1 = {
+			death = yes
+		}
+	}
+	enochys_14 = { 		#Lord Itylus the Young
+		name = "Itylus"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		father = enochys_13
+		1864.1.1 = {
+			birth = yes
+		}
+		1869.1.1 = {
+			death = yes
+		}
+	}
+	enochys_15 = { 		#Lady Solesa Enochys
+		name = "Solesa"
+		#dna = 
+		dynasty = dynn_enochys
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = enochys_13
+		1865.1.1 = {
+			birth = yes
+		}
+		1880.1.1 = {
+			add_spouse = oculus_1
+		}
+		1951.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Oculus ################################################
+	oculus_1 = { 		#Archon Orphion I
+		name = "Orphion"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		#father =
+		1861.1.1 = {
+			birth = yes
+		}
+		1880.1.1 = {
+			add_spouse = enochys_15
+		}
+		1902.1.1 = {
+			death = yes
+		}
+	}
+	oculus_2 = { 		#Archon Dymas I
+		name = "Dymas"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		father = oculus_1
+		mother = enochys_15
+		1883.1.1 = {
+			birth = yes
+		}
+		1900.1.1 = {
+			add_spouse = oculus_3
+		}
+		1916.1.1 = {
+			death = yes
+		}
+	}
+	oculus_3 = { 		#Archoness Alecto I
+		name = "Alecto"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = oculus_1
+		mother = enochys_15
+		1885.1.1 = {
+			birth = yes
+		}
+		1900.1.1 = {
+			add_spouse = enochys_15
+		}
+		1943.1.1 = {
+			death = yes
+		}
+	}
+	oculus_4 = { 		#Archon Ceremox I
+		name = "Ceremox"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		father = oculus_2
+		mother = oculus_3
+		1900.1.1 = {
+			birth = yes
+		}
+		1966.1.1 = {
+			death = yes
+		}
+	}
+	oculus_5 = { 		#Archon Dymas II
+		name = "Dymas"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		father = oculus_4
+		1918.1.1 = {
+			birth = yes
+		}
+		1979.1.1 = {
+			death = yes
+		}
+	}
+	oculus_6 = { 		#Archon Dymas III
+		name = "Dymas"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		father = oculus_5
+		1936.1.1 = {
+			birth = yes
+		}
+		2005.1.1 = {
+			death = yes
+		}
+	}
+	oculus_7a = { 		#Lady Thalia Oculus of Valexios
+		name = "Thalia"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = oculus_6
+		1953.1.1 = {
+			birth = yes
+		}
+		1970.1.1 = {
+			add_spouse = Hyperkon_01
+		}
+		2009.1.1 = {
+			death = yes
+		}
+	}
+	oculus_7b = { 		#Lord Ceremox Oculus
+		name = "Ceremox"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		father = oculus_6
+		1955.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	oculus_8a = { 		#Lord Orphion the Banished
+		name = "Orphion"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		father = oculus_7b
+		#mother = 
+		trait = disinherited
+		1975.1.1 = {
+			birth = yes
+		}
+		2010.1.1 = {
+			death = yes
+		}
+	}
+	oculus_8b = { 		#Lady Alecto Oculus
+		name = "Alecto"
+		#dna = 
+		dynasty = dynn_oculus
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = oculus_7b
+		1977.1.1 = {
+			birth = yes
+		}
+		1994.1.1 = {
+			add_spouse = Hyperkon_0
+		}
+		2059.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Hyperkon ##############################################
+	Hyperkon_01 = {			#Archon Kaerys I of Valexios
+		name = "Kaerys"
+		#dna = 
+		dynasty = dynn_hyperkon
+		religion = "aurementic"
+		culture = kalidorian
+		#father = Hyperkon_02
+		#mother =
+		1952.1.1 = {
+			birth = yes
+		}
+		1970.1.1 = {
+			add_spouse = oculus_7a
+		}
+		2042.1.1 = {
+			death = yes
+		}
+	}
+	Hyperkon_0 = {			#Archon Philomenos I of Hellidos
+		name = "Philomenos"
+		#dna = 
+		dynasty = dynn_hyperkon
+		religion = "aurementic"
+		culture = kalidorian
+		father = Hyperkon_01
+		mother = oculus_7a
+		1975.1.1 = {
+			birth = yes
+		}
+		1994.1.1 = {
+			add_spouse = oculus_8b
+		}
+		2021.1.1 = {
+			death = yes
+		}
+	}
+	Hyperkon_1 = {			#Archoness Thalia the Kind of Hellidos and Valexios
+		name = "Thalia"
+		#dna = 
+		dynasty = dynn_hyperkon
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Hyperkon_0
+		mother = oculus_8b
+		1996.1.1 = {
+			birth = yes
+		}
+		2047.1.1 = {
+			death = yes
+		}
+	}
+	Hyperkon_2 = {			#Archon Heirax I of Hellidos and Valexios
+		name = "Heirax"
+		#dna = 
+		dynasty = dynn_hyperkon
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		mother = Hyperkon_1
+		2018.1.1 = {
+			birth = yes
+		}
+		2058.1.1 = {
+			death = yes
+		}
+	}
+	Hyperkon_3a = {			#Archon Philomenos II of Hellidos and Valexios
+		name = "Philomenos"
+		#dna = 
+		dynasty = dynn_hyperkon
+		religion = "aurementic"
+		culture = kalidorian
+		father = Hyperkon_2
+		#mother = 
+		2042.1.1 = {
+			birth = yes
+		}
+		2066.1.1 = {
+			death = yes
+		}
+	}
+	Hyperkon_3b = {			#Lady Kalastia of Hellidos and Valexios
+		name = "Kalastia"
+		#dna = 
+		dynasty = dynn_hyperkon
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Hyperkon_2
+		#mother = 
+		2043.1.1 = {
+			birth = yes
+		}
+		2065.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Sondremo ##############################################
+	Sondremo_0 = {			#Archon Proteus I of Hellidos and Valexios
+		name = "Proteus"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		mother = Hyperkon_3b
+		2063.1.1 = {
+			birth = yes
+		}
+		2091.1.1 = {
+			death = yes
+		}
+	}
+	Sondremo_1a = {			#Archon Heirax II of Hellidos and Valexios
+		name = "Heirax"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		father = Sondremo_0
+		#mother = 
+		2080.1.1 = {
+			birth = yes
+		}
+		2117.1.1 = {
+			death = yes
+		}
+	}
+	Sondremo_1b = {			#Archon Alecto II of Hellidos and Valexios
+		name = "Alecto"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Sondremo_0
+		#mother = 
+		2083.1.1 = {
+			birth = yes
+		}
+		2122.1.1 = {
+			death = yes
+		}
+	}
+	Sondremo_2a = {			#Archon Ceremox II of Hellidos and Valexios
+		name = "Ceremox"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		mother = Sondremo_1b
+		2102.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Sondremo_2b = {			#Archon Alecto III of Hellidos and Valexios
+		name = "Alecto"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		#father = 
+		mother = Sondremo_1b
+		2109.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			add_matrilineal_spouse = Geminid_4b
+		}
+		2167.1.1 = {
+			death = yes
+		}
+	}
+	Sondremo_3 = {			#Archon Orphion II of Hellidos and Valexios
+		name = "Orphion"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_4b
+		mother = Sondremo_2b
+		2130.1.1 = {
+			birth = yes
+		}
+		2205.1.1 = {
+			death = yes
+		}
+	}
+	Sondremo_4 = {			#Archon Proteus II of Hellidos and Valexios
+		name = "Proteus"
+		#dna = 
+		dynasty = dynn_sondremo
+		religion = "aurementic"
+		culture = kalidorian
+		father = Sondremo_3
+		#mother = 
+		2153.1.1 = {
+			birth = yes
+		}
+		2225.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Geminid ###############################################
+	Geminid_0 = {			#Lord Laconus I of Nisa Valexios
+		name = "Laconus"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		#mother =
+		2017.1.1 = {
+			birth = yes
+		}
+		2091.1.1 = {
+			death = yes
+		}
+	}
+	Geminid_1 = {			#Lord Laconus II of Nisa Valexios
+		name = "Laconus"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_0
+		#mother =
+		2040.1.1 = {
+			birth = yes
+		}
+		2096.1.1 = {
+			death = yes
+		}
+	}
+	Geminid_2 = {			#Lord Kaerys II of Nisa Valexios
+		name = "Kaerys"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_1
+		#mother =
+		2063.1.1 = {
+			birth = yes
+		}
+		2120.1.1 = {
+			death = yes
+		}
+	}
+	Geminid_3 = {			#Lord Laconus III of Nisa Valexios
+		name = "Laconus"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_2
+		#mother =
+		2082.1.1 = {
+			birth = yes
+		}
+		2157.1.1 = {
+			death = yes
+		}
+	}
+	Geminid_4a = {			#Lord Dymas I of Nisa Valexios
+		name = "Dymas"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_3
+		#mother =
+		2105.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+	Geminid_4b = {			#Lord Iados Geminid
+		name = "Iados"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_3
+		#mother =
+		2107.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			add_spouse = Sondremo_2b
+		}
+		2172.1.1 = {
+			death = yes
+		}
+	}
+	Geminid_5 = {			#Lord Ceremox I of Nisa Valexios
+		name = "Ceremox"
+		#dna = 
+		dynasty = dynn_geminid
+		religion = "aurementic"
+		culture = kalidorian
+		father = Geminid_4a
+		#mother =
+		2127.1.1 = {
+			birth = yes
+		}
+		2198.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Phyloderon ############################################
+	phyloderon_0 = { 		#Lord Dymeros I of Dymoxa
+		name = "Dymeros"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		1666.1.1 = {
+			birth = yes
+		}
+		1732.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_1a = { 		#Lord Aegor I of Dymoxa
+		name = "Aegor"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		father = phyloderon_0
+		1692.1.1 = {
+			birth = yes
+		}
+		1776.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_1b = { 		#Lady Kidalea of Dymoxa
+		name = "Kidalea"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = phyloderon_0
+		1694.1.1 = {
+			birth = yes
+		}
+		1709.1.1 = {
+			add_spouse = enochys_1
+		}
+		1787.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_2 = { 		#Lord Dymeros II of Dymoxa
+		name = "Dymeros"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		father = phyloderon_1a
+		1716.1.1 = {
+			birth = yes
+		}
+		1783.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_3 = { 		#Lord Aegor II of Dymoxa
+		name = "Aegor"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		father = phyloderon_3
+		1741.1.1 = {
+			birth = yes
+		}
+		1816.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_4a = { 		#Lord Klestos I of Dymoxa
+		name = "Klestos"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		father = phyloderon_3
+		1763.1.1 = {
+			birth = yes
+		}
+		1844.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_4b = { 		#Lady Kinara Phyloderon
+		name = "Kinara"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = phyloderon_3
+		#mother = 
+		1765.1.1 = {
+			birth = yes
+		}
+		1851.1.1 = {
+			death = yes
+		}
+	}
+	phyloderon_5 = { 		#Lord Andrade I of Dymoxa
+		name = "Andrade"
+		#dna = 
+		dynasty = dynn_phyloderon
+		religion = "aurementic"
+		culture = kalidorian
+		father = phyloderon_4a
+		1786.1.1 = {
+			birth = yes
+		}
+		1860.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Harimore ##############################################
+	harimore_1 = {
+		name = "Antiope"
+		#dna = 
+		dynasty = dynn_harimore
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		#father
+		1716.1.1 = {
+			birth = yes
+		}
+		1793.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Thalokis ##############################################
+	thalokis_1 = {
+		name = "Eunala"
+		#dna = 
+		dynasty = dynn_thalokis
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		#father
+		1736.1.1 = {
+			birth = yes
+		}
+		1767.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Nerakos ###############################################
+	Nerakos_0 = {	#King Nerin I the Seaswept of Azurea
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		#father = 
+		#mother = 
+		give_nickname = nick_the_seaswept
+		1105.1.1 = {
+			birth = yes
+		}
+		1176.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_1 = {	#King Azure I of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		father = Nerakos_0
+		#mother = 
+		1127.1.1 = {
+			birth = yes
+		}
+		1201.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_2 = {	#King Dallian I of Azurea
+		name = "Dallian"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		father = Nerakos_1
+		#mother = 
+		1149.1.1 = {
+			birth = yes
+		}
+		1216.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_3a = {	#King Marann I of Azurea
+		name = "Marann"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		father = Nerakos_2
+		#mother = 
+		1173.1.1 = {
+			birth = yes
+		}
+		1221.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_3b = {	#Queen Valel I of Azurea
+		name = "Valel"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		female = yes
+		father = Nerakos_2
+		#mother = 
+		1176.1.1 = {
+			birth = yes
+		}
+		1247.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_4 = {	#Queen Nenya I of Azurea
+		name = "Nenya"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		female = yes
+		#father = 
+		mother = Nerakos_3b
+		1201.1.1 = {
+			birth = yes
+		}
+		1259.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_5 = {	#King Maris I of Azurea
+		name = "Maris"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		#father = 
+		mother = Nerakos_4
+		1223.1.1 = {
+			birth = yes
+		}
+		1273.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_6 = {	#King Dallian II of Azurea
+		name = "Dallian"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		father = Nerakos_5
+		#mother = 
+		1242.1.1 = {
+			birth = yes
+		}
+		1326.1.1 = {
+			death = yes
+		}
+	}
+	Nerakos_7 = {	#Princess Valel of Azurea
+		name = "Valel"
+		#dna = 
+		dynasty = dynn_nerakos
+		religion = "aurementic"
+		culture = azurean
+		father = Nerakos_6
+		#mother = 
+		1266.1.1 = {
+			birth = yes
+		}
+		1298.1.1 = {
+			death = yes
+		}
+	}
+	
+#
+### Houser Azural ###############################################
+	Azural_0 = {	#King Maris II
+		name = "Maris"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		#father = 
+		mother = Nerakos_7
+		1290.1.1 = {
+			birth = yes
+		}
+		1367.1.1 = {
+			death = yes
+		}
+	}
+	Azural_1 = {	#King Dallian III the Seatyrant
+		name = "Dallian"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_0
+		#mother = 
+		give_nickname = nick_the_seatyrant
+		1312.1.1 = {
+			birth = yes
+		}
+		1394.1.1 = {
+			death = yes
+		}
+	}
+	Azural_2 = {	#King Azure II the Seablessed of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_1
+		#mother = 
+		give_nickname = nick_the_seablessed
+		1335.1.1 = {
+			birth = yes
+		}
+		1419.1.1 = {
+			death = yes
+		}
+	}
+	Azural_3 = {	#King Azure III of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_2
+		#mother = 
+		1359.1.1 = {
+			birth = yes
+		}
+		1422.1.1 = {
+			death = yes
+		}
+	}
+	Azural_4d = {	#King Amallan the Unexpected of Azurea
+		name = "Amallan"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_3
+		#mother = 
+		give_nickname = nick_the_unexpected
+		1390.1.1 = {
+			birth = yes
+		}
+		1468.1.1 = {
+			death = yes
+		}
+	}
+	Azural_5 = {	#King Azure IV of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_4d
+		#mother = 
+		1411.1.1 = {
+			birth = yes
+		}
+		1503.1.1 = {
+			death = yes
+		}
+	}
+	Azural_6 = {	#King Amallan II of Azurea
+		name = "Amallan"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_5
+		#mother = 
+		1432.1.1 = {
+			birth = yes
+		}
+		1535.1.1 = {
+			death = yes
+		}
+	}
+	Azural_7 = {	#King Azure V of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_6
+		#mother = 
+		1455.1.1 = {
+			birth = yes
+		}
+		1547.1.1 = {
+			death = yes
+		}
+	}
+	Azural_8 = {	#King Maris III of Azurea
+		name = "Maris"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_7
+		#mother = 
+		1488.1.1 = {
+			birth = yes
+		}
+		1596.1.1 = {
+			death = yes
+		}
+	}
+	Azural_9 = {	#Prince Azure of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_8
+		#mother = 
+		1510.1.1 = {
+			birth = yes
+		}
+		1584.1.1 = {
+			death = yes
+		}
+	}
+	Azural_10 = {	#King Azure VI of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_9
+		#mother = 
+		1534.1.1 = {
+			birth = yes
+		}
+		1628.1.1 = {
+			death = yes
+		}
+	}
+	Azural_11 = {	#King Marann II of Azurea
+		name = "Marann"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_10
+		#mother = 
+		1556.1.1 = {
+			birth = yes
+		}
+		1633.1.1 = {
+			death = yes
+		}
+	}
+	Azural_12 = {	#Queen Kidagare I of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		female = yes
+		father = Azural_11
+		#mother = 
+		1579.1.1 = {
+			birth = yes
+		}
+		1709.1.1 = {
+			death = yes
+		}
+	}
+	Azural_13 = {	#Prince Kalabrias of Azurea
+		name = "Kalabrias"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		#father = 
+		mother = Azural_12
+		1602.1.1 = {
+			birth = yes
+		}
+		1690.1.1 = {
+			death = yes
+		}
+	}
+	Azural_14 = {	#King Odyranos I of Azurea
+		name = "Odyranos"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_13
+		#mother = 
+		1627.1.1 = {
+			birth = yes
+		}
+		1764.1.1 = {
+			death = yes
+		}
+	}
+	Azural_15 = {	#Prince Aon of Azurea
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_14
+		#mother = 
+		1650.1.1 = {
+			birth = yes
+		}
+		1696.1.1 = {
+			death = yes
+		}
+	}
+	Azural_16 = {	#Prince Odyranos of Azurea
+		name = "Odyranos"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_15
+		#mother = 
+		1673.1.1 = {
+			birth = yes
+		}
+		1734.1.1 = {
+			death = yes
+		}
+	}
+	Azural_17 = {	#King Aon I of Azurea
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_16
+		#mother = 
+		1697.1.1 = {
+			birth = yes
+		}
+		1791.1.1 = {
+			death = yes
+		}
+	}
+	Azural_18 = {	#King Nerin II of Azurea
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_17
+		#mother = 
+		1720.1.1 = {
+			birth = yes
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Azural_19c = {	#Prince Nerin of Azurea
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_18
+		#mother = 
+		1746.1.1 = {
+			birth = yes
+		}
+		1784.1.1 = {
+			death = yes
+		}
+	}
+	Azural_20 = {	#King Aon II of Azurea
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_19c
+		#mother = 
+		1770.1.1 = {
+			birth = yes
+		}
+		1864.1.1 = {
+			death = yes
+		}
+	}
+	Azural_21 = {	#Prince Odyranos the Penitent of Azurea
+		name = "Odyranos"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_20
+		#mother = 
+		1793.1.1 = {
+			birth = yes
+		}
+		1858.1.1 = {
+			death = yes
+		}
+	}
+	Azural_22 = {	#King Amallan the Ancient of Azurea
+		name = "Amallan"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_21
+		#mother = 
+		give_nickname = nick_the_ancient
+		1814.1.1 = {
+			birth = yes
+		}
+		1939.1.1 = {
+			death = yes
+		}
+	}
+	Azural_23 = {	#Prince Marann of Azurea
+		name = "Marann"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_22
+		#mother = 
+		1838.1.1 = {
+			birth = yes
+		}
+		1911.1.1 = {
+			death = yes
+		}
+	}
+	Azural_24 = {	#King Azure VII of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_23
+		#mother = 
+		1865.1.1 = {
+			birth = yes
+		}
+		2006.1.1 = {
+			death = yes
+		}
+	}
+	Azural_25 = {	#Prince Aon the Longwaiting of Azurea
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_24
+		#mother = 
+		1892.1.1 = {
+			birth = yes
+		}
+		1971.1.1 = {
+			death = yes
+		}
+	}
+	Azural_26 = {	#Prince Amallan of Azurea
+		name = "Amallan"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_25
+		#mother = 
+		1913.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	Azural_27 = {	#King Amallan IV of Azurea
+		name = "Amallan"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_26
+		#mother = 
+		1936.1.1 = {
+			birth = yes
+		}
+		2106.1.1 = {
+			death = yes
+		}
+	}
+	Azural_28 = {	#Prince Auros of Azurea
+		name = "Auros"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_27
+		#mother = 
+		1967.1.1 = {
+			birth = yes
+		}
+		2071.1.1 = {
+			death = yes
+		}
+	}
+	Azural_29 = {	#Queen Kidagare II of Azurea
+		name = "Kidagare"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		female = yes
+		father = Azural_28
+		#mother = 
+		1981.1.1 = {
+			birth = yes
+		}
+		2125.1.1 = {
+			death = yes
+		}
+	}
+	Azural_30 = {	#King Auros I of Azurea
+		name = "Auros"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		#father = 
+		mother = Azural_29
+		2007.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Azural_31 = {	#King Aon III of Azurea
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_30
+		#mother = 
+		2035.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Azural_32 = {	#Prince Auros the Wise of Azurea
+		name = "Auros"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_31
+		#mother = 
+		2063.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Azural_33 = {	#King Auros II of Azurea
+		name = "Auros"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_32
+		#mother = 
+		2091.1.1 = {
+			birth = yes
+		}
+		2206.1.1 = {
+			death = yes
+		}
+	}
+	Azural_34 = {	#King Azure VIII of Azurea
+		name = "Azure"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_33
+		#mother = 
+		2113.1.1 = {
+			birth = yes
+		}
+		2219.1.1 = {
+			death = yes
+		}
+	}
+	Azural_35 = {	#King Nerin III of Azurea
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_azural
+		religion = "aurementic"
+		culture = azurean
+		father = Azural_34
+		#mother = 
+		2135.1.1 = {
+			birth = yes
+		}
+		2222.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Vikos #################################################
+	Vikos_0 = {	#Lord Xyrates of Myriae
+		name = "Xyrates"
+		#dna = 
+		dynasty = dynn_vikos
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		#mother = 
+		2041.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Vikos_1a = {	#Lord Leokyron of Myriae
+		name = "Leokyron"
+		#dna = 
+		dynasty = dynn_vikos
+		religion = "aurementic"
+		culture = kalidorian
+		father = Vikos_0
+		#mother = 
+		2064.1.1 = {
+			birth = yes
+		}
+		2101.1.1 = {
+			death = yes
+		}
+	}
+	Vikos_1b = {	#Lord Helicaon of Myriae
+		name = "Helicaon"
+		#dna = 
+		dynasty = dynn_vikos
+		religion = "aurementic"
+		culture = kalidorian
+		father = Vikos_0
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2108.1.1 = {
+			death = yes
+		}
+	}
+	Vikos_2 = {	#Lord Daemenes the Snake of Myriae
+		name = "Daemenes"
+		#dna = 
+		dynasty = dynn_vikos
+		religion = "aurementic"
+		culture = kalidorian
+		father = Vikos_1b
+		#mother = 
+		give_nickname = nick_the_snake
+		trait = education_intrigue_3
+		2096.1.1 = {
+			birth = yes
+		}
+		2114.1.1 = {
+			add_spouse = Malderus_1
+		}
+		2164.1.1 = {
+			death = yes
+		}
+	}
+	Vikos_3 = {	#Lord Helicaon of Myriae
+		name = "Helicaon"
+		#dna = 
+		dynasty = dynn_vikos
+		religion = "aurementic"
+		culture = kalidorian
+		father = Vikos_2
+		mother = Malderus_1
+		2116.1.1 = {
+			birth = yes
+		}
+		2144.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Malderus ##############################################
+	Malderus_0 = {	#Lord Demas the Bonegrinder of Myriae
+		name = "Demas"
+		#dna = 
+		dynasty = dynn_malderus
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		#mother = 
+		give_nickname = nick_the_bonegrinder
+		2070.1.1 = {
+			birth = yes
+		}
+		2119.1.1 = {
+			death = {
+				death_reason = death_execution
+				killer = Goldenbrow_50
+			}
+		}
+	}
+	Malderus_1 = {	#Lady Lyra of Myriae
+		name = "Xyrates"
+		#dna = 
+		dynasty = dynn_malderus
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Malderus_0
+		#mother = 
+		2094.1.1 = {
+			birth = yes
+		}
+		2114.1.1 = {
+			add_spouse = Vikos_2
+		}
+		2177.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Jadiros ###############################################
+	Jadiros_0 = {	#Alexios III of Thermia
+		name = "Alexios"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		#mother = 
+		1993.1.1 = {
+			birth = yes
+		}
+		2042.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_1a = {	#Rhymenes II of Thermia
+		name = "Rhymenes"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_0
+		#mother = 
+		2016.1.1 = {
+			birth = yes
+		}
+		2046.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_1b = {	#Lykos I of Thermia
+		name = "Rhymenes"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_0
+		#mother = 
+		2019.1.1 = {
+			birth = yes
+		}
+		2052.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_1c = {	#Phyrus II of Thermia
+		name = "Phyrus"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_0
+		#mother = 
+		2022.1.1 = {
+			birth = yes
+		}
+		2070.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_2a = {	#Kyda of Thermia
+		name = "Kyda"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Jadiros_1c
+		#mother = 
+		2046.1.1 = {
+			birth = yes
+		}
+		2132.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_2b = {	#Heiros I of Thermia
+		name = "Heiros"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_1c
+		#mother = 
+		2049.1.1 = {
+			birth = yes
+		}
+		2094.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_3 = {	#Cyrus III of Thermia
+		name = "Cyrus"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_2b
+		#mother = 
+		2071.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_4 = {	#Alexios IV of Thermia
+		name = "Alexios"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_3
+		#mother = 
+		2095.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Jadiros_5 = {	#Rhymenes III of Thermia
+		name = "Rhymenes"
+		#dna = 
+		dynasty = dynn_jadiros
+		religion = "aurementic"
+		culture = kalidorian
+		father = Jadiros_4
+		#mother = 
+		2118.1.1 = {
+			birth = yes
+		}
+		2184.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Kyras #################################################
+	Kyras_0 = {		#Archon Phyrron I of Belltide
+		name = "Phyrron"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		#father = 
+		#mother = 
+		1772.1.1 = {
+			birth = yes
+		}
+		1837.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_1 = {		#Archon Polyserus I of Belltide
+		name = "Polyserus"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_0
+		#mother = 
+		1793.1.1 = {
+			birth = yes
+		}
+		1867.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_2 = {		#Archon Polymideon I of Belltide
+		name = "Polymideon"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_1
+		#mother = 
+		1807.1.1 = {
+			birth = yes
+		}
+		1871.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_3 = {		#Archon Phyrron II of Belltide
+		name = "Phyrron"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_2
+		#mother = 
+		1831.1.1 = {
+			birth = yes
+		}
+		1888.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_4 = {		#Archon Hakelos I of Belltide
+		name = "Hakelos"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_3
+		#mother = 
+		1853.1.1 = {
+			birth = yes
+		}
+		1905.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_5 = {		#Archon Aegis I of Belltide
+		name = "Aegis"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_4
+		#mother = 
+		1876.1.1 = {
+			birth = yes
+		}
+		1939.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_6 = {		#Archon Kyron I of Belltide
+		name = "Kyron"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_5
+		#mother = 
+		1903.1.1 = {
+			birth = yes
+		}
+		1957.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_7 = {		#Archon Polymideon II of Belltide
+		name = "Polymideon"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_6
+		#mother = 
+		1922.1.1 = {
+			birth = yes
+		}
+		1972.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_8a = {		#Archon Aegis II of Belltide
+		name = "Aegis"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_7
+		#mother = 
+		1946.1.1 = {
+			birth = yes
+		}
+		1991.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_8b = {		#Lady Nesera of Belltide
+		name = "Nesera"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Kyras_7
+		#mother = 
+		1956.1.1 = {
+			birth = yes
+		}
+		2048.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_9a = {		#Archon Polymideon III of Belltide
+		name = "Polymideon"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_8a
+		#mother = 
+		1970.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_9a1 = {		#Archon Polyserus II of Belltide
+		name = "Polyserus"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_9a
+		#mother = 
+		1986.1.1 = {
+			birth = yes
+		}
+		1997.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_9b = {		#Archon Hakelos II of Belltide
+		name = "Hakelos"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_8a
+		#mother = 
+		1971.1.1 = {
+			birth = yes
+		}
+		2009.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_10a = {		#Archon Phyrron III of Belltide
+		name = "Phyrron"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_9b
+		#mother = 
+		1994.1.1 = {
+			birth = yes
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_10b = {		#Archon Kyron II of Belltide
+		name = "Kyron"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_9b
+		#mother = 
+		1996.1.1 = {
+			birth = yes
+		}
+		2021.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_11 = {		#Archon Proximos I of Belltide
+		name = "Proximos"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		father = Kyras_10b
+		#mother = 
+		2011.1.1 = {
+			birth = yes
+		}
+		2042.1.1 = {
+			death = yes
+		}
+	}
+	Kyras_12 = {		#Lady Amelyte of Belltide
+		name = "Amelyte"
+		#dna = 
+		dynasty = dynn_kyras
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Kyras_11
+		#mother = 
+		2029.1.1 = {
+			birth = yes
+		}
+		2039.1.1 = {
+			add_spouse = Photys_2		#Archon Proximos II
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Photys ################################################
+	Photys_0 = {		#Lord Nikandros Photys
+		name = "Nikandros"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		#father = Photys_01
+		mother = Kyras_8b
+		1979.1.1 = {
+			birth = yes
+		}
+		2044.1.1 = {
+			death = yes
+		}
+	}
+	Photys_1 = {		#Archon Aegis III of Belltide
+		name = "Aegis"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_0
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2060.1.1 = {
+			death = yes
+		}
+	}
+	Photys_2 = {		#Archon Proximos II of Belltide
+		name = "Proximos"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_1
+		#mother = 
+		2024.1.1 = {
+			birth = yes
+		}
+		2039.1.1 = {
+			add_spouse = Kyras_12		#Lady Amelyte Kyras
+		}
+		2096.1.1 = {
+			death = yes
+		}
+	}
+	Photys_3 = {		#Archon Polyserus III of Belltide
+		name = "Polyserus"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_2
+		mother = Kyras_12
+		2046.1.1 = {
+			birth = yes
+		}
+		2134.1.1 = {
+			death = yes
+		}
+	}
+	Photys_4 = {		#Archon Kalikos I of Belltide
+		name = "Kalikos"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_3
+		#mother = 
+		2070.1.1 = {
+			birth = yes
+		}
+		2137.1.1 = {
+			death = yes
+		}
+	}
+	Photys_5 = {		#Archon Aegis IV of Belltide
+		name = "Aegis"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_4
+		#mother = 
+		2093.1.1 = {
+			birth = yes
+		}
+		2161.1.1 = {
+			death = yes
+		}
+	}
+	Photys_6 = {		#Archon Kalikos II of Belltide
+		name = "Kalikos"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_5
+		#mother = 
+		2117.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}
+	Photys_7 = {		#Archon Proximos III of Belltide
+		name = "Proximos"
+		#dna = 
+		dynasty = dynn_photys
+		religion = "aurementic"
+		culture = kalidorian
+		father = Photys_6
+		#mother = 
+		2140.1.1 = {
+			birth = yes
+		}
+		2206.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Laneus ################################################
+	Laneus_0 = {		#Lord Carem I of Photonis
+		name = "Carem"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		#father = Laneus_01
+		#mother = 
+		1769.1.1 = {
+			birth = yes
+		}
+		1831.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_1 = {		#Lord Xephos I of Photonis
+		name = "Xephos"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_0
+		#mother = 
+		1787.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_2 = {		#Lord Plutian I of Photonis
+		name = "Plutian"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_1
+		#mother = 
+		1811.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_3 = {		#Lord Xephos II of Photonis
+		name = "Xephos"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_2
+		#mother = 
+		1832.1.1 = {
+			birth = yes
+		}
+		1911.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_4a = {		#Lord Plutian II of Photonis
+		name = "Plutian"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_3
+		#mother = 
+		1852.1.1 = {
+			birth = yes
+		}
+		1925.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_4b = {		#Lord Carem Laneus of Photonis
+		name = "Carem"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_3
+		#mother = 
+		1854.1.1 = {
+			birth = yes
+		}
+		1912.1.1 = {
+			death = {
+				death_reason = death_battle
+				killer = Laneus_4d
+			}
+		}
+	}
+	Laneus_4c = {		#Lord Tabril Laneus of Photonis
+		name = "Tabril"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_3
+		#mother = 
+		1857.1.1 = {
+			birth = yes
+		}
+		1886.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_4d = {		#Imperial Governor Hector I of Imperial Kaligaia
+		name = "Hector"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_3
+		#mother = 
+		1861.1.1 = {
+			birth = yes
+		}
+		1934.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_5a = {		#Imperial Governor Hector II of Imperial Kaligaia
+		name = "Hector"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_4d
+		#mother = 
+		1886.1.1 = {
+			birth = yes
+		}
+		1941.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_5a1 = {		#Lord Xephos of Imperial Kaligaia
+		name = "Xephos"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_5a
+		#mother = 
+		1904.1.1 = {
+			birth = yes
+		}
+		1926.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_5a2 = {		#Lady Calista Laneus
+		name = "Calista"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		female = yes
+		father = Laneus_5a1
+		#mother = 
+		1923.1.1 = {
+			birth = yes
+		}
+		2007.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_5b = {		#Imperial Governor Neres I of Imperial Kaligaia
+		name = "Neres"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_4d
+		#mother = 
+		1887.1.1 = {
+			birth = yes
+		}
+		1955.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_6 = {		#Imperial Governor Neres II of Imperial Kaligaia
+		name = "Neres"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_5b
+		#mother = 
+		1908.1.1 = {
+			birth = yes
+		}
+		1980.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_7 = {		#Imperial Governor Xephos I of Imperial Kaligaia
+		name = "Xephos"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_6
+		#mother = 
+		1931.1.1 = {
+			birth = yes
+		}
+		1987.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_8 = {		#Imperial Governor Hector III of Imperial Kaligaia
+		name = "Hector"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_7
+		#mother = 
+		1953.1.1 = {
+			birth = yes
+		}
+		1996.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_9a = {		#Imperial Governor Xephos II of Imperial Kaligaia
+		name = "Xephos"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_8
+		#mother = 
+		1975.1.1 = {
+			birth = yes
+		}
+		2001.1.1 = {
+			death = yes
+		}
+	}
+	Laneus_9b = {		#Imperial Governess Lamira I of Imperial Kaligaia
+		name = "Lamira"
+		#dna = 
+		dynasty = dynn_laneus
+		religion = "aurementic"
+		culture = kalidorian
+		father = Laneus_8
+		#mother = 
+		1977.1.1 = {
+			birth = yes
+		}
+		1994.1.1 = {
+			add_spouse = Istrano_0
+		}
+		2007.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Istrano ###############################################
+	Istrano_0 = {		#Grand Duke Eranon II of Raulyn's Gate, Imperial Governor of Kaligaia
+		name = "Eranon"
+		#dna = 
+		dynasty = dynn_istrano
+		religion = "aurementic"
+		culture = deledani
+		#father = Istrano_01
+		#mother = 
+		1980.1.1 = {
+			birth = yes
+		}
+		1994.1.1 = {
+			add_spouse = Laneus_9b
+		}
+		2057.1.1 = {
+			death = yes
+		}
+	}
+	Istrano_1a = {		#Imperial Governor Xephos III of Kaligaia
+		name = "Xephos"
+		#dna = 
+		dynasty = dynn_istrano
+		religion = "aurementic"
+		culture = deledani
+		father = Istrano_0
+		mother = Laneus_9b
+		1999.1.1 = {
+			birth = yes
+		}
+		2022.1.1 = {
+			death = yes
+		}
+	}
+	Istrano_1b = {		#Imperial Governor Gideon I of Kaligaia
+		name = "Gideon"
+		#dna = 
+		dynasty = dynn_istrano
+		religion = "aurementic"
+		culture = deledani
+		father = Istrano_0
+		mother = Laneus_9b
+		2001.1.1 = {
+			birth = yes
+		}
+		2040.1.1 = {
+			death = yes
+		}
+	}
+	

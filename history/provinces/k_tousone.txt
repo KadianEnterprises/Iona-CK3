@@ -1,0 +1,359 @@
+﻿#k_tousone
+##d_tousone ###################################
+###c_tourmon
+434 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+435 = {
+	holding = city_holding
+}
+436 = {
+	holding = church_holding
+}
+437 = {
+	holding = none
+}
+
+###c_ruisseur
+438 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+439 = {
+	holding = city_holding
+}
+440 = {
+	holding = church_holding
+}
+
+###c_arge_d_belmyr
+454 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+455 = {
+	holding = none
+}
+
+###c_forins
+457 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+456 = {
+	holding = city_holding
+}
+458 = {
+	holding = church_holding
+}
+459 = {
+	holding = none
+}
+560 = {
+	holding = none
+}
+
+###c_lisi
+463 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+464 = {
+	holding = city_holding
+}
+462 = {
+	holding = none
+}
+465 = {
+	holding = none
+}
+566 = {
+	holding = none
+}
+
+###c_auremont
+467 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+468 = {
+	holding = city_holding
+}
+469 = {
+	holding = church_holding
+}
+470 = {
+	holding = none
+}
+571 = {
+	holding = none
+}
+
+##d_arge_rivage ###################################
+###c_aranirsport
+445 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+443 = {
+	holding = city_holding
+}
+444 = {
+	holding = church_holding
+}
+446 = {
+	holding = none
+}
+
+###c_abrisus
+131 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+129 = {
+	holding = city_holding
+}
+132 = {
+	holding = church_holding
+}
+133 = {
+	holding = none
+}
+
+###c_point_osart
+441 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+442 = {
+	holding = city_holding
+}
+447 = {
+	holding = church_holding
+}
+448 = {
+	holding = none
+}
+
+###c_lac_jourmear
+453 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+451 = {
+	holding = city_holding
+}
+452 = {
+	holding = none
+}
+
+###c_massicourt
+461 = {
+	culture = vyargale
+	religion = aurementic
+	holding = castle_holding
+}
+134 = {
+	holding = city_holding
+}
+135 = {
+	holding = none
+}
+136 = {
+	holding = none
+}
+
+##d_casrel ###################################
+###c_casrelon
+479 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+480 = {
+	holding = city_holding
+}
+481 = {
+	holding = none
+}
+482 = {
+	holding = none
+}
+
+###c_fevremon
+472 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+473 = {
+	holding = none
+}
+474 = {
+	holding = none
+}
+475 = {
+	holding = none
+}
+
+###c_mirfoselle
+483 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+484 = {
+	holding = none
+}
+485 = {
+	holding = none
+}
+486 = {
+	holding = none
+}
+
+###c_erenis
+476 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+477 = {
+	holding = none
+}
+478 = {
+	holding = none
+}
+
+##d_trelaq
+###c_lacbrume
+487 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+488 = {
+	holding = city_holding
+}
+489 = {
+	holding = none
+}
+490 = {
+	holding = none
+}
+
+###c_sylvent
+491 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+492 = {
+	holding = none
+}
+493 = {
+	holding = none
+}
+
+###c_murmira
+494 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+495 = {
+	holding = none
+}
+496 = {
+	holding = none
+}
+
+###c_firin
+497 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+498 = {
+	holding = none
+}
+499 = {
+	holding = none
+}
+500 = {
+	holding = none
+}
+
+##d_arbest
+###c_isparin
+503 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+504 = {
+	holding = none
+}
+505 = {
+	holding = none
+}
+506 = {
+	holding = none
+}
+
+###c_the_enigma
+507 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+508 = {
+	holding = none
+}
+509 = {
+	holding = none
+}
+
+###c_arui
+512 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+510 = {
+	holding = none
+}
+511 = {
+	holding = none
+}
+
+###c_tonarive
+513 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}
+514 = {
+	holding = none
+}
+515 = {
+	holding = none
+}
+
+###c_tour_de_caernis
+502 = {
+	culture = ilfaniene
+	religion = aurementic
+	holding = castle_holding
+}

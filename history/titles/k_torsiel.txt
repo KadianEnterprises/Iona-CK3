@@ -1,0 +1,71 @@
+k_torsiel = {
+	1816.1.1 = {
+		holder = Arctros_2c		#Dorin I
+	}
+	1847.1.1 = {
+		holder = Arctros_3b		#Nute I
+	}
+	1874.1.1 = {
+		holder = Arctros_4		#Nires I
+	}
+	1886.1.1 = {
+		holder = Arctros_5		#Dorin II
+	}
+	1915.1.1 = {
+		holder = Arctros_6		#Damin I
+	}
+	1933.1.1 = {
+		holder = Arctros_7		#Nute I
+	}
+	1975.1.1 = {
+		holder = Arctros_8		#Dorin III
+	}
+	1997.1.1 = {
+		holder = Arctros_9		#Damin II
+	}
+	1999.1.1 = {
+		holder = Arctros_10		#Nires II
+	}
+	2007.1.1 = {
+		holder = Arctros_11		#Loren I
+	}
+	2025.1.1 = {
+		holder = Arctros_12a	#Loren II
+	}
+	2050.1.1 = {
+		holder = Arctros_13a	#Dorin IV
+	}
+	2064.1.1 = {
+		holder = Arctros_13b	#Cor I
+	}
+	2076.1.1 = {
+		holder = Arctros_13b1	#Loren III
+	}
+	2083.1.1 = {
+		holder = Arctros_13a1	#Dorin V
+	}
+	2097.1.1 = {
+		holder = Arctros_13a2a	#Erjes, the Lady of Whispers
+	}
+	2104.1.1 = {
+		holder = Arctros_13b2	#Cor II
+	}
+	2112.1.1 = {
+		holder = Arctros_13a2b	#Loren IV
+	}
+	2114.1.1 = {
+		holder = Arctros_13a3	#Cor III
+	}
+	2160.1.1 = {
+		holder = Arctros_14		#Dorin VI
+	}
+	2167.1.1 = {
+		holder = Arctros_15		#Dorin VII
+	}
+	2174.1.1 = {
+		holder = Arctros_16		#Loren V
+	}
+	2181.1.1 = {
+		holder = Arctros_17		#Nires III
+	}
+}

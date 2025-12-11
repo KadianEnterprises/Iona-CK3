@@ -1,0 +1,314 @@
+﻿k_caladroja = {
+	1896.1.1 = {
+		holder = Alorum_0		#King Zarun I
+	}
+	1920.1.1 = {
+		holder = Alorum_1		#King Philippe I
+	}
+	1945.1.1 = {
+		holder = Alorum_2		#King Ramiro I
+	}
+	1966.1.1 = {
+		holder = Alorum_3		#King Philippe II of Caladroja and Vadorica
+	}
+	2001.1.1 = {
+		holder = Alorum_4		#King Leo I of Caladroja and Vadorica
+	}
+	2012.1.1 = {
+		holder = Alorum_5		#King Zaron II & I of Caladroja and Vadorica
+	}
+	2014.1.1 = {
+		holder = Alorum_6a		#King Vastian the Tyrant
+	}
+	2024.1.1 = {
+		holder = Alorum_6a1		#King Rhyal the Brute
+	}
+	2040.1.1 = {
+		holder = Alorum_7		#King Philippe III
+	}
+	2077.1.1 = {
+		holder = Alorum_8		#King Leo the Great (II)
+	}
+	2112.1.1 = {
+		holder = Alorum_9a		#King Kaldreh the Old
+	}
+	2142.1.1 = {
+		holder = Tremaria_1		#King Philippe IV
+	}
+	2187.1.1 = {
+		holder = Tremaria_2		#King Guillen I
+	}
+	2189.1.1 = {
+		holder = Tremaria_3		#King Zaron III
+	}
+}
+
+## Caladroja
+	d_caladroja = {
+		1671.1.1 = {
+			liege = k_tallendria
+			holder = Alorum_09		#Duke Kaldreh I
+		}
+		1697.1.1 = {
+			holder = Alorum_08		#Duke Vastian I
+		}
+		1724.1.1 = {
+			holder = Alorum_07		#Duke Rhyal I
+		}
+		1758.1.1 = {
+			holder = Alorum_06		#Duke Ferran I
+		}
+		1782.1.1 = {
+			holder = Alorum_05		#Duke Philippe I
+		}
+		1791.1.1 = {
+			holder = Alorum_04		#Duke Vastian II
+		}
+		1793.1.1 = {
+			liege = 0
+		}
+		1800.1.1 = {
+			holder = Alorum_03		#Duke Philippe II
+		}
+		1823.1.1 = {
+			holder = Alorum_02		#Duke Ferran II
+		}
+		1874.1.1 = {
+			holder = Alorum_01		#Duke Philippe III
+		}
+		1881.1.1 = {
+			liege = k_caladroja
+			holder = Alorum_0		#King Zaron I of Caladroja (then duke Zaron I)
+		}
+		1920.1.1 = {
+			holder = Alorum_1		#King Philippe I
+		}
+		1945.1.1 = {
+			holder = Alorum_2		#King Ramiro I
+		}
+		1966.1.1 = {
+			holder = Alorum_3		#King Philippe II of Caladroja and Vadorica
+		}
+		2001.1.1 = {
+			holder = Alorum_4		#King Leo I of Caladroja and Vadorica
+		}
+		2012.1.1 = {
+			holder = Alorum_5		#King Zaron II & I of Caladroja and Vadorica
+		}
+		2014.1.1 = {
+			holder = Alorum_6a		#King Vastian the Tyrant
+		}
+		2024.1.1 = {
+			holder = Alorum_6a1		#King Rhyal the Brute
+		}
+		2040.1.1 = {
+			holder = Alorum_7		#King Philippe III
+		}
+		2077.1.1 = {
+			holder = Alorum_8		#King Leo the Great (II)
+		}
+		2112.1.1 = {
+			holder = Alorum_9a		#King Kaldreh the Old
+		}
+		2142.1.1 = {
+			holder = Tremaria_1		#King Philippe IV
+		}
+		2187.1.1 = {
+			holder = Tremaria_2		#King Guillen I
+		}
+		2189.1.1 = {
+			holder = Tremaria_3		#King Zaron III
+		}
+	}
+	c_caladran = {
+		
+	}
+	c_gerona = {
+		
+	}
+	c_monte_fiore = {
+		
+	}
+	c_kiravia = {
+		
+	}
+	c_censeni = {
+		
+	}
+	c_aldrada = {
+		
+	}
+	c_therina = {
+		
+	}
+#
+## Bravada
+	d_bravada = {
+
+	}
+	c_bravadan = {
+		
+	}
+	c_tacante = {
+		
+	}
+	c_tremona = {
+		
+	}
+	c_cadrim = {
+		2078.1.1 = {
+			liege = k_caladroja
+			holder = Caladran_01
+		}
+		2117.1.1 = {
+			holder = Caladran_0
+		}
+		2124.1.1 = {
+			holder = Caladran_1
+		}
+		2155.1.1 = {
+			holder = Caladran_2a
+		}
+	}
+	c_dorencia = {
+		
+	}
+	c_teridan = {
+		
+	}
+#
+## Tereggia
+	d_tereggia = {
+		1956.1.1 = {
+			liege = k_caladroja
+		}
+		1956.1.1 = {
+			holder = Tremaria_06
+		}
+		1992.1.1 = {
+			holder = Tremaria_05
+		}
+		1997.1.1 = {
+			holder = Tremaria_04
+		}
+		2017.1.1 = {
+			holder = Tremaria_03
+		}
+		2076.1.1 = {
+			holder = Tremaria_02
+		}
+		2082.1.1 = {
+			holder = Tremaria_01
+		}
+		2094.1.1 = {
+			holder = Tremaria_0
+		}
+		2151.1.1 = {
+			holder = Tremaria_1
+		}
+	}
+	c_tereggia = {
+		
+	}
+	c_zalonia = {
+		
+	}
+	c_andartos = {
+		
+	}
+	c_ralanea = {
+		
+	}
+	c_alamaria = {
+		
+	}
+	c_leoncia = {
+		
+	}
+	c_corensi = {
+		
+	}
+#
+## Gilrotan
+	d_gilrotan = {
+		2097.1.1 = {
+			liege = k_caladroja
+			holder = Trollsfen_6		#Duke Salazar I
+		}
+		2132.1.1 = {
+			holder = Trollsfen_7		#Duke Julian I
+		}
+		2192.1.1 = {
+			holder = Trollsfen_8		#Duke Ferran I
+		}
+		2194.1.1 = {
+			holder = Trollsfen_9		#Duke Salazar II
+		}
+	}
+	c_isla_gilrotan = {
+		1948.1.1 = {
+			holder = Trollsfen_0
+		}
+		1964.1.1 = {
+			holder = Trollsfen_1
+		}
+		1999.1.1 = {
+			holder = Trollsfen_2
+		}
+		2019.1.1 = {
+			holder = Trollsfen_3
+		}
+		2054.1.1 = {
+			holder = Trollsfen_4
+		}
+		2059.1.1 = {
+			holder = Trollsfen_5
+		}
+		2085.1.1 = {
+			holder = Trollsfen_6
+		}
+		2132.1.1 = {
+			holder = Trollsfen_7		#Duke Julian I
+		}
+		2192.1.1 = {
+			holder = Trollsfen_8		#Duke Ferran I
+		}
+		2194.1.1 = {
+			holder = Trollsfen_9		#Duke Salazar II
+		}
+	}
+	c_isla_sania = {
+
+	}
+#
+## Medaran
+	d_mederan = {
+
+	}
+	c_mederana = {
+		2097.1.1 = {
+			liege = k_caladroja
+			holder = Blanc_0		#Count Leon I
+		}
+		2159.1.1 = {
+			holder = Blanc_1		#Count Leon II
+		}
+		2192.1.1 = {
+			holder = Blanc_2		#Count Raynes I
+		}
+	}
+	c_telesta = {
+		
+	}
+	c_salonia = {
+		
+	}
+	c_balastre = {
+		
+	}
+	c_murin = {
+		
+	}
+	c_tofe = {
+		
+	}

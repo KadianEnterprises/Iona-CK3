@@ -1,0 +1,168 @@
+﻿# Vadorica
+## Vadora
+	### Vadora
+	1783 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1784 = {
+		holding = city_holding
+	}
+	1785 = {
+		holding = castle_holding
+	}
+	### Bellwind
+	1786 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1787 = {
+		holding = city_holding
+	}
+	### Satoria
+	1788 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1789 = {
+		holding = city_holding
+	}
+	1790 = {
+		holding = none
+	}
+	### Alitos
+	1791 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1792 = {
+		holding = none
+	}
+	1793 = {
+		holding = city_holding
+	}
+	### Banergost
+	1794 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1795 = {
+		holding = city_holding
+	}
+	1796 = {
+		holding = none
+	}
+	### Novamo
+	1797 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1798 = {
+		holding = none
+	}
+## Ferocena
+	### Aronessa
+	1799 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1800 = {
+		holding = city_holding
+	}
+	1801 = {
+		holding = none
+	}
+	1802 = {
+		holding = castle_holding
+	}
+	1803 = {
+		holding = none
+	}
+	### Ovienna
+	1804 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1805 = {
+		holding = city_holding
+	}
+	1806 = {
+		holding = none
+	}
+	### Artemno
+	1807 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1808 = {
+		holding = city_holding
+	}
+	1809 = {
+		holding = none
+	}
+	### Thessana
+	1810 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1811 = {
+		holding = none
+	}
+	1812 = {
+		holding = none
+	}
+	### Salamandura
+	1813 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1814 = {
+		holding = castle_holding
+	}
+	1815 = {
+		holding = castle_holding
+	}
+	### Terenresa
+	1816 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1817 = {
+		holding = city_holding
+	}
+	1818 = {
+		holding = none
+	}
+	### Lunerin
+	1819 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1820 = {
+		holding = none
+	}
+	1821 = {
+		holding = none
+	}
+	### Agonis
+	1822 = {
+		culture = vadorican	
+		religion = aurementic
+		holding = castle_holding
+	}
+	1823 = {
+		holding = none
+	}

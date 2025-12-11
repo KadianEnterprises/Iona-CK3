@@ -1,0 +1,1515 @@
+﻿k_aquirvan = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 3 }
+	1552.1.1 = {
+		holder = Olorid_1				#Olorus I
+	}
+	1574.1.1 = {
+		holder = Olorid_2 				#Halan I
+	}
+	1602.1.1 = {
+		holder = Olorid_3 				#Halan II
+	}
+	1603.1.1 = {
+		holder = Olorid_4 				#Olorus II
+	}
+	1627.1.1 = {
+		holder = Olorid_5 				#Anno I
+	}
+	1631.1.1 = {
+		holder = Olorid_8 				#Cassyon I
+	}
+	1632.1.1 = {
+		holder = Olorid_5 				#anno I reclaim
+	}
+	1638.1.1 = {
+		holder = Olorid_8 				#Cassyon I reclaims for good
+	}
+	1654.1.1 = {
+		holder = Olorid_9 				#Cyricus I
+	}
+	1662.1.1 = {
+		holder = Olorid_12 				#Cassyon II
+	}
+	1665.1.1 = {
+		holder = Velus_1 				#King Cyricus II
+	}
+	1676.1.1 = {
+		holder = Velus_2				#King Alecton I Velus of Aquirvan
+	}
+	1687.1.1 = {						#King Anno II the Young
+		holder = Velus_3
+	}
+	1698.1.1 = {						#King Alecton II the Child
+		holder = Velus_4
+	}
+	1706.1.1 = {						#King Caelan I
+		holder = Tressour_2
+	}
+	1722.1.1 = {
+		holder = Tressour_3				#King Anno III
+	}
+	1749.1.1 = {
+		holder = Tressour_4				#King Cassyon III
+	}
+	1751.1.1 = {
+		holder = Tressour_5 			#King Cassyon IV
+	}
+	1767.1.1 = {
+		holder = Tressour_6 			#King Sarden I
+	}
+	1784.1.1 = {
+		holder = Tressour_7 			#King Sarden II
+	}
+	1797.1.1 = {
+		holder = Tressour_8 			#King Caelan the Old
+	}
+	1859.1.1 = {
+		holder = Goldenbrow_35 			#King Sarden I & III
+	}
+	1883.1.1 = {
+		holder = Goldenbrow_Tressour_1	#King Caelan III of Aquirvan
+	}
+	1886.1.1 = {
+		holder = Goldenbrow_33			#King Tiberius the Usurper
+	}
+	1890.1.1 = {
+		holder = Goldenbrow_Tressour_1	#King Caelan III reclaims
+	}
+	1918.1.1 = {
+		holder = Goldenbrow_Tressour_2	#King Orbulus the Grim
+	}
+	1946.1.1 = {
+		holder = Goldenbrow_Tressour_3	#King Sarden IV the Short
+	}
+	1957.1.1 = {
+		holder = Goldenbrow_Tressour_4	#King Caelan IV the Elderly
+	}
+	2000.1.1 = {
+		holder = Goldenbrow_Tressour_5	#King Richar I
+	}
+	2002.1.1 = {
+		holder = Goldenbrow_Tressour_6	#King Cassyon V the Hunter
+	}
+	2025.1.1 = {
+		holder = Goldenbrow_Tressour_7	#King Evard I
+	}
+	2060.1.1 = {
+		holder = Brocard_2				#King Evard II Brocard
+	}
+	2086.1.1 = {
+		holder = Brocard_3				#King Cassyon VI
+	}
+	2099.1.1 = {
+		holder = Brocard_4				#King Richar II the Fat
+	}
+	2114.1.1 = {
+		holder = Brocard_5				#King Perigon I
+	}
+	2126.1.1 = {
+		holder = Brocard_6				#King Cassyon VII
+	}
+	2129.1.1 = {
+		holder = Brocard_7				#King Perigon II
+	}
+	2161.1.1 = {
+		holder = Brocard_8 				#King Evard III
+	}
+}
+## Duchy/Crownlands of Viramur
+	d_viramur = {
+		1600.1.1 = { change_development_level = 7 }
+		1790.1.1 = { change_development_level = 3 }
+		1552.1.1 = {
+			holder = Olorid_1 #Olorus I
+		}
+		1574.1.1 = {
+			holder = Olorid_2 #Halan I
+		}
+		1602.1.1 = {
+			holder = Olorid_3 #Halan II
+		}
+		1603.1.1 = {
+			holder = Olorid_4 #Olorus II
+		}
+		1627.1.1 = {
+			holder = Olorid_5 #Anno I
+		}
+		1631.1.1 = {
+			holder = Olorid_8 #Cassyon I
+		}
+		1632.1.1 = {
+			holder = Olorid_5 #anno I reclaim
+		}
+		1638.1.1 = {
+			holder = Olorid_8 #Cassyon I reclaims for good
+		}
+		1654.1.1 = {
+			holder = Olorid_9 #Cyricus I
+		}
+		1662.1.1 = {
+			holder = Olorid_12 #Cassyon II
+		}
+		1665.1.1 = {
+			holder = Velus_1 #Cyricus II
+		}
+		1676.1.1 = {
+			holder = Velus_2 #Alecton I
+		}
+		1687.1.1 = {		#Anno II the Young
+			holder = Velus_3
+		}
+		1698.1.1 = {		#Alecton II the Child
+			holder = Velus_4
+		}
+		1706.1.1 = {		#Caelan I
+			holder = Tressour_2
+		}
+		1722.1.1 = {
+			holder = Tressour_3 #Anno III
+		}
+		1749.1.1 = {
+			holder = Tressour_4 #Cassyon III
+		}
+		1751.1.1 = {
+			holder = Tressour_5 #Cassyon IV
+		}
+		1767.1.1 = {
+			holder = Tressour_6 #Sarden I
+		}
+		1784.1.1 = {
+			holder = Tressour_7 #Sarden II
+		}
+		1797.1.1 = {
+			holder = Tressour_8 #Caelan the Old
+		}
+		1859.1.1 = {
+			holder = Goldenbrow_35 #Sarden I & III
+		}
+		1883.1.1 = {
+			holder = Goldenbrow_Tressour_1 #Caelan III of Aquirvan
+		}
+		1886.1.1 = {
+			holder = Goldenbrow_33 #Tiberius the Usurper
+		}
+		1890.1.1 = {
+			holder = Goldenbrow_Tressour_1 #Caelan III reclaims
+		}
+		1918.1.1 = {
+			holder = Goldenbrow_Tressour_2 #Orbulus the Grim
+		}
+		1946.1.1 = {
+			holder = Goldenbrow_Tressour_3 #Sarden IV the Short
+		}
+		1957.1.1 = {
+			holder = Goldenbrow_Tressour_4 #Caelan IV the Elderly
+		}
+		2000.1.1 = {
+			holder = Goldenbrow_Tressour_5 #Richar I
+		}
+		2002.1.1 = {
+			holder = Goldenbrow_Tressour_6 #Cassyon V the Hunter
+		}
+		2025.1.1 = {
+			holder = Goldenbrow_Tressour_7 #Evard I
+		}
+		2060.1.1 = {
+			holder = Brocard_2 #Evard II Brocard
+		}
+		2086.1.1 = {
+			holder = Brocard_3 #Cassyon VI
+		}
+		2099.1.1 = {
+			holder = Brocard_4 #Richar II the Fat
+		}
+		2114.1.1 = {
+			holder = Brocard_5 #Perigon I
+		}
+		2126.1.1 = {
+			holder = Brocard_6 #Cassyon VII
+		}
+		2129.1.1 = {
+			holder = Brocard_7 #Perigon II
+		}
+		2161.1.1 = {
+			holder = Brocard_8 #Evard III
+		}
+	}
+	c_great_viramur = {
+		1300.1.1 = { change_development_level = 11 }
+		1790.1.1 = { change_development_level = 3 }
+		1552.1.1 = {
+			holder = Olorid_1 #Olorus I
+		}
+		1574.1.1 = {
+			holder = Olorid_2 #Halan I
+		}
+		1602.1.1 = {
+			holder = Olorid_3 #Halan II
+		}
+		1603.1.1 = {
+			holder = Olorid_4 #Olorus II
+		}
+		1627.1.1 = {
+			holder = Olorid_5 #Anno I
+		}
+		1631.1.1 = {
+			holder = Olorid_8 #Cassyon I
+		}
+		1632.1.1 = {
+			holder = Olorid_5 #anno I reclaim
+		}
+		1638.1.1 = {
+			holder = Olorid_8 #Cassyon I reclaims for good
+		}
+		1654.1.1 = {
+			holder = Olorid_9 #Cyricus I
+		}
+		1662.1.1 = {
+			holder = Olorid_12 #Cassyon II
+		}
+		1665.1.1 = {
+			holder = Velus_1 #Cyricus II
+		}
+		1676.1.1 = {
+			holder = Velus_2 #Alecton I
+		}
+		1687.1.1 = {		#Anno II the Young
+			holder = Velus_3
+		}
+		1698.1.1 = {		#Alecton II the Child
+			holder = Velus_4
+		}
+		1706.1.1 = {		#Caelan I
+			holder = Tressour_2
+		}
+		1722.1.1 = {
+			holder = Tressour_3 #Anno III
+		}
+		1749.1.1 = {
+			holder = Tressour_4 #Cassyon III
+		}
+		1751.1.1 = {
+			holder = Tressour_5 #Cassyon IV
+		}
+		1767.1.1 = {
+			holder = Tressour_6 #Sarden I
+		}
+		1784.1.1 = {
+			holder = Tressour_7 #Sarden II
+		}
+		1797.1.1 = {
+			holder = Tressour_8 #Caelan the Old
+		}
+		1859.1.1 = {
+			holder = Goldenbrow_35 #Sarden I & III
+		}
+		1883.1.1 = {
+			holder = Goldenbrow_Tressour_1 #Caelan III of Aquirvan
+		}
+		1886.1.1 = {
+			holder = Goldenbrow_33 #Tiberius the Usurper
+		}
+		1890.1.1 = {
+			holder = Goldenbrow_Tressour_1 #Caelan III reclaims
+		}
+		1918.1.1 = {
+			holder = Goldenbrow_Tressour_2 #Orbulus the Grim
+		}
+		1946.1.1 = {
+			holder = Goldenbrow_Tressour_3 #Sarden IV the Short
+		}
+		1957.1.1 = {
+			holder = Goldenbrow_Tressour_4 #Caelan IV the Elderly
+		}
+		2000.1.1 = {
+			holder = Goldenbrow_Tressour_5 #Richar I
+		}
+		2002.1.1 = {
+			holder = Goldenbrow_Tressour_6 #Cassyon V the Hunter
+		}
+		2025.1.1 = {
+			holder = Goldenbrow_Tressour_7 #Evard I
+		}
+		2060.1.1 = {
+			holder = Brocard_2 #Evard II Brocard
+		}
+		2086.1.1 = {
+			holder = Brocard_3 #Cassyon VI
+		}
+		2099.1.1 = {
+			holder = Brocard_4 #Richar II the Fat
+		}
+		2114.1.1 = {
+			holder = Brocard_5 #Perigon I
+		}
+		2126.1.1 = {
+			holder = Brocard_6 #Cassyon VII
+		}
+		2129.1.1 = {
+			holder = Brocard_7 #Perigon II
+		}
+		2161.1.1 = {
+			holder = Brocard_8 #Evard III
+		}
+	}
+	c_belcaire_bay = {
+		1300.1.1 = { change_development_level = 7 }
+		1790.1.1 = { change_development_level = 1 }
+		1934.1.1 = {
+			holder = Castalnier_01	#count Ralwyn II
+		}
+		1974.1.1 = {
+			holder = Castalnier_0	#Duke Arthos III Castalnier of Borchaud
+		}
+		1997.1.1 = {
+			holder = Castalnier_1	#Duke Arthos IV Castalnier
+		}
+		2027.1.1 = {
+			holder = Castalnier_2	#Duke Arthos V Castalnier
+		}
+		2074.1.1 = {
+			holder = Castalnier_8	#Duke Theoderic II
+		}
+		2083.1.1 = {
+			holder = Castalnier_9	#Duke Ravenwyll IV
+		}
+		2106.1.1 = {
+			holder = Castalnier_10	#Duke Alecton the Vile
+		}
+		2115.1.1 = {
+			holder = Castalnier_11a	#Duke Alecton VI the Snake
+		}
+		2121.1.1 = {
+			holder = Castalnier_11b	#Duke Eude V
+		}
+		2134.1.1 = {
+			holder = Castalnier_12	#Duke Caelan IV
+		}
+		2155.1. = {
+			holder = Castalnier_13	#Duke Ravenwyll the Old
+		}
+	}
+	c_caseas_run = {
+		1300.1.1 = { change_development_level = 7 }
+		1790.1.1 = { change_development_level = 1 }
+		1934.1.1 = {
+			holder = Castalnier_01	#Count Ralwyn II
+		}
+		1974.1.1 = {
+			holder = Castalnier_0	#Duke Arthos III 
+		}
+		1997.1.1 = {
+			holder = Castalnier_1	#Duke Arthos IV Castalnier
+		}
+		2027.1.1 = {
+			holder = Castalnier_2	#Duke Arthos V Castalnier
+		}
+		2074.1.1 = {
+			holder = Castalnier_8	#Duke Theoderic II
+		}
+		2083.1.1 = {
+			holder = Castalnier_9	#Duke Ravenwyll IV
+		}
+		2106.1.1 = {
+			holder = Castalnier_10	#Duke Alecton the Vile
+		}
+		2115.1.1 = {
+			holder = Castalnier_11a	#Duke Alecton VI the Snake
+		}
+		2121.1.1 = {
+			holder = Castalnier_11b	#Duke Eude V
+		}
+		2134.1.1 = {
+			holder = Castalnier_12	#Duke Caelan IV
+		}
+		2155.1. = {
+			holder = Castalnier_13	#Duke Ravenwyll the Old
+		}
+	}
+	c_aubresen = {
+		1300.1.1 = { change_development_level = 7 }
+		1790.1.1 = { change_development_level = 1 }
+		1951.1.1 = {
+			holder = Grifon_1		#Count Soren II of Aubresen
+		}
+		1966.1.1 = {
+			holder = Grifon_2		#Duchess Isabelle of Borchaud and Countess of Aubresen
+		}
+		2012.1.1 = {
+			holder = Castalnier_1	#Duke Arthos IV Castalnier
+		}
+		2027.1.1 = {
+			holder = Castalnier_2	#Duke Arthos V Castalnier
+		}
+		2074.1.1 = {
+			holder = Castalnier_8	#Duke Theoderic II
+		}
+		2083.1.1 = {
+			holder = Castalnier_9	#Duke Ravenwyll IV
+		}
+		2106.1.1 = {
+			holder = Castalnier_10	#Duke Alecton the Vile
+		}
+		2109.1.1 = {
+			holder = Brocard_4 		#King Richar II the Fat
+		}
+		2114.1.1 = {
+			holder = Brocard_5 		#King Perigon I
+		}
+		2126.1.1 = {
+			holder = Brocard_6 		#King Cassyon VII
+		}
+		2129.1.1 = {
+			holder = Brocard_7 		#King Perigon II
+		}
+		2161.1.1 = {
+			holder = Brocard_8 		#King Evard III
+		}
+	}
+	c_inodacion = {
+		1300.1.1 = { change_development_level = 7 }
+		1790.1.1 = { change_development_level = 1 }
+		1934.1.1 = {
+			holder = Castalnier_01	#Count Ralwyn II
+		}
+		1974.1.1 = {
+			holder = Castalnier_0	#Duke Arthos III 
+		}
+		1997.1.1 = {
+			holder = Castalnier_1	#Duke Arthos IV Castalnier
+		}
+		2027.1.1 = {
+			holder = Castalnier_2	#Duke Arthos V Castalnier
+		}
+		2074.1.1 = {
+			holder = Castalnier_8	#Duke Theoderic II
+		}
+		2083.1.1 = {
+			holder = Castalnier_9	#Duke Ravenwyll IV
+		}
+		2106.1.1 = {
+			holder = Castalnier_10	#Duke Alecton the Vile
+		}
+		2115.1.1 = {
+			holder = Castalnier_11a	#Duke Alecton VI the Snake
+		}
+		2118.1.1 = {
+			holder = Brocard_5		#King Perigon I
+		}
+		2126.1.1 = {
+			holder = Brocard_6		#King Cassyon VII
+		}
+		2129.1.1 = {
+			holder = Brocard_7		#King Perigon II
+		}
+		2161.1.1 = {
+			holder = Brocard_8		#King Evard III
+		}
+	}
+	c_ferferis = {
+		1300.1.1 = { change_development_level = 7 }
+		1790.1.1 = { change_development_level = 1 }
+	}
+#
+## Duchy of Sevrielle
+	d_sevrielle = {
+		1552.1.1 = {
+			holder = Olorid_1 #Olorus I
+		}
+		1574.1.1 = {
+			holder = Olorid_2 #Halan I
+		}
+		1602.1.1 = {
+			holder = Olorid_3 #Halan II
+		}
+		1603.1.1 = {
+			holder = Olorid_4 #Olorus II
+		}
+		1627.1.1 = {
+			holder = Olorid_5 #Anno I
+		}
+		1631.1.1 = {
+			holder = Olorid_8 #Cassyon I
+		}
+		1632.1.1 = {
+			holder = Olorid_5 #anno I reclaim
+		}
+		1638.1.1 = {
+			holder = Olorid_8 #Cassyon I reclaims for good
+		}
+		1654.1.1 = {
+			holder = Olorid_9 #Cyricus I
+		}
+		1662.1.1 = {
+			holder = Olorid_12 #Cassyon II
+		}
+		1665.1.1 = {
+			holder = Velus_1 #Cyricus II
+		}
+		1676.1.1 = {
+			holder = Velus_2 #Alecton I
+		}
+		1687.1.1 = {		#Anno II the Young
+			holder = Velus_3
+		}
+		1698.1.1 = {		#Alecton II the Child
+			holder = Velus_4
+		}
+		1706.1.1 = {		#Caelan I
+			holder = Tressour_2
+		}
+		1722.1.1 = {
+			holder = Tressour_3 #Anno III
+		}
+		1749.1.1 = {
+			holder = Tressour_4 #Cassyon III
+		}
+		1751.1.1 = {
+			holder = Tressour_5 #Cassyon IV
+		}
+		1767.1.1 = {
+			holder = Tressour_6 #Sarden I
+		}
+		1784.1.1 = {
+			holder = Tressour_7 #Sarden II
+		}
+		1797.1.1 = {
+			holder = Tressour_8 #Caelan the Old
+		}
+		1859.1.1 = {
+			holder = Goldenbrow_35 #Sarden I & III
+		}
+		1883.1.1 = {
+			holder = Goldenbrow_Tressour_1 #Caelan III of Aquirvan
+		}
+		1886.1.1 = {
+			holder = Goldenbrow_33 #Tiberius the Usurper
+		}
+		1890.1.1 = {
+			holder = Goldenbrow_Tressour_1 #Caelan III reclaims
+		}
+		1918.1.1 = {
+			holder = Goldenbrow_Tressour_2 #Orbulus the Grim
+		}
+		1946.1.1 = {
+			holder = Goldenbrow_Tressour_3 #Sarden IV the Short
+		}
+		1957.1.1 = {
+			holder = Goldenbrow_Tressour_4 #Caelan IV the Elderly
+		}
+		2000.1.1 = {
+			holder = Goldenbrow_Tressour_5 #Richar I
+		}
+		2002.1.1 = {
+			holder = Goldenbrow_Tressour_6 #Cassyon V the Hunter
+		}
+		2025.1.1 = {
+			holder = Goldenbrow_Tressour_7 #Evard I
+		}
+		2060.1.1 = {
+			holder = Brocard_2 #Evard II Brocard
+		}
+		2086.1.1 = {
+			holder = Brocard_3 #Cassyon VI
+		}
+		2099.1.1 = {
+			holder = Brocard_4 #Richar II the Fat
+		}
+		2114.1.1 = {
+			holder = Brocard_5 #Perigon I
+		}
+		2126.1.1 = {
+			holder = Brocard_6 #Cassyon VII
+		}
+		2129.1.1 = {
+			holder = Brocard_7 #Perigon II
+		}
+		2161.1.1 = {
+			holder = Brocard_8 #Evard III
+		}
+	}
+	c_fallshore = {
+		2104.1.1 = {
+			liege = k_aquirvan
+			holder = Dero_0			#Count Charles III
+		}
+		2131.1.1 = {
+			holder = Dero_1			#Count Talis I
+		}
+		2134.1.1 = {
+			holder = Dero_2a		#Count Quentin I of Fallshore and Nerefor
+		}
+	}
+	c_tavus = {
+		1657.1.1 = {
+			liege = k_aquirvan
+			holder = Maredan_0		#Count Kysran I
+		}
+		1701.1.1 = {
+			holder = Maredan_1		#Count Berosus I
+		}
+		1726.1.1 = {
+			holder = Maredan_2a		#Count Alaric I
+		}
+		1757.1.1 = {
+			holder = Maredan_3a		#Count Kysran II
+		}
+		1773.1.1 = {
+			holder = Maredan_4		#Count Erilaius I
+		}
+		1793.1.1 = {
+			holder = Maredan_5		#Count Aramis I
+		}
+		1796.1.1 = {
+			holder = Maredan_6		#Count Everal I
+		}
+		1822.1.1 = {
+			holder = Maredan_7		#Count Aramis II
+		}
+		1877.1.1 = {
+			holder = Maredan_8a		#Count Berosus II
+		}
+		### some lads
+		2064.1.1 = {
+			holder = Raulon_02		#Count Germaine I
+		}
+		2121.1.1 = {
+			holder = Raulon_01		#Count Verain II
+		}
+		2129.1.1 = {
+			holder = Raulon_0		#Count Aramis VI
+		}
+		2162.1.1 = {
+			holder = Raulon_1		#Count Verain III
+		}
+		2166.1.1 = {
+			holder = Raulon_2		#Count Germaine II
+		}
+	}
+	c_forekyr = {
+		2034.1.1 = {
+			liege = k_aquirvan
+			holder = Bruent_0		#Count Caspian II
+		}
+		2065.1.1 = {
+			holder = Bruent_1		#Count Felix I
+		}
+		2070.1.1 = {
+			holder = Bruent_2		#Count Hugo I
+		}
+		2107.1.1 = {
+			holder = Bruent_3a		#Count Felix II
+		}
+		2121.1.1 = {
+			holder = Bruent_4		#Countess Amicia I
+		}
+		2165.1.1 = {
+			holder = Bruent_5a		#Count Caspian III
+		}
+		2182.1.1 = {
+			holder = Bruent_6		#Count Hugo II
+		}
+
+	}
+	c_nerefor_split = {
+		2104.1.1 = {
+			liege = k_aquirvan
+			holder = Dero_0			#Count Charles III
+		}
+		2131.1.1 = {
+			holder = Dero_1			#Count Talis I
+		}
+		2134.1.1 = {
+			holder = Dero_2a		#Count Quentin I of Fallshore and Nerefor
+		}
+	}
+	c_paillon = {
+		2034.1.1 = {
+			liege = k_aquirvan
+			holder = Bruent_0		#Count Caspian II
+		}
+		2065.1.1 = {
+			holder = Bruent_1		#Count Felix I
+		}
+		2070.1.1 = {
+			holder = Bruent_2		#Count Hugo I
+		}
+		2107.1.1 = {
+			holder = Bruent_3a		#Count Felix II
+		}
+		2121.1.1 = {
+			holder = Bruent_4		#Countess Amicia I
+		}
+		2165.1.1 = {
+			holder = Bruent_5a		#Count Caspian III
+		}
+		2182.1.1 = {
+			holder = Bruent_6		#Count Hugo II
+		}
+	}
+	c_bixruionn = {
+
+	}
+#
+##Duchy of Soliana
+	d_soliana = {
+		1300.1.1 = { change_development_level = 7 }
+		1552.1.1 = {
+			liege = k_aquirvan
+		}
+		1597.1.1 = {
+			holder = Velus_02	#Duke Everal IV
+		}
+		1611.1.1 = {
+			holder = Velus_01	#Duke Ebroin I
+		}
+		1635.1.1 = {
+			holder = Velus_0	#Duke Everal V
+		}
+		1659.1.1 = {
+			holder = Velus_1	#King Cyricus II of Aquirvan
+		}
+		1665.1.1 = {
+			holder = Velus_7	#Duke Ebroin II
+		}
+		1697.1.1 = {
+			holder = Velus_9	#Duke Andyr I of Soliana
+		}
+		1734.1.1 = {
+			holder =  Velus_10	#Duke Cyricus II the Noble
+		}
+		1755.1.1 = {
+			holder = Velus_11	#Duke Andyr II
+		}
+		1762.1.1 = {
+			holder = Velus_12	#Duke Sirius I
+		}
+		1790.1.1 = { 
+			change_development_level = 1
+			liege = 0
+		}
+		1796.1.1 = {
+			holder = Velus_13	#Duke Ebroin III
+		}
+		1799.1.1 = {
+			holder = Velus_14	#Duke Sirius II
+		}
+		1806.1.1 = {
+			liege = k_aquirvan
+		}
+		1834.1.1 = {
+			holder = Velus_16	#Duke Soren I
+		}
+		1859.1.1 = {
+			holder = Velus_19	#Duke Cyricus III 
+		}
+		1872.1.1 = {
+			holder = Velus_23	#Duke Everal VI the Sickly
+		}
+		1874.1.1 = {
+			holder = Velus_24	#Duke Soren II
+		}
+		1875.1.1 = {
+			holder = Velus_20	#Duke Ebroin IV of Soliana
+		}
+		1892.1.1 = {
+			holder = Velus_25	#Duke Everal VII
+		}
+		1969.1.1 = {
+			holder = Brocard_03		#Duke-Warden Soren III of Soliana and the Rosethorn
+		}
+		1976.1.1 = {
+			holder = Brocard_02a	#Duke Florian I Brocard of Soliana
+		}
+		2006.1.1 = {
+			holder = Brocard_01a	#Duke Soren IV Brocard of Soliana
+		}
+		2025.1.1 = {
+			holder = Brocard_1a		#Duke Sirius III Brocard of Soliana
+		}
+		2052.1.1 = {
+			holder = Brocard_2a		#Duke Alexandre I Brocard of Soliana
+		}
+		2082.1.1 = {
+			holder = Brocard_3a		#Duke Alexandre II Brocard of Soliana
+		}
+		2110.1.1 = {
+			holder = Brocard_4a		#Duke Florian II
+		}
+		2112.1.1 = {
+			holder = Brocard_5a		#Duke Florian III
+		}
+		2158.1.1 = {
+			holder = Brocard_7a		#Duke Aramis I
+		}
+		2167.1.1 = {
+			holder = Brocard_8a		#Duke Alexandre III
+		}
+	}
+	c_beaucalion = {
+		1300.1.1 = { change_development_level = 7 }
+		1597.1.1 = {
+			holder = Velus_02	#Duke Everal IV
+		}
+		1611.1.1 = {
+			holder = Velus_01	#Duke Ebroin I
+		}
+		1635.1.1 = {
+			holder = Velus_0	#Duke Everal V
+		}
+		1659.1.1 = {
+			holder = Velus_1	#King Cyricus II of Aquirvan
+		}
+		1665.1.1 = {
+			holder = Velus_7	#Duke Ebroin II
+		}
+		1697.1.1 = {
+			holder = Velus_9	#Duke Andyr I of Soliana
+		}
+		1734.1.1 = {
+			holder =  Velus_10	#Duke Cyricus II the Noble
+		}
+		1755.1.1 = {
+			holder = Velus_11	#Duke Andyr II
+		}
+		1762.1.1 = {
+			holder = Velus_12	#Duke Sirius I
+		}
+		1790.1.1 = { change_development_level = 2 }
+		1796.1.1 = {
+			holder = Velus_13	#Duke Ebroin III
+		}
+		1799.1.1 = {
+			holder = Velus_14	#Duke Sirius II
+		}
+		1834.1.1 = {
+			holder = Velus_16	#Duke Soren I
+		}
+		1859.1.1 = {
+			holder = Velus_19	#Duke Cyricus III 
+		}
+		1872.1.1 = {
+			holder = Velus_23	#Duke Everal VI the Sickly
+		}
+		1874.1.1 = {
+			holder = Velus_24	#Duke Soren II
+		}
+		1875.1.1 = {
+			holder = Velus_20	#Duke Ebroin IV of Soliana
+		}
+		1892.1.1 = {
+			holder = Velus_25	#Duke Everal VII
+		}
+		1969.1.1 = {
+			holder = Brocard_03		#Duke-Warden Soren III of Soliana and the Rosethorn
+		}
+		1976.1.1 = {
+			holder = Brocard_02a	#Duke Florian I Brocard of Soliana
+		}
+		2006.1.1 = {
+			holder = Brocard_01a	#Duke Soren IV Brocard of Soliana
+		}
+		2025.1.1 = {
+			holder = Brocard_1a		#Duke Sirius III Brocard of Soliana
+		}
+		2052.1.1 = {
+			holder = Brocard_2a		#Duke Alexandre I Brocard of Soliana
+		}
+		2082.1.1 = {
+			holder = Brocard_3a		#Duke Alexandre II Brocard of Soliana
+		}
+		2110.1.1 = {
+			holder = Brocard_4a		#Duke Florian II
+		}
+		2112.1.1 = {
+			holder = Brocard_5a		#Duke Florian III
+		}
+		2158.1.1 = {
+			holder = Brocard_7a		#Duke Aramis I
+		}
+		2167.1.1 = {
+			holder = Brocard_8a		#Duke Alexandre III
+		}
+	}
+	c_riversong = {
+		1790.1.1 = { change_development_level = 1 }
+	}
+	c_isafal = {
+		1790.1.1 = { change_development_level = 1 }
+		1800.1.1 = {
+			holder = Velus_14	#Duke Sirius II of Soliana
+		}
+		1809.1.1 = {
+			holder = Brocard_0	#Count Alexandre I of Isafal
+		}
+		1846.1.1 = {
+			holder = Brocard_08	#Count Florian I of Isafal
+		}
+		1885.1.1 = {
+			holder = Brocard_07	#Warden Alexandre I of the Rosethorn
+		}
+		1897.1.1 = {
+			holder = Brocard_06
+		}
+	}
+	c_caluire = {
+		1790.1.1 = { change_development_level = 1 }
+	}
+	c_montmonfore = {
+		1552.11.1 = {
+			liege = d_soliana
+		}
+		1790.1.1 = { change_development_level = 1 }
+		1800.1.1 = {
+			holder = Carrelis_0		#Count Clovis I
+		}
+		1831.1.1 = {
+			holder = Carrelis_1		#Count Beros I
+		}
+		1855.1.1 = {
+			holder = Carrelis_2		#Count Beros II
+		}
+		1874.1.1 = {
+			holder = Carrelis_5		#Count Beros III
+		}
+		1939.1.1 = {
+			holder = Carrelis_6		#Count Halan I
+		}
+		1948.1.1 = {
+			holder = Carrelis_7		#Count Beros IV
+		}
+		1982.1.1 = {
+			holder = Carrelis_8		#Count Clovis II
+		}
+		2006.1.1 = {
+			holder = Carrelis_9		#Count Robyn I
+		}
+		2030.1.1 = {
+			holder = Carrelis_10	#Count Halan II
+		}
+		2048.1.1 = {
+			holder = Carrelis_11	#Countess Jeanere I
+		}
+		2079.1.1 = {
+			holder = Sunhawk_0		#Count Gwyn I
+		}
+		2107.1.1 = {
+			holder = Sunhawk_1		#Count Robyn II
+		}
+		2112.1.1 = {
+			holder = Sunhawk_2		#Count Gwyn II
+		}
+		2130.1.1 = {
+			holder = Sunhawk_3		#Count Clovis III
+		}
+		2180.1.1 = {
+			holder = Sunhawk_4		#Count Halan III
+		}
+		2182.1.1 = {
+			holder = Sunhawk_5		#Count Beros V
+		}
+	}
+#
+##Duchy of Borchaud
+	d_borchaud = {
+		1300.1.1 = { change_development_level = 7 }
+		1596.1.1 = {
+			liege = k_aquirvan
+			holder = Kinsiran_3		#Duke Eude I Kinsiran
+		}
+		1625.1.1 = {
+			holder = Kinsiran_4		#Duke Eude II
+		}
+		1654.1.1 = {
+			holder = Kinsiran_5		#Duke Reginar I
+		}
+		1692.1.1 = {
+			holder = Kinsiran_6		#Duke Reginar II
+		}
+		1694.1.1 = {
+			holder = Kinsiran_7		#Duke Eude III the Devout
+		}
+		1703.1.1 = {
+			holder = Kinsiran_8		#Duke Theoderic I
+		}
+		1718.1.1 = {
+			holder = Kinsiran_9		#Duke Eude IV Kinsiran
+		}
+		1735.1.1 = {
+			holder = Tressour_10 	#Duke Alecton I Tressour
+		}
+		1767.1.1 = {
+			holder = Tressour_11	#Duke Caelan I
+		}
+		1782.1.1 = {
+			holder = Tressour_12	#Duke Alecton II
+		}
+		1790.1.1 = { change_development_level = 1 }
+		1801.1.1 = {
+			holder = Tressour_13	#Duke Caelan II
+		}
+		1824.1.1 = {
+			holder = Tressour_14	#Duke Ravenwyll I
+		}
+		1841.1.1 = {
+			holder = Tressour_16	#duke Alecton III
+		}
+		1867.1.1 = {
+			holder = Tressour_21	#Duke Ravenwyll II
+		}
+		1898.1.1 = {
+			holder = Tressour_22	#Duke Caelan III
+		}
+		1901.1.1 = {
+			holder = Tressour_23	#Duke Arthos I
+		}
+		1905.1.1 = {
+			holder = Tressour_24b	#Duke Ravenwyll III
+		}
+		1906.1.1 = {
+			holder = Tressour_24c	#Duke Alecton IV
+		}
+		1946.1.1 = {
+			holder = Tressour_25	#Duke Arthos II
+		}
+		1968.1.1 = {
+			holder = Tressour_26b	#Duchess Zyara I
+		}
+		1987.1.1 = {
+			holder = Castalnier_0	#Duke Arthos III 
+		}
+		1997.1.1 = {
+			holder = Castalnier_1	#Duke Arthos IV Castalnier
+		}
+		2027.1.1 = {
+			holder = Castalnier_2	#Duke Arthos V Castalnier
+		}
+		2074.1.1 = {
+			holder = Castalnier_8	#Duke Theoderic II
+		}
+		2083.1.1 = {
+			holder = Castalnier_9	#Duke Ravenwyll IV
+		}
+		2106.1.1 = {
+			holder = Castalnier_10	#Duke Alecton the Vile
+		}
+		2115.1.1 = {
+			holder = Castalnier_11a	#Duke Alecton VI the Snake
+		}
+		2121.1.1 = {
+			holder = Castalnier_11b	#Duke Eude V
+		}
+		2134.1.1 = {
+			holder = Castalnier_12	#Duke Caelan IV	<-340 ac start date
+		}
+		2155.1. = {
+			holder = Castalnier_13	#Duke Ravenwyll the Old
+		}
+	}
+	c_orrac_coast = {
+		1566.1.1 = {
+			holder = Olorid_1
+		}
+		1596.1.1 = {
+			liege = d_borchaud
+			holder = Kinsiran_3		#Duke Eude I Kinsiran
+		}
+		1625.1.1 = {
+			holder = Kinsiran_4		#Duke Eude II
+		}
+		1654.1.1 = {
+			holder = Kinsiran_5		#Duke Reginar I
+		}
+		1692.1.1 = {
+			holder = Kinsiran_6		#Duke Reginar II
+		}
+		1694.1.1 = {
+			holder = Kinsiran_7		#Duke Eude III the Devout
+		}
+		1703.1.1 = {
+			holder = Kinsiran_8		#Duke Theodore I
+		}
+		1718.1.1 = {
+			holder = Kinsiran_9		#Duke Eude IV
+		}
+		1735.1.1 = {
+			holder = Tressour_10	#Duke Alecton I
+		}
+		1767.1.1 = {
+			holder = Tressour_11	#Duke Caelan I
+		}
+		1782.1.1 = {
+			holder = Tressour_12	#Duke Alecton II
+		}
+		1801.1.1 = {
+			holder = Tressour_13	#Duke Caelan II
+		}
+		1824.1.1 = {
+			holder = Tressour_14	#Duke Ravenwyll I
+		}
+		1841.1.1 = {
+			holder = Tressour_16	#duke Alecton III
+		}
+		1997.1.1 = {
+			holder = Castalnier_1 	#duke arthos IV of Borchaud
+		}
+		2017.1.1 = {
+			holder = Castalnier_3	#Count Aquilus II Castalnier
+		}
+		2061.1.1 = {
+			holder = Castalnier_7	#Count Leon I Castalnier
+		}
+		2064.1.1 = {
+			holder = Castalnier_6	#Count Lyran I Castalnier
+		}
+	}
+	c_vanelt_crossing = {
+		1596.1.1 = {
+			liege = d_borchaud
+		}
+		1680.1.1 = {
+			holder = Tressour_0		#Caelan I
+		}
+		1697.1.1 = {
+			holder = Tressour_1		#Caelan II
+		}
+		1718.1.1 = {
+			holder = Tressour_2		#King Caelan I
+		}
+		1719.1.1 = {
+			holder = Tressour_10	#Count Alecton I
+		}
+		1767.1.1 = {
+			holder = Tressour_11	#Duke Caelan I
+		}
+		1782.1.1 = {
+			holder = Tressour_12	#Duke Alecton II
+		}
+		1801.1.1 = {
+			holder = Tressour_13	#Duke Caelan II
+		}
+		1824.1.1 = {
+			holder = Tressour_14	#Duke Ravenwyll I
+		}
+		1841.1.1 = {
+			holder = Tressour_16	#Duke Alecton III
+		}
+	}
+	c_scellas_spring = {
+		1596.1.1 = {
+			liege = d_borchaud
+		}
+		1680.1.1 = {
+			holder = Tressour_0		#Caelan I
+		}
+		1697.1.1 = {
+			holder = Tressour_1		#Caelan II
+		}
+		1718.1.1 = {
+			holder = Tressour_2		#King Caelan I
+		}
+		1719.1.1 = {
+			holder = Tressour_10	#Count Alecton I
+		}
+		1767.1.1 = {
+			holder = Tressour_17	#Count Clovis I
+		}
+		1793.1.1 = {
+			holder = Tressour_18	#Count Clovis II
+		}
+		1800.1.1 = {
+			holder = Tressour_19	#Count Clovis III
+		}
+		1815.1.1 = {
+			holder = Tressour_20
+		}
+	}
+	c_ferau = {
+		1513.1.1 = {
+			holder = Kinsiran_0		#Count Peregrine I Kinsiran
+		}
+		1541.1.1 = {
+			holder = Kinsiran_1		#Count Peregrine II Kinsiran
+		}
+		1552.1.1 = {
+			holder = Kinsiran_2		#Count Ouus I Kinsiran
+		}
+		1591.1.1 = {
+			holder = Kinsiran_3		#Count Eude I Kinsiran
+		}
+		1596.1.1 = {
+			liege = d_borchaud		#Eude I Raised to Duke
+		}
+		1625.1.1 = {
+			holder = Kinsiran_4		#Duke Eude II
+		}
+		1654.1.1 = {
+			holder = Kinsiran_5		#Duke Reginar I
+		}
+		1692.1.1 = {
+			holder = Kinsiran_6		#Duke Reginar II
+		}
+		1694.1.1 = {
+			holder = Kinsiran_7		#Duke Eude III the Devout
+		}
+		1703.1.1 = {
+			holder = Kinsiran_8		#Duke Theodore I
+		}
+		1718.1.1 = {
+			holder = Kinsiran_9		#Duke Eude IV
+		}
+		1735.1.1 = {
+			holder = Ashleaf_1		#Count Theoderic II Ashleaf
+		}
+		1786.1.1 = {
+			holder = Trinita_0		#Count Peregrine Trinita
+		}
+		1997.1.1 = {
+			holder = Castalnier_1 	#duke arthos IV of Borchaud
+		}
+		2017.1.1 = {
+			holder = Castalnier_3	#Count Aquilus II Castalnier
+		}
+		2061.1.1 = {
+			holder = Castalnier_7	#Count Leon II Castalnier
+		}
+		2064.1.1 = {
+			holder = Castalnier_6	#Count Lyran I Castalnier
+		}
+	}
+#
+## Wardenship of the Rosethorn
+	d_rosethorn_forest = {
+		1887.1.1 = {
+			liege = k_aquirvan
+			holder = Brocard_07		#Warden Alexandre I
+		}
+		1897.1.1 = {
+			holder = Brocard_06		#Warden Florian I
+		}
+		1929.1.1 = {
+			holder = Brocard_05		#Warden Florian II
+		}
+		1934.1.1 = {
+			holder = Brocard_04		#Warden Alexandre II
+		}
+		1950.1.1 = {
+			holder = Brocard_03		#Duke-Warden Soren III of Soliana and the Rosethorn
+		}
+		1965.1.1 = {
+			holder = Whiterose_0	#Warden Augustine I
+		}
+		2009.1.1 = {
+			holder = Whiterose_1c	#Warden Alexander III
+		}
+		2014.1.1 = {
+			holder = Whiterose_2b	#Warden Soren II 
+		}
+		2014.5.1 = {
+			holder = 0
+		}
+		2033.1.1 = {
+			holder = Whiterose_2b	#Warden Soren II reclaims
+		}
+		2041.1.1 = {
+			holder = Whiterose_3	#Warden Ravenwyll I
+		}
+		2064.1.1 = {
+			holder = Whiterose_4	#Warden Corin I
+		}
+		2112.1.1 = {
+			holder = Whiterose_5	#Warden Ravenwyll II
+		}
+		2120.1.1 = {
+			holder = Whiterose_6	#Warden Soren III
+		}
+		2161.1.1 = {
+			holder = Whiterose_7	#warden Augustine II
+		}
+		2167.1.1 = {
+			holder = Whiterose_8	#Warden Augustine III
+		}
+	}
+	c_thornblood = {
+		1887.1.1 = {
+			holder = Thornblood_0
+		}
+		1899.1.1 = {
+			holder = Thornblood_1
+		}
+		1937.1.1 = {
+			holder = Thornblood_2
+		}
+		1939.1.1 = {
+			holder = Thornblood_3
+		}
+		1996.1.1 = {
+			holder = Whiterose_0	#Warden Augustine I
+		}
+		2009.1.1 = {
+			holder = Whiterose_1c	#Warden Alexander III
+		}
+		2014.1.1 = {
+			holder = Whiterose_2b	#Warden Soren II
+		}
+		2014.5.1 = {
+			holder = 0
+			liege = k_iron_realm_of_iregryn
+		}
+		2033.1.1 = {
+			liege = d_rosethorn_forest
+			holder = Whiterose_2b	#Warden Soren II reclaims
+		}
+		2041.1.1 = {
+			holder = Whiterose_3	#Warden Ravenwyll I
+		}
+		2064.1.1 = {
+			holder = Whiterose_4	#Warden Corin I
+		}
+		2112.1.1 = {
+			holder = Whiterose_5	#Warden Ravenwyll II
+		}
+		2120.1.1 = {
+			holder = Whiterose_6	#Warden Soren III
+		}
+		2161.1.1 = {
+			holder = Whiterose_7	#warden Augustine II
+		}
+		2167.1.1 = {
+			holder = Whiterose_8	#Warden Augustine III
+		}
+	}
+	c_briarval = {
+		1887.1.1 = {
+			holder = Brocard_07b
+		}
+		1890.1.1 = {
+			holder = Thornblood_0
+		}
+		1899.1.1 = {
+			holder = Thornblood_1
+		}
+		1937.1.1 = {
+			holder = Thornblood_3		#Lord Philip the old man of the Rosethorn
+		}
+		1996.1.1 = {
+			holder = Whiterose_0		#Warden Augustine I
+		}
+		2009.1.1 = {
+			holder = Whiterose_1c		#Warden Alexander III
+		}
+		2014.1.1 = {
+			holder = Whiterose_2b		#Warden Soren II
+		}
+		2014.5.1 = {
+			holder = 0
+			liege = k_iron_realm_of_iregryn
+		}
+		2060.1.1 = {
+			liege = d_rosethorn_forest
+			holder = Whiterose_2a2a		#Count Talis I
+		}
+		2096.1.1 = {
+			holder = Whiterose_2a3b		#Count Talis II
+		}
+		2121.1.1 = {
+			holder = Whiterose_2a4		#Count Roran I
+		}
+		2136.1.1 = {
+			holder = Whiterose_2a5		#Count Tomasan I
+		}
+		2153.1.1 = {
+			holder = Whiterose_2a6		#Count Roran II
+		}
+	}
+	c_rosewall = {
+
+	}
+	c_thornpoint = {
+
+	}
+	c_runningrose = {
+
+	}
+#
+## Duchy of Natala Istri
+	d_natala_istri = {
+		1793.1.1 = {
+			liege = 0
+		}
+		1900.1.1 = {
+			liege = k_aquirvan
+		}
+		1912.1.1 = {
+			holder = Thornblood_2	#Duke Hector I Thornblood
+		}
+		1945.1.1 = {
+			holder = Thornblood_4	#Duke Gwyn I Thornblood
+		}
+		1970.1.1 = {
+			holder = Thornblood_5	#Duke Hector II Thornblood
+		}
+		1987.1.1 = {
+			holder = Thornblood_6	#Duke Milos I Thornblood
+		}
+		2010.1.1 = {
+			holder = Thornblood_7	#Duke Lionel I the Old
+		}
+		2061.1.1 = {
+			holder = Thornblood_9	#Duke Lionel II Thornblood
+		}
+		2076.1.1 = {
+			holder = Thornblood_11	#Duke Gwyn II Thornblood
+		}
+		2120.1.1 = {
+			holder = Thornblood_12	#Duke Lionel III Thornblood
+		}
+		2162.1.1 = {
+			holder = Thornblood_13	#Duke Gwyn III Thornblood
+		}
+	}
+	c_beros = {
+		2001.1.1 = {
+			holder = Brocard_01	#Gellus II the Bloody
+		}
+		2017.1.1 = {
+			holder = Brocard_1 #Gellus III
+		}
+		2056.1.1 = {
+			holder = Brocard_2 #King Evard II
+		}
+		2060.1.1 = {
+			holder = Thornblood_7	#Duke Lionel I the Old
+		}
+		2061.1.1 = {
+			holder = Thornblood_9	#Duke Lionel II Thornblood
+		}
+		2076.1.1 = {
+			holder = Thornblood_11	#Duke Gwyn II Thornblood
+		}
+		2120.1.1 = {
+			holder = Thornblood_12	#Duke Lionel III Thornblood
+		}
+		2162.1.1 = {
+			holder = Thornblood_13	#Duke Gwyn III Thornblood
+		}
+	}
+	c_istrans_dive = {
+
+	}
+	c_pedreval = {
+
+	}
+	c_bosquetuc = {
+
+	}
+	c_seche_rui = {
+
+	}
+	c_isala = {
+
+	}
+	c_singslope = {
+		
+	}

@@ -1,0 +1,724 @@
+﻿k_tousone = {
+	1790.1.1 = {
+		name = SAUVIGNON
+	}
+	1846.1.1 = {
+		holder = 34
+	}
+	1881.1.1 = {
+		holder = Lavosan_4
+	}
+	1889.1.1 = {
+		holder = Lavosan_5
+	}
+	1930.1.1 = {
+		holder = Lavosan_6
+	}
+	1956.1.1 = {
+		holder = Lavosan_7
+	}
+	1960.1.1 = {
+		holder = Lavosan_8
+	}
+	1996.1.1 = {
+		holder = Lavosan_9
+	}
+	1997.1.1 = {
+		holder = Lavosan_10
+	}
+	2057.1.1 = {
+		holder = Lavosan_11
+	}
+	2069.1.1 = {
+		holder = Lavosan_12
+	}
+	2075.1.1 = {
+		holder = Lavosan_13
+	}
+	2088.1.1 = {
+		holder = Lavosan_14
+	}
+	2099.1.1 = {
+		holder = Lavosan_15
+	}
+	2106.1.1 = {
+		holder = Lavosan_16
+	}
+	2134.1.1 = {
+		holder = Lavosan_17
+	}
+	2141.1.1 = {
+		holder = Lavosan_18
+	}
+	2177.1.1 = {
+		holder = Lavosan_19
+	}
+	2206.1.1 = {
+		holder = Lavosan_20
+	}
+	2207.1.1 = {
+		reset_name = yes
+		holder = 0
+	}
+}
+
+d_princedom_of_tamilon = {
+	1793.1.1 = {
+		holder = Lavosan_3
+	}
+	1801.1.1 = {
+		holder = 33
+	}
+	1834.1.1 = {
+		holder = 34
+	}
+	1881.1.1 = {
+		holder = Lavosan_4
+	}
+	1889.1.1 = {
+		holder = Lavosan_5
+	}
+	1930.1.1 = {
+		holder = Lavosan_6
+	}
+	1956.1.1 = {
+		holder = Lavosan_7
+	}
+	1960.1.1 = {
+		holder = Lavosan_8
+	}
+	1996.1.1 = {
+		holder = Lavosan_9
+	}
+	1997.1.1 = {
+		holder = Lavosan_10
+	}
+	2057.1.1 = {
+		holder = Lavosan_11
+	}
+	2069.1.1 = {
+		holder = Lavosan_12
+	}
+	2075.1.1 = {
+		holder = Lavosan_13
+	}
+	2088.1.1 = {
+		holder = Lavosan_14
+	}
+	2099.1.1 = {
+		holder = Lavosan_15
+	}
+	2106.1.1 = {
+		holder = Lavosan_16
+	}
+	2134.1.1 = {
+		holder = Lavosan_17
+	}
+	2141.1.1 = {
+		holder = Lavosan_18
+	}
+	2177.1.1 = {
+		holder = Lavosan_19
+	}
+	2206.1.1 = {
+		holder = Lavosan_20
+	}
+}
+## Tousone ##############################
+	d_tousone = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 3 }
+		1846.1.1 = {
+			holder = 34
+		}
+		1881.1.1 = {
+			holder = Lavosan_4
+		}
+		1889.1.1 = {
+			holder = Lavosan_5
+		}
+		1930.1.1 = {
+			holder = Lavosan_6
+		}
+		1956.1.1 = {
+			holder = Lavosan_7
+		}
+		1960.1.1 = {
+			holder = Lavosan_8
+		}
+		1996.1.1 = {
+			holder = Lavosan_9
+		}
+		1997.1.1 = {
+			holder = Lavosan_10
+		}
+		2057.1.1 = {
+			holder = Lavosan_11
+		}
+		2069.1.1 = {
+			holder = Lavosan_12
+		}
+		2075.1.1 = {
+			holder = Lavosan_13
+		}
+		2088.1.1 = {
+			holder = Lavosan_14
+		}
+		2099.1.1 = {
+			holder = Lavosan_15
+		}
+		2106.1.1 = {
+			holder = Lavosan_16
+		}
+		2134.1.1 = {
+			holder = Lavosan_17
+		}
+		2141.1.1 = {
+			holder = Lavosan_18
+		}
+		2177.1.1 = {
+			holder = Lavosan_19
+		}
+		2206.1.1 = {
+			holder = Lavosan_20
+		}
+	}
+	c_tourmon = {
+		1793.1.1 = {
+			holder = Lavosan_3
+		}
+		1801.1.1 = {
+			holder = 33
+		}
+		1834.1.1 = {
+			holder = 34
+		}
+		1881.1.1 = {
+			holder = Lavosan_4
+		}
+		1889.1.1 = {
+			holder = Lavosan_5
+		}
+		1930.1.1 = {
+			holder = Lavosan_6
+		}
+		1956.1.1 = {
+			holder = Lavosan_7
+		}
+		1960.1.1 = {
+			holder = Lavosan_8
+		}
+		1996.1.1 = {
+			holder = Lavosan_9
+		}
+		1997.1.1 = {
+			holder = Lavosan_10
+		}
+		2057.1.1 = {
+			holder = Lavosan_11
+		}
+		2069.1.1 = {
+			holder = Lavosan_12
+		}
+		2075.1.1 = {
+			holder = Lavosan_13
+		}
+		2088.1.1 = {
+			holder = Lavosan_14
+		}
+		2099.1.1 = {
+			holder = Lavosan_15
+		}
+		2106.1.1 = {
+			holder = Lavosan_16
+		}
+		2134.1.1 = {
+			holder = Lavosan_17
+		}
+		2141.1.1 = {
+			holder = Lavosan_18
+		}
+		2177.1.1 = {
+			holder = Lavosan_19
+		}
+		2206.1.1 = {
+			holder = Lavosan_20
+		}
+	}
+	c_arge_d_belmyr = {
+		1793.1.1 = {
+			holder = Lavosan_3
+		}
+		1801.1.1 = {
+			holder = 33
+		}
+		1834.1.1 = {
+			holder = 34
+		}
+		1881.1.1 = {
+			holder = Lavosan_4
+		}
+		1889.1.1 = {
+			holder = Lavosan_5
+		}
+		1930.1.1 = {
+			holder = Lavosan_6
+		}
+		1956.1.1 = {
+			holder = Lavosan_7
+		}
+		1960.1.1 = {
+			holder = Lavosan_8
+		}
+		1996.1.1 = {
+			holder = Lavosan_9
+		}
+		1997.1.1 = {
+			holder = Lavosan_10
+		}
+		2057.1.1 = {
+			holder = Lavosan_11
+		}
+		2069.1.1 = {
+			holder = Lavosan_12
+		}
+		2075.1.1 = {
+			holder = Lavosan_13
+		}
+		2088.1.1 = {
+			holder = Lavosan_14
+		}
+		2099.1.1 = {
+			holder = Lavosan_15
+		}
+		2106.1.1 = {
+			holder = Lavosan_16
+		}
+		2134.1.1 = {
+			holder = Lavosan_17
+		}
+		2141.1.1 = {
+			holder = Lavosan_18
+		}
+		2177.1.1 = {
+			holder = Lavosan_19
+		}
+		2206.1.1 = {
+			holder = Lavosan_20
+		}
+	}
+	c_ruisseur = {
+		1835.1.1 = {
+			holder = 34
+		}
+		1881.1.1 = {
+			holder = Lavosan_4
+		}
+		1889.1.1 = {
+			holder = Lavosan_5
+		}
+		1894.1.1 = {
+			liege = d_arge_rivage
+			holder = Oroth_4a		#Count Ender I
+		}
+		1917.1.1 = {
+			holder = Oroth_4a1		#Count Istan I
+		}
+		1923.1.1 = {
+			holder = Oroth_4b		#Count Soren I
+		}
+		1926.1.1 = {
+			holder = Oroth_4c		#Count Istan II
+		}
+		1937.1.1 = {
+			holder = Oroth_4a2		#Count Kalos I
+		}
+		1938.1.1 = {
+			holder = Oroth_4a1a		#Count Soren II
+		}
+		1939.1.1 = {
+			holder = Oroth_4c1		#Count Ender II
+		}
+		1942.1.1 = {
+			holder = Oroth_4b1		#Count Astarin I
+		}
+		1943.1.1 = {
+			holder = Oroth_4b2		#Countess Alyss I
+		}
+		1945.1.1 = {
+			holder = Oroth_4a3		#Count Sarden I
+		}
+		1946.1.1 = {
+			holder = Oroth_4b		#Count Soren I again, got briefly ressurected
+		}
+		1949.1.1 = {
+			holder = Oroth_4a2		#Count Kalos I
+		}
+		2104.1.1 = {
+			holder = Coldstar_6b1	#Count Aranir I Coldstar
+		}
+		2155.1.1 = {
+			holder = Coldstar_6b3	#Count Tanis IV Coldstar
+		}
+		2184.1.1 = {
+			holder = Coldstar_6b4	#Count Kirion III Colstar
+		}
+		2196.1.1 = {
+			holder = Coldstar_6b5	#Count Talis III Coldstar
+		}
+	}
+	c_auremont = {
+		1835.1.1 = {
+			holder = 34
+		}
+		1881.1.1 = {
+			holder = Lavosan_4
+		}
+		1889.1.1 = {
+			holder = Lavosan_5
+		}
+		1894.1.1 = {
+			liege = d_arge_rivage
+			holder = Syniste_0		#Count Tanis I Syniste
+		}
+		1935.1.1 = {
+			holder = Coldstar_0		#Count Talis I Coldstar
+		}
+		1971.1.1 = {
+			holder = Coldstar_1		#Count Kirion I Coldstar
+		}
+		2010.1.1 = {
+			holder = Coldstar_2		#Count Tanis II Coldstar
+		}
+		2017.1.1 = {
+			holder = Coldstar_3		#Count Tanis III Coldstar
+		}
+		2056.1.1 = {
+			holder = Coldstar_4		#Count Valos I Coldstar
+		}
+		2064.1.1 = {
+			holder = Coldstar_5		#Count Valos II Coldstar
+		}
+		2066.1.1 = {
+			holder = Coldstar_6a	#Duke Talis III Coldstar
+		}
+		2081.1.1 = {
+			holder = Coldstar_6b	#Count Kirion II Coldstar
+		}
+		2096.1.1 = {
+			holder = Coldstar_6b1	#Count Aranir I Coldstar
+		}
+		2155.1.1 = {
+			holder = Coldstar_6b3	#Count Tanis IV Coldstar
+		}
+		2184.1.1 = {
+			holder = Coldstar_6b4	#Count Kirion III Colstar
+		}
+		2196.1.1 = {
+			holder = Coldstar_6b5	#Count Talis III Coldstar
+		}
+	}
+	c_lisi = {
+		1835.1.1 = {
+			holder = 34
+		}
+		1881.1.1 = {
+			holder = Lavosan_4
+		}
+		1889.1.1 = {
+			holder = Lavosan_5
+		}
+		1930.1.1 = {
+			holder = Lavosan_6
+		}
+		1956.1.1 = {
+			holder = Lavosan_7
+		}
+		1960.1.1 = {
+			holder = Lavosan_8
+		}
+		1996.1.1 = {
+			holder = Lavosan_9
+		}
+		1997.1.1 = {
+			holder = Lavosan_10
+		}
+		2057.1.1 = {
+			holder = Lavosan_11
+		}
+		2069.1.1 = {
+			holder = Lavosan_12
+		}
+		2075.1.1 = {
+			holder = Lavosan_13
+		}
+		2088.1.1 = {
+			holder = Lavosan_14
+		}
+		2099.1.1 = {
+			holder = Lavosan_15
+		}
+		2106.1.1 = {
+			holder = Lavosan_16
+		}
+		2134.1.1 = {
+			holder = Lavosan_17
+		}
+		2141.1.1 = {
+			government = military_government
+			holder = Alder_Haventhorn
+		}
+	}
+#
+## Arge Rivage ##########################
+	d_arge_rivage = {
+		867.1.1 = { change_development_level = 3 }
+		1066.1.1 = { change_development_level = 3 }
+		1818.1.1 = {
+			liege = e_chell
+			holder = Aragos_1
+		}
+		1850.1.1 = {
+			holder = Aragos_2
+		}
+		1888.1.1 = {
+			holder = Aragos_3
+		}
+		1897.1.1 = {
+			holder = Aragos_4
+		}
+		1940.1.1 = {
+			holder = Aragos_5
+		}
+		1949.1.1 = {
+			holder = Aragos_6
+		}
+		1977.1.1 = {
+			holder = Aragos_8
+		}
+		1984.1.1 = {
+			holder = Scaledance_5
+		}
+		2009.1.1 = {
+			holder = Scaledance_6
+		}
+		2015.1.1 = {
+			holder = Scaledance_7
+		} 
+		2041.1.1 = {
+			holder = Clearstream_6
+		}
+		2089.1.1 = {
+			holder = Clearstream_7
+		}
+		2106.1.1 = {
+			holder = Clearstream_8
+		}
+		2130.1.1 = {
+			holder = Sagescribe_2
+		}
+		2154.1.1 = {
+			holder = Sagescribe_3
+		}
+		2171.1.1 = {
+			holder = Sagescribe_4
+		}
+	}
+	c_aranirsport = {
+		1790.1.1 = {
+			name = WOLFSLANDING
+			holder = 32
+		}
+		1818.1.1 = {
+			liege = e_chell
+			holder = Aragos_1
+		}
+		1850.1.1 = {
+			name = Aranirsport
+			holder = Aragos_2
+		}
+		1888.1.1 = {
+			holder = Aragos_3
+		}
+		1897.1.1 = {
+			holder = Aragos_4
+		}
+		1940.1.1 = {
+			holder = Aragos_5
+		}
+		1949.1.1 = {
+			holder = Aragos_6
+		}
+		1977.1.1 = {
+			holder = Aragos_8
+		}
+		1984.1.1 = {
+			holder = Scaledance_5
+		}
+		2009.1.1 = {
+			holder = Scaledance_6
+		}
+		2015.1.1 = {
+			holder = Scaledance_7
+		}
+		2041.1.1 = {
+			holder = Clearstream_6
+		}
+		2089.1.1 = {
+			holder = Clearstream_7
+		}
+		2106.1.1 = {
+			holder = Clearstream_8
+		}
+		2130.1.1 = {
+			holder = Sagescribe_2
+		}
+		2154.1.1 = {
+			holder = Sagescribe_3
+		}
+		2171.1.1 = {
+			holder = Sagescribe_4
+		}
+	}
+	c_point_osart = {
+		1791.1.1 = {
+			holder = 32
+		}
+		1876.1.1 = {
+			holder = Scaledance_1
+		}
+		1897.1.1 = {
+			holder = Scaledance_2
+		}
+		1919.1.1 = {
+			holder = Scaledance_3
+		}
+		1950.1.1 = {
+			holder = Scaledance_4
+		}
+		1965.1.1 = {
+			holder = Scaledance_5
+		}
+		2009.1.1 = {
+			holder = Scaledance_6
+		}
+		2015.1.1 = {
+			holder = Scaledance_7
+		}
+	}
+	c_abrisus = {
+		1789.1.1 = {
+			holder = 32
+		}
+		1818.1.1 = {
+			liege = e_chell
+			holder = Aragos_1
+		}
+		1850.1.1 = {
+			holder = Aragos_2
+		}
+		1888.1.1 = {
+			holder = Aragos_3
+		}
+		1897.1.1 = {
+			holder = Aragos_4
+		}
+		1940.1.1 = {
+			holder = Aragos_5
+		}
+		1949.1.1 = {
+			holder = Aragos_6
+		}
+		1977.1.1 = {
+			holder = Aragos_8
+		}
+		1984.1.1 = {
+			holder = Aragos_11
+		}
+		2025.1.1 = {
+			holder = Aragos_12
+		}
+	}
+	c_lac_jormear = {
+		1790.1.1 = {
+			holder = 32
+		}
+	}
+	c_massicourt = {
+		1790.1.1 = {
+			holder = 32
+		}
+	}
+#
+## Casrel ###############################
+	d_casrel = {
+		867.1.1 = { change_development_level = 3 }
+		1792.1.1 = { change_development_level = 1 }
+		1894.1.1 = {
+			liege = e_chell
+			holder = Pyrestar_3b		#Wyran I
+		}
+		1936.1.1 = {
+			holder = Pyrestar_3b1		#Wyran II
+		}
+		1943.1.1 = {
+			holder = Pyrestar_3b2		#Heron I
+		}
+		1970.1.1 = {
+			holder = Pyrestar_3b3a		#Rallon the Old
+		}
+		2015.1.1 = {
+			holder = Pyrestar_3b4		#Kirion I
+		}
+		2029.1.1 = {
+			holder = Pyrestar_3b5		#Rallon II
+		}
+		2048.1.1 = {
+			holder = Pyrestar_3b6		#Kirion II
+		}
+		2084.1.1 = {
+			holder = Pyrestar_3b7		#Wyran III
+		}
+		2095.1.1 = {
+			holder = Pyrestar_3b8		#Wyran IV
+		}
+		2114.1.1 = {
+			holder = Pyrestar_3b9		#Duke Heron II
+		}
+		2129.1.1 = {
+			holder = Pyrestar_3b10		#Duke Kirion III
+		}
+		2154.1.1 = {
+			holder = Pyrestar_3b11		#Duke Wyran V 
+		}
+		2157.1.1 = {
+			holder = Pyrestar_3b12		#Duke Talis I
+		}
+		2180.1.1 = {
+			holder = Pyrestar_3b13		#Duke Talis II
+		}
+	}
+#
+## Trelin ###############################
+	d_trelin = {
+		867.1.1 = { change_development_level = 3 }
+		1792.1.1 = { change_development_level = 1 }
+		1894.1.1 = {
+			liege = e_chell
+		}
+		2118.1.1 = {
+			government = military_government
+			holder = Ronan_Ashwind
+		}
+	}
+#
+## Arbest ###############################
+	d_arbest = {
+		2024.1.1 = {
+			liege = e_chell
+		}
+		2141.1.1 = {
+			government = military_government
+			holder = Alder_Haventhorn
+		}
+	}

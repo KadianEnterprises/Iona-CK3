@@ -1,0 +1,41 @@
+﻿k_eradrea = {
+	1802.1.1 = {
+		holder = Xerincet_0		#Queen Kerana I
+	}
+	1847.1.1 = {
+		holder = Xerincet_1		#Queen Oreno I
+	}
+	1884.1.1 = {
+		holder = Xerincet_2		#Queen Jenai I
+	}
+	1910.1.1 = {
+		holder = Xerincet_3		#King Karemnis I
+	}
+	1935.1.1 = {
+		holder = Xerincet_5		#Queen Vadarei I
+	}
+	1971.1.1 = {
+		holder = Xerincet_6		#Queen Kerana II
+	}
+	2006.1.1 = {
+		holder = Xerincet_8		#Queen Oreno II
+	}
+	2041.1.1 = {
+		holder = Xerincet_9a	#Queen Oreno III
+	}
+	2064.1.1 = {
+		holder = Monosal_0		#King Karim I
+	}
+	2098.1.1 = {
+		holder = Diracal_0		#Queen Jenai II
+	}
+	2131.1.1 = {
+		holder = Diracal_2		#Queen Kerana III
+	}
+	2154.1.1 = {
+		holder = Diracal_3		#Queen Kerana IV
+	}
+	2180.1.1 = {
+		holder = Diracal_4		#Queen Jenai III
+	}
+}

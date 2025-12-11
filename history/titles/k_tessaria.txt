@@ -1,0 +1,144 @@
+﻿k_tessaria = {
+	1824.1.1 = {
+		holder = Horsebane_0		#King Ethelred I
+	}
+	1843.1.1 = {
+		holder = Horsebane_1a		#Queen Eadgyth the Compassionate
+	}
+	1875.1.1 = {
+		holder = Horsebane_2		#King Wulfric the Valiant
+	}
+	1904.1.1 = {
+		holder = Horsebane_3c		#King Cuthbert Dryadvoice
+	}
+	1935.1.1 = {
+		holder = Dreamshadow_0		#Queen Aelfwynn the Malevolent
+	}
+	1955.1.1 = {
+		holder = Wulfstone_3		#King Oswin the Restorer
+	}
+	1978.1.1 = {
+		holder = Wulfstone_4b		#Queen Minalea the Wise
+	}
+	2006.1.1 = {
+		holder = Wulfstone_5a		#King Aldred the Foolish
+	}
+	2018.1.1 = {
+		holder = Wulfstone_5a1		#Queen Maeve the Just
+	}
+	2042.1.1 = {
+		holder = Stormrider_0		#King Eadric I
+	}
+	2058.1.1 = {
+		holder = Stormrider_1		#Queen Elswith the Redeemer
+	}
+	2079.1.1 = {
+		holder = Stormrider_2		#King Leofric the Magnificent
+	}
+	2120.1.1 = {
+		holder = Stormrider_3		#King Godric I
+	}
+	2131.1.1 = {
+		holder = 0					#Tessarian Interregnum
+	}
+	2135.1.1 = {
+		holder = Wulfspear_5		#Queen Elswith II
+	}
+	2164.1.1 = {
+		holder = Wulfspear_6		#King Edmund the Illuminator
+	}
+	2197.1.1 = {
+		holder = Wulfspear_7		#King Eadric II
+	}
+}
+#
+## Kingsmound
+	d_kingsmound = {
+		1799.1.1 = {
+			holder = Horsebane_0		#King Ethelred I
+		}
+		1843.1.1 = {
+			holder = Horsebane_1a		#Queen Eadgyth the Compassionate
+		}
+		1875.1.1 = {
+			holder = Horsebane_2		#King Wulfric the Valiant
+		}
+		1904.1.1 = {
+			holder = Horsebane_3c		#King Cuthbert Dryadvoice
+		}
+		1935.1.1 = {
+			holder = Dreamshadow_0		#Queen Aelfwynn the Malevolent
+		}
+		1955.1.1 = {
+			holder = Wulfstone_3		#King Oswin the Restorer
+		}
+		1978.1.1 = {
+			holder = Wulfstone_4b		#Queen Minalea the Wise
+		}
+		2006.1.1 = {
+			holder = Wulfstone_5a		#King Aldred the Foolish
+		}
+		2018.1.1 = {
+			holder = Wulfstone_5a1		#Queen Maeve the Just
+		}
+		2042.1.1 = {
+			holder = Stormrider_0		#King Eadric I
+		}
+		2058.1.1 = {
+			holder = Stormrider_1		#Queen Elswith the Redeemer
+		}
+		2079.1.1 = {
+			holder = Stormrider_2		#King Leofric the Magnificent
+		}
+		2120.1.1 = {
+			holder = Stormrider_3		#King Godric I
+		}
+		2131.1.1 = {
+			holder = 0					#Tessarian Interregnum
+		}
+		2135.1.1 = {
+			holder = Wulfspear_5		#Queen Elswith II
+		}
+		2164.1.1 = {
+			holder = Wulfspear_6		#King Edmund the Illuminator
+		}
+		2197.1.1 = {
+			holder = Wulfspear_7		#King Eadric II
+		}
+	}
+#
+## Cenrys
+	d_cenrys = {
+
+	}
+	c_halfhearth = {
+		1941.1.1 = {
+			holder = Hardspring_0
+		}
+		1967.1.1 = {
+			holder = Hardspring_2
+		}
+		2017.1.1 = {
+			holder = Stormrider_0
+		}
+	}
+	c_canimore = {
+		1941.1.1 = {
+			holder = Hardspring_0
+		}
+		1967.1.1 = {
+			holder = Hardspring_2
+		}
+		2017.1.1 = {
+			holder = Stormrider_0
+		}
+	}
+	c_fenneran = {
+
+	}
+	c_porafon = {
+		
+	}
+	c_culgot = {
+
+	}

@@ -1,0 +1,371 @@
+# Caspiril
+## Casirian
+	### Astavoux
+	1329 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1330 = {
+		holding = city_holding
+	}
+	1331 = {
+		holding = castle_holding
+	}
+	1332 = {
+		holding = city_holding
+	}
+	1333 = {
+		holding = church_holding
+	}
+	1334 = {
+		holding = castle_holding
+	}
+	### Tower of Silverbreath
+	1335 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Rhyal's Harrow
+	1337 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1338 = {
+		holding = city_holding
+	}
+	1339 = {
+		holding = none
+	}
+	1340 = {
+		holding = none
+	}
+	1341 = {
+		holding = none
+	}
+	### Jalcrest
+	1346 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1347 = {
+		holding = none
+	}
+	1348 = {
+		holding =  none
+	}
+	### Tacelin
+	1353 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1354 = {
+		holding = city_holding
+	}
+	1355 = {
+		holding = none
+	}
+	1356 = {
+		holding = none
+	}
+	### Quelcrist
+	1342 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1343 = {
+		holding = none
+	}
+	1344 = {
+		holding = none
+	}
+	1345 = {
+		holding = none
+	}
+	### Cotiris
+	1349 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1350 = {
+		holding = castle_holding
+	}
+	1351 = {
+		holding = none
+	}
+	1352 = {
+		holding = none
+	}
+	### Isle Sanguine
+	1336 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+## Solime
+	### Cenrian
+	1403 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1404 = {
+		holding = city_holding
+	}
+	1405 = {
+		holding = church_holding
+	}
+	### Isel
+	1406 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Silverdew
+	1407 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1408 = {
+		holding = none
+	}
+	1409 = {
+		holding = none
+	}
+	### Spur of Solime
+	1410 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1411 = {
+		holding = none
+	}
+	1412 = {
+		holding = none
+	}
+	### Inovan
+	1413 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1414 = {
+		holding = city_holding
+	}
+	1415 = {
+		holding = castle_holding
+	}
+	### Avonte
+	1416 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1417 = {
+		holding = none
+	}
+	1418 = {
+		holding = none
+	}
+	### Broadtide
+	1419 = {
+		culture = ilfaine
+		religion = aurementic
+		holding = castle_holding
+	}
+	1420 = {
+		holding = none
+	}
+	1421 = {
+		holding = none
+	}
+	1422 = {
+		holding = city_holding
+	}
+## Lotheris
+	### Cair Tenris
+	1387 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1384 = {
+		holding = city_holding
+	}
+	1386 = {
+		holding = city_holding
+	}
+	1387 = {
+		holding = church_holding
+	}
+	### Cinder
+	1392 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1393 = {
+		holding = none
+	}
+	### Inkheart
+	1394 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1395 = {
+		holding = city_holding
+	}
+	1396 = {
+		holding = city_holding
+	}
+	1397 = {
+		holding = none
+	}
+	### Scribewalk
+	1398 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1399 = {
+		holding = none
+	}
+	### Silentweap
+	1400 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1401 = {
+		holding = city_holding
+	}
+	1402 = {
+		holding = none
+	}
+	### Hero's Yearning
+	1389 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1390 = {
+		holding = city_holding
+	}
+	1391 = {
+		holding = none
+	}
+	1392 = {
+		holding = church_holding
+	}
+## Morin
+	### Perilance
+	1357 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1359 = {
+		holding = city_holding
+	}
+	1358 = {
+		holding = castle_holding
+	}
+	1360 = {
+		holding = church_holding
+	}
+	1361 = {
+		holding = none
+	}
+	### Proudlight
+	1362 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1363 = {
+		holding = city_holding
+	}
+	1364 = {
+		holding = castle_holding
+	}
+	1365 = {
+		holding = none
+	}
+	1366 = {
+		holding = castle_holding
+	}
+	### Tower of the Seer
+	1367 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1368 = {
+		holding = city_holding
+	}
+	### Bandal
+	1369 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1370 = {
+		holding = city_holding
+	}
+	1371 = {
+		holding = none
+	}
+	1372 = {
+		holding = none
+	}
+	### Erskendale
+	1373 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1374 = {
+		holding = city_holding
+	}
+	1375 = {
+		holding = none
+	}
+	### Giant's Walk
+	1376 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1377 = {
+		holding = none
+	}
+	1378 = {
+		holding = none
+	}
+	1379 = {
+		holding = none
+	}
+	### Morinfall
+	1380 = {
+		culture = ilfaniene
+		religion = aurementic
+		holding = castle_holding
+	}
+	1381 = {
+		holding = city_holding
+	}
+	1382 = {
+		holding = none
+	}
+	1383 = {
+		holding = none
+	}

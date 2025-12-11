@@ -1,0 +1,71 @@
+#max_provinces = 1466
+definitions = "definition.csv"
+provinces = "provinces.png"
+#positions = "positions.txt"
+rivers = "rivers.png"
+#terrain_definition = "terrain.txt"
+topology = "heightmap.heightmap"
+#tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+#climate = "climate.txt"
+island_region = "island_region.txt"
+seasons = "seasons.txt"
+
+#############
+# SEA ZONES
+#############
+
+#Vyslioch Sea Zones
+sea_zones = LIST { 33 55 56 285 286 3402 287 288 945 946 1294 1703 1706 }
+sea_zones = RANGE { 97 109 }
+sea_zones = RANGE { 205 284 }
+sea_zones = RANGE { 606 639 }
+sea_zones = RANGE { 832 842 }
+sea_zones = RANGE { 1000 1008}
+sea_zones = RANGE { 1009 1012 }
+sea_zones = RANGE { 1128 1132 }
+sea_zones = RANGE { 1134 1136 }
+sea_zones = RANGE { 3057 3064 }
+sea_zones = RANGE { 3358 3398 }
+
+###############
+# MAJOR RIVERS
+###############
+
+#Azur River
+river_provinces = RANGE { 110 111 }
+#Monmeda River
+river_provinces = RANGE { 525 527 }
+river_provinces = LIST { 3277 }
+
+########
+# LAKES
+########
+lakes = LIST { 27 44 86 155 187 2136 194 346 347 2372 2375  2376 2382 2383 2384 2378 2379 2380 449 450 1112 518 1834 523 524 528 529 830 831 829 843 970 992 1133 1160 1161 1235 1548 1704 1705 1707 3278 3279 3280 3281 }
+
+#####################
+# IMPASSABLE TERRAIN
+#####################
+# Can be colored by whoever owns the most of the province's neighbours.
+# Blocks unit movement.
+
+#Euralia
+impassable_mountains = LIST { 62 112 113 114 115 516 517 530 531 580 581 605 695 696 730 828 947 948 1137 }
+
+############
+# WASTELAND
+############
+# These are actually supposed to be Wasteland:
+# Cannot be colored. Blocks unit movement, used for things like Sahara desert. 
+impassable_mountains = LIST { 519 520 521 522 697 698 2373 2374 2377 2381 }
+
+
+# IMPASSABLE SEA ZONES
+# These sea provinces cannot be crossed/sailed
+impassable_seas = LIST { 221 234 244 278 3400 3399 285 626 3305 1295 3401 }
+impassable_seas = RANGE { 3404 3417 }
+
+# UNUSED PROVINCES
+# These provinces cause issues because they are passable land, but not part of any title.
+# They are probably not visible anywhere on the map, so feel free to reuse them (after double checking that they are actually missing).

@@ -1,0 +1,67 @@
+﻿namespace = ionaflavor
+
+ionaflavor.0001 = {
+	type = character_event
+	title = ionaflavor.0001.t
+	desc = ionaflavor.0001.desc
+	theme = love
+	right_portrait = root
+
+	option = {
+		name = ionaflavor.0001.a
+		stress_impact = {
+			ambitious = miniscule_stress_impact_gain
+		}
+		trigger = {
+			NOR = {
+				trait = lifestyle_mystic
+
+			}
+		}
+	}
+
+	option = {
+		name = ionaflavor.0001.b
+		stress_impact = {
+			ambitious = miniscule_stress_impact_loss
+		}
+		trigger = {
+			OR = {
+				trait = lifestyle_mystic
+
+			}
+		}
+	}
+}
+
+ionaflavor.0002 = {	#Dreams of the Elsewhere
+	type = character_event
+	title = ionaflavor.0002.t	#Dreams of the Elsewhere
+	desc = ionaflavor.0002.desc	#
+	theme = travel_learning
+	override_background = { reference = bedchamber }
+	right_portrait = {
+		character = root
+		animation = paranoia
+		outfit_tags = { nightgown }
+	}
+	cooldown = { years = 28}
+
+	trigger = {
+		is_ai = no
+	}
+
+	option = {
+		name = ionaflavor.0002.a
+		stress_impact = {
+			ambitious = miniscule_stress_impact_gain
+		}
+	}
+
+	option = {
+		name = ionaflavor.0002.b
+		stress_impact = {
+			ambitious = miniscule_stress_impact_loss
+		}
+	}
+}

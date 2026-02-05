@@ -461,6 +461,16 @@
 		culture = "deledani"
 		motto = "dynn_istrano_motto"
 	}
+	dynn_kalirikos = {
+		name = "dynn_Kalirikos"
+		culture = "azurean"
+		motto = "dynn_kalirikos_motto"
+	}
+	dynn_thaekos = {
+		name = "dynn_Thaekos"
+		culture = "azurean"
+		motto = "dynn_Thaekos_motto"
+	}
 #
 ### Shadari Dynasties #######################################
 	dynn_mejati = {
@@ -532,7 +542,7 @@
 			motto = "dynn_tremaria_motto"
 		}
 		dynn_caladran = {
-			name = "dynn_Caladri"
+			name = "dynn_Caladran"
 			culture = "caladrojan"
 			motto = "dynn_caladri_motto"
 		}
@@ -659,6 +669,12 @@
 ### Eralean Dynasties #######################################
 	#Eralean
 
+	#Verdana
+		dynn_nareskel = {
+			name = "dynn_Nareskel"
+			culture = "verdana"
+			motto = "dynn_nareskel_motto"
+		}
 	#Felasin
 		dynn_tejaren = {
 			name = "dynn_Tejaren"
@@ -720,6 +736,11 @@
 		culture = "solaarin"
 		motto = "dynn_astra_motto"
 	}
+	dynn_sirion = {
+		name = "dynn_Sirion"
+		culture = "solaarin"
+		motto = "dynn_sirion_motto"
+	}
 #
 ### Havinan Dynasties #######################################
 	dynn_joysong = {
@@ -772,6 +793,13 @@
 		motto = "dynn_versylan_motto"
 	}
 #
+### Lytamyran ###############################################
+	dynn_anriol = {
+		name = "dynn_Anriol"
+		culture = "kyrithan"
+		motto = "dynn_anriol_motto"
+	}
+#
 ### Gallan Dynasties ########################################
 	dynn_ryel = {
 		name = "dynn_Ryel"
@@ -792,6 +820,16 @@
 		name = "dynn_Rydwen"
 		culture = "gallan"
 		motto = "dynn_rydwen_motto"
+	}
+	dynn_celaen = {
+		name = "dynn_Celaen"
+		culture = "gallan"
+		motto = "dynn_Celaen_motto"
+	}
+	dynn_haligryn = {
+		name = "dynn_Haligryn"
+		culture = "gallan"
+		motto = "dynn_haligryn_motto"
 	}
 #
 ###

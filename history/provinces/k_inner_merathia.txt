@@ -1,0 +1,252 @@
+# Inner Merathia
+## Mistvale
+	### Mournhome
+	2299 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2300 = {
+		holding = none
+	}
+	2301 = {
+		holding = none
+	}
+	2302 = {
+		holding = none
+	}
+	### Lightcreep
+	2303 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2304 = {
+		holding = none
+	}
+	2305 = {
+		holding = none
+	}
+	2306 = {
+		holding = none
+	}
+	### Keenwillow
+	2307 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2308 = {
+		holding = none
+	}
+	2309 = {
+		holding = none
+	}
+	2310 = {
+		holding = none
+	}
+	### Goldenpass
+	2311 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2312 = {
+		holding = none
+	}
+	2313 = {
+		holding = none
+	}
+	2314 = {
+		holding = none
+	}
+	### Redheather
+	2315 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2316 = {
+		holding = none
+	}
+	2317 = {
+		holding = none
+	}
+## Staghold
+	### Staghold
+	2318 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2319 = {
+		holding = none
+	}
+	2320 = {
+		holding = none
+	}
+	2321 = {
+		holding = none
+	}
+	### Arator
+	2322 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2323 = {
+		holding = none
+	}
+	2324 = {
+		holding = none
+	}
+	### Wyredeer
+	2325 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2326 = {
+		holding = none
+	}
+	2327 = {
+		holding = none
+	}
+	### Blindspell
+	2328 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2329 = {
+		holding = none
+	}
+	2330 = {
+		holding = none
+	}
+	2331 = {
+		holding = none
+	}
+## Knightcliff
+	### Spearstone
+	2332 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2333 = {
+		holding = none
+	}
+	2334 = {
+		holding = none
+	}
+	### Dyrlight
+	2335 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2336 = {
+		holding = none
+	}
+	2337 = {
+		holding = none
+	}
+	2338 = {
+		holding = none
+	}
+	### Marmota
+	2339 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2340 = {
+		holding = none
+	}
+	2341 = {
+		holding = none
+	}
+	### Swiftwen
+	2676 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2342 = {
+		holding = none
+	}
+## Mendicants Rise
+	### Mendicant
+	2343 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2344 = {
+		holding = none
+	}
+	2345 = {
+		holding = none
+	}
+	### Stormstrike
+	2346 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2347 = {
+		holding = none
+	}
+	2348 = {
+		holding = none
+	}
+## Greygarde
+	### Greygarde
+	2349 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2350 = {
+		holding = none
+	}
+	2351 = {
+		holding = none
+	}
+	2352 = {
+		holding = none
+	}
+	### Caerhaye
+	2353 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2354 = {
+		holding = none
+	}
+	2355 = {
+		holding = none
+	}
+	### Lambridge
+	2356 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2357 = {
+		holding = none
+	}
+	2358 = {
+		holding = none
+	}
+	### Kirian
+	2359 = {
+		culture = merathan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2360 = {
+		holding = none
+	}

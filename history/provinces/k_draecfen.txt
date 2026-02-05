@@ -1,0 +1,541 @@
+﻿# Draecfen
+## Lancewind
+	### Lancewind
+	2562 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2563 = {
+		holding = city_holding
+	}
+	2564 = {
+		holding = none
+	}
+	2574 = {
+		holding = none
+	}
+	2575 = {
+		holding = none
+	}
+	### Dalaren
+	2565 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2566 = {
+		holding = none
+	}
+	2567 = {
+		holding = none
+	}
+	2568 = {
+		holding = none
+	}
+	### Seaxmander
+	2569 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2570 = {
+		holding = none
+	}
+	2571 = {
+		holding = none
+	}
+	2572 = {
+		holding = none
+	}
+	### Herald's Call
+	2573 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Bryganbor
+	2574 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2575 = {
+		holding = none
+	}
+	2576 = {
+		holding = none
+	}
+	2577 = {
+		holding = none
+	}
+	### Misterun
+	2578 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2579 = {
+		holding = none
+	}
+	2580 = {
+		holding = none
+	}
+	2581 = {
+		holding = none
+	}
+	### Brimstrum
+	2582 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2583 = {
+		holding = none
+	}
+	2584 = {
+		holding = none
+	}
+	2585 = {
+		holding = none
+	}
+	### Blackfen
+	2586 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2587 = {
+		holding = none
+	}
+	2588 = {
+		holding = none
+	}
+	2589 = {
+		holding = none
+	}
+	### Corganfeld
+	2590 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2591 = {
+		holding = none
+	}
+	2592 = {
+		holding = none
+	}
+	2593 = {
+		holding = none
+	}
+	2594 = {
+		holding = none
+	}
+## Athalan
+	### Athalanwyr
+	2620 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2621 = {
+		holding = city_holding
+	}
+	2622 = {
+		holding = none
+	}
+	2623 = {
+		holding = none
+	}
+	2624 = {
+		holding = none
+	}
+	### Jaceren
+	2625 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2626 = {
+		holding = none
+	}
+	2627 = {
+		holding = none
+	}
+	### Owlgaze
+	2628 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2629 = {
+		holding = none
+	}
+	2630 = {
+		holding = none
+	}
+	2631 = {
+		holding = none
+	}
+	### Aonisc
+	2632 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2633 = {
+		holding = none
+	}
+	### Yanara
+	2634 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2635 = {
+		holding = none
+	}
+	2636 = {
+		holding = none
+	}
+	2637 = {
+		holding = none
+	}
+	### Arcalia
+	2638 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2639 = {
+		holding = city_holding
+	}
+	2640 = {
+		holding = none
+	}
+	2641 = {
+		holding = none
+	}
+	### Din Adaran
+	2642 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2643 = {
+		holding = none
+	}
+	2644 = {
+		holding = none
+	}
+## Briarwaite
+	### Briarcall
+	2531 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2532 = {
+		holding = none
+	}
+	2533 = {
+		holding = none
+	}
+	2534 = {
+		holding = none
+	}
+	2535 = {
+		holding = none
+	}
+	### Aldrelin
+	2536 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2537 = {
+		holding = none
+	}
+	2538 = {
+		holding = none
+	}
+	### Lidahal
+	2539 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2540 = {
+		holding = none
+	}
+	2542 = {
+		holding = none
+	}
+	### Shaelan
+	2543 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2544 = {
+		holding = none
+	}
+	2545 = {
+		holding = none
+	}
+	### Vreya
+	2546 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2547 = {
+		holding = none
+	}
+## Inaurin
+	### Iredal
+	2548 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2549 = {
+		holding = none
+	}
+	2550 = {
+		holding = none
+	}
+	### Filendyr
+	2551 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2552 = {
+		holding = none
+	}
+	2553 = {
+		holding = none
+	}
+	2554 = {
+		holding = none
+	}
+	### Spearstand
+	2555 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2556 = {
+		holding = none
+	}
+	2557 = {
+		holding = none
+	}
+	### Clarenweld
+	2558 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2559 = {
+		holding = none
+	}
+	2560 = {
+		holding = none
+	}
+	### Wyrdalest
+	2561 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+## Palorum Teneris
+	### Kaedwyn
+	2595 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2596 = {
+		holding = none
+	}
+	2597 = {
+		holding = none
+	}
+	2598 = {
+		holding = none
+	}
+	2599 = {
+		holding = none
+	}
+	### Cronewind
+	2600 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2601 = {
+		holding = none
+	}
+	2602 = {
+		holding = none
+	}
+	### Glasgen
+	2603 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2604 = {
+		holding = none
+	}
+	### Tarabrynt
+	2605 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2606 = {
+		holding = none
+	}
+	2607 = {
+		holding = none
+	}
+	2608 = {
+		holding = none
+	}
+	### Pendryr
+	2609 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2610 = {
+		holding = none
+	}
+	### Lythwin
+	2611 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2612 = {
+		holding = none
+	}
+	2613 = {
+		holding = none
+	}
+	2614 = {
+		holding = none
+	}
+	### Morgenel
+	2615 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2616 = {
+		holding = none
+	}
+	### Cerymos
+	2617 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = tribal_holding
+	}
+	2618 = {
+		holding = none
+	}
+	2619 = {
+		holding = none
+	}
+## Goldmander
+	### Goldcrest
+	2645 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2646 = {
+		holding = none
+	}
+	2647 = {
+		holding = none
+	}
+	2648 = {
+		holding = none
+	}
+	### Val Craich
+	2649 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2650 = {
+		holding = none
+	}
+	2651 = {
+		holding = none
+	}
+	2652 = {
+		holding = none
+	}
+	### Hirancall
+	2653 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2654 = {
+		holding = none
+	}
+	2655 = {
+		holding = none
+	}
+	### Retvalion
+	2656 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2657 = {
+		holding = none
+	}
+	2658 = {
+		holding = none
+	}
+	### Aethderow
+	2659 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2660 = {
+		holding = none
+	}
+	2661 = {
+		holding = none
+	}
+	### Aersedh
+	2662 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2663 = {
+		holding = none
+	}
+	2664 = {
+		holding = none
+	}
+	### Inos Vulun
+	2665 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2666 = {
+		holding = none
+	}

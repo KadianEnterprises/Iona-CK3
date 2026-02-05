@@ -1,0 +1,849 @@
+# Merathia
+## Moromith
+	### Moromith
+	2092 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2093 = {
+		holding = city_holding
+	}
+	2094 = {
+		holding = castle_holding
+	}
+	2095 = {
+		holding = none
+	}
+	2096 = {
+		holding = none
+	}
+	2097 = {
+		holding = none
+	}
+	### Queenshore
+	2098 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2099 = {
+		holding = city_holding
+	}
+	2100 = {
+		holding = none
+	}
+	2101 = {
+		holding = castle_holding
+	}
+	### Duskrock
+	2102 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Shimmerfield
+	2103 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2104 = {
+		holding = none
+	}
+	2105 = {
+		holding = church_holding
+	}
+	### Redwell
+	2106 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2107 = {
+		holding = none
+	}
+	2108 = {
+		holding = none
+	}
+	### Ambershade
+	2109 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2110 = {
+		holding = city_holding
+	}
+	2111 = {
+		holding = none
+	}
+	### Shroudhill
+	2112 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2113 = {
+		holding = none
+	}
+	2114 = {
+		holding = none
+	}
+	2115 = {
+		holding = none
+	}
+	### Steamhold
+	2116 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2117 = {
+		holding = none
+	}
+	2118 = {
+		holding = none
+	}
+	2119 = {
+		holding = none
+	}
+## Istradin
+	### Istrada
+	2178 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2179 = {
+		holding = city_holding
+	}
+	2180 = {
+		holding = none
+	}
+	2181 = {
+		holding = castle_holding
+	}
+	### Istradin
+	2182 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Rainbrace
+	2183 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2184 = {
+		holding = none
+	}
+	2185 = {
+		holding = none
+	}
+	2186 = {
+		holding = none
+	}
+	### Basinrun
+	2187 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2188 = {
+		holding = city_holding
+	}
+	2189 = {
+		holding = none
+	}
+	2190 = {
+		holding = none
+	}
+	### Longtrial
+	2191 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2192 = {
+		holding = none
+	}
+	2193 = {
+		holding = none
+	}
+	2194 = {
+		holding = none
+	}
+	2195 = {
+		holding = none
+	}
+	### Mouregrain
+	2196 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2197 = {
+		holding = none
+	}
+	2198 = {
+		holding = none
+	}
+	2199 = {
+		holding = none
+	}
+	### Cleridan
+	2368 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2369 = {
+		holding = none
+	}
+	2370 = {
+		holding = none
+	}
+## Arengaith
+	### Arengaith
+	2153 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2154 = {
+		holding = city_holding
+	}
+	2155 = {
+		holding = none
+	}
+	2156 = {
+		holding = none
+	}
+	### Havenshore
+	2157 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2158 = {
+		holding = none
+	}
+	2159 = {
+		holding = none
+	}
+	### Saltmander
+	2160 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2161 = {
+		holding = none
+	}
+	2162 = {
+		holding = none
+	}
+	### Greencairn
+	2163 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2164 = {
+		holding = none
+	}
+	2165 = {
+		holding = none
+	}
+	2166 = {
+		holding = none
+	}
+	### Littlebell
+	2167 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2168 = {
+		holding = none
+	}
+	2169 = {
+		holding = none
+	}
+	2170 = {
+		holding = none
+	}
+	### Gostmern
+	2171 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2172 = {
+		holding = none
+	}
+	2173 = {
+		holding = none
+	}
+	### Dimwatch
+	2174 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2175 = {
+		holding = none
+	}
+	2176 = {
+		holding = none
+	}
+	2177 = {
+		holding = none
+	}
+## Longhel
+	### Amoryn's Stand
+	2120 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2121 = {
+		holding = none
+	}
+	2122 = {
+		holding = none
+	}
+	2123 = {
+		holding = none
+	}
+	2124 = {
+		holding = none
+	}
+	### Seatalon
+	2125 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Heartfell
+	2126 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2127 = {
+		holding = none
+	}
+	### Rustshore
+	2131 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2132 = {
+		holding = city_holding
+	}
+	2133 = {
+		holding = none
+	}
+	2134 = {
+		holding = castle_holding
+	}
+	2135 = {
+		holding = none
+	}
+	### Ironhill
+	2137 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2138 = {
+		holding = none
+	}
+	2139 = {
+		holding = none
+	}
+	2140 = {
+		holding = none
+	}
+	2141 = {
+		holding = none
+	}
+	### Wildepost
+	2128 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2129 = {
+		holding = city_holding
+	}
+	2130 = {
+		holding = none
+	}
+	### Indoval
+	2142 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2143 = {
+		holding = none
+	}
+	2144 = {
+		holding = none
+	}
+	2145 = {
+		holding = none
+	}
+	### Wirhel
+	2146 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2147 = {
+		holding = none
+	}
+	2148 = {
+		holding = none
+	}
+	### Knightcall
+	2149 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2150 = {
+		holding = church_holding
+	}
+	2151 = {
+		holding = city_holding
+	}
+## Mosswood
+	### Mosshall
+	2200 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2201 = {
+		holding = none
+	}
+	2202 = {
+		holding = none
+	}
+	2203 = {
+		holding = none
+	}
+	2204 = {
+		holding = none
+	}
+	### Tradegarden
+	2205 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2206 = {
+		holding = none
+	}
+	2207 = {
+		holding = none
+	}
+	### Fallcarren
+	2208 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2209 = {
+		holding = none
+	}
+	2210 = {
+		holding = none
+	}
+	2211 = {
+		holding = none
+	}
+	### Piramore
+	2212 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2213 = {
+		holding = city_holding
+	}
+	2214 = {
+		holding = none
+	}
+	### Daysong
+	2215 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2216 = {
+		holding = none
+	}
+	2217 = {
+		holding = none
+	}
+	2218 = {
+		holding = none
+	}
+	### Romanan
+	2219 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2220 = {
+		holding = none
+	}
+	2221 = {
+		holding = none
+	}
+	2222 = {
+		holding = none
+	}
+## Kelasir
+	### Kelasiron
+	2223 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2224 = {
+		holding = city_holding
+	}
+	2225 = {
+		holding = none
+	}
+	2226 = {
+		holding = none
+	}
+	2227 = {
+		holding = none
+	}
+	### Taltion
+	2228 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2229 = {
+		holding = none
+	}
+	2230 = {
+		holding = none
+	}
+	### Ordoncradle
+	2231 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2232 = {
+		holding = none
+	}
+	2233 = {
+		holding = none
+	}
+	2234 = {
+		holding = none
+	}
+	### Salteron
+	2235 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2236 = {
+		holding = none
+	}
+	2237 = {
+		holding = none
+	}
+	### Beaugard
+	2238 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2239 = {
+		holding = none
+	}
+	2240 = {
+		holding = none
+	}
+	2241 = {
+		holding = none
+	}
+## Ironstrand
+	### Queensforge
+	2242 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2243 = {
+		holding = castle_holding
+	}
+	2244 = {
+		holding = city_holding
+	}
+	2245 = {
+		holding = none
+	}
+	2246 = {
+		holding = none
+	}
+	### Slagmound
+	2247 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2248 = {
+		holding = none
+	}
+	### Ironvein
+	2249 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2250 = {
+		holding = city_holding
+	}
+	2251 = {
+		holding = none
+	}
+	2252 = {
+		holding = none
+	}
+	### Otengar
+	2253 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2254 = {
+		holding = none
+	}
+	2255 = {
+		holding = none
+	}
+## Silverhowe
+	### Whitemetal
+	2256 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2257 = {
+		holding = city_holding
+	}
+	2258 = {
+		holding = none
+	}
+	2259 = {
+		holding = none
+	}
+	### Banes Grave
+	2260 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2261 = {
+		holding = none
+	}
+	2262 = {
+		holding = none
+	}
+	2263 = {
+		holding = none
+	}
+	### Silverstrand
+	2264 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Swanburn
+	2265 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2266 = {
+		holding = city_holding
+	}
+	2267 = {
+		holding = none
+	}
+	2268 = {
+		holding = none
+	}
+	### Moonshade
+	2269 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2270 = {
+		holding = city_holding
+	}
+	### Wolftooth
+	2271 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+## Lyrestrand
+	### Goldlyr
+	2272 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2273 = {
+		holding = city_holding
+	}
+	2274 = {
+		holding = none
+	}
+	2275 = {
+		holding = none
+	}
+	### Iyrmore
+	2276 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2277 = {
+		holding = none
+	}
+	2278 = {
+		holding = city_holding
+	}
+	2279 = {
+		holding = none
+	}
+	### Blindwatch
+	2280 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2281 = {
+		holding = none
+	}
+	2282 = {
+		holding = none
+	}
+	2283 = {
+		holding = none
+	}
+	### Hallowstone
+	2284 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2285 = {
+		holding = none
+	}
+	2286 = {
+		holding = none
+	}
+	2287 = {
+		holding = none
+	}
+## Palorum Dyserus
+	### Palorvosk
+	2288 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2289 = {
+		holding = none
+	}
+	2290 = {
+		holding = none
+	}
+	2291 = {
+		holding = none
+	}
+	### Dorinast
+	2292 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2293 = {
+		holding = none
+	}
+	2294 = {
+		holding = none
+	}
+	### Moddra
+	2295 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2296 = {
+		holding = none
+	}
+	2297 = {
+		holding = none
+	}
+	2298 = {
+		holding = none
+	}
+## Merathan Isles
+	### Torranmore
+	2361 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2362 = {
+		holding = city_holding
+	}
+	2371 = {
+		holding = none
+	}
+	### Alahan
+	2363 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2364 = {
+		holding = none
+	}
+	### Skullsong
+	2365 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Codain
+	2366 = {
+		culture = merathan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2367 = {
+		holding = none
+	}

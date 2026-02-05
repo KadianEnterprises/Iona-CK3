@@ -1,0 +1,455 @@
+﻿# Asta Felarin
+## Felatherin
+	### Athelan
+	2882 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2883 = {
+		holding = city_holding
+	}
+	2884 = {
+		holding = none
+	}
+	2885 = {
+		holding = none
+	}
+	2886 = {
+		holding = none
+	}
+	2887 = {
+		holding = none
+	}
+	### Belaris
+	2888 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Smallcoast
+	2889 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2890 = {
+		holding = city_holding
+	}
+	2891 = {
+		holding = none
+	}
+	### Karada
+	2892 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2893 = {
+		holding = none
+	}
+	2894 = {
+		holding = none
+	}
+	2895 = {
+		holding = none
+	}
+	### Masoren
+	2896 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2897 = {
+		holding = none
+	}
+	### Begarin
+	2898 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2899 = {
+		holding = none
+	}
+	2900 = {
+		holding = none
+	}
+	### Sarelgei
+	2901 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Cyamaris
+	2902 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2903 = {
+		holding = none
+	}
+	2904 = {
+		holding = none
+	}
+	2905 = {
+		holding = none
+	}
+	### Beswari
+	2926 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2927 = {
+		holding = none
+	}
+## Meranfrea
+	### Sirono
+	2906 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2907 = {
+		holding = none
+	}
+	2908 = {
+		holding = none
+	}
+	2909 = {
+		holding = none
+	}
+	2910 = {
+		holding = none
+	}
+	### Kada
+	2911 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2912 = {
+		holding = none
+	}
+	2913 = {
+		holding = none
+	}
+	### Ontera
+	2914 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Sirolis
+	2915 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2916 = {
+		holding = none
+	}
+	2917 = {
+		holding = none
+	}
+	### Shalehorn
+	2918 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2919 = {
+		holding = none
+	}
+	### Tsora
+	2920 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2921 = {
+		holding = none
+	}
+	2922 = {
+		holding = none
+	}
+	### Cyensa
+	2923 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2924 = {
+		holding = none
+	}
+	2925 = {
+		holding = none
+	}
+## Veyar
+	### Katoleia
+	2928 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2929 = {
+		holding = none
+	}
+	2930 = {
+		holding = none
+	}
+	2931 = {
+		holding = none
+	}
+	### Iridia
+	2932 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2933 = {
+		holding = none
+	}
+	2934 = {
+		holding = none
+	}
+	2935 = {
+		holding = none
+	}
+	### Ruilon
+	2936 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2937 = {
+		holding = none
+	}
+	2938 = {
+		holding = none
+	}
+	2939 = {
+		holding = none
+	}
+	### Sanater
+	2940 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2941 = {
+		holding = none
+	}
+	2942 = {
+		holding = none
+	}
+	### Senagesi
+	2943 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2944 = {
+		holding = none
+	}
+	### Malos
+	2945 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2946 = {
+		holding = city
+	}
+	2947 = {
+		holding = none
+	}
+	2948 = {
+		holding = none
+	}
+## Hadalex
+	### Reshkana
+	2949 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2950 = {
+		holding = none
+	}
+	2951 = {
+		holding = none
+	}
+	2952
+	### Haladex Peninsula
+	2953 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2954 = {
+		holding = none
+	}
+	### Farenaia
+	2955 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2956 = {
+		holding = none
+	}
+	2957 = {
+		holding = none
+	}
+	2958 = {
+		holding = none
+	}
+	### Nasiya
+	2959 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2960 = {
+		holding = none
+	}
+	2961 = {
+		holding = none
+	}
+	2962 = {
+		holding = none
+	}
+	### Muqaren
+	2963 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2964 = {
+		holding = none
+	}
+	2965 = {
+		holding = none
+	}
+## Mazuri
+	### Fita
+	2966 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2967 = {
+		holding = none
+	}
+	2968 = {
+		holding = none
+	}
+	2969 = {
+		holding = none
+	}
+	### Tambora
+	2970 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2971 = {
+		holding = none
+	}
+	2972 = {
+		holding = none
+	}
+	2973 = {
+		holding = none
+	}
+	### Epela
+	2974 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2975 = {
+		holding = none
+	}
+	2976 = {
+		holding = none
+	}
+	### Urnair
+	2977 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+## Ahfi
+	### Nimari
+	2978 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2979 = {
+		holding = city_holding
+	}
+	2980 = {
+		holding = none
+	}
+	2981 = {
+		holding = none
+	}
+	### Batora
+	2982 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2983 = {
+		holding = none
+	}
+	2984 = {
+		holding = none
+	}
+	### Kiraz
+	2985 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2986 = {
+		holding = none
+	}
+	2987 = {
+		holding = none
+	}
+	2988 = {
+		holding = none
+	}
+	### Eletosa
+	2989 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2990 = {
+		holding = none
+	}
+	2991 = {
+		holding = none
+	}
+	### Kigara
+	2992 = {
+		culture = felasin
+		religion = aurementic
+		holding = castle_holding
+	}
+	2993 = {
+		holding = none
+	}
+	2994 = {
+		holding = none
+	}
+	2995 = {
+		holding = none
+	}

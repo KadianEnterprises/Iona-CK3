@@ -1,0 +1,327 @@
+# Crystophan
+	### Astraquor
+	294 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	295 = {
+		holding = tribal_holding
+	}
+	296 = {
+		holding = none
+	}
+	297 = {
+		holding = none
+	}
+	298 = {
+		holding = none
+	}
+	364 = {
+		holding = church_holding
+	}
+	### Ponte Mar
+	299 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	300 = {
+		holding = none
+	}
+	301 = {
+		holding = none
+	}
+	302 = {
+		holding = none
+	}
+	### Anotril
+	304 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	305 = {
+		holding = none
+	}
+	303 = {
+		holding = none
+	}
+	### Asmarfield
+	308 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	306 = {
+		holding = city_holding
+	}
+	307 = {
+		holding = none
+	}
+	309 = {
+		holding = none
+	}
+## Old Synorn
+	### Amvir Dren
+	318 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	317 = {
+		holding = none
+	}
+	316 = {
+		holding = none
+	}
+	319 = {
+		holding = none
+	}
+	### Arages
+	310 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	311 = {
+		holding = none
+	}
+	329 = {
+		holding = none
+	}
+	312 = {
+		holding = none
+	}
+	313 = {
+		holding = none
+	}
+	### Valada
+	314 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	315 = {
+		holding = none
+	}
+	### Elderheart
+	322 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	320 = {
+		holding = none
+	}
+	321 = {
+		holding = none
+	}
+	323 = {
+		holding = none
+	}
+	### Thevros
+	324 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	325 = {
+		holding = none
+	}
+	### Corihon
+	326 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	327 = {
+		holding = none
+	}
+	328 = {
+		holding = none
+	}
+## Costturn
+	### Marada
+	330 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	331 = {
+		holding = none
+	}
+	332 = {
+		holding = none
+	}
+	333 = {
+		holding = none
+	}
+	334 = {
+		holding = none
+	}
+	### Spiregrove
+	335 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	### Twin Isles
+	336 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	337 = {
+		holding = none
+	}
+	### Lake Lookingglass
+	338 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	339 = {
+		holding = none
+	}
+	### Cantorria
+	340 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	341 = {
+		holding = none
+	}
+	### Yrginsland
+	343 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	342 = {
+		holding = none
+	}
+	344 = {
+		holding = none
+	}
+	345 = {
+		holding = none
+	}
+## Malwyr
+	### Calmarin
+	375 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	348 = {
+		holding = none
+	}
+	351 = {
+		holding = none
+	}
+	353 = {
+		holding = none
+	}
+	355 = {
+		holding = none
+	}
+	### Duhorwsin
+	349 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	350 = {
+		holding = none
+	}
+	### Chalegh
+	354 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	352 = {
+		holding = none
+	}
+	### Ketior's End
+	368 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	367 = {
+		holding = church_holding
+	}
+	365 = {
+		holding = none
+	}
+	### Mergate
+	370 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	369 = {
+		holding = none
+	}
+	366 = {
+		holding = none
+	}
+## Zareshi
+	### Zareshi
+	361 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	376 = {
+		holding = church_holding
+	}
+	362 = {
+		holding = none
+	}
+	363 = {
+		holding = none
+	}
+	### Velas
+	359 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	360 = {
+		holding = none
+	}
+	### Upaan
+	358 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	357 = {
+		holding = none
+	}
+	356 = {
+		holding = none
+	}
+	### Durson's Isle
+	374 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+## Gwenyn Meridys
+	### Isle of Tauna
+	371 = {
+		culture = kyrithan
+		religion = aurementic
+		holding = tribal_holding
+	}
+	372 = {
+		holding = none
+	}
+	373 = {
+		holding = none
+	}

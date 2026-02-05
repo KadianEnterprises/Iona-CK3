@@ -1,0 +1,299 @@
+﻿# Tessaria
+## Kingsmound
+	### Stelisgal
+	2385 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2386 = {
+		holding = city_holding
+	}
+	2387 = {
+		holding = none
+	}
+	2388 = {
+		holding = castle_holding
+	}
+	2389 = {
+		holding = city_holding
+	}
+	### Cloudridge
+	2390 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2391 = {
+		holding = city_holding
+	}
+	2392 = {
+		holding = none
+	}
+	2393 = {
+		holding = none
+	}
+	2394 = {
+		holding = none
+	}
+	### Brasslock
+	2395 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2396 = {
+		holding = none
+	}
+	2397 = {
+		holding = none
+	}
+	2398 = {
+		holding = none
+	}
+	### Denrest
+	2399 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2400 = {
+		holding = city_holding
+	}
+	2401 = {
+		holding = none
+	}
+	### Goldtemper
+	2402 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2403 = {
+		holding = city_holding
+	}
+	2404 = {
+		holding = none
+	}
+	2405 = {
+		holding = none
+	}
+	### Inkcoil
+	2406 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2407 = {
+		holding = city_holding
+	}
+	2408 = {
+		holding = none
+	}
+	### Knightswatch
+	2409 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Runerest
+	2410 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2411 = {
+		holding = city_holding
+	}
+	2412 = {
+		holding = none
+	}
+	2413 = {
+		holding = none
+	}
+	### Greyhart
+	2414 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2415 = {
+		holding = none
+	}
+	2416 = {
+		holding = none
+	}
+## Cenrys
+	### Halfhearth
+	2443 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2444 = {
+		holding = city_holding
+	}
+	2445 = {
+		holding = none
+	}
+	2446 = {
+		holding = none
+	}
+	### Canimore
+	2447 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2448 = {
+		holding = none
+	}
+	2449 = {
+		holding = none
+	}
+	2450 = {
+		holding = none
+	}
+	### Fenneran
+	2451 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2452 = {
+		holding = none
+	}
+	2453 = {
+		holding = none
+	}
+	### Porafon
+	2454 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2455 = {
+		holding = none
+	}
+	2456 = {
+		holding = none
+	}
+	### Culgot
+	2457 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2458 = {
+		holding = none
+	}
+	2459 = {
+		holding = none
+	}
+	2460 = {
+		holding = none
+	}
+## Suncairne
+	### Suncairne
+	2417 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2418 = {
+		holding = castle_holding
+	}
+	2419 = {
+		holding = none
+	}
+	2410 = {
+		holding = none
+	}
+	### Grenshil
+	2421 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2422 = {
+		holding = none
+	}
+	2423 = {
+		holding = none
+	}
+	### Authic
+	2424 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2425 = {
+		holding = none
+	}
+	2426 = {
+		holding = none
+	}
+	2427 = {
+		holding = none
+	}
+	### Seaxin
+	2428 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2429 = {
+		holding = none
+	}
+## Murien
+	### Thrymansk
+	2430 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2431 = {
+		holding = none
+	}
+	2432 = {
+		holding = none
+	}
+	2433 = {
+		holding = none
+	}
+	### Wyrcal
+	2434 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2435 = {
+		holding = none
+	}
+	2436 = {
+		holding = none
+	}
+	### Norwin
+	2437 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2438 = {
+		holding = none
+	}
+	2439 = {
+		holding = none
+	}
+	### Grendal
+	2440 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2441 = {
+		holding = none
+	}
+	2442 = {
+		holding = none
+	}

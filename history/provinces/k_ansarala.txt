@@ -1,0 +1,157 @@
+# Ansarala
+## Majidan
+	### Rojiran
+	2799 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2800 = {
+		holding = city_holding
+	}
+	2801 = {
+		holding = none
+	}
+	2802 = {
+		holding = none
+	}
+	2803 = {
+		holding = none
+	}
+	### Ajarala
+	2804 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2805 = {
+		holding = none
+	}
+	2806 = {
+		holding = none
+	}
+	2807 = {
+		holding = none
+	}
+	### Baliquait
+	2808 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2809 = {
+		holding = none
+	}
+	### Ibriate
+	2810 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2811 = {
+		holding = none
+	}
+	2812 = {
+		holding = none
+	}
+	### Sadala
+	2813 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2814 = {
+		holding = none
+	}
+	2815 = {
+		holding = none
+	}
+	2816 = {
+		holding = none
+	}
+## Kulamat
+	### Kulamat
+	2817 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2818 = {
+		holding = none
+	}
+	2819 = {
+		holding = none
+	}
+	2820 = {
+		holding = none
+	}
+	### Corunda
+	2821 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2822 = {
+		holding = none
+	}
+	### Arimo
+	2823 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2824 = {
+		holding = none
+	}
+## Diraboras
+	### Doranopor
+	2825 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2826 = {
+		holding = none
+	}
+	2827 = {
+		holding = none
+	}
+	### Io
+	2829 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2830 = {
+		holding = none
+	}
+	2831 = {
+		holding = none
+	}
+	### Ionfaj
+	2832 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2833 = {
+		holding = none
+	}
+	2834 = {
+		holding=  none
+	}
+	2835 = {
+		holding = none
+	}
+	### Navaroa
+	2836 = {
+		culture = oncasan
+		religion = aurementic
+		holding = castle_holding
+	}
+	2837 = {
+		holding = none
+	}
+	2838 = {
+		holding = none
+	}

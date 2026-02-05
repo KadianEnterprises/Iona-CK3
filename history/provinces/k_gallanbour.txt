@@ -1,172 +1,172 @@
 ﻿#k_gallanbour
 ##d_brimonne####################
-###c_brimonne
-554 = {			#Ragnas Stronghold
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-555 = {			#Brimonne Proper
-	holding = city_holding
-}
-556 = {
-	holding = church_holding
-}
-557 = {
-	holding = castle_holding
-}
+	###c_brimonne
+	554 = {			#Ragnas Stronghold
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	555 = {			#Brimonne Proper
+		holding = city_holding
+	}
+	556 = {
+		holding = church_holding
+	}
+	557 = {
+		holding = castle_holding
+	}
 
-###c_tarostat
-551 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-552 = {
-	holding = city_holding
-}
-553 = {
-	holding = none
-}
+	###c_tarostat
+	551 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	552 = {
+		holding = city_holding
+	}
+	553 = {
+		holding = none
+	}
 
-###c_spinepoint
-558 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-559 = {
-	holding = city_holding
-}
-560 = {
-	holding = church_holding
-}
+	###c_spinepoint
+	558 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	559 = {
+		holding = city_holding
+	}
+	560 = {
+		holding = church_holding
+	}
 
-###c_narrowcoast
-562 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-561 = {
-	holding = none
-}
-563 = {
-	holding = none
-}
+	###c_narrowcoast
+	562 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	561 = {
+		holding = none
+	}
+	563 = {
+		holding = none
+	}
 
 ##d_vanagynsis####################
-###c_vanagyn
-535 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-536 = {
-	holding = city_holding
-}
-537 = {
-	holding = none
+	###c_vanagyn
+	535 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	536 = {
+		holding = city_holding
+	}
+	537 = {
+		holding = none
 
-}
-538 = {
-	holding = none
-}
-694 = {
-	holding = castle_holding
-}
+	}
+	538 = {
+		holding = none
+	}
+	694 = {
+		holding = castle_holding
+	}
 
-###c_varault
-540 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-539 = {
-	holding = city_holding
-}
-541 = {
-	holding = none
-}
+	###c_varault
+	540 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	539 = {
+		holding = city_holding
+	}
+	541 = {
+		holding = none
+	}
 
-###c_cape_nolight
-542 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-543 = {
-	holding = none
-}
+	###c_cape_nolight
+	542 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	543 = {
+		holding = none
+	}
 
-###c_cliffkeep
-547 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-548 = {
-	holding = none
-}
-550 = {
-	holding = none
-}
-549 = {
-	holding = none
-}
+	###c_cliffkeep
+	547 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	548 = {
+		holding = none
+	}
+	550 = {
+		holding = none
+	}
+	549 = {
+		holding = none
+	}
 
-###c_closereach
-544 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-545 = {
-	holding = none
-}
-546 = {
-	holding = church_holding
-}
+	###c_closereach
+	544 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	545 = {
+		holding = none
+	}
+	546 = {
+		holding = church_holding
+	}
 
 ##d_dyrwood
-###c_dyrhal
-564 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-565 = {
-	holding = city_holding
-}
-566 = {
-	holding = church_holding
-}
+	###c_dyrhal
+	564 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	565 = {
+		holding = city_holding
+	}
+	566 = {
+		holding = church_holding
+	}
 
-###c_south_dyrwood
-567 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-568 = {
-	holding = none
-}
-569 = {
-	holding = none
-}
+	###c_south_dyrwood
+	567 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	568 = {
+		holding = none
+	}
+	569 = {
+		holding = none
+	}
 
-###c_north_dyrwood
-570 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-571 = {
-	holding = none
-}
-572 = {
-	holding = none
-}
+	###c_north_dyrwood
+	570 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	571 = {
+		holding = none
+	}
+	572 = {
+		holding = none
+	}
 
 ##d_spinecrags####################
 ###c_spinecrags
@@ -268,20 +268,3 @@
 	holding = none
 }
 
-##d_waterway_islands
-###c_waterway_islands
-532 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}
-533 = {
-	holding = none
-}
-
-###c_farrock_islands
-534 = {
-	culture = gallan
-	religion = aurementic
-	holding = castle_holding
-}

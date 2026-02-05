@@ -1,0 +1,241 @@
+﻿# Mordynhal
+## Mordyn
+	### Caetyr
+	2667 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2668 = {
+		holding = city_holding
+	}
+	2669 = {
+		holding = none
+	}
+	2670 = {
+		holding = none
+	}
+	2671 = {
+		holding = none
+	}
+	### Einhalia
+	2672 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2673 = {
+		holding = none
+	}
+	### Crystalmor
+	2677 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2678 = {
+		holding = none
+	}
+	2679 = {
+		holding = none
+	}
+	2680 = {
+		holding = none
+	}
+	### Fahyrst
+	2681 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Ton Atrel
+	2682 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2683 = {
+		holding = none
+	}
+	2684 = {
+		holding = none
+	}
+	2685 = {
+		holding = none
+	}
+## Teringal
+	### Terinsveil
+	2686 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2687 = {
+		holding = none
+	}
+	2688 = {
+		holding = none
+	}
+	2689 = {
+		holding = none
+	}
+	### Ironraven
+	2690 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2691 = {
+		holding = city_holding
+	}
+	2692 = {
+		holding = none
+	}
+	2693 = {
+		holding = none
+	}
+	### Gyremud
+	2694 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2695 = {
+		holding = none
+	}
+	2696 = {
+		holding = none
+	}
+	### Paledance
+	2697 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2698 = {
+		holding = none
+	}
+	2699 = {
+		holding = none
+	}
+	2700 = {
+		holding = none
+	}
+	### Elkanwyr
+	2701 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2702 = {
+		holding = none
+	}
+	2703 = {
+		holding = none
+	}
+	### Vreio
+	2704 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2705 = {
+		holding = none
+	}
+	2706 = {
+		holding = none
+	}
+## Dynalist
+	### Bilekiss
+	2707 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2708 = {
+		holding = city_holding
+	}
+	2709 = {
+		holding = none
+	}
+	2710 = {
+		holding = none
+	}
+	2711 = {
+		holding = none
+	}
+	### Wyrstone
+	2712 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2713 = {
+		holding = city_holding
+	}
+	2714 = {
+		holding = castle_holding
+	}
+	2715 = {
+		holding = none
+	}
+	2716 = {
+		holding = none
+	}
+	2717 = {
+		holding = none
+	}
+	### Tor Beren
+	2718 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2719 = {
+		holding = none
+	}
+	2720 = {
+		holding = none
+	}
+	2721 = {
+		holding = none
+	}
+	### Vojrin
+	2722 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2723 = {
+		holding = none
+	}
+	### Ocier
+	2724 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2725 = {
+		holding = none
+	}
+	2726 = {
+		holding = none
+	}
+	### Wrathsong
+	2727 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2728 = {
+		holding = none
+	}
+	2729 = {
+		holding = none
+	}
+	2730 = {
+		holding = none
+	}
+	2731 = {
+		holding = none
+	}

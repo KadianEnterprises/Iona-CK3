@@ -203,7 +203,7 @@
 	1386 = {
 		holding = city_holding
 	}
-	1387 = {
+	1385 = {
 		holding = church_holding
 	}
 	### Cinder

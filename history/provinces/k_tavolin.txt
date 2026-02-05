@@ -1,0 +1,265 @@
+# Tavolin
+## Tavolin
+	### Tavolin
+	2732 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2733 = {
+		holding = city_holding
+	}
+	2734 = {
+		holding = none
+	}
+	2735 = {
+		holding = none
+	}
+	### Kalissin
+	2736 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2737 = {
+		holding = none
+	}
+	2738 = {
+		holding = none
+	}
+	2739 = {
+		holding = none
+	}
+	### Brandholt
+	2740 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2741 = {
+		holding = none
+	}
+	2742 = {
+		holding = none
+	}
+	2743 = {
+		holding = none
+	}
+	2744 = {
+		holding = none
+	}
+	### Fenisweld
+	2745 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2746 = {
+		holding = none
+	}
+	### Astorinmyre
+	2747 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2748 = {
+		holding = none
+	}
+	2749 = {
+		holding = none
+	}
+	### Silveroak
+	2750 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2751 = {
+		holding = none
+	}
+	### Homewallow
+	2752 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2753 = {
+		holding = city_holding
+	}
+	2754 = {
+		holding = none
+	}
+	2798 = {
+		holding = none
+	}
+## Aelinmyr
+	### Aelinmyr
+	2755 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2756 = {
+		holding = none
+	}
+	2757 = {
+		holding = none
+	}
+	2758 = {
+		holding = none
+	}
+	### Belseral
+	2759 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2760 = {
+		holding = none
+	}
+	2761 = {
+		holding = none
+	}
+	2762 = {
+		holding = none
+	}
+	### Orten
+	2763 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2764 = {
+		holding = none
+	}
+	2765 = {
+		holding = none
+	}
+	2766 = {
+		holding = none
+	}
+	### Nostindal
+	2767 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2768 = {
+		holding = none
+	}
+	2769 = {
+		holding = none
+	}
+	### Aesenwin
+	2770 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2771 = {
+		holding = none
+	}
+	2772 = {
+		holding = none
+	}
+	2773 = {
+		holding = none
+	}
+	### Bleakwater
+	2774 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2775 = {
+		holding = none
+	}
+## Iseral
+	### Raedwyns Hill
+	2776 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2777 = {
+		holding = none
+	}
+	2778 = {
+		holding = none
+	}
+	2779 = {
+		holding = none
+	}
+	2780 = {
+		holding = none
+	}
+	### Rotban
+	2781 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2782 = {
+		holding = none
+	}
+	2783 = {
+		holding = none
+	}
+	2784 = {
+		holding = none
+	}
+	### Wyrfall
+	2785 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2786 = {
+		holding = none
+	}
+	2787 = {
+		holding = none
+	}
+	2788 = {
+		holding = church_holding
+	}
+	### Helgate
+	2789 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2790 = {
+		holding = city_holding
+	}
+	2791 = {
+		holding = none
+	}
+	### Evron
+	2792 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2793 = {
+		holding = none
+	}
+	### Iseral
+	2794 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Ciarwyn
+	2795 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2796 = {
+		holding = none
+	}
+	2797 = {
+		holding = none
+	}

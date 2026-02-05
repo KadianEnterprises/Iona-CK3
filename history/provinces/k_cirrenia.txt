@@ -1,0 +1,92 @@
+﻿# Cirrenia
+## Cirrenian islands
+	### Cirrenian
+	3040 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+	3041 = {
+		holding = city_holding
+	}
+	3042 = {
+		holding = none
+	}
+	3043 = {
+		holding = none
+	}
+	3044 = {
+		holding = none
+	}
+	3045 = {
+		holding = none
+	}
+	### Ayentor
+	3046 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+	3047 = {
+		holding = none
+	}
+	### Oalbour
+	3048 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Sarageis
+	3049 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+## Hardbreak Islands
+	### Hardrock
+	3050 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+	3051 = {
+		holding = none
+	}
+	3052 = {
+		holding = none
+	}
+	3053 = {
+		holding = none
+	}
+	### Greysand
+	3054 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+	3055 = {
+		holding = none
+	}
+	### Lone Island
+	3056 = {
+		culture = cirrlean
+		religion = aurementic
+		holding = castle_holding
+	}
+## Waywater Islands
+	###c_waterway_islands
+	532 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}
+	533 = {
+		holding = none
+	}
+
+	###c_farrock_islands
+	534 = {
+		culture = gallan
+		religion = aurementic
+		holding = castle_holding
+	}

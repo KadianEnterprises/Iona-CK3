@@ -1,0 +1,185 @@
+# Verdanralta
+## Verdanrei
+	### Tolqara
+	2839 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2840 = {
+		holding = city_holding
+	}
+	2841 = {
+		holding = none
+	}
+	2842 = {
+		holding = none
+	}
+	2843 = {
+		holding = none
+	}
+	### Ishtavari
+	2844 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Velthorin
+	2845 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2846 = {
+		holding = none
+	}
+	### Zanjura
+	2847 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2848 = {
+		holding = none
+	}
+## Tal Vera
+	### Tal Veranek
+	2849 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2850 = {
+		holding = none
+	}
+	2851 = {
+		holding = none
+	}
+	### Lorebough
+	2852 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2853 = {
+		holding = none
+	}
+	2854 = {
+		holding = none
+	}
+	### Askader
+	2855 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Bramelder
+	2856 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2857 = {
+		holding = none
+	}
+	2858 = {
+		holding = none
+	}
+	2859 = {
+		holding = none
+	}
+	### Alabark
+	2860 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2861 = {
+		holding = none
+	}
+	2862 = {
+		holding = none
+	}
+## Telercora
+	### Telercor
+	2863 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2864 = {
+		holding = none
+	}
+	2865 = {
+		holding = none
+	}
+	### Greenveil
+	2866 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2867 = {
+		holding = none
+	}
+	2868 = {
+		holding = none
+	}
+	### Noxen
+	2869 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2870 = {
+		holding = none
+	}
+	### Serpentflow
+	2871 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2872 = {
+		holding = none
+	}
+## Tanglecliffs
+	### Tanglewatch
+	2873 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2874 = {
+		holding = city_holding
+	}
+	### Xirahni
+	2875 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2876 = {
+		holding = none
+	}
+	2877 = {
+		holding = none
+	}
+	### Lorelmace
+	2878 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2879 = {
+		holding = none
+	}
+	### Horenlaw
+	2880 = {
+		culture = verdana
+		religion = aurementic
+		holding = castle_holding
+	}
+	2881 = {
+		holding = city_holding
+	}

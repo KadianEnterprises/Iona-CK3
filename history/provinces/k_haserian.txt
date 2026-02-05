@@ -1,0 +1,275 @@
+# Haserian
+## Haseric
+	### Eorendal
+	2474 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2475 = {
+		holding = city_holding
+	}
+	2476 = {
+		holding = none
+	}
+	2477 = {
+		holding = none
+	}
+	### Heyafad
+	2478 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2479 = {
+		holding = none
+	}
+	2480 = {
+		holding = none
+	}
+	2481 = {
+		holding = none
+	}
+	### Meralfin
+	2482 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2483 = {
+		holding = none
+	}
+	2484 = {
+		holding = none
+	}
+	2485 = {
+		holding = none
+	}
+	### Cynasan
+	2486 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2487 = {
+		holding = none
+	}
+	2488 = {
+		holding = none
+	}
+	### Aesbar
+	2489 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2490 = {
+		holding = none
+	}
+	2491 = {
+		holding = none
+	}
+	### Aesic
+	2492 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2493 = {
+		holding = none
+	}
+	2494 = {
+		holding = none
+	}
+### Caedyr
+	### Caedyral
+	2461 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2462 = {
+		holding = none
+	}
+	2463 = {
+		holding = none
+	}
+	2464 = {
+		holding = none
+	}
+	### Wyrmhowe
+	2465 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2466 = {
+		holding = none
+	}
+	2467 = {
+		holding = none
+	}
+	2468 = {
+		holding = nonr
+	}
+	### Hailfada
+	2469 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2470 = {
+		holding = none
+	}
+	2471 = {
+		holding = none
+	}
+	### Goldglut
+	2472 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2473 = {
+		holding = none
+	}
+## Eldyth
+	### Eldythgate
+	2495 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2496 = {
+		holding = none
+	}
+	2497 = {
+		holding = none
+	}
+	### Brynholt
+	2498 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2499 = {
+		holding = none
+	}
+	2500 = {
+		holding = none
+	}
+	### Borenwit
+	2501 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2502 = {
+		holding = none
+	}
+	### Teadresh
+	2503 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2504 = {
+		holding = none
+	}
+	### Halandal
+	2505 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2506 = {
+		holding = none
+	}
+	2507 = {
+		holding = none
+	}
+## Terac
+	### Wolfhearth
+	2508 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2509 = {
+		holding = city_holding
+	}
+	2510 = {
+		holding = none
+	}
+	2511 = {
+		holding = none
+	}
+	### Teracvel
+	2512 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2513 = {
+		holding = none
+	}
+	2514 = {
+		holding = none
+	}
+	2515 = {
+		holding = none
+	}
+	### Wardslope
+	2516 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2517 = {
+		holding = none
+	}
+	2518 = {
+		holding = none
+	}
+	2519 = {
+		holding = none
+	}
+	2520 = {
+		holding = none
+	}
+	### Dunweld
+	2521 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2522 = {
+		holding = none
+	}
+	2523 = {
+		holding = none
+	}
+	### Eorman
+	2524 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2526 = {
+		holding = none
+	}
+	### Aetheldal
+	2527 = {
+		culture = tessarwyn
+		religion = aurementic
+		holding = castle_holding
+	}
+	2528 = {
+		holding = none
+	}
+	2529 = {
+		holding = none
+	}
+	2530 = {
+		holding = none
+	}

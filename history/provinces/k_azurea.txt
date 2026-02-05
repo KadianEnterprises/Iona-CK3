@@ -1,0 +1,635 @@
+# Azurea
+## Kidakali
+	### Kidakalikon
+	1933 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1934 = {
+		holding = city_holding
+	}
+	1935 = {
+		holding = city_holding
+	}
+	1936 = {
+		holding = none
+	}
+	1937 = {
+		holding = none
+	}
+	### Ordakestion
+	1938 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1939 = {
+		holding = castle_holding
+	}
+	1940 = {
+		holding = castle_holding
+	}
+	### Nacria
+	1941 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1942 = {
+		holding = none
+	}
+	1943 = {
+		holding = none
+	}
+	### Carania
+	1944 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1945 = {
+		holding = none
+	}
+	1946 = {
+		holding = none
+	}
+	### Avodythos
+	1947 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1948 = {
+		holding = city_holding
+	}
+	1949 = {
+		holding = none
+	}
+	1950 = {
+		holding = none
+	}
+	### Siderika
+	1951 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1952 = {
+		holding = none
+	}
+	### Pyrodanos
+	1953 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1954 = {
+		holding = none
+	}
+	1955 = {
+		holding = none
+	}
+	1956 = {
+		holding = none
+	}
+	### Kameriorus
+	1957 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1958 = {
+		holding = none
+	}
+	1959 = {
+		holding = none
+	}
+	1960 = {
+		holding = none
+	}
+## Aenollonia
+	### Eterith
+	1961 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1962 = {
+		holding = city_holding
+	}
+	1963 = {
+		holding = none
+	}
+	1964 = {
+		holding = none
+	}
+	### Jutikos
+	1965 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1966 = {
+		holding = none
+	
+	}
+	1967 = {
+		holding = none
+	}
+	### Orchidos
+	1968 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1969 = {
+		holding = none
+	}
+	1970 = {
+		holding = none
+	}
+	### Ambyras
+	1971 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1972 = {
+		holding = none
+	}
+	1973 = {
+		holding = none
+	}
+	### Nysaphon
+	1974 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1975 = {
+		holding = none
+	}
+	1976 = {
+		holding = none
+	}
+## Hypodaemia
+	### Kebrae
+	1977 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1978 = {
+		holding = city_holding
+	}
+	1979 = {
+		holding = none
+	}
+	1980 = {
+		holding = none
+	}
+	1981 = {
+		holding = none
+	}
+	### Helmerai
+	1982 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1983 = {
+		holding = none
+	}
+	1984 = {
+		holding = none
+	}
+	1985 = {
+		holding = none
+	}
+	1986 = {
+		holding = none
+	}
+	### Sonyras
+	1987 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1988 = {
+		holding = none
+	}
+	1989 = {
+		holding = none
+	}
+	### Kationa
+	1990 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Zaronkai
+	1991 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1992 = {
+		holding = none
+	}
+	1993 = {
+		holding = none
+	}
+	1994 = {
+		holding = none
+	}
+## Erados
+	### Eradosikon
+	1995 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	1996 = {
+		holding = city_holding
+	}
+	1997 = {
+		holding = none
+	}
+	1998 = {
+		holding = none
+	}
+	### Annonika
+	1999 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2000 = {
+		holding = none
+	}
+	2001 = {
+		holding = none
+	}
+	### Ilumn
+	2003 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2004 = {
+		holding = none
+	}
+	2005 = {
+		holding = none
+	}
+	2006 = {
+		holding = none
+	}
+	### Garum
+	2007 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2008 = {
+		holding = none
+	}
+	2009 = {
+		holding = none
+	}
+	2010 = {
+		holding = none
+	}
+	### Sysiphon
+	2002 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+## Kalathosos
+	### Kalathikon
+	2011 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2012 = {
+		holding = city_holding
+	}
+	2013 = {
+		holding = none
+	}
+	2014 = {
+		holding = none
+	}
+	2015 = {
+		holding = none
+	}
+	### Vespascia
+	2016 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2017 = {
+		holding = none
+	}
+	### Lasodrydus
+	2018 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2019 = {
+		holding = none
+	}
+	2020 = {
+		holding = none
+	}
+	### Tylonos
+	2021 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2022 = {
+		holding = none
+	}
+	### Pharos
+	2023 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2024 = {
+		holding = none
+	}
+	2025 = {
+		holding = none
+	}
+	### Patramos
+	2026 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2027 = {
+		holding = none
+	}
+	2028 = {
+		holding = none
+	}
+	### Solius
+	2029 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2030 = {
+		holding = none
+	}
+	2031 = {
+		holding = none
+	}
+	### Syrythae
+	2032 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+## Pontilates
+	### Mallantine
+	2033 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2034 = {
+		holding = none
+	}
+	2035 = {
+		holding = none
+	}
+	2036 = {
+		holding = none
+	}
+	2037 = {
+		holding = none
+	}
+	### Amphoas
+	2038 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2039 = {
+		holding = none
+	}
+	2040 = {
+		holding = none
+	}
+	### Chronesta
+	2041 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2042 = {
+		holding = none
+	}
+	2043 = {
+		holding=  none
+	}
+	### Phykeros
+	2044 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2045 = {
+		holding = none
+	}
+	2046 = {
+		holding = none
+	}
+## Ibriana
+	### Ayatara
+	2066 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2067 = {
+		holding = city_holding
+	}
+	2068 = {
+		holding = none
+	}
+	2069 = {
+		holding = none
+	}
+	### Thesios
+	2070 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	### Iocalos
+	2071 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2072 = {
+		holding = city_holding
+	}
+	2073 = {
+		holding = none
+	}
+	2074 = {
+		holding = none
+	}
+	### Tylos
+	2075 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2076 = {
+		holding = none
+	}
+	2077 = {
+		holding = none
+	}
+	2152 = {
+		holding = none
+	}
+	### Cyrkona
+	2078 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2079 = {
+		holding = none
+	}
+	2080 = {
+		holding = none
+	}
+	2081 = {
+		holding = none
+	}
+	### Antiope
+	2082 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2083 = {
+		holding = none
+	}
+	2084 = {
+		holding = none
+	}
+	2085 = {
+		holding = none
+	}
+	### Knidetra
+	2086 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2087 = {
+		holding = none
+	}
+	2088 = {
+		holding = none
+	}
+	### Selessia
+	2089 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2090 = {
+		holding = none
+	}
+	2091 = {
+		holding = none
+	}
+## Palorum Nostros
+	### Phostros
+	2047 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2048 = {
+		holding = none
+	}
+	2049 = {
+		holding = none
+	}
+	2050 = {
+		holding = none
+	}
+	### Terikon
+	2051 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2052 = {
+		holding = none
+	}
+	2053 = {
+		holding = none
+	}
+	2054 = {
+		holding = none
+	}
+	### Lamia's Wrath
+	2055 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2056 = {
+		holding = none
+	}
+	2057 = {
+		holding = none
+	}
+	### Naxamea
+	2058 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2059 = {
+		holding = none
+	}
+	2060 = {
+		holding = none
+	}
+	2061 = {
+		holding = none
+	}
+	### Metembria
+	2062 = {
+		culture = azurean
+		religion = aurementic
+		holding = castle_holding
+	}
+	2063 = {
+		holding = none
+	}
+	2064 = {
+		holding = none
+	}
+	2065 = {
+		holding = none
+	}
+	

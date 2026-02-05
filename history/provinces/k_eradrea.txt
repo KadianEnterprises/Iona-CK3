@@ -1,0 +1,175 @@
+# Eradrea
+## Eradrea
+	### Kidodesa
+	2997 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	2998 = {
+		holding = city_holding
+	}
+	2999 = {
+		holding = none
+	}
+	3000 = {
+		holding = none
+	}
+	3001 = {
+		holding = none
+	}
+	3002 = {
+		holding = none
+	}
+	### Somandal
+	3003 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3004 = {
+		holding = none
+	}
+	3005 = {
+		holding = none
+	}
+	### Maserte
+	3006 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3007 = {
+		holding = none
+	}
+	3008 = {
+		holding = none
+	}
+	### Trakoin
+	3009 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3010 = {
+		holding = none
+	}
+	3011 = {
+		holding = none
+	}
+	3012 = {
+		holding = none
+	}
+	### Kamero
+	3013 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3014 = {
+		holding = none
+	}
+	3015 = {
+		holding = none
+	}
+	### Uhnelan
+	3016 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3017 = {
+		holding = none
+	}
+	3018 = {
+		holding = none
+	}
+	3019 = {
+		holding = none
+	}
+	### Djeran
+	3020 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3021 = {
+		holding = none
+	}
+	3022 = {
+		holding = none
+	}
+## Odokan
+	### Karaya
+	3023 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3024 = {
+		holding = none
+	}
+	3025 = {
+		holding = none
+	}
+	3026 = {
+		holding = none
+	}
+	### Yanera
+	3027 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3028 = {
+		holding = none
+	}
+	3029 = {
+		holding = none
+	}
+	3030 = {
+		holding = none
+	}
+	### Onva
+	3031 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3032 = {
+		holding = none
+	}
+	### Menan
+	3033 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3034 = {
+		holding = none
+	}
+	3035 = {
+		holding = none
+	}
+	### Anyora
+	3036 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}
+	3037 = {
+		holding = none
+	}
+	3038 = {
+		holding = none
+	}
+	3039 = {
+		holding = none
+	}
+## Ironwyr
+	### Ironwyr
+	2996 = {
+		culture = eradreash
+		religion = aurementic
+		holding = castle_holding
+	}

@@ -89,6 +89,9 @@ dynn_Bloodstone:0 "Bloodstone"
 dynn_Saltblood:0 "Saltblood"
 dynn_Sarenke:0 "Sarenke"
 
+# Lytamyran
+dynn_Anriol:0 "Anriol"
+
 # Chellan
 dynn_Goldenbrow:0 "Goldenbrow"
 dynn_Goldenbrow_Tressour:0 "Goldenbrow-Tressour"
@@ -169,6 +172,11 @@ dynn_Rheyal:0 "Rheyal"
 dynn_Seine:0 "Seine"
 dynn_Illum:0 "Illum"
 dynn_Felitess:0 "Felitess"
+dynn_Telastra:0 "Telastra"
+dynn_Corafae:0 "Corafae"
+dynn_Ashleaf:0 "Ashleaf"
+dynn_Bruent:0 "Bruent"
+
 
 #Kalidorian
 dynn_Icarius:0 "Icarius"
@@ -187,11 +195,14 @@ dynn_Geminid:0 "Geminid"
 dynn_Kyras:0 "Kyras"
 dynn_Photys:0 "Photys"
 dynn_Laneus:0 "Laneus"
+dynn_Istrano:0 "Istrano"
 
 #Azurean
 dynn_Nerakos:0 "Nerakos"
 dynn_Azural:0 "Azural"
 dynn_Eribos:0 "Eribos"
+dynn_Kalirikos:0 "Kalirikos"
+dynn_Thaekos:0 "Thaekos"
 
 #Paladric
 dynn_Alorum:0 "Alorum"
@@ -222,7 +233,12 @@ dynn_Fairhowe:0 "Fairhowe"
 dynn_Silversun:0 "Silversun"
 dynn_Whitehawk:0 "Whitehawk"
 dynn_Wyvernpike:0 "Wyvernpike"
-dynn_boughhold:0 "Boughhold"
+dynn_Boughhold:0 "Boughhold"
+dynn_Cjeldam:0 "Cjeldam"
+dynn_Dyresun:0 "Dyresun"
+dynn_Synhall:0 "Synhall"
+dynn_Coldmane:0 "Coldmane"
+dynn_Caedmon:0 "Caedmon"
 
 #Eralean
 dynn_Tejaren:0 "Tejaren"
@@ -232,11 +248,14 @@ dynn_Monosal:0 "Monosal"
 dynn_Diracal:0 "Diracal"
 dynn_Ys_Garos:0 "Ys Garos"
 dynn_Barrodias:0 "Barrodias"
+dynn_Cerindal:0 "Cerindal"
+dynn_Nareskel:0 "Nareskel"
 
 #Solaarin
 dynn_Sol:0 "Sol"
 dynn_Halios:0 "Halios"
 dynn_Astra:0 "Astra"
+dynn_Sirion:0 "Sirion"
 
 #Havinan
 dynn_Joysong:0 "Joysong"

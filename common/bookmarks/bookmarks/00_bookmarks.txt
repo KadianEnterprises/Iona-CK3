@@ -1,53 +1,51 @@
-﻿bm_1803_post_godwar = {
-	start_date = 1803.1.1
-	is_playable = yes
-	group = bm_group_0_ac
+﻿#bm_1803_post_godwar = {
+#	start_date = 1803.1.1
+#	is_playable = no
+#	group = bm_group_0_ac
+#
+#	weight = { value = 20 }
+#
+#	# Raulyn the Restorer
+#	character = {
+#		name = "Raulyn"
+#		dynasty = 1
+#		dynasty_splendor_level = 3
+#		type = male
+#		birth = 1760.1.1
+#		title = k_titular_old_chell
+#		government = feudal_government
+#		culture = chellan
+#		religion = "aurementic"
+#		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+#		history_id = Goldenbrow_1
+#		position = { 250 750 }
+#
+#		animation = happiness
+#	}
+#}
 
-	weight = { value = 20 }
-
-	# Raulyn the Restorer
-	character = {
-		name = "Raulyn"
-		#dna = dna_raulyn_restorer #just added this
-		dynasty = 1
-		dynasty_splendor_level = 3
-		type = male
-		birth = 1760.1.1
-		title = k_titular_old_chell
-		government = feudal_government
-		culture = chellan
-		religion = "aurementic"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = Goldenbrow_1
-		position = { 250 750 }
-
-		animation = happiness
-	}
-}
-
-bm_2143_paleheart_wars = {
+bm_2143_paleheart = {
 	start_date = 2143.1.1
 	is_playable = yes
 	group = bm_group_340_ac
 
 	weight = { value = 100 }
 
-	# Raulyn the Restorer
+	# Duke Istran the Snake
 	character = {
-		name = "Raulyn"
-		#dna = dna_raulyn_restorer #just added this
-		dynasty = 1
-		dynasty_splendor_level = 3
+		name = "bookmark_paleheart_istran"
+		dynasty = dynn_paleheart
+		dynasty_splendor_level = 2
 		type = male
-		birth = 1760.1.1
-		title = k_titular_old_chell
+		birth = 2090.1.1
+		title = d_chell_inaurin
 		government = feudal_government
 		culture = chellan
-		religion = "aurementic"
+		religion = aurementic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = Goldenbrow_1
+		history_id = Paleheart_1
 		position = { 250 750 }
 
-		animation = happiness
+		animation = spymaster
 	}
 }

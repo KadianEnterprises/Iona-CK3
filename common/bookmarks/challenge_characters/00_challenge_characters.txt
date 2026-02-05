@@ -1,20 +1,18 @@
-﻿challenge_character_1 = {
-	start_date = 1803.1.1 		# The game start date.
+﻿challenge_character_istran = {
+	start_date = 2143.1.1 		# The game start date.
 	character = {
-		name = "Raulyn"
-		#dna = dna_raulyn_restorer #just added this
-		dynasty = 1
+		name = "challenge_character_istran"
+		dynasty = dynn_paleheart
 		dynasty_splendor_level = 3
 		type = male
-		birth = 1760.1.1
-		title = k_titular_old_chell
+		birth = 2090.1.1
+		title = d_chell_inaurin
 		government = feudal_government
 		culture = chellan
 		religion = "aurementic"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = Goldenbrow_1
-		position = { 250 750 }
+		history_id = Paleheart_1
 
-		animation = happiness
+		animation = scheme
 	}
 }

@@ -6,7 +6,7 @@
 	Astra_0 = {		#Emperor Hastrudath III of the Solaar Empire
 		name = "Hastrudath"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		#father = Astra_01
@@ -21,7 +21,7 @@
 	Astra_1 = {		#Emperor Veltaeran IX of the Solaar Empire
 		name = "Velaeran"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_0
@@ -36,7 +36,7 @@
 	Astra_2 = {		#Emperor Galahath VI of the Solaar Empire
 		name = "Galahath"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_1
@@ -51,7 +51,7 @@
 	Astra_3 = {		#Emperor Auren XII of the Solaar Empire
 		name = "Auren"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_2
@@ -66,7 +66,7 @@
 	Astra_4 = {		#Emperor Celestal II of the Solaar Empire
 		name = "Celestal"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_3
@@ -81,7 +81,7 @@
 	Astra_5 = {		#Emperor Auren XIII of the Solaar Empire
 		name = "Auren"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_4
@@ -96,7 +96,7 @@
 	Astra_6 = {		#Emperor Auren XIV of the Solaar Empire
 		name = "Auren"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_5
@@ -111,7 +111,7 @@
 	Astra_7 = {		#Emperor Celestal III of the Solaar Empire
 		name = "Celestal"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_6
@@ -126,7 +126,7 @@
 	Astra_8 = {		#Emperor Galahath VII of the Solaar Empire
 		name = "Galahath"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_7
@@ -141,7 +141,7 @@
 	Astra_9 = {		#Emperor Hastrudath IV of the Solaar Empire
 		name = "Hastrudath"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_8
@@ -156,7 +156,7 @@
 	Astra_10 = {		#Prince Galahath of the Solaar Empire
 		name = "Galahath"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_9
@@ -171,7 +171,7 @@
 	Astra_11 = {		#Emperor Veltaeran X of the Solaar Empire
 		name = "Veltaeran"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_10
@@ -186,7 +186,7 @@
 	Astra_12 = {		#Emperor Veltaeran XI of the Solaar Empire
 		name = "Veltaeran"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_11
@@ -201,7 +201,7 @@
 	Astra_13 = {		#Emperor Cindrael VI of the Solaar Empire
 		name = "Cindrael"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_12
@@ -216,7 +216,7 @@
 	Astra_14 = {		#Empress Adrema IV of the Solaar Empire
 		name = "Adrema"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		female = yes
@@ -232,7 +232,7 @@
 	Astra_15 = {		#Emperor Halandeth V of the Solaar Empire
 		name = "Halandeth"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		#father = 
@@ -247,7 +247,7 @@
 	Astra_16 = {		#Empress Rilitere III of the Solaar Empire
 		name = "Rilitere"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		female = yes
@@ -263,7 +263,7 @@
 	Astra_17 = {		#Empress Adrema V of the Solaar Empire
 		name = "Adrema"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		female = yes
@@ -279,7 +279,7 @@
 	Astra_18 = {		#Emperor Veltaeran XII of the Solaar Empire
 		name = "Veltaeran"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		#father =
@@ -294,7 +294,7 @@
 	Astra_19 = {		#Emperor Taulwyr III of the Solaar Empire
 		name = "Taulwyr"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_18
@@ -309,7 +309,7 @@
 	Astra_20 = {		#Emperor Cindrael VII of the Solaar Empire
 		name = "Cindrael"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_19
@@ -324,7 +324,7 @@
 	Astra_21 = {		#Empress Rilitere IV of the Solaar Empire
 		name = "Rilitere"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		female = yes
@@ -340,7 +340,7 @@
 	Astra_22 = {		#Emperor Auren XV of the Solaar Empire
 		name = "Auren"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		#father = 
@@ -355,7 +355,7 @@
 	Astra_23 = {		#Emperor Galahath VIII of the Solaar Empire
 		name = "Galahath"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_22
@@ -370,7 +370,7 @@
 	Astra_24 = {		#Emperor Celestal IV of the Solaar Empire
 		name = "Celestal"
 		#dna = 
-		dynasty = dynn_kyras
+		dynasty = dynn_astra
 		religion = "aurementic"
 		culture = solaarin
 		father = Astra_23
@@ -383,3 +383,279 @@
 		}
 	}
 #
+### House Sirion
+	Sirion_0 = {		#Duke Auren I of Kalagasi
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		#father = 
+		#mother = 
+		1824.1.1 = {
+			birth = yes
+		}
+		1900.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_1 = {		#Duke Auren II of Kalagasi
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_0
+		#mother = 
+		1842.1.1 = {
+			birth = yes
+		}
+		1917.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_2 = {		#Duke Valerian I of Kalagasi
+		name = "Valerian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_1
+		#mother = 
+		1860.1.1 = {
+			birth = yes
+		}
+		1931.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_3 = {		#Duke Korinian I of Kalagasi
+		name = "Korinian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_2
+		#mother = 
+		1882.1.1 = {
+			birth = yes
+		}
+		1937.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_4 = {		#Duke Valerian II of Kalagasi
+		name = "Valerian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_3
+		#mother = 
+		1901.1.1 = {
+			birth = yes
+		}
+		1941.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_5a = {		#Duke Auren III of Kalagasi
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_4
+		#mother = 
+		1922.1.1 = {
+			birth = yes
+		}
+		1943.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_5b = {		#Duke Kaeris I of Kalagasi
+		name = "Kaeris"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_4
+		#mother = 
+		1924.1.1 = {
+			birth = yes
+		}
+		1999.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_6 = {		#Duke Hastrudath I of Kalagasi
+		name = "Hastrudath"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_5b
+		#mother = 
+		1945.1.1 = {
+			birth = yes
+		}
+		2012.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_7 = {		#Duke Auren IV of Kalagasi
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_6
+		#mother = 
+		1958.1.1 = {
+			birth = yes
+		}
+		2017.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_8 = {		#Duke Korinian II of Kalagasi
+		name = "Korinian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_7
+		#mother = 
+		1980.1.1 = {
+			birth = yes
+		}
+		2022.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_9 = {		#Duke Auren V of Kalagasi
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_8
+		#mother = 
+		1999.1.1 = {
+			birth = yes
+		}
+		2016.1.1 = {
+			add_spouse = Brimonnel_13b
+		}
+		2073.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_10 = {		#Duke Korinian III of Kalagasi
+		name = "Korinian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_9
+		mother = Brimonnel_13b
+		2017.1.1 = {
+			birth = yes
+		}
+		2086.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_11 = {		#Duke Auren VI of Kalagasi
+		name = "Auren"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_10
+		#mother = 
+		2036.1.1 = {
+			birth = yes
+		}
+		2103.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_12 = {		#Duke Hastrudath II of Kalagasi
+		name = "Hastrudath"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_11
+		#mother = 
+		2053.1.1 = {
+			birth = yes
+		}
+		2109.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_13 = {		#Duke Valerian III of Kalagasi
+		name = "Valerian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_12
+		#mother = 
+		2074.1.1 = {
+			birth = yes
+		}
+		2141.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_14 = {		#Duke Valerian IV of Kalagasi
+		name = "Valerian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_13
+		#mother = 
+		2093.1.1 = {
+			birth = yes
+		}
+		2171.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_15 = {		#Duke Kaeris II of Kalagasi
+		name = "Kaeris"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_14
+		#mother = 
+		2109.1.1 = {
+			birth = yes
+		}
+		2178.1.1 = {
+			death = yes
+		}
+	}
+	Sirion_16 = {		#Duke Valerian V of Kalagasi
+		name = "Valerian"
+		#dna = 
+		dynasty = dynn_sirion
+		religion = "aurementic"
+		culture = solaarin
+		father = Sirion_15
+		#mother = 
+		2140.1.1 = {
+			birth = yes
+		}
+		2229.1.1 = {
+			death = yes
+		}
+	}
+#
+###

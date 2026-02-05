@@ -1,0 +1,275 @@
+### House Anriol ##########################
+	Anriol_0 = { #King Midos I of Greater Marada
+		name = "Midos"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		#father = 
+		#mother = 
+		1772.1.1 = {
+			birth = yes
+		}
+		1837.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_1 = { #King Nisiphos I of Greater Marada
+		name = "Nisiphos"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_0
+		#mother = 
+		1791.1.1 = {
+			birth = yes
+		}
+		1856.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_2 = { #King Atelon I of Greater Marada
+		name = "Atelon"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_1
+		#mother = 
+		1808.1.1 = {
+			birth = yes
+		}
+		1874.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_3 = { #King Teron I of Greater Marada
+		name = "Teron"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_0
+		#mother = 
+		1828.1.1 = {
+			birth = yes
+		}
+		1903.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_4 = { #King Midos II of Greater Marada
+		name = "Midos"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_3
+		#mother = 
+		1849.1.1 = {
+			birth = yes
+		}
+		1923.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_5 = { #King Atelon II the Elder of Greater Marada
+		name = "Atelon"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_4
+		#mother = 
+		give_nickname = nick_the_elder
+		1869.1.1 = {
+			birth = yes
+		}
+		1952.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_6 = { #King Orendos the Ancient of Greater Marada
+		name = "Orendos"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_5
+		#mother = 
+		give_nickname = nick_the_ancient
+		1892.1.1 = {
+			birth = yes
+		}
+		1993.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_7 = { #Prince Arden of Greater Marada
+		name = "Arden"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_6
+		#mother = 
+		1916.1.1 = {
+			birth = yes
+		}
+		1975.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_8 = { #King Teron II of Greater Marada
+		name = "Teron"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_7
+		#mother = 
+		1935.1.1 = {
+			birth = yes
+		}
+		2011.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_9 = { #King Arden I of Greater Marada
+		name = "Arden"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_8
+		#mother = 
+		1958.1.1 = {
+			birth = yes
+		}
+		2042.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_10 = { #King Atelon III of Greater Marada
+		name = "Atelon"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_9
+		#mother = 
+		1982.1.1 = {
+			birth = yes
+		}
+		2047.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_11 = { #King Nisiphos II of Greater Marada
+		name = "Nisiphos"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_10
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2054.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_12 = { #King Iaton I of Greater Marada
+		name = "Iaton"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_11
+		#mother = 
+		2027.1.1 = {
+			birth = yes
+		}
+		2101.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_13 = { #King Orendos II of Greater Marada
+		name = "Orendos"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_12
+		#mother = 
+		2044.1.1 = {
+			birth = yes
+		}
+		2129.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_14 = { #King Iaton II of Greater Marada
+		name = "Iaton"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_13
+		#mother = 
+		2067.1.1 = {
+			birth = yes
+		}
+		2139.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_15 = { #King Teron III of Greater Marada
+		name = "Teron"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_14
+		#mother = 
+		2085.1.1 = {
+			birth = yes
+		}
+		2155.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_16 = { #King Arden II of Greater Marada
+		name = "Arden"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_15
+		#mother = 
+		2103.1.1 = {
+			birth = yes
+		}
+		2162.1.1 = {
+			death = yes
+		}
+	}
+	Anriol_17 = { #King Rasmin I of Greater Marada
+		name = "Rasmin"
+		#dna
+		dynasty = dynn_anriol
+		religion = "aurementic"
+		culture = kyrithan
+		father = Anriol_16
+		#mother = 
+		2125.1.1 = {
+			birth = yes
+		}
+		2179.1.1 = {
+			death = yes
+		}
+	}
+#
+###

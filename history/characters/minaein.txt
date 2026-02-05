@@ -2804,4 +2804,252 @@
 			death = yes
 		}
 	}
-	
+### House Kalirikos
+	Kalirikos_0 = {		#Archon Proximos I of Kalathosos
+		name = "Proximos"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		#father = 
+		#mother = 
+		1982.1.1 = {
+			birth = yes
+		}
+		2054.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_1 = {		#Archon Andartes III the ancient of Kalathosos
+		name = "Andartes"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_0
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2105.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_2 = {		#Archon Aon II of Kalathosos
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_1
+		#mother = 
+		2034.1.1 = {
+			birth = yes
+		}
+		2111.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_3 = {		#Archon Andartes IV of Kalathosos
+		name = "Andartes"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_2
+		#mother = 
+		2053.1.1 = {
+			birth = yes
+		}
+		2133.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_4 = {		#Archon Proximos II of Kalathosos
+		name = "Proximos"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_3
+		#mother = 
+		2071.1.1 = {
+			birth = yes
+		}
+		2147.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_5 = {		#Archon Odyranos I of Kalathosos
+		name = "Odyranos"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_4
+		#mother = 
+		2093.1.1 = {
+			birth = yes
+		}
+		2169.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_6 = {		#Archon Proximos III of Kalathosos
+		name = "Proximos"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_5
+		#mother = 
+		2114.1.1 = {
+			birth = yes
+		}
+		2185.1.1 = {
+			death = yes
+		}
+	}
+	Kalirikos_7 = {		#Archon Andartes V of Kalathosos
+		name = "Andartes"
+		#dna = 
+		dynasty = dynn_kalirikos
+		religion = "aurementic"
+		culture = azurean
+		father = Kalirikos_6
+		#mother = 
+		2133.1.1 = {
+			birth = yes
+		}
+		2215.1.1 = {
+			death = yes
+		}
+	}
+#
+### House Thaekos #############################################################
+	Thaekos_0 = {		#Archon Marianix VI of Hypodaemia and Talidanos
+		name = "Marianix"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		#father =
+		#mother = 
+		2003.1.1 = {
+			birth = yes
+		}
+		2087.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_1 = {		#Archon Nerin III of Hypodaemia and Talidanos
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_0
+		#mother = 
+		2024.1.1 = {
+			birth = yes
+		}
+		2090.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_2 = {		#Archon Marann II of Hypodaemia and Talidanos
+		name = "Marann"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_1
+		#mother = 
+		2048.1.1 = {
+			birth = yes
+		}
+		2099.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_3 = {		#Archon Nerin IV of Hypodaemia and Talidanos
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_2
+		#mother = 
+		2067.1.1 = {
+			birth = yes
+		}
+		2118.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_4 = {		#Archon Marann III of Hypodaemia and Talidanos
+		name = "Marann"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_3
+		#mother = 
+		2087.1.1 = {
+			birth = yes
+		}
+		2135.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_5 = {		#Archon Marianix VII of Hypodaemia and Talidanos
+		name = "Marianix"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_4
+		#mother = 
+		2105.1.1 = {
+			birth = yes
+		}
+		2174.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_6 = {		#Archon Nerin V of Hypodaemia and Talidanos
+		name = "Nerin"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_5
+		#mother = 
+		2126.1.1 = {
+			birth = yes
+		}
+		2189.1.1 = {
+			death = yes
+		}
+	}
+	Thaekos_7 = {		#Archon Aon II of Hypodaemia and Talidanos
+		name = "Aon"
+		#dna = 
+		dynasty = dynn_thaekos
+		religion = "aurementic"
+		culture = azurean
+		father = Thaekos_6
+		#mother = 
+		2142.1.1 = {
+			birth = yes
+		}
+		2207.1.1 = {
+			death = yes
+		}
+	}
+#
+###
+#
+###
+#
+###

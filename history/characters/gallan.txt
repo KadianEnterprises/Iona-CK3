@@ -1,6 +1,6 @@
 ﻿### House Ryel
 	Ryel_0 = {		#King Kyrendin the Good of the Gallan Kingdom
-		name = "Kyredin"
+		name = "Kyrendin"
 		#dna = 
 		dynasty = dynn_ryel
 		religion = "aurementic"
@@ -14,24 +14,1168 @@
 			death = yes
 		}
 	}
-	Ryel_1a = {		#Prince Alfyron Flameseeker of the Gallan Kingdom
-		name = "Alfyron"
+	Ryel_1a = {		#Crown Prince Kyrendin of the Gallan Kingdom
+		name = "Kyrendin"
 		#dna = 
 		dynasty = dynn_ryel
 		religion = "aurementic"
 		culture = gallan
 		father = Ryel_0
 		#mother = 
-		1754.1.1 = {
+		1747.1.1 = {
 			birth = yes
 		}
-		1814.1.1 = {
+		1793.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Ryel_1a1 = {		#Crown Prince Owain of the Gallan Kingdom
+		name = "Owain"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1a
+		#mother = 
+		1766.1.1 = {
+			birth = yes
+		}
+		1795.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Ryel_1a1a = {		#Lady Margred Ryel
+		name = "Margred"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Ryel_1a1
+		#mother = 
+		1783.1.1 = {
+			birth = yes
+		}
+		1854.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1a1b = {		#Lord Talion Ryel
+		name = "Ryel"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1a1
+		#mother = 
+		1787.1.1 = {
+			birth = yes
+		}
+		1791.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1a2 = {		#Prince Caliran the Brave of the Old Gallan Kingdom
+		name = "Caliran"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1a
+		#mother = 
+		1768.1.1 = {
+			birth = yes
+		}
+		1792.1.1 = {
+			death = {
+				death_reason = death_battle
+			}
+		}
+	}
+	Ryel_1a2a = {		#Lord Gwaerin Ryel
+		name = "Gwaerin"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1a2
+		#mother = 
+		1787.1.1 = {
+			birth = yes
+		}
+		1815.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1a3 = {		#Princess Gwenyra of the Old Gallan Kingdom
+		name = "Gwenyra"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Ryel_1a
+		#mother = 
+		1771.1.1 = {
+			birth = yes
+		}
+		1846.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1b = {		#Prince Talion of the Old Gallan Kingdom
+		name = "Talion"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_0
+		#mother = 
+		1749.1.1 = {
+			birth = yes
+		}
+		1791.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1b1 = {		#Princess Cenvyri of the Old Gallan Kingdom
+		name = "Cenvyri"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Ryel_1b
+		#mother = 
+		1768.1.1 = {
+			birth = yes
+		}
+		1797.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1b2 = {		#Prince Marion of the Old Gallan Kingdom
+		name = "Marion"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1b
+		#mother = 
+		1772.1.1 = {
+			birth = yes
+		}
+		1801.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1b2a = {		#Duke Marion IV of Vanagynsis
+		name = "Marion"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1b2
+		#mother = 
+		1789.1.1 = {
+			birth = yes
+		}
+		1830.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1b2b = {		#Duke Kyrendin V of Vanagynsis
+		name = "Kyrendin"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1b2a
+		#mother = 
+		1806.1.1 = {
+			birth = yes
+		}
+		1885.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1b2c = {		#Queen Cenvyri of Gallanbour, Duchess of Vanagynsis
+		name = "Cenvyri"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Ryel_1b2b
+		#mother = 
+		1834.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			add_spouse = Feyn_4
+		}
+		1919.1.1 = {
+			death = yes
+		}
+	}
+	#
+	## House Flameseeker
+		Flameseeker_1 = {		#Prince Alfyron Flameseeker of the Gallan Kingdom
+			name = "Alfyron"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Ryel_0
+			#mother = 
+			1754.1.1 = {
+				birth = yes
+			}
+			1814.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_2 = {		#Duke Talion I of Antilgone
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_1
+			#mother = 
+			1779.1.1 = {
+				birth = yes
+			}
+			1829.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_3 = {		#Duke Alfyron II of Antilgone
+			name = "Alfyron"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_2
+			#mother = 
+			1779.1.1 = {
+				birth = yes
+			}
+			1861.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_4 = {		#Duke Kyrendin I of Antilgone
+			name = "Kyrendin"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_3
+			#mother = 
+			1813.1.1 = {
+				birth = yes
+			}
+			1865.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_5 = {		#Duke Alfyron III of Antilgone
+			name = "Alfyron"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_4
+			#mother = 
+			1840.1.1 = {
+				birth = yes
+			}
+			1916.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_6 = {		#Duke Talion II of Antilgone
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_5
+			#mother = 
+			1859.1.1 = {
+				birth = yes
+			}
+			1927.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_7 = {		#Duke Caligan I of Antilgone
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_6
+			#mother = 
+			1880.1.1 = {
+				birth = yes
+			}
+			1946.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_8 = {		#Duke Valwyn I the ncient of Antilgone
+			name = "Valwyn"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_7
+			#mother = 
+			give_nickname = nick_the_ancient
+			1902.1.1 = {
+				birth = yes
+			}
+			2016.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_9 = {		#Lord Talion of Antilgone
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_8
+			#mother = 
+			1923.1.1 = {
+				birth = yes
+			}
+			1989.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_10 = {		#Duke Talion III of Antilgone
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_9
+			#mother = 
+			1949.1.1 = {
+				birth = yes
+			}
+			2038.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_11 = {		#Lord Alfyron of Antilgone
+			name = "Alfyron"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_10
+			#mother = 
+			1969.1.1 = {
+				birth = yes
+			}
+			2031.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_12 = {		#Duke Kyrendin II of Antilgone
+			name = "Kyrendin"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_11
+			#mother = 
+			1990.1.1 = {
+				birth = yes
+			}
+			2058.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_13 = {		#Duke Caligan II of Antilgone
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_12
+			#mother = 
+			2009.1.1 = {
+				birth = yes
+			}
+			2086.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_14 = {		#Duke Talion IV of Antilgones
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_13
+			#mother = 
+			2034.1.1 = {
+				birth = yes
+			}
+			2102.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_15 = {		#Duke Talion V of Antilgones
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_14
+			#mother = 
+			2055.1.1 = {
+				birth = yes
+			}
+			2069.1.1 = {
+				add_spouse = Sare_3b
+			}
+			2136.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_16 = {		#Duke Calrian I of Antilgones
+			name = "Calrian"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_15
+			mother = Sare_3b
+			2083.1.1 = {
+				birth = yes
+			}
+			2142.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_17a = {		#the Little Lord Talion of Antilgones
+			name = "Talion"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_16
+			#mother = 
+			2099.6.1 = {
+				birth = yes
+			}
+			2100.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_17b = {		#Duchess Gwynivere I of Antilgones
+			name = "Gwynivere"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			female = yes
+			father = Flameseeker_16
+			#mother = 
+			2127.1.1 = {
+				birth = yes
+			}
+			2219.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_17c = {		#Lord Kynan of Antilgones
+			name = "Kynan"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			father = Flameseeker_16
+			#mother = 
+			2130.1.1 = {
+				birth = yes
+			}
+			2187.1.1 = {
+				death = yes
+			}
+		}
+		Flameseeker_17d = {		#Lady Enawyn of Antilgones
+			name = "Enawyn"
+			#dna = 
+			dynasty_house = house_Flameseeker
+			religion = "aurementic"
+			culture = gallan
+			female = yes
+			father = Flameseeker_16
+			#mother = 
+			2133.1.1 = {
+				birth = yes
+			}
+			2232.1.1 = {
+				death = yes
+			}
+		}
+	#
+	## House Brimonnel
+		Brimonnel_1 = {		#Prince Brinadyr the Stalwart of the Gallan Kingdom
+			name = "Brinadyr"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Ryel_0
+			#mother = 
+			1756.1.1 = {
+				birth = yes
+			}
+			1802.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_2 = {		#Duke Wencyl I of Brimonne
+			name = "Wencyl"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_1
+			#mother = 
+			1780.1.1 = {
+				birth = yes
+			}
+			1817.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_3 = {		#Duke Caligan I of Brimonne
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_2
+			#mother = 
+			1797.1.1 = {
+				birth = yes
+			}
+			1833.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_4 = {		#Duke Brinadyr II of Brimonne
+			name = "Brinadyr"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_3
+			#mother = 
+			1816.1.1 = {
+				birth = yes
+			}
+			1850.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_5 = {		#Count Caligan I of Hal Orekos
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_4
+			#mother = 
+			1833.1.1 = {
+				birth = yes
+			}
+			1887.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_6 = {		#Count Gwynnir I of Hal Orekos
+			name = "Gwynnir"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_5
+			#mother = 
+			1855.1.1 = {
+				birth = yes
+			}
+			1941.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_7 = {		#Count Mairen I of Hal Orekos
+			name = "Mairen"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_6
+			#mother = 
+			1877.1.1 = {
+				birth = yes
+			}
+			1953.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_8 = {		#Count Caligan II of Hal Orekos
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_7
+			#mother = 
+			1898.1.1 = {
+				birth = yes
+			}
+			1985.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_9 = {		#Count Caligan III of Hal Orekos
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_8
+			#mother = 
+			1914.1.1 = {
+				birth = yes
+			}
+			1999.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_10 = {		#Count Mairen II of Hal Orekos
+			name = "Mairen"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_9
+			#mother = 
+			1937.1.1 = {
+				birth = yes
+			}
+			2004.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_11 = {		#Count Gwynnir II of Hal Orekos
+			name = "Gwynnir"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_10
+			#mother = 
+			1956.1.1 = {
+				birth = yes
+			}
+			2035.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_12 = {		#Count Caligan IV of Hal Orekos
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_11
+			#mother = 
+			1979.1.1 = {
+				birth = yes
+			}
+			2051.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_13a = {		#Lord Caligan of Hal Orekos
+			name = "Caligan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			father = Brimonnel_12
+			#mother = 
+			2000.1.1 = {
+				birth = yes
+			}
+			2007.1.1 = {
+				death = yes
+			}
+		}
+		Brimonnel_13b = {		#Lady Morgan of Hal Orekos
+			name = "Morgan"
+			#dna = 
+			dynasty_house = house_Brimonnel
+			religion = "aurementic"
+			culture = gallan
+			female = yes
+			father = Brimonnel_12
+			#mother = 
+			2001.1.1 = {
+				birth = yes
+			}
+			2016.1.1 = {
+				add_spouse = Sirion_9
+			}
+			2034.1.1 = {
+				death = yes
+			}
+		}
+	#
+	Ryel_1c = {		#Princess Margred of the Old Gallan Kingdom
+		name = "Margred"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Ryel_0
+		#mother = 
+		1764.1.1 = {
+			birth = yes
+		}
+		1784.1.1 = {
+			add_spouse = Feyn_0
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1d = {		#Prince Caligan the Woesinger of the Old Gallan Kingdom
+		name = "Caligan"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_0
+		#mother = 
+		1767.1.1 = {
+			birth = yes
+		}
+		1834.1.1 = {
+			death = yes
+		}
+	}
+	Ryel_1d1 = {		#Lord Gwynnir of Aonglas
+		name = "Gwynnir"
+		#dna = 
+		dynasty = dynn_ryel
+		religion = "aurementic"
+		culture = gallan
+		father = Ryel_1d
+		#mother = 
+		1785.1.1 = {
+			birth = yes
+		}
+		1877.1.1 = {
 			death = yes
 		}
 	}
 #
 ### House ie Feyn
+	Feyn_0 = {		#Lord Bryn of the Dyrwood
+		name = "Bryn"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		#father = Feyn_01
+		#mother = 
+		1762.1.1 = {
+			birth = yes
+		}
+		1784.1.1 = {
+			add_spouse = Ryel_1c
+		}
+		1800.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_1 = {		#King Owain I of Gallanbour
+		name = "Owain"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_0
+		mother = Ryel_1c
+		diplomacy = 12
+		martial = 10
+		trait = education_martial_3
+		trait = disinherited
+		1785.1.1 = {
+			birth = yes
+		}
+		1867.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_2 = {		#King Gwynnir I of Gallanbour
+		name = "Gwynnir"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_1
+		#mother = 
+		1803.1.1 = {
+			birth = yes
+		}
+		1883.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_3 = {		#King Bryn I of Gallanbour
+		name = "Bryn"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_2
+		#mother = 
+		1823.1.1 = {
+			birth = yes
+		}
+		1886.1.1 = {
+			death = {
+				death_reason = death_poison
+			}
+		}
+	}
+	Feyn_4 = {		#King Owain II of Gallanbour
+		name = "Owain"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_3
+		#mother = 
+		1842.1.1 = {
+			birth = yes
+		}
+		1859.1.1 = {
+			add_spouse = Ryel_1b2c
+		}
+		1916.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_5 = {		#King Calrian I of Gallanbour
+		name = "Calrian"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_4
+		mother = Ryel_1b2c
+		1863.1.1 = {
+			birth = yes
+		}
+		1934.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_6 = {		#King Gwynnir II of Gallanbour
+		name = "Gwynnir"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_5
+		#mother = 
+		1887.1.1 = {
+			birth = yes
+		}
+		1955.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_7 = {		#King Gwynnir III of Gallanbour
+		name = "Gwynnir"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_6
+		#mother = 
+		1908.1.1 = {
+			birth = yes
+		}
+		1961.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_8 = {		#King Calrian II of Gallanbour
+		name = "Calrian"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		father = Feyn_7
+		#mother = 
+		1930.1.1 = {
+			birth = yes
+		}
+		2019.1.1 = {
+			death = yes
+		}
+	}
+	Feyn_9 = {		#Princess Aerona of Gallanbour
+		name = "Aerona"
+		#dna = 
+		dynasty = dynn_feyn
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Feyn_8
+		#mother = 
+		1949.1.1 = {
+			birth = yes
+		}
+		1983.1.1 = {
+			death = {
+				death_reason = death_riding_animal
+			}
+		}
+	}
 #
 ### House Sare
+	Sare_0 = {		#King Calrian III of Gallanbour
+		name = "Calrian"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		#father = Sare_01
+		mother = Feyn_9
+		1970.1.1 = {
+			birth = yes
+		}
+		2031.1.1 = {
+			death = yes
+		}
+	}
+	Sare_1 = {		#King Bryn II of Gallanbour
+		name = "Bryn"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		father = Sare_0
+		#mother = 
+		1992.1.1 = {
+			birth = yes
+		}
+		2054.1.1 = {
+			death = yes
+		}
+	}
+	Sare_2 = {		#King Calrian IV of Gallanbour
+		name = "Calrian"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		father = Sare_1
+		#mother = 
+		2023.1.1 = {
+			birth = yes
+		}
+		2066.1.1 = {
+			death = yes
+		}
+	}
+	Sare_3a = {		#King Calrian V of Gallanbour
+		name = "Calrian"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		father = Sare_2
+		#mother = 
+		2045.1.1 = {
+			birth = yes
+		}
+		2113.1.1 = {
+			death = yes
+		}
+	}
+	Sare_3b = {		#Princess Gwynivere of Gallanbour
+		name = "Gwynivere"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Sare_2
+		#mother = 
+		2052.1.1 = {
+			birth = yes
+		}
+		2069.1.1 = {
+			add_spouse = Flameseeker_15
+		}
+		2157.1.1 = {
+			death = yes
+		}
+	}
+	Sare_4a = {		#King Calrian VI the Drowned of Gallanbour
+		name = "Calrian"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		father = Sare_3a
+		#mother = 
+		trait = eccentric
+		2063.1.1 = {
+			birth = yes
+		}
+		2121.1.1 = {
+			add_spouse = Haligryn_
+		}
+		2135.1.1 = {
+			death = yes
+		}
+	}
+	Sare_4b = {		#Princess Morgana of Gallanbour
+		name = "Morgana"
+		#dna = 
+		dynasty = dynn_sare
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Sare_3a
+		#mother = 
+		2066.1.1 = {
+			birth = yes
+		}
+		2138.1.1 = {
+			death = yes
+		}
+	}
 #
 ### House Rydwen
+	Rydwen_0 = {		#King Gwynnir IV of Gallanbour
+		name = "Gwynnir"
+		#dna = 
+		dynasty = dynn_rydwen
+		religion = "aurementic"
+		culture = gallan
+		#father = 
+		mother = Sare_4b
+		2087.1.1 = {
+			birth = yes
+		}
+		2160.1.1 = {
+			death = yes
+		}
+	}
+	Rydwen_1a = {		#King Gwaerin I of Gallanbour
+		name = "Gwaerin"
+		#dna = 
+		dynasty = dynn_rydwen
+		religion = "aurementic"
+		culture = gallan
+		father = Rydwen_0
+		#mother = 
+		2106.1.1 = {
+			birth = yes
+		}
+		2135.1.1 = {
+			add_spouse = Haligryn_
+		}
+		2168.1.1 = {
+			death = yes
+		}
+	}
+	Rydwen_2 = {		#King Owain III of Gallanbour
+		name = "Owain"
+		#dna = 
+		dynasty = dynn_rydwen
+		religion = "aurementic"
+		culture = gallan
+		father = Rydwen_1a
+		mother = Haligryn_
+		2136.1.1 = {
+			birth = yes
+		}
+		2199.1.1 = {
+			death = yes
+		}
+	}
+	Rydwen_1b = {		#Prince Alfyron of Gallanbour
+		name = "Alfyron"
+		#dna = 
+		dynasty = dynn_rydwen
+		religion = "aurementic"
+		culture = gallan
+		father = Rydwen_0
+		#mother = 
+		2107.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}
+	Rydwen_1c = {		#Princess Morgana of Gallanbour
+		name = "Morgana"
+		#dna = 
+		dynasty = dynn_rydwen
+		religion = "aurementic"
+		culture = gallan
+		female = yes
+		father = Rydwen_0
+		#mother = 
+		2109.1.1 = {
+			birth = yes
+		}
+		2194.1.1 = {
+			death = yes
+		}
+	}
+	Rydwen_1d = {		#Prince Gwynnir of Gallanbour
+		name = "Gwynnir"
+		#dna = 
+		dynasty = dynn_rydwen
+		religion = "aurementic"
+		culture = gallan
+		father = Rydwen_0
+		#mother = 
+		2107.1.1 = {
+			birth = yes
+		}
+		2175.1.1 = {
+			death = yes
+		}
+	}
+#
+### Celaen
+#
+### Haligryn
